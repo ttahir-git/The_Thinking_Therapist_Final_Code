@@ -1,0 +1,430 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling unusually angry and frustrated, mostly around the whole job situation — I lost my job and the instability just keeps getting to me. I'm a senior accountant, so I'm used to order, and the unpredictability spikes my anxiety and makes me snappier than I want to be. I don't know, it's awkward to say out loud, but that's been on my mind.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It takes a lot of courage to acknowledge and share those feelings, especially when they're tied to a sense of identity and control. Can you tell me more about what's been going through your mind when you're feeling this anger and frustration? It's not just about the job situation, is it? Is there something else that's coming up for you, something that's connected to these feelings?
+
+Patient: When I get angry it's like this tightness in my chest and I get snappy, especially if someone makes assumptions about why I lost the job. I guess underneath it I'm scared I'll never be secure again or that people will think I'm not competent. I don't know, it's uncomfortable to go deeper — it kind of pulls up old stuff, and I don't really want to dig into that right now.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying a lot of weight beneath the surface. It's understandable that you might not want to dig into those feelings right now, but it's interesting that you're acknowledging their presence. Can you tell me more about this tightness in your chest when you get angry? Is it like a physical sensation, or more of a feeling in your mind? And when you say it's uncomfortable to go deeper, is that because it feels like it's tied to something else, something you're not ready to face yet?
+
+Patient: It's mostly physical — a tightness across my chest, like I can't take a full breath, my jaw clenches and my hands go cold. Mentally it turns into this loop: what if people think I'm not competent, what if I never get steady work again. I don't know, I guess it feels tied to feeling older and replaceable, but I don't really want to unpack that more right now. Can we... talk about what to do in the moment when that tightness hits?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is responding to these thoughts and feelings, and it's not easy to know how to handle them when they hit. One thing that might be helpful is to try and notice the physical sensations first, like the tightness in your chest or your jaw clenching. Can you think of any small, gentle things you can do to help relax in those moments, like taking a deep breath, rolling your shoulders, or letting your hands warm up?
+
+It might also be helpful to try and break up that loop of thoughts. Instead of getting stuck in "what if I'm not competent?" or "what if I never get steady work again," can you try to acknowledge those thoughts and then gently let them go? You don't have to engage with them or try to figure them out right then. Just notice them, and then focus on taking a few small, calming breaths. How does that sound?
+
+Patient: That sounds... like something I could try — I already do shallow breaths but they don't always cut it. I don't know, I guess having a few concrete steps would help: what exactly should I do when I'm in a meeting or someone makes a comment that sets me off? I don't really want to dig into why it hurts more right now; can we keep it practical for the moment?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's focus on what you can do in the moment to help manage your response. When someone makes a comment that sets you off, one small thing you could try is to pause for a moment before responding. Take a brief breath, and then choose whether to engage with the comment or let it go. If you do decide to respond, try to do so in a calm, measured way, rather than reacting impulsively.
+
+It's also worth considering whether you can reframe your response to focus on the issue at hand, rather than getting sidetracked by your own feelings. For example, if someone asks why you lost your job, you could say something like, "I'm focusing on finding a new opportunity right now. I'm excited to explore some new options." This can help shift the conversation away from your personal feelings and onto the topic at hand.
+
+Let's also try to simplify the phrase "tightness in the chest." Is it possible to say simply, "My chest feels tight" and then move on from there? Can you try that small phrase next time it happens?
+
+Patient: Okay, I can try saying "My chest feels tight" — I guess that does feel simple enough. In meetings I'm worried about drawing attention though, so can you suggest a few quiet, practical things I can do instead of breathing theatrically? I don't know, I just want stuff that won't make me look like I'm losing it.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's focus on small, discreet things you can do to help manage your response in meetings. Instead of taking a deep breath in a visible way, you could try simply taking a small pause before responding. This can help give you a moment to collect your thoughts without drawing attention to yourself.
+
+Another option is to subtly shift your weight in your seat. You could lean slightly back or adjust your legs, just enough to give yourself a moment to gather your thoughts before speaking. This can be a subtle way to signal that you're thinking before responding, without drawing attention to yourself.
+
+You could also try using a small, discreet gesture to signal that you're about to take a moment to collect your thoughts. For example, you could tap your pen on the table or glance down at your notes for a brief moment. These small gestures can help signal to others that you're taking a moment to think before responding, without drawing attention to yourself.
+
+Let's try to practice this a bit more. Can you think of a recent situation where you felt anxious or overwhelmed in a meeting? What would you like to try doing in that situation to help manage your response?
+
+Patient: Yeah — last week in a project meeting someone casually asked why I’d been out of work and it hit me: my chest tightened and I felt like snapping. I think I'll try pausing for a beat, glance down at my notes, tap my pen once, and say something simple like, "I'm focusing on finding the right fit right now." I don't know, I guess that feels doable — can we try a quick role-play of that or do you have one or two other quiet lines I could use?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I think you're taking a great approach. Let's try a quick role-play. I'll play the role of the person who asked the question, and you can practice responding.
+
+"Hey, [Your Name], can I ask you something? I noticed you've been out of work for a while. What's been going on?"
+
+Go ahead and respond as you would in a real meeting. We'll take it from there.
+
+Patient: "I'm focusing on finding the right fit right now. I don't really want to go into the details in a meeting — I don't know, it's been a bit rough, but I'm working on it."
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That's a great start. You paused, glanced down at your notes, tapped your pen, and provided a brief, simple response. It sounds like you're being honest without getting too caught up in the details.
+
+Let's try another scenario. Imagine someone asks you, "So, are you still looking for a new job? You seemed pretty upset when you left your last one." How would you respond?
+
+Patient: "I'm focusing on finding the right fit right now. I don't really want to go into the details in a meeting — I don't know, it was stressful, but I'm working on it."
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like the response is a bit similar to the first one. While it's good that you're sticking to your initial approach, the phrase "it was stressful" might be a bit more revealing than you intended. You might want to try to keep the focus on your current goal of finding the right fit, rather than dwelling on the stress of leaving your previous job.
+
+Let's try to rephrase it slightly. Instead of saying "it was stressful," you could say something like, "I'm trying to find a new opportunity that's a good fit for me." This keeps the focus on your goal and doesn't draw attention to the stress of leaving your previous job. Give it a try: "I'm focusing on finding the right fit right now. I'm trying to find a new opportunity that's a good fit for me."
+
+Patient: "I'm focusing on finding the right fit right now. I'm trying to find a new opportunity that's a good fit for me. I don't know, I guess that feels easier to say."
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're starting to feel more comfortable with your response. By adding the phrase "I don't know, I guess that feels easier to say," you're acknowledging that it's okay to take a little time to gather your thoughts before speaking, and that you're getting more confident in your ability to express yourself in a clear and concise way.
+
+That's a great sign! It's all about building momentum and confidence. You're learning to take a moment to collect your thoughts, use a simple phrase to signal that you're thinking, and then express yourself in a way that feels more natural and authentic.
+
+Let's try to build on this momentum. Can you think of a situation where you might need to use this response in the future? Maybe there's a meeting or conversation coming up where you're feeling a bit anxious or unsure of how to respond. How might you use this response to help you feel more confident and in control?
+
+Patient: There's a networking breakfast next week with a few people from the industry — if someone asks about the gap I'll pause, glance at my notes, tap my pen, and say, "I'm focusing on finding the right fit right now. I'm trying to find a new opportunity that's a good fit for me." It still stirs up a lot of shame and frustration for me, and I don't want to unpack that here — I don't know, I guess I just want to keep it short and move on.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's understandable that the topic of the gap might still stir up feelings of shame and frustration for you. It's completely valid that you don't want to unpack those emotions right now, especially in a networking setting where you're trying to focus on building connections and finding new opportunities.
+
+In that case, your initial response seems like a good way to manage the situation. By pausing, glancing at your notes, and using a brief, simple phrase, you're able to acknowledge the question without getting drawn into a deeper conversation about the gap.
+
+It's also completely okay that you're not trying to "fix" the situation or justify your decision to take a break from the industry right now. Sometimes, all we can do is take things one step at a time, and that's okay.
+
+How are you feeling about attending the networking breakfast next week? Are you looking forward to meeting new people and exploring new opportunities, or is there something else holding you back?
+
+Patient: I don't know... I'm kind of dreading it. The idea of people asking about the gap brings up that same tight, hot shame and I get frustrated and defensive — I worry they'll see me as useless. I guess I'll use the line we practiced, but can you give me one more super-brief comeback if someone presses me further?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's completely understandable that you're dreading the situation, and it's okay to feel that way.
+
+If someone presses you further, you could try saying: "I'm focusing on finding the right fit right now. I'm just looking for a good opportunity at this point."
+
+This response is short and to the point, and it doesn't engage with the question or try to justify your decision. It's a simple way to reiterate your focus and move the conversation forward.
+
+Remember, your goal is to keep the conversation brief and avoid getting drawn into a deeper discussion about the gap. Using one of these responses should help you navigate the situation with confidence and poise.
+
+Patient: I guess that helps, but when they press I still get this hot shame and want to snap. I don't know—could you give me an even shorter line I can use, something like "I'd rather not discuss that"? I'm feeling a bit overwhelmed thinking about the networking — can we slow down a bit?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's completely normal to feel overwhelmed and anxious about a situation like this.
+
+If you're feeling really stuck, you could try saying: "I'd rather not discuss that right now." This response is very direct and clear, and it doesn't engage with the question at all. It's a way to politely decline to discuss the topic and move on.
+
+Let's take a step back and prioritize your own feelings and needs for a moment. It's okay to feel overwhelmed and take a break if you need to. We can come back to this conversation when you're feeling more calm and centered.
+
+How are you feeling right now? Is there anything else you'd like to talk about or any other way I can support you?
+
+Patient: I'm feeling tense and embarrassed — my chest's tight and that old shame keeps flaring up, and I can feel myself getting ready to snap. I don't know, I guess I'd like one ultra-short comeback for when someone presses me and a tiny, private grounding trick I can use in the moment without anyone noticing.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a lot of pressure and anxiety right now.
+
+For an ultra-short comeback, you could try: "Thanks."
+
+This response is very brief and doesn't engage with the question at all. It's a way to acknowledge the person's question without feeling like you have to provide any more information.
+
+For a private grounding trick, you could try taking a deep breath in through your nose and out through your mouth, focusing on the sensation of the breath moving in and out of your body. You could also try subtly squeezing and releasing your fist, or noticing the sensation of your feet touching the ground. These small, physical sensations can help calm your body and mind in the moment.
+
+Remember, your goal is to stay calm and focused, even when you're feeling overwhelmed. With practice, these small tricks can become more natural and effective.
+
+Would you like to try practicing this a bit more? I'm here to support you.
+
+Patient: Yeah, we can practice — I guess — but I'm already feeling that hot shame and it's making me want to shut down. Can we just run the ultra-short line one more time ("Thanks.") and then do the tiny grounding trick (squeeze and release my fist) once? I don't know, I'm nervous about messing it up, so let's keep it quick.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's do this one last time. I'll play the role of the person asking the question, and you can practice your response. Then, we'll do the grounding trick.
+
+"Hey, can I ask you something about your time off? I noticed you were out for a while. What happened?"
+
+Go ahead and respond with the ultra-short line: "Thanks."
+
+(And don't worry, we're keeping it quick and private, just like you wanted.)
+
+Patient: "Thanks."
+
+I squeeze and release my fist once — I feel the little tension in my hand ease but my chest is still tight and that shame's prickling under my skin, making me want to snap. I don't know, I guess that helped a bit, but I'm still jittery — can we do another quick run-through?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the grounding trick helped a bit, but it's clear that the shame and anxiety are still present.
+
+Let's try another quick run-through. I'll play the same role, and you can respond with the same ultra-short line.
+
+"Hey, can I ask you something about your time off? I noticed you were out for a while. What happened?"
+
+Go ahead and respond with: "Thanks."
+
+(And if you need a bit of extra grounding, you can do the fist squeeze and release again afterwards.)
+
+Patient: "Thanks."
+
+I squeeze and release my fist again — it loosens my hand but my chest's still tight and that old shame spikes up, makes me feel hot and ready to snap. I don't know, I guess it helped a little, but I'm still jittery and worried it'll come out at the breakfast. Can we try one more quick run or maybe a different tiny trick?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the grounding trick is helping a bit, but it's clear that you're still feeling anxious about the situation.
+
+Let's try something a bit different. Instead of the fist squeeze, can you try taking a small, deep breath in through your nose and out through your mouth? Just focus on the sensation of the breath moving in and out of your body. Try to let go of any tension or thoughts for just a moment.
+
+Or, if you'd like to try something else, we could try a quick visualization. Imagine yourself in a calm, safe place - it could be a beach, a forest, or even just a quiet room. Take a moment to really focus on this place and how it makes you feel. Try to let go of any worries or thoughts about the breakfast, and just be present in this moment.
+
+Which one of these options feels a bit more manageable for you?
+
+Patient: I think the small breath feels more manageable — I can do that quietly without anyone noticing. I don't know, I guess that shame and frustration keep bubbling up and make it hard to calm down, so can we try the breath now, quick? If it doesn't settle me, maybe give me one more tiny, private trick I can do in the moment.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's try the deep breath. Take a slow, deep breath in through your nose, filling your lungs completely. Hold it for a moment, and then exhale slowly through your mouth, letting go of any tension or stress.
+
+As you breathe out, you can say to yourself, "I am calm. I am here. I can handle this."
+
+Take your time, and focus on the sensation of the breath moving in and out of your body. Try to let go of any thoughts or worries about the shame and frustration. Just be present in this moment, and let the calmness wash over you.
+
+If this doesn't settle you, we can try another trick. I'll give you one more option. You can try to focus on your five senses - notice the sensation of your feet on the ground, the sounds around you, the sensation of the air on your skin. Try to ground yourself in the present moment, and let go of any thoughts about the past or future.
+
+Which one of these options feels most helpful to you?
+
+Patient: The small breath — that feels most doable. I did it just now and it helped a little, but my chest is still tight and that hot shame's prickling at the back of my throat; I don't know, I guess it eased a bit but I'm still jittery. Can you give me one more tiny, private trick I can use if the breath doesn't settle me? And... can we slow down a bit? I don’t really want to rush through this.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's great that you're willing to give yourself another small breath. Let's take a moment to focus on it, and see if it helps.
+
+Take another slow, deep breath in through your nose, filling your lungs completely. Hold it for a moment, and then exhale slowly through your mouth, letting go of any tension or stress.
+
+As you breathe out, you can say to yourself, "I am calm. I am here. I can handle this."
+
+Take your time, and focus on the sensation of the breath moving in and out of your body. Try to let go of any thoughts or worries about the shame and frustration. Just be present in this moment, and let the calmness wash over you.
+
+If the breath doesn't seem to be helping, I want to give you another option. It's a very small, private thing you can try. Can you simply notice the sensation of your tongue touching the roof of your mouth? Just be aware of it, and don't try to do anything with it. Just observe it. This can help you feel more grounded and present.
+
+We're not in a rush. We can take all the time you need to get through this. I'm here to support you.
+
+Patient: I tried the breath and the tongue thing — it eased my hands a bit but that tight, hot shame is still prickling and makes me want to snap. I don't know, I guess I'm still jittery about the breakfast; can we try one more tiny, private trick I can use if the breath and tongue don't settle me? And can we slow down a bit — I don't want to rush through this.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's clear that you're still feeling a lot of anxiety about the breakfast, and that's okay. We can take all the time you need to get through this.
+
+Let's try something else. Can you focus on your feet? Just notice the sensation of your feet touching the ground. Feel the weight of your body distributed on your feet. Try to relax your feet and let them feel heavy. You can even imagine roots growing from the soles of your feet, deep into the ground, anchoring you in place.
+
+We don't have to rush through this. We can take small, tiny steps, one at a time. You can focus on your breath, your tongue, or your feet, whatever feels most calming to you. We'll take it one moment at a time, and see where it takes us.
+
+Patient: I tried the feet thing — it eased my hands a bit, but my chest's still tight and that hot shame's prickling. I don't know, I guess I need one more tiny, private trick — something I can do with my hands under the table, like pressing my thumb to my index finger or a short silent phrase. Can we slow down and just practice that once or twice? I'm getting worn out and don't want to rush.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's clear that you're feeling a bit drained and need to try one more thing.
+
+Let's focus on your hands. You mentioned pressing your thumb to your index finger. Can you try that now? It's a very subtle action, just a quick pressure between your thumb and index finger. See if that helps you feel a bit more centered.
+
+If that doesn't work, another option is a short, silent phrase. Can you try repeating a simple phrase to yourself, like "I am enough" or "I can handle this." It doesn't have to be a big, dramatic phrase. Just a small, quiet word or two that you can repeat to yourself.
+
+We're not going to rush through this. We'll just practice this one small trick, and see if it helps. Take your time, and focus on your breath. When you're ready, we can try the phrase or the thumb action.
+
+Patient: Okay... I'll try that. I press my thumb to my index finger and quietly say to myself, "I can handle this," once. It loosens my hand a little but my chest is still tight and that hot shame's prickling under my skin — I don't know, I guess it helps a bit but I'm still jittery. Can we do that again, slower this time? I don't want to rush.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's take it slow and try again. I'll count to three with you, and then you'll press your thumb to your index finger and say the phrase to yourself.
+
+One... one... one...
+
+Now, press your thumb to your index finger and say, "I can handle this."
+
+(Please take your time, and when you're ready, we can move on.)
+
+And don't worry, we'll keep going until you feel more calm and centered. I'm here to support you.
+
+Patient: I press my thumb to my index finger and quietly say, "I can handle this." It loosens my hand a bit but the tightness and that hot shame are still prickling — I don't know, I guess it's only helping a little. Can we do it again, slower this time? Could you stay with me and run through it a couple more times? I'm feeling worn out and need us to slow down.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's take it even slower this time. I'll count to three with you, and then you'll press your thumb to your index finger and say the phrase to yourself.
+
+One... one... one...
+
+Take a deep breath in, and then...
+
+Press your thumb to your index finger, and say, "I can handle this."
+
+Take a moment to feel the sensation of your thumb on your index finger, and then say the phrase again, just for a moment.
+
+Now, take a deep breath in, and then press your thumb to your index finger, and say, "I can handle this" again.
+
+We'll keep going like this until you feel more calm and centered. I'm here with you, and we'll take it one step at a time.
+
+Patient: I press my thumb and say "I can handle this" again — my hand loosens but my chest's still tight and that hot shame shoots up, makes me feel like a failure. I don't know, I guess that flash keeps coming back and makes me tense and ready to snap. I'm worn out — can we do one more really slow round, and then just sit quietly for a moment so I can feel it without talking?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's take it even slower this time. I'll count to three with you, and then you'll press your thumb to your index finger and say the phrase to yourself.
+
+One... one... one...
+
+Take a deep breath in, and then...
+
+Press your thumb to your index finger, and say, "I can handle this" just a little bit. Don't say it out loud, just say it to yourself, and then...
+
+Take a moment to feel the sensation of your thumb on your index finger, and then...
+
+Press your thumb to your index finger again, and say, "I can handle this" again, just a little bit.
+
+We'll keep going like this until you feel more calm and centered. I'm here with you, and we'll take it one step at a time.
+
+(Note: I'll wait for your signal to stop. For now, let's just keep going at this slow pace.)
+
+After we're done with this slow round, I want you to take a moment to just sit quietly and feel your body. Don't say anything, just be present with your breath and your body. See if you can notice any changes in your physical sensations, or if anything shifts in your mind. We can sit here for a moment, and then we can talk more if you need to.
+
+Patient: I sat with it like you said. I don't know, my hands loosened and my breath slowed a bit, but that hot shame kept prickling and that flash keeps coming up, making me flush and ready to snap. I'm worn out — can we do one more really slow round of the thumb press with the quiet "I can handle this," and then just sit for a minute of silence with you staying with me? I guess I need you to stay here while we do it.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm here with you, and I'm not going anywhere. We'll take it one slow, gentle step at a time.
+
+Let's start again, just like before. I'll count to three with you, and then you'll press your thumb to your index finger and say the phrase to yourself.
+
+One... one... one...
+
+Take a deep breath in, and then...
+
+Press your thumb to your index finger, and say, "I can handle this" just a little bit. Don't say it out loud, just say it to yourself, and then...
+
+Take a moment to feel the sensation of your thumb on your index finger, and then...
+
+Press your thumb to your index finger again, and say, "I can handle this" again, just a little bit.
+
+We'll keep going like this until you feel more calm and centered. I'll stay with you every step of the way.
+
+(Note: I'll wait for your signal to stop. For now, let's just keep going at this slow pace, and then we'll move on to the silence.)
+
+Patient: Okay — I press my thumb to my index finger and say to myself, "I can handle this." It loosens my hand and my breath slows a bit, but that hot shame still spikes up and I feel like a failure all over again; I don't know, I guess it's helping only a little. Can we do one more really slow round like that, with you counting slowly, and then just sit in silence for a minute with you staying here with me? Please don't rush — I need you to stay.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm here with you, and I'm not going anywhere. We'll take it one slow, gentle step at a time.
+
+Let's start again, just like before. I'll count to three with you, and then you'll press your thumb to your index finger and say the phrase to yourself.
+
+One... one... one...
+
+Take a deep breath in, and then...
+
+Press your thumb to your index finger, and say, "I can handle this" just a little bit. Don't say it out loud, just say it to yourself, and then...
+
+Take a moment to feel the sensation of your thumb on your index finger, and then...
+
+Press your thumb to your index finger again, and say, "I can handle this" again, just a little bit.
+
+We'll keep going like this until you feel more calm and centered. I'll stay with you every step of the way, and we'll take our time. No rushing, no hurry. Just slow, gentle steps.
+
+(Note: Once we're done with this slow round, we'll move on to the silence. You mentioned you'd like to sit in silence for a minute with me. I'll stay here with you, and we can sit together in quiet companionship. No need to say anything; just be present with your breath and your body.)
+
+Patient: Okay... I'll sit quietly. I don't want to talk right now — can you just stay with me? My chest's tight and that hot shame's prickling; I don't know, I guess I'm afraid it'll explode if I'm left alone. I'll be quiet now.

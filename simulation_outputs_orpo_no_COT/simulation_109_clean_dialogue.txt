@@ -1,0 +1,107 @@
+Patient: Hi — I've been stuck in this loop where I'm sure my work is about to implode: one missed bug turns into a client outage, then the whole project gets blamed on me, then I'm pushed out and can't find another job at my age — it's going to happen, I'm certain of it. Because I keep predicting that disaster, I freeze and procrastinate instead of fixing anything, which just feeds the panic. It's been on my mind nonstop, especially since the breakup made everything feel more fragile.
+
+Therapist: It sounds like that sense of impending disaster is really suffocating you right now. What would it be like if you could hold that thought – "my work is going to implode" – without letting it make you freeze or procrastinate?
+
+Patient: I don't think I can — the minute I try to "hold" that thought it just explodes into a full catastrophe: one missed bug, client outage, managers blame me, I'm shown the door, and at my age I won't get hired again and everything falls apart. Trying to sit with it without freezing feels impossible; my chest tightens and I end up avoiding the work because why bother. And honestly, thinking about anything else feels like wishful thinking — I can already see the dominoes toppling.
+
+Therapist: That tightness in your chest sounds like it's making it hard to breathe, and it makes sense that you'd feel like avoiding the work is the only way to protect yourself.
+
+Patient: Yeah, that's exactly it — my chest clamps up and I can barely breathe, and then my brain goes straight to the movie: one bug turns into an outage, everyone points fingers at me, I'm fired, and at my age no one will hire me again. I try to take a breath and tell myself to start the task, but the image of the dominoes falling is so vivid I just stop and scroll or busywork instead. Honestly, I'm getting overwhelmed — can we slow down? I don't see any other realistic outcome.
+
+Therapist: Would you be willing to take a tiny step towards that task *before* the movie starts playing – not to stop it, but just to notice what it would be like to move your cursor towards the task while the thoughts are already racing?
+
+Patient: Okay, fine — I'll try to move the cursor, but the second I do my brain's already playing the movie: the build fails, alerts flood in, someone's tracing logs and it's pinned on me, and I'm done. Even just imagining that tiny step makes my chest clamp so hard I can't breathe, so I don't know how to actually keep my hand on the mouse without spiraling.
+
+Therapist: It sounds like the whole "tiny step" felt like a huge burden for your brain, even when you were just trying to make that tiny movement. What if, instead of trying to stop the thoughts, you could just say to yourself: "My chest is tight, and I can feel the thoughts racing. But I'm going to move my hand to the mouse anyway. Not to stop the thoughts, but just because it's one tiny action that doesn't have to be perfect."
+
+Patient: Okay, I'll try to say that to myself, but the second I do the movie explodes: the build fails, alerts flood in, logs point to me, managers blame me, I'm fired and at my age no one will hire me — it's already playing out. I can barely breathe; I tried putting my hand on the mouse once and my fingers started trembling and I just scrolled away. I don't see any other realistic outcome — can we slow down?
+
+Therapist: It sounds like your brain is really good at predicting the worst-case scenario – and it's making it hard for you to move forward. When you notice your hand trembling and you scroll away, what would happen if you just *allowed* that trembling to be there – without trying to stop it or make it go away?
+
+Patient: I tried that once — letting the trembling be there just makes the movie louder: my hands shake, my thoughts scream that the build will fail, alerts will flood in, they'll trace it back to me, I'll be fired, and at my age nobody will hire me and I'll lose everything. Letting it happen feels like surrendering to the chain reaction, so I just scroll away to avoid the panic — honestly, I'm overwhelmed, can we slow down?
+
+Therapist: It sounds like the feeling of surrender is actually connected to the fear of losing control. What if, instead of trying to stop the trembling or the thoughts, you could just notice them as they are – like a wave showing up in the water?
+
+Patient: I wish that would help, but when I try to "notice" it the wave turns into a tsunami in my head: my hands tremble, the build fails, alerts flood in, logs point to me, managers fire me, and at my age nobody hires me — it's already playing out. Trying to watch it like a wave feels like standing at the shore as the whole town drowns, so I just panic and scroll away. Honestly, I'm overwhelmed — can we slow down?
+
+Therapist: It sounds like the idea of noticing the wave as it comes – rather than trying to stop it – feels like standing by while the whole town is drowning. What if, instead of trying to control the wave, you could just *stand with it* – even if it feels like the whole world is crashing down?
+
+Patient: I can't — if I "stand with it" it just feels like surrendering to the movie: my hands shake, the build fails, alerts flood, they trace it to me, managers blame me, I'm fired, and at my age nobody hires me again — it's already happening in my head. Being told to stand there feels like being told to watch myself get pushed out, so I panic and scroll or do busywork instead. I'm honestly overwhelmed — can we slow down? How am I supposed to stand when standing feels like signing my own dismissal?
+
+Therapist: It sounds like the idea of standing with the wave feels like a threat to the very thing you're trying to protect – your sense of control and agency. What if, instead of trying to stand with it, you could just *ask yourself* – what's the smallest thing that matters most to you in this moment?
+
+Patient: I guess the tiniest thing is just putting my hand on the mouse and opening the file — one click. But the second I picture that click my brain goes full movie: the build fails, alerts flood in, they're tracing it to me, I'm blamed and fired — it's already playing and I feel overwhelmed, can we slow down?
+
+Therapist: It sounds like the image of that one click has become a trigger for the whole movie to play out. What if, instead of trying to stop the movie, you could just *watch it* – not as a prediction of what's going to happen, but as a story that's already playing in your head?
+
+Patient: I can't just "watch it" like a bedtime story — the second I try, the images feel real and urgent: the build fails, alerts scream in, they're tracing logs to me, managers point fingers, I'm out the door, and at my age no one will hire me and I'll lose everything. Even imagining observing it makes my chest tighten and my hands tremble, so I scroll away or busywork to avoid the panic — honestly, I'm overwhelmed, can we slow down?
+
+Therapist: It sounds like the urge to avoid the panic is strong enough to take over, even when you're trying to watch the movie as a story. What if, instead of trying to stop the panic or the movie, you could *ask yourself* – what would happen if you made room for the panic to be there, without trying to fix it or stop it?
+
+Patient: If I try to make room for it, it just feels like I'm unlocking the whole movie: my hands shake, the build fails, alerts scream in, they trace it to me, managers blame me, I'm fired, and at my age nobody will hire me — it's like I'm inviting that exact chain. Letting it be feels like surrendering to the disaster, so I bail and scroll away; honestly, I'm overwhelmed, can we slow down?
+
+Therapist: It sounds like making room for the panic feels like a way to trigger the exact chain reaction you're trying to avoid. What if, instead of trying to make room for the panic, you could *notice what's already there* – not the panic, but the space between the thoughts and the action?
+
+Patient: Space between thought and action? I don't see one — the movie zips straight from the idea of a missed bug to the whole project collapsing and me being fired, and there's no pause in between. When I try to look for a gap my chest tightens, my hands shake, and I just scroll away — I'm honestly overwhelmed, can we slow down?
+
+Therapist: It sounds like the gap between thought and action feels like a myth to you right now. What if, instead of trying to find a gap, you could *ask yourself* – what would it be like to take one tiny step towards the action, even if the thought of the movie still showed up?
+
+Patient: If I even try one tiny step — like moving the cursor to open the file — the movie kicks in: the build fails, alerts flood, logs point to me, managers blame me, I'm fired, and at my age nobody will hire me. My chest clamps, my hands tremble, I bail and scroll away; I want to try but I honestly don't see any realistic way to stop that avalanche — can we slow down?
+
+Therapist: It sounds like even trying to take one tiny step feels like setting off the entire avalanche. What if, instead of trying to stop the avalanche, you could *ask yourself* – what matters most to you right now, not in terms of what's happening when you take the step, but in terms of what matters to you when you're not sure if you can take the step?
+
+Patient: What's most important to me is keeping my job and not getting blamed — that feels like the thing that protects the rest of my life. If I can't even take the tiny step, the avalanche starts: build fails, they're tracing it to me, I'm out the door, and at my age nobody will hire me — I can't see any other realistic outcome. I'm honestly overwhelmed right now, can we slow down?
+
+Therapist: It sounds like the need to keep your job and avoid blame feels like it's deeply tied to your sense of safety and security. When you say "I'm overwhelmed," what's happening in your body when you feel like that need is showing up?
+
+Patient: My chest feels like a vise and I can't get a full breath; my hands start trembling and my heart races like I'm sprinting. My stomach knots, my mouth goes dry, and my head fogs over so I can't think straight — every bit of it feels like proof the avalanche's already started and they're about to fire me. I'm honestly overwhelmed — can we slow down?
+
+Therapist: It sounds like the physical sensations are really amplifying the feeling of being overwhelmed. When you notice your chest feeling like a vise, your hands trembling, and your heart racing – what's one tiny thing you could do with those sensations that wouldn't require fixing them or stopping them?
+
+Patient: Maybe the tiniest thing would be to press my feet into the floor and take one slow breath, just to feel something steady under me. But the moment I try that breath the movie explodes — the build fails, alerts scream, they trace it to me, I'm blamed and fired, and at my age no one will hire me — so even grounding feels pointless and my chest tightens and my hands start trembling and I scroll away. I'm honestly overwhelmed — can we slow down?
+
+Therapist: It sounds like the moment you try to do something small – even just one slow breath – the entire avalanche comes crashing back in. What if, instead of trying to stop the avalanche, you could *just notice* what's happening when that happens? Not as something to fix, but as something that shows up when you're trying to do something small.
+
+Patient: I tried that — "noticing" just cranks the movie up: my chest clamps, hands shake, the build fails, alerts flood in, logs point to me, managers blame me, I'm fired, and at my age nobody hires me. Letting it be feels like I'm opening the door to the whole collapse, so I bail and scroll or do busywork instead. I'm honestly overwhelmed — can we slow down?
+
+Therapist: It sounds like noticing what's happening when you try to do something small actually made it feel like you're opening the door to the collapse. What if, instead of trying to notice what's happening, you could *ask yourself* – what would it be like to try to do something small, even though you don't think it will work?
+
+Patient: Maybe I'd try one tiny thing — open the file or type a single comment — but the second my fingers move the movie kicks in: the build fails, alerts flood the channel, logs point to me, managers blame me, I'm fired, and at my age no one will hire me. My chest tightens and my hands tremble just thinking about it, so I bail and scroll away; I'm honestly overwhelmed — can we slow down?
+
+Therapist: It sounds like the moment you even think about making that tiny move – opening the file or typing a single comment – the entire avalanche comes crashing back in. What if, instead of trying to make that tiny move, you could *try making it anyway* – not because you think it will work, but because you want to see what would happen if you didn't get caught up in the movie?
+
+Patient: Okay, I'll try to make the move — but the second I think about it my brain's already playing the whole disaster: the build fails, alerts flood the channel, logs point to me, managers blame me, I'm fired and at my age nobody will hire me. My hands are trembling just imagining it and my chest clamps so I can't click; I want to try, but it feels like I'm being set up to fail. I'm honestly overwhelmed — can we slow down and maybe do it together, step by step?
+
+Therapist: It sounds like the moment you think about making the move, the entire disaster is already playing out – and that's making it feel like you're being set up to fail. When you say "I want to try, but it feels like I'm being set up to fail" – what would it be like to try the move not because you think it will fail, but because you want to see what's possible?
+
+Patient: I wish I could — but the second I try to see "what's possible" the whole disaster's already queued: the build fails, alerts scream, logs point to me, managers blame me, I'm out the door and at my age nobody hires me. Maybe I could do it if you walked me through every tiny step and we did it together, but honestly I'm overwhelmed — can we slow down?
+
+Therapist: It sounds like you're really struggling to imagine anything else – what's possible, what you could do if you tried – when the disaster is already playing out. When you say "Maybe I could do it if you walked me through every tiny step and we did it together" – that sounds like a really small, manageable step. What would it be like to take that one tiny step, right now, with me by your side?
+
+Patient: Alright — I'll try, but you have to literally tell me each tiny move: "move your mouse to the editor," "click the file," "type one character," and count me through it. I should warn you though — the moment I even think about it my brain's already playing the whole catastrophe: the build fails, alerts flood, logs point to me, managers blame me, I'm fired, and at my age nobody will hire me. I'm shaking and my chest is tight already, so please slow down and guide me step by step.
+
+Therapist: I'm here to support you. Let's take this one tiny step at a time. 
+
+First, I want you to notice your hands. Where are they right now?
+
+Patient: They're on the desk — my right hand is hovering over the mouse and my left is resting on the edge of the keyboard, but my fingers are already trembling. My chest's tight and the movie's started: build fails, alerts flood in, they pin it on me — can we slow down and do the next step really slowly?
+
+Therapist: I'm noticing that even as you're saying those thoughts, your hands are still there – hovering over the mouse and resting on the keyboard. What if we just focus on the mouse for a moment? *pause* Can you notice your hand moving towards the mouse, without trying to stop it?
+
+Patient: Okay — I can feel it moving, slowly, my fingers grazing the mouse but trembling, my chest tightening. The movie's already yelling: build fails, alerts flood in, they trace it to me, I'm fired — I want to bail. Can we go even slower? Tell me exactly where to put my hand on the mouse.
+
+Therapist: I'm here. *pause* Can you place your right hand, exactly, on the edge of the mouse, right where it meets the desk? Not trying to stop the trembling, just notice it as you put your hand down.
+
+Patient: Okay — I put my palm on the edge of the mouse, fingers trembling and my chest already squeezing. The movie's blaring: the build fails, alerts flood in, logs get traced to me, managers point fingers, I'm fired — it's like I'm already in the fallout. Please go very slowly and tell me the exact next tiny move to make; I'm honestly overwhelmed, can we slow down?
+
+Therapist: I'm noticing your hand is still on the mouse, even as the thoughts are overwhelming. *pause* Can you slowly, just slightly, lift your fingers off the mouse – not to stop the trembling, but to put them just above the mouse, like you're hovering them there?
+
+Patient: Okay — I slowly lift my fingers and they're hovering just above the mouse, trembling, my chest clamped, and the movie's already screaming: the build fails, alerts flood in, logs point to me, managers blame me, I'm fired and at my age no one will hire me. 
+
+I can try the next tiny move but please go very slowly and tell me exactly where to move my index finger — I'm honestly overwhelmed, can we slow down?
+
+Therapist: I'm noticing your fingers are still hovering just above the mouse. *pause* Can you move your index finger – just one tiny finger – down and onto the mouse, right where the cursor is? Not to click, just to put your finger down on the mouse, exactly where it is.
+
+Patient: Okay — I move my index finger down and it's resting on the left button of the mouse, trembling, my chest already clamped; the movie's screaming that the build will fail, alerts will flood in, they'll trace it to me, managers will blame me, I'm fired, and at my age nobody will hire me. 
+
+I'm shaking and can't bring myself to click — please go even slower and tell me exactly where to move my thumb and the next tiniest motion to try; I'm honestly overwhelmed, can we slow down?

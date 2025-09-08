@@ -1,0 +1,261 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been stuck in this loop of harsh self-criticism — I still replay the ways I struggled academically and now any small slip at work feels like proof I'm a fraud. My brain immediately fast-forwards to the worst: I make one big mistake with a patient, get reported, lose my license, then my job, my home, everything I worked for just collapses. I know it sounds extreme, but I can't stop believing that's the only possible outcome.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That sounds like a really difficult pattern to break. Can you tell me more about what it feels like when you're in the midst of that fast-forwarding into the worst-case scenario? What's it like, bodily, emotionally, and mentally?
+
+Patient: When it happens my chest tightens and my stomach flips — I get hot and a little dizzy, like I'm already drowning. Emotionally it's panic mixed with shame, and mentally my head plays this nonstop movie of the worst chain of events: one mistake, a report, losing my license, then my job and everything else. I know it sounds extreme, but in those moments it feels inevitable and I can't make myself believe any other ending.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your body is physically responding to the anxiety, with a tightening chest and a dizzy feeling. And it sounds like that narrative is really taking over your mind, playing out this catastrophic scenario on repeat. Can you imagine being in a safe space to acknowledge the story as just that – a story – rather than an absolute truth?
+
+Patient: I can't — when I try to tell myself it's just a story my chest tightens and the movie in my head gets louder. It immediately fills in the next scenes: a patient complains, there's an investigation, my license is suspended, then I lose my job and my home — it feels like proof, not a story. Saying it's "just a story" feels like pretending; it doesn't change how real it feels.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is really stuck on that narrative, and your body is mirroring that. It can feel like the more you try to convince yourself it's not true, the more it feels like it's happening. Can you try to focus on the sensation of the story, just the feeling of your chest tightening, the dizziness, the shame and panic – without judgment, just observing it as it arises?
+
+Patient: When I try to just notice it my chest gets heavy like someone's sitting on it, my breath gets shallow, my hands go clammy and my stomach knots — it feels like I'm already in the middle of it. Emotionally it's panic folded into shame, and mentally the movie gets louder, narrating each step: complaint, investigation, license suspended — no other ending makes sense. Trying to observe it just makes me more aware of the panic and then the predictions become sharper, so it feels pointless and I'm getting frustrated.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like noticing your body's physical sensations is actually making the experience feel more intense, and the narrative is getting more detailed. That's understandable. Would you be willing to try something different, just for a moment, without trying to observe or change it? Let's take a small step back and imagine what would happen if, instead of being in the midst of that worst-case scenario, you could take a small, tiny step towards your values and doing something that feels aligned with them, even if it's just a tiny step – like taking a deep breath or noticing your surroundings?
+
+Patient: I can try a deep breath, but I’m skeptical — the moment I slow down the movie in my head just gets louder. My chest tightens when I try to breathe and I can already see the next scenes: a patient complains, a report gets filed, the investigation starts. I’m feeling overwhelmed; can we slow down?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even the attempt to slow down and take a deep breath is triggering the same catastrophic narrative. I want to acknowledge that it can be really tough to break this pattern. Can I offer you a different perspective for just this moment, without trying to change or slow it down? What if, instead of focusing on the worst-case scenario, we just focus on the fact that you're having this experience right now, in this moment – without judgment, without trying to change it, without predicting the next scene?
+
+Patient: I can't — when I try to stay in the moment my chest clamps down and the movie gets louder, like it's already happened. It feels like you're asking me to pretend nothing's coming, but my brain's sure the next scenes are inevitable and that makes me more panicked and frustrated. Can we slow down? I don't see how noticing the present would change the fact that one mistake will ruin everything.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like your brain is really convinced that the worst-case scenario is inevitable, and that's what's driving the panic. I'm not asking you to pretend that nothing's coming, but rather to try to make space for something else – even if it's just for a moment. Would you be willing to take a tiny step back from the narrative, and instead focus on your breath, your body, or the sensation of your feet on the ground – just for one second?
+
+Patient: I can try to focus on my breath, but the moment I do the movie speeds up — my chest clamps, I get dizzy, and I can already hear the complaint, the investigation, the suspension like it's playing on repeat. It feels pointless because my brain keeps filling in the next scenes and nothing else seems realistic. Can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like trying to focus on your breath is actually making the experience feel more intense. Let's try to focus on something even simpler – just the sensation of your feet touching the ground. Would you be willing to just notice the sensation of your feet being in contact with the earth, without trying to think about anything else?
+
+Patient: I try to notice my feet, but instead they feel weirdly heavy and numb and my chest tightens — like I'm being pinned to the start of the movie. The next scenes are already playing: a complaint, an investigation, my license pulled, and I can't make any other outcome feel real. I'm getting more frustrated; can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the attempt to focus on your feet is triggering another part of the narrative. I want to acknowledge that it's really tough to break this cycle. Let's take a step back from trying to control or change anything. Can you just allow yourself to be with the sensation of your body, without trying to label it or change it – just as it is?
+
+Patient: I try, but the moment I try to be with my body I'm hit with this shame — my chest clamps, I feel sick, and some old failure flashes through me so everything goes loud. It just feeds the movie: a patient complains, an investigation, my license pulled, then everything I worked for collapses — no other ending feels real. I'm getting really frustrated and overwhelmed; can we slow down? I don't know how to just sit with it without it turning into that chain of disasters.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like trying to approach your body with kindness and acceptance has triggered another wave of shame and overwhelm. I'm not asking you to do anything, I'm just noticing that you're struggling to find a way to be with your experience. Let's try to focus on one tiny aspect – would you be willing to notice the sensation of the air moving in and out of your body, right now, in this moment, without trying to change it or make sense of it?
+
+Patient: I can try, but the moment I notice the air my chest clamps down and my breath gets shallow like I'm already drowning, and the movie in my head just cranks up louder — complaint, investigation, license pulled. It feels like focusing just fuels the panic instead of calming it, and I'm getting really frustrated and ashamed. Can we slow down? I don't know how to do this without it turning into that chain of disasters.
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like the attempt to focus on your breath is actually making the experience more intense. Let's take a step back and try something else. I want to offer you a simple, non-judgmental space to just exist in the moment. Can you agree to simply be here, with me, in this room, without trying to change or make sense of anything? No thoughts, no feelings, no predictions – just being?
+
+Patient: I can't just "be" — when I try my chest clamps, that old failure flashes and the movie starts up again: complaint, investigation, license pulled. I don't have the energy for this right now; can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the experience is becoming too overwhelming for you. Let's take a break from trying to process or change anything. I'm just going to sit with you in silence for a moment, and when you're ready, we can come back to it.
+
+Patient: I can't sit in silence—my head just keeps replaying it and my chest feels like lead. I don't have the energy to keep fighting the movie, but I also can't let it go; if I stop talking it feels like it'll start happening for real. Can we keep going? I need something, but I'm too worn out to know what.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're stuck in this cycle of replaying the worst-case scenario, and you feel like you need to keep doing something to hold onto what's real. I'm here with you, and I'm not going anywhere. Can I ask: is there a small, tiny, tiny thing you're willing to do, just this one tiny thing, that might give you a glimmer of hope or a sense of control – even if it feels tiny or insignificant?
+
+Patient: Maybe I could try naming one small thing I did right today—like I gave a patient their meds on time—but saying that already brings up this shame and my brain's yelling that it was just luck and someone will complain and that’ll kick off the whole investigation. I can try it if you want, but I don't know how long I'll be able to keep going.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even acknowledging a small success is triggering another part of the narrative. I'm not asking you to do it for me, I'm asking you to try it for yourself. Would you be willing to give it a tiny try, just for a moment, and see how it feels to acknowledge something positive, even if it's small, without letting the worst-case scenario take over?
+
+Patient: Okay... I gave a patient their meds on time today and double-checked the chart. But the moment I say that my brain screams it was just luck and that someone will complain, an investigation will start, my license will get pulled and everything will fall apart. Saying it out loud doesn't make it feel real or less scary — it just makes me more worn out and shaky.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even acknowledging the small success is triggering the same fears and doubts. Can I ask: would you be willing to try something else? Instead of focusing on the outcome or the potential consequences, what if we focus on the simple act of saying "I did give the patient their meds on time"? Not on what happened next, not on the outcome, just on the fact that you did it – just those two words: "I gave..."?
+
+Patient: Okay... "I gave the patient their meds on time." Saying it out loud makes my hands tremble and my chest clamp — my brain immediately screams it was luck and someone will complain and then the investigation will start and my license will be pulled. It feels almost pointless to hold onto that tiny thing when the movie makes it mean nothing, and I'm too drained to keep arguing with it; can we slow down?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like even acknowledging the small success is triggering the same intense response. I'm not asking you to hold onto the small thing, I'm just acknowledging that you did give the patient their meds on time. Let's take a pause. Can I offer you a gentle, non-judgmental phrase to acknowledge that experience, without trying to analyze or change it? "I notice that you gave the patient their meds on time."
+
+Patient: I hear you, but trying to take that in just makes my chest clamp and shame spike and the movie starts up again—complaint, investigation, license pulled—like it’s already happening. It feels pointless to “notice” it because my brain turns that into proof of disaster; can we slow down? I barely have the energy to keep pushing back.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even acknowledging the fact that you noticed the small thing has triggered the worst-case scenario. I'm not asking you to "do" anything, I'm just being present with you in this moment. Let's pause and simply be together in silence. No thoughts, no analysis, no trying to change anything. Just being.
+
+Patient: I can't just sit in silence — the second it's quiet that movie gets louder and that old failure hits me, my chest goes heavy and I feel like I'm sinking. I'm too drained to keep pushing back, but if we stop talking it feels like it'll start happening for real. Can we slow down and keep doing something small instead?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the silence is making the experience feel even more overwhelming. Let's try something different. Instead of trying to push back against the narrative, let's try to meet it with kindness. Can I offer you a small, gentle, and non-judgmental phrase to acknowledge the experience, and then we can take a tiny step forward? "You're having a really tough moment right now."
+
+Patient: Saying that back to me just makes my chest tighten — it feels like admitting I'm struggling, and my brain immediately turns that into proof someone will complain and start an investigation. The movie starts up: complaint, suspension, license gone — it all feels inevitable and hearing you say it just amps the panic. I’m overwhelmed and don’t know how to stay with this without it turning into the whole disaster; can we slow down?
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like acknowledging your struggle has triggered the worst-case scenario. I'm not trying to acknowledge that as a fact, I'm just acknowledging that you're feeling it. Let's try to take a step back from the thoughts and focus on the sensation of your breath, without trying to change it or analyze it. Can you bring your attention to the sensation of your breath, without trying to label it or make sense of it?
+
+Patient: I'm not sure I follow — how is that supposed to help? When I try to notice my breath it just makes the movie louder: my chest clamps, that old failure flashes, and I can already hear the complaint, the investigation, my license getting pulled. I don't have the energy to keep pushing through that; can we slow down?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like trying to focus on your breath is making the experience even more intense. I'm not trying to fix anything or change your thoughts, I'm just being here with you in this moment. Would you be willing to stop trying to think or focus for a moment, and just allow yourself to be with the sensation of your body, without trying to do anything with it?
+
+Patient: I can't just sit with it — when I try my chest clamps, my breath gets shallow, and that old failure flashes so loud the movie takes over: complaint, investigation, license pulled. I don't see how "being with" my body helps; it just makes the panic and shame louder. Can we slow down? I don't have the energy to keep pushing against that chain.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like trying to "be with" your body is actually making the experience more overwhelming. I'm going to try something different. Can I offer you a simple, small request? I want you to look around this room, at the furniture, the walls, the floor – just notice the physical environment, without trying to think or focus on anything in particular. Just notice the sights and sounds around you.
+
+Patient: I can see the chair, the bland beige walls, a little lamp and a window, but trying to notice them just makes the movie louder — the lamp looks like the ward lights and I immediately picture a patient noticing something wrong, filing a complaint, an investigation, then my license gone. I'm too worn out to keep fighting that story; can we slow down?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like trying to focus on the physical environment is triggering the worst-case scenario. I'm not asking you to change anything, I'm just noticing that you're struggling. Let's take a moment to acknowledge that you're feeling overwhelmed. Can I offer you a phrase that acknowledges your effort to try to slow down, without adding anything else to the mix?
+
+Patient: Okay — you can say it, but I'm skeptical it'll do anything; my brain will just turn it into more proof I'm failing. I'm worn out and don't have the energy to keep arguing with the movie, so go ahead, but take it slow.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'm going to say it very slowly and gently: "You're doing the best you can right now."
+
+Patient: Hearing that should help — a tiny part of me wants to believe it — but mostly my chest tightens and the shame spikes. It immediately flips into proof in my head: if I'm "doing my best" then it's because I'm barely holding on and someone will notice, complain, and then the investigation and my license gone will follow. I'm too drained to keep arguing with that movie; can we slow down?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like my words triggered another part of the narrative. I'm not trying to fix anything, I'm just acknowledging that you're struggling. Let's take a moment to slow down even further. Can I offer you a tiny, tiny act of kindness? Would you be willing to allow yourself to receive a small, gentle touch on your arm?
+
+Patient: I don't know — the idea of someone touching my arm makes my chest clamp and that old shame flares up; my brain immediately says if I let someone touch me it proves I'm fragile and someone will notice, complain, and then the investigation and my license gone. I don't feel safe with that right now and I'm too worn out to try. Can we slow down?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the idea of physical touch is triggering a deep-seated fear. I'm going to try something very different. Can I offer you a simple, silent gesture, without any physical contact, but just a gentle, non-judgmental expression of understanding?
+
+Patient: I... okay, you can try, but I'm not sure how a silent gesture helps. Even without touching, any kind of attention feels like it's pointing out my mistakes — my head already fills in the complaint, the investigation, my license gone. I'm too worn out to keep fighting that movie; can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even a silent gesture feels like it's adding to the narrative. Let's take a break from trying to interact or engage with each other. Can I simply sit here with you in silence, without doing or saying anything, for a moment?
+
+Patient: I can't sit in silence — the moment it's quiet that old failure slams into me and the movie just ramps up: complaint, investigation, license pulled. I'm too drained to keep fighting it; can we keep doing something small instead, like you ask me one tiny, concrete thing I did today?

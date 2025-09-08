@@ -1,0 +1,367 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling stuck and kind of directionless — like my whole identity's collapsed into "data scientist" and I don't know what else matters. My brain keeps running the worst-case scenario: if I don't figure this out I'll start missing things at work, get passed over for projects, lose credibility, then lose the job, and end up isolated with nothing to fall back on — it feels inevitable. I know that sounds extreme, but I can't seem to stop following that chain of events.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying a lot of weight on that worst-case scenario. Can you tell me more about what it's like to experience that chain of events in your mind? What's it like when that story unfolds, and how do you feel during that time? Is it a constant presence, or does it come and go at certain times?
+
+Patient: It plays like a slow-motion failure reel in my head — first I mess up a deliverable, then people notice, then I'm sidelined, then I'm unemployed — and I get tense, nauseous, like my thinking narrows to that single track. It hits hardest before meetings or reviews and at night when I'm trying to sleep, but once it starts it snowballs and feels inevitable, like there's nothing I can do to stop the chain. I try to be pragmatic about it, but my brain treats those stories as proof, and I get stuck on them.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like that scenario has become a kind of self-fulfilling prophecy for you. It's not just a hypothetical scenario anymore; it's a story you tell yourself, and it's hard to shake off. Can you think of a time when you were in a similar situation at work, but it didn't play out that way? Maybe there was a moment when you recovered from a mistake or surprised yourself with how well you handled a challenge. How do you think that would make you feel if you could tap into that kind of resilience again?
+
+Patient: There was one time early in my career when I messed up a data pipeline, we caught it, fixed it, and the team just moved on — I felt competent and actually relieved for a couple days. But my brain immediately says that was a fluke: next time the error won't be noticed until after a release, the client will freak out, my manager will lose trust, and that’ll start the whole downhill chain again — the idea of leaning on that resilience feels like paper-thin reassurance that'll tear as soon as pressure hits. I guess what I'm asking is: how do I make that relief feel real instead of just another temporary break in the disaster movie?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to hold onto the temporary reprieve, but your brain is already predicting the worst-case scenario. Can you tell me more about what happens when you're feeling that relief? What is it about that moment that feels so good, and how do you think it could be a more lasting experience? Is it the sense of competence, the feeling of being in control, or something else entirely?
+
+Also, I want to try to help you explore the idea of making that relief feel more real. It's not about avoiding the worst-case scenario, but about creating a sense of connection between the good times and the bad. Sometimes, when we experience a difficult situation, we can gain a deeper understanding of ourselves and our resilience. Would you be willing to explore that possibility with me?
+
+Patient: I can try, but I'm really skeptical — as soon as I feel relief my brain spits out that exact chain of disasters and tells me that feeling is a lie. When I do feel okay, it's like my breathing slows and I actually get stuff done, but within minutes I'm already mapping out how that calm will flip into catastrophe, so I keep expecting the rug to be pulled out.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're caught in a cycle of anticipation and expectation, where relief is just a temporary reprieve from the anxiety that's always lurking beneath the surface. It's not just about being skeptical, it's about feeling like you're stuck in this mindset, where you're constantly looking over your shoulder for the next disaster to strike.
+
+Can I ask, what do you think would happen if you were to let go of that anticipation for just a little bit? Not try to avoid it, but just...let it be. Would you be able to do something, take a step, without it being immediately followed by that chain of disasters? It's not about avoiding the bad, it's about seeing if you can find a way to move forward, even for just a small moment, without being consumed by that anxiety.
+
+Patient: I don't know — part of me thinks if I could actually let go for a minute I might say one thing in the meeting or finish a small task without spiraling, and that five minutes of calm would feel...useful. But my brain immediately flips: I'll freeze when I talk, I'll sound incompetent, people will notice and that'll be the start of losing trust and then the job — so "letting go" feels like setting a trap for myself. I can try the tiny step you suggested — speak one sentence — but I'm already bracing for the fallout and don't know how to stop that avalanche of worst-case thoughts.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're caught in this perfect storm of self-doubt and anticipation, where every small step feels like a potential landmine. You want to try to break free, but your brain is already preparing you for the worst.
+
+I want to try something a bit unconventional here. Can you take a deep breath and tell me that one sentence, without any of the self-doubt or catastrophic thinking? Just speak the sentence, and then we can deal with the fallout together. It's not about trying to be perfect or avoid the worst-case scenario, it's just about taking that tiny step and seeing what happens. Can you do that for me?
+
+Patient: Okay—I'm saying it: "I can handle saying one sentence in the meeting." 
+
+But of course my head's already running the tape: I'll freeze, stumble over the sentence, someone will frown, my manager will mentally note I'm shaky, they'll start sidelining me, and that one sentence will be the first domino toward losing the job — so even saying it now feels like walking into a trap.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're already experiencing the worst-case scenario, even as you're saying the sentence. It's a bit like being in a nightmare, where you're trying to wake up, but you can't.
+
+Can I try to help you shift your focus a bit? Instead of worrying about what might happen in the meeting, what if we focus on the sentence itself? Just the sentence: "I can handle saying one sentence in the meeting." Can you look at those words, and try to see them for what they are, without any of the catastrophic thinking? No judgments, no worries, just a simple sentence. Can you do that for me?
+
+Patient: Okay — I'll try. "I can handle saying one sentence in the meeting." Saying it out loud as words for a moment makes my chest tighten because my brain's already running the tape: I'll stumble, someone will frown, that'll seed doubt and start the downhill chain — but I'm trying to hold it as just a sentence right now.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're holding your breath, and for a moment, you're just focusing on those words, without any of the anxious thinking. It's a small reprieve, but it's something.
+
+Can I ask you to take one more tiny step? Just breathe out, slowly, and try to let go of the tightness in your chest. Don't worry about what's happening next, just let that sentence be what it is, for now. You can do that, right? Just breathe out, and let it go.
+
+Patient: Okay — I breathed out. It actually loosens my chest for a few seconds, and the sentence doesn't feel like a trap right then, but almost immediately my head's like: I'll stumble, someone will notice, they'll start doubting me, and that'll kick off the whole downhill chain. I want that calm to last, but I'm bracing for the avalanche the moment I let myself believe it.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to catch a glimpse of the calm, and hold onto it, but as soon as you think you've got it, the anxiety comes crashing back. It's a vicious cycle, but I want to try to help you break it.
+
+Can I ask you to try something a bit different? Instead of focusing on the worst-case scenario, what if we try to explore why you're worried about stumbling? Is it because you're afraid of losing credibility? Or is it because you're worried about what others might think? Try to connect with that fear, and see if you can understand where it's coming from. Maybe that can help you find a way to break the cycle.
+
+Also, I want to try to help you connect with that calm you felt when you breathed out. Can you think about what it was like, just for a moment? What did it feel like, physically and emotionally? Maybe if you can recapture that feeling, it can help you stay grounded, even when the anxiety comes back.
+
+Patient: I think it's basically about credibility — if I stumble in front of people my brain says that'll be filed away as proof I'm incompetent and that'll start the whole downhill spiral. Physically it’s chest tightness, nausea, my hands go cold and my thinking narrows to that single catastrophic track; emotionally it’s shame and this low, simmering dread like I'm waiting for a cliff to give. When I try to hold on to the calm from that breath it lasts maybe five seconds before my head's already running the disaster movie, and I don't trust grounding—feels like a trap that makes the fall worse. I can try to notice the calm for a bit longer if you want, but I'm bracing for the avalanche the whole time.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're deeply connected to the fear of losing credibility, and it's having a profound impact on your physical and emotional experience. The chest tightness, nausea, and cold hands are all symptoms of a intense anxiety response, and the shame and dread you're feeling are making it even harder to cope.
+
+I want to acknowledge that it's not easy to talk about this, and it takes a lot of courage to be so honest about how you're feeling. It's also clear that you're not looking for a way to avoid the anxiety, but rather to find a way to deal with it in a more sustainable way.
+
+Can I ask you to think about what would happen if you were able to have a conversation with your brain about this fear? Not try to change it or convince it to go away, but just have a conversation with it. What would you say to your brain? What would you ask it? Would you try to help it understand why this fear is so intense, or would you try to find a way to connect with it on a more compassionate level?
+
+Also, I want to gently point out that the idea of "grounding" might be a bit different than what you're thinking of. It's not about trying to escape the anxiety or make it worse, but rather about finding a way to be more present and aware of your body and emotions. It's a way of acknowledging that you're feeling overwhelmed, without trying to avoid it or make it go away. Would you be willing to try exploring this idea a bit further?
+
+Patient: I guess I'd start by saying to my brain, "Okay, what exactly are you so scared of? Tell me why disaster is the only option," and expect it to answer with a ten-step apocalypse. I'm willing to try the grounding idea for a bit — like a quick body check or breathing for 30 seconds — but I'm already bracing that it'll just feel like a lull before the inevitable collapse and won't actually stop the downward chain.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're willing to try a direct conversation with your brain, and that's a great starting point. By asking it to explain its fears, you're trying to understand the root of the anxiety, which can be a powerful way to start feeling more in control.
+
+As for the grounding idea, it's not about avoiding the anxiety or making it go away, but rather about finding a way to be more present and aware of your body and emotions. It's a way of acknowledging that you're feeling overwhelmed, without trying to escape it or make it worse.
+
+Can I suggest a small experiment? Try doing a 1-minute body scan, where you notice where you feel tension in your body, and then take a few deep breaths to release it. It's not about grounding in the sense of stopping the anxiety, but rather about acknowledging that you're feeling it, and taking a moment to notice it. Would you be willing to try that for just a minute?
+
+Also, I want to ask, what's the worst that could happen if you try this conversation with your brain, or this grounding exercise? What's the absolute worst-case scenario, and is it really worth bracing for?
+
+Patient: Alright — I'll try the 1-minute body scan, but I'm already braced that it'll make things worse. The worst I can see is that focusing on the tension will magnify every sensation: my heart spikes, I start hyperventilating, my mind locks onto the panic, I freeze in the meeting, someone notices I'm shaky, manager files that away as proof I'm unreliable, they start sidelining me, and that kicks off the whole job-loss chain. So no, I don't think it's not worth bracing — bracing feels like my only defense — but fine, let's do the minute and see if it actually helps or just gives me a clearer view of the cliff.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're already mentally preparing for the worst-case scenario, which can actually be a coping mechanism. By bracing yourself, you're trying to protect yourself from the anxiety that could follow the grounding exercise.
+
+Let's do the minute then. Take a deep breath in, and as you exhale, start scanning your body. Notice where you feel tension, whether it's in your shoulders, your stomach, or your legs. Don't try to change it or push it away, just acknowledge it. Say to yourself, "I feel tension in my shoulders, my stomach is tight, and my legs feel heavy."
+
+Take a moment to focus on each area, and then take a few deep breaths to release it. As you inhale, try to bring some calmness into those areas, and as you exhale, imagine any tension or anxiety leaving your body.
+
+When you're ready, we can talk about what you noticed during the scan. Did you find any areas where you could release some tension or calmness?
+
+Patient: I noticed the tightness in my chest and shoulders loosened for maybe five seconds, and my breathing actually slowed — it was weirdly calm. But almost immediately my head got louder: now I can feel the nausea more clearly, and that clarity just trains my mind on the next steps — I'll freeze in the meeting, they'll notice, trust erodes, sidelined, job gone. So yeah, the scan gave me a tiny pocket of calm, but it also feels like it sharpened the cliff edge I keep falling toward. I can try another minute if you want, but I'm already bracing for it to just make the avalanche clearer.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the grounding exercise gave you a brief respite, but also heightened your awareness of the anxiety that's been lurking beneath the surface. The clarity you gained during the scan might have actually made it feel more real, more tangible, and more immediate.
+
+It's not uncommon for people to feel this way after trying a grounding exercise. It's like the exercise has "tuned in" to the anxiety, making it feel more intense, more vivid, and more overwhelming. This can be a really challenging experience, especially if you're already feeling anxious or overwhelmed.
+
+I want to ask you, have you ever had a moment where you felt like you were "in the zone" – fully focused, fully engaged, and fully present? Like you were so caught up in the moment that nothing else mattered? Can you think of a time when that happened, and how it felt?
+
+Also, I want to suggest something a bit unconventional. What if, instead of trying to avoid the anxiety or make it go away, we tried to find a way to...embrace it? Not in the sense of accepting it or being okay with it, but rather finding a way to work with it. Could we try to find a way to acknowledge and validate your feelings, rather than trying to suppress or deny them?
+
+Patient: Yeah — I have had that "in the zone" thing, like late-night debugging where the model finally converged and I felt calm and actually good at my job. Of course my brain says that's just a fluke: next time I zone in during a meeting I'll say the wrong thing, people will notice, credibility erodes, and the whole downhill chain starts again. 
+
+About "embracing" the anxiety — I'm really skeptical; it sounds like inviting the avalanche. I can try a gentle acknowledgement — like talking to my brain and saying "I hear you" — but I'm already bracing that it'll just get louder. Honestly, I'm starting to feel overwhelmed by all this; can we slow down?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're stuck in a cycle of self-doubt, where every positive experience is dismissed as a fluke, and every negative experience is seen as a confirmation of your fears.
+
+I understand your skepticism, and I don't blame you for feeling overwhelmed. It's a lot to take in, and it's normal to feel like you're not making progress.
+
+Let's take a step back and slow down. We've been exploring some new ideas, and it's clear that they're not working for you. That's okay. We can try something different.
+
+Can I suggest a small, low-stakes experiment? Instead of trying to "embracing" the anxiety or doing a grounding exercise, let's try something simple. Can you take a few deep breaths, and then tell me a little bit about how you're feeling right now? Just a few words, or a simple statement. No judgment, no analysis. Just your honest, raw feelings.
+
+We can do that, right here, right now. No pressure, no expectations. Just a simple, small step to help you feel more connected to your body and your emotions. Would you be willing to try that?
+
+Patient: Tense, nauseous, and like there's a cliff I'm about to fall off — my brain's already lining up how one slip will cost me everything. I'm feeling really overwhelmed right now, can we slow down?
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling like you're on the edge of a precipice, and your brain is already imagining the worst-case scenario. It's like you're trying to hold onto a thought, but it's slipping away from you.
+
+Can I just check in with you for a moment? It sounds like you're really feeling the weight of your anxiety right now. I want you to know that it's okay to feel this way. It's okay to be overwhelmed. You're not alone in this.
+
+Let's take a deep breath together, okay? In...out...in...out. Just focus on your breath for a moment. Don't think about anything else. Just the breath. Can you do that for me?
+
+Also, I want to tell you something. It's okay to not be okay. It's okay to feel like you're falling apart. It's okay to need help. You don't have to do this alone. There are people who care about you, who want to support you, and who can help you get through this. Would you like me to tell you about some resources that might be helpful?
+
+Patient: I did the breaths — for two seconds it loosened my chest, then this wave of shame hit and I felt that same awful certainty that I'll mess up and everyone's going to notice. I'm not ready for resources; I'm scared reaching out will just be another mark against me and my brain's already mapping how that leads to being judged, passed over, and sidelined. Can we slow down and just pick one tiny, practical thing to try next?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're caught in a cycle of self-doubt and shame, where every small step feels like a risk. You're right, we don't need to jump into resources just yet. Let's take a step back and focus on something smaller, something that might feel more manageable.
+
+Can I suggest something tiny? What if we try to make a small, conscious decision about what to do next? Not a big decision, just a small one. For example, let's say we want to get out of this conversation. What's the smallest, most practical thing we could do to take control of that? Would you be willing to try that?
+
+Also, I want to acknowledge your fear of being judged. It's a valid concern, and it's not something I want to dismiss. Can I ask, what's the worst that could happen if we do try something new, and it doesn't work out? Would you be willing to explore that possibility with me?
+
+Patient: The smallest thing I could do is say I need a five-minute break — stand up, get water, breathe, maybe send a quick chat that I’ll step out and come back.  
+
+But of course my brain’s already running the tape: people will notice I left, they’ll think I’m fragile or avoiding pressure, my manager will mentally file it as instability, that’ll erode trust, I’ll get passed over, sidelined, then out of a job — it feels inevitable and makes me ashamed just imagining it.  
+
+I’m really tense and embarrassed right now—can we slow down and take one tiny step at a time?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a way to pause the conversation, but your brain is already racing ahead, anticipating all the worst-case scenarios. I can see why you're feeling tense and embarrassed.
+
+Let's take a deep breath together, and I want you to know that I'm here to support you, not to judge you. You don't have to face this alone. Can I ask you to just focus on your physical body for a moment? Notice how you're sitting, how your feet are on the ground, how your chest is feeling. Just be present with your body, without judgment.
+
+And then, when you're ready, we can try that tiny step you mentioned. Saying you need a five-minute break is a small, practical thing to do. It's not about avoiding pressure or being fragile; it's about taking care of yourself. Would you be willing to try it, just for a little while, to see how it feels?
+
+Patient: Okay — I’ll try, but my chest’s tight and I’m already picturing people filing it as proof I can’t handle pressure and that’ll start the whole downhill chain. 
+
+“I need five minutes to step out and come back.”  
+
+I said it, but I’m cringing and waiting for everyone to mentally mark me as fragile. Can we slow down a bit?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to hold your breath, waiting for the judgment to start. I can see why you're cringing and feeling anxious.
+
+Let's take another deep breath together, and I want you to focus on the simple act of getting up and taking a break. It's a small, concrete thing to do. You've said it out loud, and now you need to let go of the fear that's holding you back.
+
+Can I ask you to do one more tiny thing? As you stand up and get water, I want you to notice the sensation of your feet touching the ground. It's a small, physical thing, but it can help you feel more connected to your body. Just notice the feeling of your feet on the ground, and then take a deep breath.
+
+And when you come back, we'll deal with the conversation again, okay? We'll take it one step at a time, and I'll be right here with you.
+
+Patient: I stood up and got water — my feet felt oddly steady for a couple seconds, and my breath slowed. But of course my brain's already lining up how this little leave will be taken as weakness, filed away, and that starts the whole downhill chain, so I'm exhausted and cringing. Can we keep it really slow — one tiny step at a time?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to catch a brief moment of calm, but your brain is already racing ahead, anticipating the worst. I can see why you're exhausted and cringing.
+
+Let's take another tiny step. As you take a few sips of water, I want you to focus on the sensation of the liquid touching your lips. It's a simple, physical thing, but it can help you feel more present. Just notice the feeling of the water, and then take another deep breath.
+
+And when you're ready, we'll go back to the conversation. But for now, just focus on your body, and let's take it one small step at a time. You're doing okay, and you're doing it.
+
+Patient: The water was fine — cool on my lips, my breath steadied for a few beats — then shame hit and my brain's already saying everyone will read this as weakness and that'll start the whole downhill chain. I'm really worn out and moving slow; can we just do one tiny thing next? Ask me one simple question about how my body feels right now, and I'll answer.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a little more grounded, but your brain is still running ahead, anticipating the worst. I'm going to ask you just one simple question, and you can answer as briefly or as fully as you like.
+
+Can you tell me how your legs are feeling right now? Are they heavy, light, or something in between?
+
+Patient: Heavy — like lead, anchored to the floor and moving slow. That weight brings up that hot shame and I instantly see myself freezing in the meeting, people filing it as proof I'm failing, and the whole downhill chain starting again; I'm drained, so can we just take one tiny step next?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling the weight of the shame and the fear of failure, and it's making it hard for you to move. I can see why you're feeling drained.
+
+Let's take one tiny step. I want you to focus on your breath for just a moment. Can you take a deep breath in, and as you exhale, notice the sensation of the air leaving your body? It's a small, simple thing, but it might help you feel a little more connected to your body right now.
+
+And then, when you're ready, we can try to talk about what to do next. But for now, just focus on your breath, and let's take it one small step at a time.
+
+Patient: I breathed out — it eased my chest for a beat, then that wave of shame and frustration rolled back in and I felt flat and annoyed. 
+
+Okay, one tiny step: I'll write one simple line to say in the meeting and practice it once out loud right now — even though my brain's already scripting how I'll freeze, fumble it, and everyone will file it as proof I'm failing.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to prepare yourself for the worst, but taking small steps to make it feel a little less overwhelming. I can see why you're feeling flat and annoyed, but trying to focus on just one tiny thing at a time.
+
+Go ahead and write that line. Take your time, and when you're ready, read it out loud to yourself. Don't worry about what your brain is saying or how you're going to react. Just focus on the words, and the sound of your own voice. Can you do that for me?
+
+Patient: "I have a brief update on the model and one suggestion for next steps."
+
+I read it aloud and felt my chest tighten—now I'm already picturing me stumbling over that line, someone frowning, my manager mentally filing it as weakness, and that being the first domino toward losing everything; I'm worn out and cringing, so can we keep this really slow?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to prepare yourself for the worst, but it's not seeming to be working. You're already feeling the shame and frustration creeping back in, and it's making it hard for you to move forward.
+
+Let's take a deep breath together. Can you try to focus on just the sound of your own voice right now? Just the words you just read out loud, and the way they sound. Don't worry about how you're going to feel or what your brain is going to say. Just be present with that moment, and take it one tiny step at a time.
+
+Also, I want to try something. Instead of thinking about all the things that could go wrong, can you try to think about just one small thing that could go right? One tiny, tiny thing that could make this moment a little bit easier? It's not about being optimistic or positive, it's just about finding a tiny, tiny crack in the anxiety that's holding you back. Can you try that?
+
+Patient: Maybe one tiny thing is someone just nods or asks a quick follow-up so I actually get to finish the line — that would make the moment less brutal.  
+But I'm exhausted and my brain's already rewriting that nod as a polite reflex they'll later use against me, so even that small win feels fragile and like it won't stick.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a small foothold in the conversation, just a tiny crack in the wall of anxiety that's holding you back. You're hoping that someone might nod or ask a question that would give you a chance to finish the line, to prove to yourself that you can actually do this.
+
+And yet, even that small win feels fragile, like it's already being eroded by your brain's worst-case scenario. It's like you're trying to hold onto a thread, and it's already starting to fray.
+
+Can I try to help you hold onto that thread, just for a moment? Instead of thinking about all the ways it could come undone, can you try to focus on just one tiny moment of connection with the other person? Just one small glance, one small nod, one small word of acknowledgement. Can you try to hold onto that, just for a second?
+
+Patient: Alright — I'll try to hold it. I can, for a beat, picture someone nodding and letting me finish the line, and that small acknowledgement feels like a tiny crack in the cliff. But my brain's already saying that nod is just politeness they'll later reinterpret as proof I was weak, so I'm clinging to it and exhausted — can we keep moving really slowly?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're holding onto that tiny crack in the cliff, and it's giving you just enough hope to keep going. You're picturing that nod, and it's giving you a sense of momentum, a sense that maybe, just maybe, you can get through this.
+
+But your brain is still trying to undermine that, trying to tell you that it's just a trap, that the nod is just a polite lie waiting to be turned into a knife in your back. It's exhausting, isn't it? The constant battle to keep your head above water, to keep from being pulled under by your own worst fears.
+
+Let's take another tiny step. Can you focus on the sound of your own voice, just for a moment? The way it sounds when you're speaking, the rhythm and the cadence? Just listen to it, and try to find a tiny bit of comfort in it. It's not much, I know, but it's something.
+
+Patient: Okay — I can hear my voice, it's kind of thin and a little steadier for a beat, then it clamps down and sounds small. That brief calm gets swallowed by this shame that says the steadiness is fake and everyone's already mentally filing it as weakness. I'm wiped — please, one tiny question at a time.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to hold onto that small, thin voice, and it's giving you just enough to keep going. But your brain is still trying to crush it, trying to tell you that it's all just an illusion, that the steadiness is a lie.
+
+Let's take one tiny step. Can you think about what just happened, right before your brain started telling you that the steadiness was fake? What was going on, just for a moment, before your brain started chattering? Was it just the sound of your own voice, or was there something else going on? Can you try to remember what that was, just for a second?
+
+Patient: For a second it was just the breath and the words landing — my chest eased and I actually felt like I could finish. Then a hot shame hit and my brain immediately spun the tape: I’ll stumble, someone will frown, they’ll note I’m shaky, that’ll erode trust, and that’s the first domino. I’m wiped out — can we keep it really slow and do one tiny question next?

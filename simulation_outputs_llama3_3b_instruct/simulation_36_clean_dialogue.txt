@@ -1,0 +1,101 @@
+Patient: I'm a senior data scientist, and lately I've been feeling really overwhelmed by sadness and a lack of motivation after a difficult breakup. It's starting to affect my relationships and my work — I can't focus or feel connected to people. I guess... I don't know, it's just hard to talk about.
+
+Therapist: Can you describe the specific situations or tasks at work where you feel disconnected and unmotivated?
+
+Patient: Mostly it's the stuff that should be routine. I freeze up when I have to start a new analysis or clean up messy legacy data — I just stare at the codebase and can't bring myself to dive in. Meetings wipe me out; I zone out during syncs and avoid speaking, even when I know I should as a senior, and I keep postponing mentoring junior people or going to team lunches. I don't know, I guess everything that used to feel manageable just feels heavy now.
+
+Therapist: It sounds like the tasks that used to feel manageable are now feeling heavy, which might be a sign that the emotional weight is getting in the way. What would it be like for you if, instead of trying to tackle these tasks head-on, you were to acknowledge the discomfort and take a small step towards them, even if it's just spending 5 minutes looking at the codebase or attending the meeting?
+
+Patient: I don't know... I guess that sounds less scary than trying to do the whole thing. But when I try to start, I get stuck thinking five minutes won't change anything and then I just avoid it. Maybe I could try setting a timer for five minutes, but I'm worried I'll stop after and feel worse about not doing more.
+
+Therapist: The thought "five minutes won't change anything" is a common one, but it's not necessarily true. Can you observe that thought as just a thought, rather than a reality? Would it be possible to take the five minutes, and see what happens?
+
+Patient: I don't know... I guess I could try the five-minute thing — set a timer and just open the code for a few minutes. But I'm worried I'll bail or feel worse afterward, like it just proves I'm useless. Can we talk about what to do if that guilt hits me after the timer?
+
+Therapist: If you do get hit with guilt or self-criticism after the 5 minutes, can you acknowledge that feeling and take a deep breath? What if, instead of judging yourself for feeling that way, you could instead say to yourself, "I'm willing to be with this discomfort, even if it's uncomfortable, because it might lead to progress or a sense of accomplishment"?
+
+Patient: I don't know... I guess I could try saying that to myself, but it already feels kind of cheesy and like I won't actually mean it. What if the guilt just spirals and I can't stop it — do you have a really short, concrete line I could use at work when it hits? I'm starting to feel a bit overwhelmed talking about this, so I keep wanting to shift gears.
+
+Therapist: If the guilt starts to spiral, can you try a simple phrase like "I've got this moment" or "I can handle it" to create a brief pause before getting overwhelmed? Sometimes, taking a small pause can give you the space to breathe and come back to the task.
+
+Patient: I don't know... I guess "I can handle it" feels kind of cheesy to say out loud. Maybe something super concrete like "Five minutes — that's it" or "Open one file" would work better for me. I'm starting to feel a bit overwhelmed talking about this, can we slow down?
+
+Therapist: Let's focus on the concrete action for now: opening one file for 5 minutes. Can you commit to just opening that one file, and we can explore the rest of this conversation later?
+
+Patient: I don't know... I guess I can try. I'll set a timer for five minutes and open one file now — but can you stay with me while I do it? I get worried I'll bail and I don't know what to do if that happens.
+
+Therapist: I'm here to support you. We'll do this together. I'll keep the conversation paused while you work on opening that file. When the timer goes off, we can check in and see how it went.
+
+Patient: I did it — I opened one file and set the timer. I stared at it for a bit, then skimmed one function and fixed a tiny formatting issue; I guess it wasn't much, but I didn't bail. Now I feel... I don't know, a little relieved but also this creeping guilt like it wasn't enough. Can we talk about what a realistic next tiny step might be? I'm starting to feel overwhelmed, can we slow down?
+
+Therapist: Let's celebrate that small step – fixing a tiny formatting issue. What's one tiny, ridiculously small task you could do next to build on that momentum?
+
+Patient: I guess I could add a one-line docstring or comment to that function — literally one sentence explaining what it does, then save and commit. It feels kind of silly, but maybe it's enough to build momentum. I'm starting to feel a bit overwhelmed talking about this, can we slow down?
+
+Therapist: Let's focus on the next tiny step. What would it take for you to add that one-line docstring or comment to the function, right now?
+
+Patient: I don't know... I guess I'd need something really specific so I don't overthink it — like a one-sentence docstring I can copy-paste, and a 2-minute timer while you stay with me. I'm already feeling a bit overwhelmed, so can we go slower and do that now?
+
+Therapist: I've got a one-sentence docstring for you to copy-paste: "This function retrieves user data from the database." We'll do it together, and I'll keep the conversation paused for the 2 minutes. On my signal, we'll check in and see how it goes.
+
+Patient: I don't know... I guess I'll do it. I pasted "This function retrieves user data from the database." into the file and saved it — starting the 2-minute timer now. I'm nervous and a bit shaky, so please stay with me and we'll check in when the timer goes off.
+
+Therapist: Ready to check in when the timer goes off. Stay with me, and when it's done, we'll take a moment to acknowledge what happened, and maybe even celebrate a tiny win.
+
+Patient: The timer ended — I pasted the docstring, saved, and committed the change. I feel... a little proud, but also this nagging thought that it wasn't enough and like I'm somehow failing. I don't know, I guess I'm worried about what to do next and I'm starting to feel overwhelmed; can we slow down and pick one tiny, safe next step?
+
+Therapist: Let's take a deep breath together. Instead of worrying about what to do next, let's focus on what you can do right now. What's the one thing you could do next that feels safe, that you can do in this moment, without overthinking it?
+
+Patient: I don't know... I guess the one safe thing is to just open a pull request for that commit and write "tiny docstring fix" — literally click "Create PR" and be done. It feels kind of scary to make it visible, and I'm starting to feel overwhelmed; can we slow down and stay with this while I do it?
+
+Therapist: I'm right here with you. Take a deep breath, and let's do it together. As you click "Create PR", I'll stay with you, and we'll acknowledge your action when it's done.
+
+Patient: Okay... I clicked "Create PR" — it's done. I feel a tiny bit relieved but mostly anxious, like it's out there now and I don't know if it's good enough. I guess we could just sit with this for a moment and pick one small thing to do while we wait for feedback — I'm starting to feel overwhelmed, can we slow down?
+
+Therapist: Let's sit with the feeling for a moment, and I'm here with you. You've taken a big step by creating the PR. What's the smallest, most tiny thing you could do right now, in this moment, to feel a sense of accomplishment or control?
+
+Patient: I'm not sure I follow — how is that supposed to help? I don't know... I guess the tiniest thing I can do right now is close my laptop lid and take three slow, deliberate breaths to give myself a bit of space. I feel weird about doing nothing, but that seems doable; can we stay with that for a moment?
+
+Therapist: That sounds like a wonderful idea. Let's take those three slow, deliberate breaths together, and I'll stay here with you. Close the laptop lid, and let's take a moment to breathe. When you're ready, we can come back to this moment.
+
+Patient: I closed the laptop and took three slow breaths. I guess it helped a little — my chest is a bit less tight, but I'm still anxious and kind of confused about how this actually helps with the bigger stuff. I'm not sure I follow what comes next; can we stay here a bit and pick one tiny, concrete thing to do after this? I don't know, I just feel kind of stuck.
+
+Therapist: Let's stay with this feeling of calm for a moment. Now, let's focus on something concrete. What's one tiny, single task you could do after taking those breaths, that doesn't require any mental effort or energy, but can help you feel like you're moving forward?
+
+Patient: I don't know... I guess the smallest thing is to add a one-line to-do in my task list — like "check PR feedback" — and set a reminder for a specific time later today. It feels kind of silly but it makes it feel like there's a plan without having to do anything social right now. I'm starting to feel a bit overwhelmed talking about this, can we slow down and stay with it?
+
+Therapist: That sounds like a great idea. Adding a to-do item to your task list and setting a reminder feels like a small win. What's the specific time you'd like to set the reminder for, and would you like to set it for now, or would you like me to help you choose a time?
+
+Patient: I don't know... I guess 4:00 PM today would work — it's usually after my afternoon syncs so I might actually have time. Could you help me decide if that's reasonable or if I should pick tomorrow morning instead? I'm starting to feel a bit overwhelmed, can we slow down?
+
+Therapist: Let's take a look at your schedule. What are your afternoon syncs today? Is 4:00 PM a reasonable time to check the PR feedback, or would tomorrow morning be a better fit?
+
+Patient: I have a design sync at 2:30 and an infra/ops sync at 3:30, then usually nothing until a 5pm wrap-up — so 4:00 is typically between meetings. I don't know... I guess 4pm could work since it's usually quiet, but I'm worried the 3:30 will run long or I'll be too drained and just avoid checking. Tomorrow morning might be better if I want a clearer head, but mornings also feel heavy sometimes — can we set 4pm as tentative and I check in then? I'm starting to feel a bit overwhelmed, can we slow down?
+
+Therapist: That sounds like a great plan. Let's set the reminder for 4:00 PM today, and I'll hold space for you to check in when it comes up. If you find that it doesn't work out, we can always adjust tomorrow morning if needed. For now, let's just acknowledge that you've got a plan in place. How are you feeling about the rest of your day? Is there anything else you'd like to focus on before we wrap up?
+
+Patient: I don't know... I guess I'm okay for the rest of the day if I stick to low-energy stuff and keep that 4pm reminder. I'm feeling a bit overwhelmed and kind of confused about what this actually accomplishes long-term — can we not wrap up yet? Can we stay a little longer and pick one tiny, non-work thing I can do tonight, like make a simple dinner or write one sentence in my journal? I'm starting to feel a bit overwhelmed, can we slow down?
+
+Therapist: I'm glad you're taking care of yourself. What's one tiny, low-stakes activity you'd like to do tonight to help you relax and unwind? Something that brings you joy or calmness, like making a simple dinner or writing in your journal?
+
+Patient: I don't know... I guess making a very simple dinner sounds doable — like pasta or a ready meal I can heat up. Or maybe just write one sentence in my journal like "I did one small thing today." I'm starting to feel a bit overwhelmed, so can we stay with this a bit longer and not rush to finish?
+
+Therapist: That sounds like a great plan. Why don't we just stay here for a moment and focus on making that simple dinner or writing in your journal? Take your time, and let's just be here together. I'll keep the conversation paused, and we can come back to wrapping up whenever you're ready.
+
+Patient: I think I'll try the simple dinner — plain pasta with butter and Parmesan; I guess that's doable and not too much. I don't know how this actually helps with the bigger sadness, I'm not sure I follow the connection, but can we stay while I start it? I'm already feeling a bit overwhelmed, so can we slow down and take it one tiny step at a time?
+
+Therapist: Let's stay with you as you prepare your dinner. Sometimes, taking care of our basic needs can be a way to show kindness to ourselves, even if it doesn't directly address the bigger sadness. As you boil the pasta, can you notice the sensation of the water, the sound of the bubbles, and the smell of the butter melting?
+
+Patient: I can hear the water bubbling and smell the butter — it's oddly calming, I guess. It made my chest loosen a little, but I don't know how that ties to the breakup; it still feels huge. I'm starting to feel overwhelmed talking about the actual breakup, so can we stay here a bit and maybe just name one small, not-too-scary thing about it? I don't know... maybe just say one sentence about what hurt the most, and we can stop if it gets too much.
+
+Therapist: Let's take a deep breath together. What's one small thing about the breakup that still hurts the most, just one sentence, no more?
+
+Patient: I don't know... I guess what hurt most was realizing they didn't see me as someone worth fighting for. I'm already getting really overwhelmed talking about it — can we slow down and just sit with that for a bit?
+
+Therapist: Let's sit with that sentence for a moment. You've said it out loud, and it's okay to feel the weight of those words. We can just be here with that feeling, without trying to analyze or fix it. You can stay with that sentence, and I'll stay here with you.
+
+Patient: I don't know... saying that just made my chest really tight and I feel kind of stupid. I guess it stings because it makes me feel like I was the only one trying. I'm getting really overwhelmed — can we slow down and just breathe together for a minute, or could you ask me something simple about what helps right now?
+
+Therapist: Let's take a deep breath together. As we breathe in, I'm here with you. What's one thing that feels comforting or soothing right now, something that makes you feel safe and calm?
+
+Patient: I don't know... I guess the smell of the butter and the sound of the pasta bubbling feels a bit soothing — like a tiny, safe distraction. I'm starting to feel a bit overwhelmed again; can we slow down and just sit with that for a minute?

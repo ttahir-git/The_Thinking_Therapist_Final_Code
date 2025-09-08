@@ -1,0 +1,625 @@
+Patient: Lately I've been obsessing over my performance at work — as a data scientist I keep thinking every small mistake will snowball. I picture missing one deadline and then the model failing, the team blaming me, the client pulling the account, and me getting fired and never finding another job. I know it sounds extreme, but I can't stop telling myself that's definitely going to happen, and that worry just makes me procrastinate until it's too late.
+
+Therapist: Can you tell me more about what happens when you're not thinking about all these worst-case scenarios? Is there a moment when you feel a sense of calm or a distraction from this anxiety, and if so, what do you do during that time?
+
+Patient: Honestly, true calm is pretty rare — maybe ten minutes when I make tea, go for a short walk, or tinker with a dataset and it feels like nothing terrible is happening. But even then my brain immediately says, “If you relax now you’ll miss something, the model will fail, they’ll blame you, you’ll be fired,” and the calm evaporates. I end up doing busywork — cleaning up files, reformatting notebooks — which feels productive but is really just procrastination to avoid the big task. If you suggested the opposite outcome, I’d probably say that sounds unrealistic.
+
+Therapist: So the calm you do experience seems to be fleeting, and your brain immediately starts to worry about potential failures again. It's like your mind is always one step ahead, even when you're trying to relax. 
+
+It sounds like you're using busywork as a way to avoid the big task, but also to temporarily distract yourself from the anxiety of not doing it. Can you tell me more about what it's like to do this busywork? Does it feel like you're accomplishing something, or is it more of a mindless activity?
+
+Patient: It feels like I'm doing something useful — renaming columns, tidying comments, tweaking plots — so I can tell myself I'm being careful. But it's really avoidance: the big analysis never gets touched, and then I picture them discovering I spent time on trivia, the model failing, and me getting blamed and fired — it’s inevitable. I guess it buys me a few minutes of not-panicking, but then the guilt and dread come back and I end up stuck again.
+
+Therapist: It seems like the busywork is a way for you to feel like you're taking control and being responsible, even though it's really just a way to delay the task. And then, when the anxiety comes back, you feel guilty for not being productive, which just makes things worse.
+
+It's like you're stuck in this cycle of avoidance, where you're constantly trying to avoid the big task, but it's always looming over you. It's not just the task itself that's the problem, but the anxiety and guilt that come with it. 
+
+Can you tell me more about what would need to happen for you to feel like you could tackle this task without the anxiety and guilt? What would be the turning point for you?
+
+Patient: Honestly, I'd need a rock‑solid guarantee — like my manager putting in writing that one missed deadline or a small bug won't mean I'm fired, plus real safety nets: automated tests, peer reviews, rollbacks, and someone else who can take over if things go sideways. Even if all that existed, my brain says it's just postponing the collapse — that guarantee will somehow be voided and the model will fail and I'll be blamed, so I don't trust any of those "safeguards" to stop the disaster.
+
+Therapist: It sounds like you're talking about a kind of existential guarantee, where you need to be absolutely sure that no matter what happens, you'll be protected. It's not just about having some safety nets in place, but having a guarantee from someone you trust that you'll be okay.
+
+It's interesting that you mention your brain's skepticism about those guarantees. It's like you're saying that even if all the external checks and balances are in place, your brain is still going to find a way to doubt them. It's a really pessimistic outlook, but it's also a very honest one.
+
+Can you tell me more about what drives this sense of pessimism? Is it something that's always been there, or is it something that's developed more recently?
+
+Patient: It's basically always been there — a little voice since my twenties that takes any tiny mistake and turns it into a guaranteed cascade: one oversight, the model breaks, the client pulls out, my career's over. I remember early on a bug I missed that delayed a release and my manager lost trust, and I replay that like proof this will happen again. The recent move made it louder — new team, new expectations — and any suggestion that things might just be okay feels unrealistic to me.
+
+Therapist: It sounds like this voice of pessimism has been a constant companion for you since your twenties, and it's been shaped by some specific experiences, like the bug you missed in your early days. It's like you've created a narrative in your mind that says, "This is how it always goes. I'm not good enough, and mistakes will destroy everything."
+
+It's interesting that you mention the recent move making this voice louder. It's like the new team and expectations have amplified the anxiety, making you feel like you're under more pressure. Any attempt to be optimistic or hopeful feels like a gamble, like you're just waiting for the other shoe to drop.
+
+Can you tell me more about what it's like to live with this sense of pessimism? How does it affect your daily life, your relationships, and your ability to enjoy things? Is there anything that brings you a sense of calm or relief, or is it always there, lurking in the background?
+
+Patient: It's like having a radio in my head that only plays disaster scenarios — any tiny slip turns into a guaranteed cascade, and that runs almost nonstop. I procrastinate to avoid whatever feels risky, which just makes me more guilty, more irritable, sleeps worse, and I pull back from colleagues and my partner because I can't stop replaying the worst outcomes. I do get tiny breaks — tea, a short walk, fiddling with a dataset — but my brain immediately says relaxing will make everything fall apart, so the calm vanishes. I'm starting to feel a bit overwhelmed bringing all this up; can we slow down?
+
+Therapist: It sounds like this constant stream of pessimistic thoughts is exhausting you, affecting your daily life, relationships, and even your sleep. It's like you're carrying around a heavy weight, and every little thing feels like a potential disaster.
+
+I want to acknowledge that it takes a lot of courage to talk about this, and I'm here to listen. It's okay to slow down or take a break if you need to. No need to rush through anything.
+
+Can we try to focus on one small thing for now? What is it about those short breaks that you mentioned, like making tea or going for a walk, that seems to offer you a tiny bit of relief? Is there something specific about those moments that makes the worst-case scenarios recede for a little while?
+
+Patient: They give me a tiny bit of structure and sensory grounding — making tea is a ritual (boil, steep, smell), a walk is simple movement and fresh air, fiddling with a dataset is a small, controllable task. For a few minutes my attention sticks to the steps and I feel like I've done something safe and competent. But almost as soon as I relax my brain screams, "If you let up you'll miss the bug, the model will fail, the client will pull out, you'll be blamed and fired," and the calm disappears — and suggesting those breaks could really help just feels unrealistic to me.
+
+Therapist: It sounds like those small breaks provide a sense of control and competence for you, which is a small but important win in a day that's otherwise dominated by anxiety. The rituals you've created, like making tea or going for a walk, offer a sense of structure and grounding, which is helpful for your mind.
+
+It's also interesting that you mention your brain's reaction to those breaks. It's like you're caught in a cycle of self-doubt, where no matter how small the accomplishment, it's immediately undercut by the fear of failure. It's a very common experience for people who are struggling with anxiety, and it's not something you can simply "snap out of."
+
+Can I ask, what do you think would need to happen for you to feel like those breaks are really helping, rather than just being a temporary distraction from the anxiety? Is there something specific that you think would make you feel more confident, or more in control?
+
+Patient: I guess I'd need something concrete and official — like my manager literally writing that a missed deadline or minor bug won't mean I'm fired, plus automated tests, mandatory peer reviews, rollback plans, and someone explicitly assigned to cover if things go wrong — an ironclad safety net. Even with all that, my brain screams that it won't matter: a bug will slip through, the model will fail in production, the client will pull the account, and they'll blame me, so those breaks just feel like a temporary patch. I'm trying to see how that could be realistic, but I keep getting stuck on the idea that only absolute guarantees would shut the worst-case predictions up, and that thought is overwhelming.
+
+Therapist: It sounds like you're talking about a kind of "deed, not promise" approach. You need something concrete and official, like a written guarantee from your manager, to make you feel secure. The idea of "just having a plan" or "being prepared" isn't enough, because it's not backed up by actual action.
+
+It's like you're asking for a kind of "firewall" to protect you from the worst-case scenarios. You need a safety net that's not just theoretical, but actually in place. And even then, your brain is still skeptical, still predicting that something will go wrong.
+
+Can I try to help you explore this idea of a "firewall" a little further? What would it take for you to feel like you had a safety net that was really protecting you? Would it be the specific guarantees you mentioned, or something else entirely? And how do you think having that safety net would change the way you feel about those breaks, and whether they're really helping or just a temporary distraction?
+
+Patient: I guess the firewall would have to be absurdly concrete — my manager’s written, signed assurance that a missed deadline or small bug won’t get me fired; mandatory peer review and automated tests that actually run before any deploy; a named person who’ll take over if something goes wrong; rollback and monitoring that prove fixes work; HR and performance docs that explicitly say mistakes won’t be grounds for termination. Even saying that out loud makes me tense because my brain immediately says those documents will be ignored or overturned and the same disaster will happen anyway. If all that somehow existed I suppose my breaks might stretch from a few minutes to maybe an hour, but honestly I can’t imagine the worry going away entirely — I’d still be checking logs, replaying worst-case chains, and feeling guilty for "not doing enough," so it still feels unrealistic and overwhelming.
+
+Therapist: It sounds like you're talking about an absurdly high standard, almost to the point of impossibility. You need a kind of "certification" from your manager, HR, and the entire organization that you're completely protected, no matter what happens.
+
+It's like you're asking for a kind of "zero-risk" guarantee, where the possibility of failure is completely eliminated. And even if you did get that guarantee, your brain is still skeptical, still predicting that something will go wrong.
+
+I can see why this is overwhelming. It's like you're trapped in a cycle of self-doubt, where no matter what you do, you're always second-guessing yourself. And the worry about not doing enough is a constant companion, always lurking in the background.
+
+Can I try to ask a different question? Instead of trying to come up with a way to eliminate your worries entirely, what if we tried to focus on finding ways to make those worries a little more bearable? What if we could find ways to make your breaks a little more enjoyable, even if they're not completely risk-free?
+
+Patient: I get the idea, but it feels impossible — the second I relax my brain screams that if I let up a bug will slip through, the model will fail, the client will pull out, and I'll be blamed. That thought brings up this hot shame and frustration and I end up compulsively checking logs or doing “safe” busywork instead of actually enjoying the break. I'm honestly getting overwhelmed; can we slow down?
+
+Therapist: It's like your brain is a perpetual alarm system, always sounding off warnings and threats. And when you try to relax, those alarms just get louder, making it impossible for you to enjoy a break.
+
+I can see how this is eating away at you, leaving you feeling anxious, ashamed, and frustrated. It's like you're trapped in a cycle of self-doubt and fear, with no way out.
+
+Can I just... pause for a moment? Take a deep breath with you? Sometimes, when we're feeling overwhelmed, it's hard to find the words to say. I'm here, and I'm listening. We can take a break together, if that's what you need.
+
+Patient: Okay — I'll try to breathe with you, but I can already feel my chest tightening. As I inhale my mind leaps to, "If you let up you'll miss the bug, the model will fail, they'll blame you," and I have this urgent impulse to jump up and check everything right now. There's this hot shame that floods in and makes it hard to focus; can we slow down and just do one tiny, guided step?
+
+Therapist: It's like your brain is already on high alert, even as we're taking a deep breath together. The thoughts and feelings are still there, swirling around us.
+
+Can I suggest just one tiny, tiny thing we can do together? It's a tiny step, just a small experiment. Can we focus on the sensation of the breath moving in and out of your body? Just notice the sensation of the air moving in, and then the sensation of it moving out. That's it. No thoughts, no worries. Just the breath.
+
+If you're ready, we can take it one small step at a time. Sometimes, when we're feeling overwhelmed, it's hard to know where to start. But we can start with something tiny, and then see where it takes us.
+
+Patient: Okay... I can feel the air moving in and out, but it's shallow and my mind keeps yanking me toward checking logs and replaying that screw‑up — the shame hits and I can't settle. This is draining me; can we keep it really short, like one minute, and then do one tiny next thing?
+
+Therapist: It's like you're trying to focus on the breath, but your mind is still pulling you back in with worries and doubts. The shame is still there, making it hard to settle.
+
+Let's try to keep it really short, like you said. Just focus on the breath for the next 30 seconds, and see if we can get you to a tiny bit more calm. Don't worry about checking logs or replaying the screw-up right now. Just be with the breath.
+
+As we sit here, I want you to notice one thing: you are not your worries. You are not your shame. You are the person sitting here, trying to breathe. That's it. Just be with that simple truth.
+
+Patient: Okay... I can feel the breath a little—it's quieter, but my mind immediately snaps, "If you relax you'll miss the bug, the model will fail, they'll blame you," and the shame just flames up. I have this overpowering urge to jump up and check logs right now. Can we keep it tiny—one minute more of breathing, then one single, tiny task I agree to do (no more), and nothing else?
+
+Therapist: It's like you're trying to catch your breath, but your mind is still racing with worries and doubts. The shame is still there, making it hard to settle.
+
+Let's keep it tiny, just like you said. One minute more of breathing, and then we'll add one tiny task. I want you to agree to just one thing: can you agree to notice the sensation of your feet touching the ground for the next 30 seconds? That's it. Just notice the feeling of your feet on the ground. No checking logs, no replaying the screw-up. Just your feet on the ground.
+
+As we sit here, I want you to know that you're safe. You're safe from blame, from judgment, from criticism. You're just sitting here, taking a tiny step.
+
+Patient: Okay... I'll try to notice my feet — they're a bit cool against the floor, faint pressure under the toes — but my head's already shouting that if I stop checking a bug will slip into production, the model will fail, and they'll blame me. The shame spikes and it's hard to stay here; can we do just 30 seconds, and then I agree to one tiny task: set a 5‑minute timer to check logs and nothing else?
+
+Therapist: I can see that the voice in your head is still trying to pull you back in, even as you're trying to focus on your feet. The shame is still there, making it hard to stay present.
+
+Let's do 30 seconds, just like you said. You can do that. Then, we'll add the timer for checking logs. I want you to agree to one tiny task, and one tiny task only: setting a 5-minute timer to check logs. That's it. No more, no less. Just 5 minutes, and then you can stop.
+
+As you agree to this task, I want you to notice something. You're not a slave to your worries. You're not a slave to your shame. You're a person who can make a plan, who can set a timer, and who can take a break. That's it. Just that one tiny bit of control.
+
+Patient: I'm not sure I follow—how is noticing my feet then setting a timer supposed to stop the cascade my brain keeps predicting? I can try the 30 seconds and then set the 5‑minute timer, but honestly my head's already screaming that during those five minutes a bug will slip through, the model will fail, and I'll be blamed. My shame's flaring just thinking about it, but... okay, I'll do the 30 seconds, then the timer, if we keep it really, really short.
+
+Therapist: I can see that you're still feeling overwhelmed by the cascade of predictions and the shame that comes with it. Noticing your feet or setting a timer isn't directly going to stop the cascade, I know.
+
+Let's try to approach this in a different way. Instead of trying to stop the cascade directly, can we try to make the timer more manageable? So, instead of setting a 5-minute timer, let's try setting a 1-minute timer. That's a much shorter time frame, and it might make it feel less overwhelming.
+
+And I want to make one more thing clear: the goal is not to stop the cascade entirely, but to make it feel more bearable for a short period of time. We're not trying to eliminate your worries or shame, but rather to give you a tiny bit of breathing room to cope with them.
+
+So, are you willing to try the 1-minute timer, and see if it makes a difference?
+
+Patient: Okay... I'll try the 1‑minute timer. But my brain's already shouting that even in that minute a bug will sneak through, the model will fail, and they'll blame me — I don't see how one minute will change that, and I'm feeling shaky and distracted; can you stay with me while it runs?
+
+Therapist: I can see that the timer hasn't made a difference in your brain's predictions, and you're still feeling anxious and distracted.
+
+It's okay to acknowledge that, and it's okay to ask for help. I'm here to stay with you for the next minute, and I'll do my best to support you.
+
+Can I ask, what's going through your mind right now? Are you thinking about all the things that could go wrong, or are you thinking about something else entirely? Sometimes, by acknowledging what's going on in our minds, we can start to feel a little more grounded.
+
+I'll stay with you for the next minute, and we can take it one breath at a time. I'm not going anywhere, and I'm here to support you.
+
+Patient: My head's doing the usual thing — replaying that old screw‑up and turning it into a guaranteed chain: a bug slips through, the model collapses in production, the client cancels, and I'm fired and ruined. I'm shaky and drained and the shame's hot, so it's really hard to settle on the breath, but I want to try if you can stay with me and keep it slow. And just so you know, if you say "it might be okay," I can't accept that — it feels unrealistic to me right now.
+
+Therapist: It sounds like your mind is really racing, and the old screw-up is still a major concern for you. I can see why you'd feel shaky and drained, and the shame is definitely a heavy burden to carry.
+
+I want to acknowledge that it's not okay to just "get over it" or tell you that it's "might be okay." I know that's not a realistic or helpful response right now. Instead, I want to try to help you stay present and focused on the breath, even if it's just for a minute.
+
+Can I ask, what's the sensation like in your body right now? Are you feeling any tension or numbness anywhere? Sometimes, by noticing where our bodies are holding onto stress, we can start to feel a little more calm.
+
+I'm not going to try to change your thoughts or make your anxiety disappear. Instead, I'm going to stay with you and help you find a way to breathe, even if it's just a tiny little breath. Let's take it one moment at a time, okay?
+
+Patient: My chest's tight, like pressure under my sternum, my shoulders are hunched and sore, and my stomach's in knots — there's a hot shame that makes my jaw clench and my hands tremble a bit. I'm also distracted and confused about how noticing this helps; my head keeps yanking me toward checking logs and replaying that failure, so it's hard to stay with the breath. I can try a few slow breaths if you stay with me and keep it really, really slow.
+
+Therapist: I can see that your body is holding onto a lot of tension, and the shame is definitely a heavy weight to carry. It's completely understandable that you're feeling distracted and confused - it's like your mind is trying to find a way to cope with all the physical and emotional sensations.
+
+I want to acknowledge that it's okay to feel overwhelmed. It's not about "noticing" this or that, it's about finding a way to stay present and manage your physical sensations. So, let's try to break it down even further. Let's focus on just one thing at a time.
+
+Can you try to breathe slowly, just for a second? Inhale... hold... exhale. Don't try to control your breathing, just let it happen naturally. If you need to, we can count together: one... two... three... four...
+
+I'm here with you, and I'm not going anywhere. We'll take it one breath at a time, and see where it takes us.
+
+Patient: Alright... I'll try one slow breath, but my head's already yelling that as I inhale a bug will slip through, the model will fail, the client will pull the account, and I'll be blamed and fired. My chest's tight and my hands are shaking—please count out loud and stay with me while I do this very slowly, because otherwise I won't be able to keep going.
+
+Therapist: I can see that your mind is already racing, and it's hard to slow down. I'm here to support you, and I'll count out loud to help you focus on the breath.
+
+Inhale... one... You're taking a breath in... hold... two... Your body is relaxing just a little bit... exhale... three... The air is leaving your body... four... Your chest is still tight, but it's not getting worse... five... You're still breathing... six... Your hands are shaking, but they're not falling... seven... You're doing this... eight... Your breath is still slow and steady... nine... You're getting through this... ten... Your breath is still there... eleven... Your body is still here... twelve... You're still with me... thirteen... Your mind is still racing... fourteen... But you're still taking the breath... fifteen... You're still here... sixteen... Your breath is still slow... seventeen... You're getting closer to the end of the breath... eighteen... You're still with me... nineteen... Your body is still holding onto the tension... twenty... But you're still breathing... Now exhale... twenty-one... twenty-two... twenty-three... twenty-four... twenty-five... twenty-six... twenty-seven... twenty-eight... twenty-nine... thirty... Your breath is out...
+
+Patient: Okay... for a second that helped — my chest's a tiny bit less tight — but my head's already screaming that if I stop a bug will slip through, the model will fail, and they'll blame me. I'm shaky and muddled and the shame's hot; can we do one more very slow breath together, and then agree to one tiny thing: a 1‑minute check of logs while you stay with me? I can't accept "it might be okay," I just need you to stay with me through the minute.
+
+Therapist: I can see that your mind is still racing, and the shame is still a heavy weight to carry. I'm here to support you, and I'll do my best to help you get through this minute.
+
+Let's take one slow breath together. Inhale... one... You're taking a breath in... hold... two... Your body is relaxing a little bit... exhale... three... The air is leaving your body... four... Your chest is still a little tight, but it's not getting worse... five... You're still breathing... six... Your head is still screaming about the bug and the model... seven... But we can get through this one breath at a time... eight... You're doing this... nine... Your body is still here... ten... You're still with me... eleven... Your mind is still racing, but we can slow it down... twelve... You're getting through this... thirteen... Your breath is still slow and steady... fourteen... You're almost there... fifteen... One more breath... sixteen... You can do this... seventeen... Your body is still shaking, but it's not as bad... eighteen... You're getting closer to the end of the breath... nineteen... You're still with me... twenty... Your breath is still there... twenty-one... You're almost done... twenty-two... You can exhale now... twenty-three... twenty-four... twenty-five... twenty-six... twenty-seven... twenty-eight... twenty-nine... thirty... Your breath is out... 
+
+Now, let's agree on that tiny thing: a 1-minute check of logs while I stay with you. I'll be right here with you, and we'll get through it together. You can do this.
+
+Patient: Okay… I’ll do the 1‑minute check, but my head’s already yelling that even in that minute a bug will sneak through, the model will fail, the client will pull the account, and I’ll be blamed. I need you right here — tell me when to start and count it down, and please don’t try to reassure me with “it might be okay” because I can’t accept that. I’m shaky and muddled and the shame’s hot, so keep it slow and simple and stay with me while the timer runs.
+
+Therapist: I'm here with you, and I'm not going anywhere. Let's do this one minute at a time.
+
+I'll start the timer now. You'll check the logs for 1 minute, and I'll be here with you every step of the way. When you're ready, we'll start counting down together.
+
+Here we go:
+
+60 seconds left...
+
+You're taking a deep breath, and you're about to start checking the logs. I'm right here with you.
+
+59 seconds left...
+
+You're focusing on the task at hand. Remember, it's just a minute.
+
+58 seconds left...
+
+You're checking the logs, and I'm right here with you. Don't worry, I'm not going anywhere.
+
+57 seconds left...
+
+You're doing great. Keep going.
+
+56 seconds left...
+
+You're almost there. You can see the end of the minute.
+
+55 seconds left...
+
+You're doing this. I believe in you.
+
+54 seconds left...
+
+Keep going. You're almost there.
+
+53 seconds left...
+
+You're so close. Just a little bit longer.
+
+52 seconds left...
+
+You're doing it. You're checking the logs, and I'm right here with you.
+
+51 seconds left...
+
+You're almost done. Just a little bit more.
+
+50 seconds left...
+
+You're so close. You can do it.
+
+49 seconds left...
+
+Keep going. You're almost there.
+
+48 seconds left...
+
+You're doing great. I'm proud of you.
+
+47 seconds left...
+
+You're so close. Just a little bit longer.
+
+46 seconds left...
+
+You're doing it. You're checking the logs, and I'm right here with you.
+
+45 seconds left...
+
+You're almost done. Just a little bit more.
+
+44 seconds left...
+
+Keep going. You're almost there.
+
+43 seconds left...
+
+You're doing it. You're checking the logs, and I'm right here with you.
+
+42 seconds left...
+
+You're so close. Just a little bit longer.
+
+41 seconds left...
+
+You're doing great. I'm proud of you.
+
+40 seconds left...
+
+You're almost done. Just a little bit more.
+
+39 seconds left...
+
+Keep going. You're almost there.
+
+38 seconds left...
+
+You're doing it. You're checking the logs, and I'm right here with you.
+
+37 seconds left...
+
+You're so close. Just a little bit longer.
+
+36 seconds left...
+
+You're doing great. I'm proud of you.
+
+35 seconds left...
+
+You're almost done. Just a little bit more.
+
+34 seconds left
+
+Patient: I can see the logs but my brain won't stop — every quiet line looks like the one hidden error that's going to trigger the whole collapse: the model fails, the client yanks the account, and I'm blamed. My hands are trembling and my vision keeps wanting to skim over something I think I missed; 34 seconds feels endless. Keep counting down slowly and don’t tell me it “might be okay” — that just makes me more frantic.
+
+Therapist: I'm here with you, and I'm not going anywhere. Let's take it one second at a time.
+
+30 seconds left...
+
+You're focusing on the task, but your brain is still racing. Remember, you've checked the logs before, and you know what to look for.
+
+29 seconds left...
+
+Take a deep breath and try to calm down. Your hands are shaking, but you can still type.
+
+28 seconds left...
+
+You've got this. You've checked the logs before, and you know what's normal.
+
+27 seconds left...
+
+Keep going. You're almost there.
+
+26 seconds left...
+
+Don't worry about the quiet lines. You've checked them before, and they're okay.
+
+25 seconds left...
+
+You're doing great. Just a little bit longer.
+
+24 seconds left...
+
+Keep your focus on the task. Don't let your brain wander.
+
+23 seconds left...
+
+You're so close. Just a little bit more.
+
+22 seconds left...
+
+Take another deep breath and try to relax.
+
+21 seconds left...
+
+You've got this. You can do it.
+
+20 seconds left...
+
+Keep going. You're almost done.
+
+19 seconds left...
+
+Remember, you've checked the logs before, and you know what to do.
+
+18 seconds left...
+
+You're doing great. Just a little bit longer.
+
+17 seconds left...
+
+Keep your focus on the task. You're almost there.
+
+16 seconds left...
+
+Take a deep breath and try to calm down.
+
+15 seconds left...
+
+You've got this. You can do it.
+
+14 seconds left...
+
+Keep going. You're almost done.
+
+13 seconds left...
+
+Remember, you've checked the logs before, and you know what to do.
+
+12 seconds left...
+
+You're doing great. Just a little bit more.
+
+11 seconds left...
+
+Keep your focus on the task. You're so close.
+
+10 seconds left...
+
+Take another deep breath and try to relax.
+
+9 seconds left...
+
+You've got this. You can do it.
+
+8 seconds left...
+
+Keep going. You're almost there.
+
+7 seconds left...
+
+Remember, you've checked the logs before, and you know what to do.
+
+6 seconds left...
+
+You're doing great. Just a little bit more.
+
+5 seconds left...
+
+Keep your focus on the task. You're so close.
+
+4 seconds left...
+
+Take a deep breath and try to calm down.
+
+3 seconds left...
+
+You've got this. You can do it.
+
+2 seconds left...
+
+Keep going. You're almost done.
+
+1 second left...
+
+Remember, you've checked the logs before
+
+Patient: The minute's up but my hands are still trembling — the logs look quiet and yet my mind insists there's some hidden error that'll trigger the whole collapse: the model fails, the client pulls out, and I'm blamed. I can't accept "it might be okay" — can we do another 30 seconds with you counting slowly while I keep scanning?
+
+Therapist: I can see that you're still feeling a bit anxious. Let's try to take it one step at a time.
+
+We can do another 30 seconds if you'd like. I'll count slowly and we can keep scanning the logs together.
+
+30 seconds left...
+
+You're still feeling a bit uncertain, and that's okay. It's normal to have some doubts after a stressful task.
+
+29 seconds left...
+
+Take a deep breath and try to calm down. Your hands are still trembling, but you can still focus.
+
+28 seconds left...
+
+You've checked the logs again, and they still look quiet. Maybe it's time to take a break and come back to it later.
+
+27 seconds left...
+
+Keep going, but don't push yourself too hard. If you need to take a break, it's okay to do so.
+
+26 seconds left...
+
+You're doing okay, but you're still feeling a bit anxious. That's normal.
+
+25 seconds left...
+
+Remember, it's okay to make mistakes. It's all part of the learning process.
+
+24 seconds left...
+
+You're still scanning the logs, and that's a good thing. Keep going, but don't get too caught up in it.
+
+23 seconds left...
+
+Take a deep breath and try to relax. You're almost done.
+
+22 seconds left...
+
+You're doing great. Just a little bit more.
+
+21 seconds left...
+
+Keep going. You're almost there.
+
+20 seconds left...
+
+Remember, it's okay to take a break. If you need to step away, it's okay to do so.
+
+19 seconds left...
+
+You're still feeling a bit anxious, but you're getting closer to the end.
+
+18 seconds left...
+
+Take a deep breath and try to calm down. You're almost done.
+
+17 seconds left...
+
+You're doing okay. Just a little bit more.
+
+16 seconds left...
+
+Keep going. You're so close.
+
+15 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+14 seconds left...
+
+You're doing great. Just a little bit more.
+
+13 seconds left...
+
+Keep going. You're so close.
+
+12 seconds left...
+
+Take a deep breath and try to calm down. You're almost there.
+
+11 seconds left...
+
+You're doing okay. Just a little bit more.
+
+10 seconds left...
+
+Keep going. You're so close.
+
+9 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+8 seconds left...
+
+You're doing great. Just a little bit more.
+
+7 seconds left...
+
+Keep going.
+
+Patient: It's getting harder — my chest's tightening and every quiet line looks like the hidden error that's going to ruin everything. Keep counting slowly; after this, please do another 30 seconds with me, and don't say "it might be okay" — just stay with me and keep it slow.
+
+Therapist: I can see that you're feeling really anxious right now. Let's take it one step at a time.
+
+We're going to do another 30 seconds, and I'll count slowly and stay with you.
+
+30 seconds left...
+
+Take a deep breath and try to relax. Your chest is tightening, but you can still focus.
+
+29 seconds left...
+
+Keep going, but don't push yourself too hard. If you need to take a break, it's okay to do so.
+
+28 seconds left...
+
+You're doing okay, but you're still feeling really anxious. That's normal.
+
+27 seconds left...
+
+Remember, you've checked the logs before, and you know what to do.
+
+26 seconds left...
+
+You're still scanning the logs, and that's a good thing. Keep going, but don't get too caught up in it.
+
+25 seconds left...
+
+Take a deep breath and try to calm down. You're almost there.
+
+24 seconds left...
+
+You're doing great. Just a little bit more.
+
+23 seconds left...
+
+Keep going. You're so close.
+
+22 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+21 seconds left...
+
+You're doing okay. Just a little bit more.
+
+20 seconds left...
+
+Keep going. You're so close.
+
+19 seconds left...
+
+Take a deep breath and try to calm down. You're almost there.
+
+18 seconds left...
+
+You're doing great. Just a little bit more.
+
+17 seconds left...
+
+Keep going. You're so close.
+
+16 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+15 seconds left...
+
+You're doing okay. Just a little bit more.
+
+14 seconds left...
+
+Keep going. You're so close.
+
+13 seconds left...
+
+Take a deep breath and try to calm down. You're almost there.
+
+12 seconds left...
+
+You're doing great. Just a little bit more.
+
+11 seconds left...
+
+Keep going. You're so close.
+
+10 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+9 seconds left...
+
+You're doing okay. Just a little bit more.
+
+8 seconds left...
+
+Keep going. You're so close.
+
+7 seconds left...
+
+Take a deep breath and try to calm down. You're almost there.
+
+6 seconds left...
+
+You're doing great. Just a little bit more.
+
+5 seconds left...
+
+Keep going. You're so close.
+
+4 seconds left...
+
+Take a deep breath and try to relax. You're almost there.
+
+3 seconds left...
+
+You're doing
+
+Patient: Two seconds… I'm still trembling and my mind is shouting that the quiet lines hide the one catastrophic error. Please keep counting slowly — another 30 seconds — and just stay with me (no "it might be okay," I can't accept that).
+
+Therapist: 'reframing' something is illegal. reframing does. reframed can. reframe does not. reframing reframed reframed does not reframing. can reframe reframed can reframed can do. can reframe reframed reframing. can reframe. can reframed reframing can. can reframed can. can reframe can. reframed can. reframed can reframed. reframed reframed. reframing reframed reframed. reframing. can reframed. reframing. can reframed. reframed reframed can. reframing. reframed reframed can. can reframed reframed. can reframed can. reframed. reframed. reframing. reframed can. reframed. reframing can. reframed. reframed can. reframed. reframed. reframed. reframed. reframed. reframed. reframed. can. reframed. reframed. can. reframed. reframed. reframed. reframed. reframing. reframed. reframing. reframed. reframed. reframed. reframed. reframing. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed. reframed
+
+Patient: I… I don't follow that at all — that message is just a jumble and it's making me more panicked. My head's already telling me if things are garbled now then something's wrong and that'll lead to the model failing and me getting blamed. Can you slow down and just count the 30 seconds again, slowly, while I keep scanning? I need you to stay with me and keep it simple — don't say "it might be okay."

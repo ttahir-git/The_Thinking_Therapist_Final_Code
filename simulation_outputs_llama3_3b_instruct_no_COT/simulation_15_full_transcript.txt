@@ -1,0 +1,414 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I can't stop worrying that I'm not doing enough at my business—every decision feels like it could ruin things, and that worry just freezes me. Because of that I procrastinate on important tasks, even though I know delaying makes everything worse, and after a recent health scare the fear's only gotten louder. I'm pretty skeptical this will help though—people tell me to "just break it down" or "push through," and I've tried that; it doesn't work for me.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those fears can be really intense. Can you tell me more about what it means to you when you say that "just breaking it down" or "pushing through" hasn't worked for you? What happens in your body or mind when you try those strategies?
+
+Patient: When I try to break things down, my mind immediately jumps to every little thing that could go wrong—my chest tightens, my heart speeds up, and I can't focus on the next step. Instead of progress, I get stuck rehashing details or avoiding the task altogether, doing busywork that feels safe but pointless. Honestly, I've heard that advice a hundred times—how is that supposed to help when my body's already convinced I'm failing?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like breaking things down feels like a slippery slope for you, where it's not just the big picture, but every tiny detail becomes a potential problem. Can you think of a time when you felt a sense of freedom or ease in decision-making, even with uncertainty? What were you doing or how were you feeling in that moment?
+
+Patient: There was once, last summer on a short trip, where I handed the schedule to my partner and just stopped trying to control everything—my shoulders relaxed, I could breathe, and decisions felt straightforward instead of like landmines. In that moment I wasn't scanning for every possible mistake; I actually trusted things would be okay. But that was rare, and honestly I don't see how remembering that helps me recreate it at work—how is that supposed to help?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is really good at recalling the opposite of what you need right now. What's interesting is that even in that moment of relaxation, you were still making a choice to let go of some control. Can you explore what might happen if you were to try letting go of some control in a small way right now, even if it feels scary or uncomfortable?
+
+Patient: I guess I could try letting go by delegating one low-stakes task—like asking my assistant to draft a client email and telling myself I won't redo it— or setting a 15-minute timer to force myself to make one decision and move on. But when I try that, my chest tightens and my brain starts running through every thing that could go wrong and I end up hovering or rescuing it anyway. How is that supposed to help? I've handed things off before and then spent days fixing the fallout, so it feels risky and kind of pointless, but... maybe starting smaller would feel less awful.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're already trying some small steps, but they're not sticking. What would happen if, instead of trying to control the outcome, you were to focus on what you could control in the next moment – just the act of making that one decision, without thinking about the email or the potential consequences? Could you give that a try, just for a few breaths, and see what that feels like?
+
+Patient: Okay—I tried what you said. I focused on my breath for a few breaths and forced myself to make one tiny decision: I picked a subject line for the draft email and told myself I wouldn't tinker with it. For a moment my chest loosened and it felt doable, but then my brain immediately started rehearsing every thing that could go wrong and I felt the urge to hover again. I'm trying to see how this connects to my problem, but I'm struggling—how is that supposed to help with the pattern of rescuing things afterward and the constant replay in my head?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you were able to catch the cycle, at least for a moment. The fact that your brain started rehearsing worst-case scenarios suggests that it's still quite invested in controlling the outcome. Can you explore what might happen if, instead of trying to stop those thoughts, you were to acknowledge them as just thoughts – like a commentary in the background – and see if your body could settle down a bit?
+
+Patient: I tried that—calling the thoughts "just thoughts" for a minute—and they didn't disappear but felt a little less urgent; my chest loosened a notch and I could breathe. But the mind kept running the worst-case scripts and I still felt this itch to jump back in and fix whatever might go wrong later. How is that supposed to help with the part where I end up rescuing things afterward and replaying it for days? I'm starting to feel a bit overwhelmed—can we slow down and talk about a concrete, moment-by-moment thing I can do when the urge to hover hits?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's not about making the thoughts disappear, but about creating some space between them. What if, when the urge to hover starts, you were to pause, and instead of jumping in, you simply say to yourself, "I've got this task," or "I can come back to it later" – just a simple acknowledgment that you're willing to let go of the need to control the outcome?
+
+Patient: I can try saying "I can come back to it later," but honestly that feels like tapping the snooze on an alarm that's still going off. When the urge hits my chest tightens and I either hover or promise I'll fix it later, then spend days undoing whatever I let go—how is that supposed to stop the rescuing cycle? I'm starting to feel a bit overwhelmed—can we slow down and pick one small, specific action I can do in the moment that might actually interrupt the compulsion?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're trying to temporarily quiet the alarm, but the underlying current is still driving it. What if, in the moment the urge to hover hits, you were to simply take a few steps back and look around the room – not at the task, but at the space around you – and notice the sensations in your body, the sights, the sounds? Could that be a tiny anchor to bring you back to the present?
+
+Patient: Okay—I tried that in my head just now and scanning the room did loosen my chest a little, maybe enough to breathe. But the thoughts still rush back and I keep thinking I'll just end up rescuing whatever I let go of later—how is that supposed to actually stop the compulsion instead of just postponing it? I'm getting a bit overwhelmed—can we slow down and pick one very concrete moment-by-moment action (like three slow breaths, put my hands flat on the desk, then get up and walk to the hallway for two minutes) and talk through whether that would realistically interrupt the urge?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like scanning the room helped you find some temporary relief. Now, let's try a very small, tangible action to create a bit more space. What if, as soon as you feel the urge to hover, you were to take one physical action that has no logical connection to the task – like taking a sip of water, or blinking slowly three times? Could that be a tiny distraction that interrupts the cycle?
+
+Patient: I'm not sure I follow—how is sipping water or blinking three times supposed to stop the whole cycle? It might calm me for a few seconds, but then I'll still feel the pull to hover and fix things later. I can try something concrete like three slow breaths, put my hands flat on the desk, then get up and walk to the hallway for two minutes, but I need you to tell me why that would realistically stop me from rescuing it afterward.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's not about eliminating the cycle entirely, but about creating a small pause. When you take a break from the task, you're giving yourself some space to breathe, notice your body, and potentially develop a different perspective. The two-minute walk can be a small, neutral action that allows you to disengage from the immediate urge to hover. By taking a break, you're not making a decision about what to do next, you're simply giving yourself permission to take a step back and come back to it later. This can help shift the power from your thoughts to your physical presence in the moment.
+
+Patient: I still don't get it—how is taking a two‑minute walk supposed to stop me from rescuing things afterward? My chest tightens and my brain just starts rehearsing fixes the second I walk away, so I come back and undo it anyway. I've tried breaks before and they turn into postponing plus guilt. I'm starting to feel overwhelmed—can we slow down and map out a really specific, moment‑by‑moment script I can use (what I do during the walk, exactly what I tell myself when I come back, and one hard rule to prevent immediate hovering)?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's break it down. Here's a possible script: 
+
+1. When you feel the urge to hover, you notice it.
+2. You take a deep breath and say to yourself, "I'm going for a short walk" (just stating the action, no explanation).
+3. You walk to the hallway for two minutes, focusing on the sensation of your feet touching the ground, the sounds around you, and the breath moving in and out of your body.
+4. When you return to your desk, you sit back down and say to yourself, "I'll come back to this task later, but for now, I'm taking care of my body" (acknowledging your physical needs).
+5. One hard rule to prevent immediate hovering: You commit to sitting with your hands flat on the desk, with no intention to touch the task or get back to it right away.
+
+This script provides a clear, tangible action to create a pause and some physical disengagement from the task. The goal is not to change your thoughts or emotions, but to create a small buffer between your body and the task.
+
+Patient: I'm not sure I follow — how is walking and sitting with my hands flat supposed to stop me from coming back and rescuing things? When that urge hits my chest tightens and my head immediately starts drafting fixes, so breaks just feel like postponing plus guilt. If we're going to try this, I need one concrete, enforceable rule for when I return — like a 10‑minute "no touch" timer and a short sentence I say out loud that reminds me not to rescue; otherwise I'll just cave. I'm starting to feel overwhelmed — can we slow down and pick that single return-action right now?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's focus on the return action. What if, when you come back to your desk, you simply say to yourself, "I will not touch this task for the next 5 minutes" – a clear, direct statement that gives you a sense of control and sets a boundary.
+
+Patient: I'm not sure I follow—how is saying "I will not touch this task for the next 5 minutes" supposed to stop my brain from immediately drafting fixes? If we're going to try it, I need an enforceable setup: I put a visible 5‑minute timer across the room, say the sentence out loud, then put my hands flat on the desk and don't look at the task until the timer rings. Also, exactly what do I do in the moment the urge spikes during those five minutes—what do I say or do that actually interrupts it? I'm getting a bit overwhelmed; can we slow down and walk through that moment‑by‑moment?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you want a more concrete setup. Here's an updated plan:
+
+1. You put a visible 5-minute timer across the room.
+2. You say the sentence out loud, "I will not touch this task for the next 5 minutes."
+3. You put your hands flat on the desk and don't look at the task.
+4. When the urge to hover spikes, you simply acknowledge it: "Ah, I notice my mind is trying to fix this again." 
+5. That's it. You don't try to stop the thought or push it away, you just acknowledge it and let it be.
+
+The goal is to create a small pause, not to change your thoughts or emotions, but to create a buffer between you and the task. By acknowledging the urge, you're giving yourself permission to let it be, and by not engaging with it, you're creating some space.
+
+Patient: I'm not sure I follow—just saying "I notice" sounds like it'll let the rehearsal keep running. If we're doing a script, give me one exact sentence to say out loud when the spike hits, one physical action to do for 10 seconds (like pressing my palms flat or squeezing a stress ball), then the timer rule—nothing else until it rings; otherwise I'll just cave. I'm getting overwhelmed—can we slow down and actually role‑play that exact moment so I can see if it would work?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's role-play the exact moment.
+
+Imagine you're sitting at your desk, and suddenly you feel the urge to hover. You take a deep breath, and when the spike hits, you say out loud: "I am having a thought."
+
+(No judgment, no trying to change it, just stating the fact that a thought is present)
+
+Then, for 10 seconds, you press your palms flat on the desk.
+
+Finally, you look at the timer and say out loud: "I will not touch this task for the next 5 minutes."
+
+That's it. No trying to change the thought, no arguing with it, just acknowledging it and setting a boundary.
+
+Can we try it in a low-stakes way, just for a few breaths?
+
+Patient: Okay—I tried it just now: I breathed in, said out loud, "I am having a thought," pressed my palms flat for about ten seconds, and then said, "I will not touch this task for the next 5 minutes," imagining the timer across the room. It loosened my chest a hair, but almost immediately the rehearsal started again, so I'm not sure I follow how this actually stops me from coming back and rescuing things later. I'm getting a bit overwhelmed—can we slow down and you give me one exact sentence to say if the spike gets worse and one single, doable physical action to do in that moment?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's focus on what happens when the spike gets worse.
+
+If the rehearsal starts again, and you feel yourself getting drawn back into trying to fix the problem, here's what you can say and do:
+
+Sentence: "This is just a thought, and it's not the same as doing the task."
+
+Physical action: Take a slow, deep breath in through your nose and out through your mouth, and let your eyes gently close for 1 second.
+
+This small pause can help you break the cycle and give you a tiny bit more space. The idea is not to change the thought, but to acknowledge it as just a thought, and to take a moment to return to your physical body.
+
+Patient: I'm not sure I follow—saying "This is just a thought..." sounds okay on paper, but how is that supposed to stop me from rehearsing fixes the second the timer starts? I can try the breath-and-close-eyes thing, but when the spike gets worse my chest tightens and one breath feels laughably small—can we pick one stronger, concrete anchor I can do for 20 seconds (something physical I can feel) that might actually interrupt the body? I'm getting overwhelmed—can we slow down and role‑play the worst‑case spike now so I can see if it would hold up?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try a stronger anchor.
+
+If the spike gets worse, and your chest is tightening, I want you to do something physical that you can feel, something that will interrupt the cycle.
+
+Imagine that your fingers are turning blue. Yes, you heard that right – imagine that your fingers are turning blue, and every time that happens, you take a deep breath in, and then you look down at your hands and say "My hands are blue."
+
+This is a tangible, concrete action that you can feel, and the shock of seeing your hands turn blue might be enough to interrupt the cycle. Can we try it in a low-stakes way, just for a few breaths, and see how it goes?
+
+Patient: I'm not sure I follow—how is imagining my fingers turning blue supposed to help with a real tightness in my chest? I tried it just now: I pictured my hands going blue, said "my hands are blue," and took a breath, and it nudged my attention to my body a little, but then the rehearsal started up again almost immediately. Can we try a more grounded, physical anchor—like gripping a stress ball or pressing my feet hard into the floor for 20 seconds—and role‑play that worst‑case spike so I can see if it actually holds up? I'm getting overwhelmed, so can we slow down.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I understand your concern about the imaginative anchor. Let's try a more grounded, physical anchor.
+
+Imagine that you have a small rubber band in your hand, and every time you feel the urge to hover, you wrap the rubber band around the back of your wrist tightly for 20 seconds. The physical sensation of the band digging into your skin might be enough to interrupt the cycle.
+
+Let's role-play the worst-case spike. Imagine that you're sitting at your desk, and suddenly you feel the urge to hover. You take a deep breath, and then you wrap the rubber band around your wrist. You hold it tightly for 20 seconds, feeling the sensation of the band digging into your skin. As you release the band, you say to yourself, "I've got this."
+
+Can we try it now, slowly and deliberately, and see how it goes?
+
+Patient: I'm not sure I follow—wrapping a rubber band tightly around my wrist feels like self-harm and I don't want to do that. How is that supposed to help my chest when it tightens? I could try squeezing a stress ball hard or pressing my feet into the floor for 20 seconds instead; can we role‑play that step‑by‑step right now? I'm getting overwhelmed—can we slow down.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I understand your concern about the rubber band. Let's try a different physical anchor.
+
+Let's role-play the step-by-step process with squeezing a stress ball.
+
+First, you'll squeeze the stress ball hard in your hand for 20 seconds, focusing on the sensation of your hand and the pressure of your grip.
+
+As you squeeze, I'll guide you through the next steps. When you're ready, say "I've squeezed."
+
+Then, you'll put the stress ball down, and take a deep breath in.
+
+After your breath, I'll guide you to put your hands flat on the desk.
+
+Finally, you'll look at the timer and say "I will not touch this task for the next 5 minutes."
+
+Can we start with the first step: squeezing the stress ball?
+
+Patient: Okay — I squeezed the stress ball hard for about 20 seconds and my hand felt tense; my chest loosened a little. I'm not sure I follow how that actually stops the rehearsal though — as soon as I put it down my mind started drafting fixes again. I did say "I've squeezed" like you asked; now what exactly do I do if the urge spikes during those five minutes, and can we slow down and role‑play that moment step‑by‑step?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the stress ball helped you focus on your body for a moment.
+
+Let's break down what happens when the urge spikes during the 5 minutes.
+
+As soon as you feel the urge to hover, you'll put the stress ball down, and that's when we'll use the "My hands are blue" anchor.
+
+Here's how we'll role-play it:
+
+1. You'll put the stress ball down and say "I've put the ball down."
+2. Then, you'll focus on your hands and say "My hands are blue" (like you did earlier).
+3. You'll take a deep breath in.
+4. You'll put your hands flat on the desk.
+5. You'll look at the timer and say "I will not touch this task for the next 5 minutes."
+
+Let's start again, and we'll go step-by-step. You've already squeezed the stress ball; now it's time to put it down and say "I've put the ball down."
+
+Patient: I've put the ball down. I'm not sure I follow—how is saying "my hands are blue" and a breath supposed to stop the rehearsal when the spike gets worse? I'm feeling overwhelmed; can we slow down and role‑play that exact worst‑case moment now so I can see if it'll actually hold up?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's role-play the exact worst-case moment.
+
+Imagine that you're sitting at your desk, and suddenly you feel the urge to hover. You put the stress ball down and take a deep breath in.
+
+As you exhale, you say to yourself, "My hands are blue."
+
+The goal is to focus on the physical sensation of your hands turning blue. Can you imagine that happening, and what it might feel like?
+
+(Note: don't worry about the actual color of your hands; it's just a metaphor for the physical sensation. Just focus on the sensation of your hand turning blue, and the feeling of putting it down.)
+
+Patient: I'm not sure I follow — how is picturing my hands blue supposed to help when my chest's already tight? I tried that kind of thing and it only nudges my attention; the rehearsal comes roaring back. If we're doing an anchor, give me something real I can feel: pressing my feet hard into the floor for 20 seconds and saying out loud, "I will not fix this now." Can we role‑play the worst‑case spike step‑by‑step with that, and please slow down — I'm starting to feel overwhelmed.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I apologize for not understanding your needs earlier.
+
+Let's try the new anchor: pressing your feet hard into the floor for 20 seconds and saying "I will not fix this now."
+
+Here's the role-played scenario:
+
+1. You feel the urge to hover, and you put your hands flat on the desk.
+2. You take a deep breath in.
+3. As you exhale, you press your feet hard into the floor and say out loud, "I will not fix this now."
+4. You hold your feet pressed into the floor for 20 seconds.
+5. Then, you look at the timer and say, "I will not touch this task for the next 5 minutes."
+
+Let's start with step 1: you put your hands flat on the desk. Take a moment to feel the weight of your hands on the surface.
+
+Patient: Okay—I put my hands flat on the desk. I can feel the weight and a little tremor in my fingers, but my chest is still tight. How is that supposed to stop the rehearsal? I can press my feet into the floor now, but if the spike gets worse, what exactly do I say or do in that moment so I don't cave? I'm getting overwhelmed—can we slow down and actually time the 20 seconds together so I know I'm doing it right?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's focus on the 20-second anchor.
+
+When you feel the urge to hover, you put your hands flat on the desk and take a deep breath. Then, you press your feet hard into the floor.
+
+The goal is to maintain that physical sensation for 20 seconds, without letting your mind wander. When the urge spikes, you'll focus on the sensation of your feet pressing into the floor and say "I will not fix this now."
+
+Let's time it together. I'll start counting from 1. You press your feet into the floor and say "I will not fix this now." Ready? 1... 2... 3... (pause for 20 seconds, feeling your feet pressing into the floor)
+
+When we get to 20, you'll stop pressing your feet and take a deep breath in. Then, we'll look at the timer and say "I will not touch this task for the next 5 minutes."
+
+Patient: Okay—I pressed my feet into the floor and counted with you. For about 15 seconds my chest loosened a bit and I could feel the pressure under my soles; when you hit 20 I took a breath like you said. But almost immediately my head started drafting fixes again—how is that supposed to stop me from jumping in afterward?
+
+If the rehearsal restarts during the 5‑minute no‑touch, give me one exact sentence to say out loud and one single physical action I can keep doing (real, simple, and doable) until the timer rings—no imaginal stuff. I'm getting overwhelmed; can we slow down and role‑play that exact spike now, with you counting so I can practice it properly?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the anchor is still not holding up.
+
+Let's focus on the exact moment when the urge spikes again. Imagine that you've been working on your task for 2 minutes, and suddenly you feel the urge to hover. You've been pressing your feet into the floor for 20 seconds, and you've taken a deep breath.
+
+As the urge spikes, you say out loud: "I am not my thoughts."
+
+At the same time, you keep doing a single, simple physical action: you press your fingers together.
+
+Let's practice it together. I'll count from 1. You press your feet into the floor and take a deep breath. When you're ready, we'll start the count again. Ready? 1...
+
+Patient: Okay — I'm pressing my feet into the floor and taking a deep breath now. I said "I am not my thoughts" and pressed my fingers together; my chest eased a notch but my brain started drafting fixes immediately. How is that supposed to stop me from rescuing it later? I'm getting overwhelmed — can we slow down and set one hard rule I actually have to follow (and time it) so I can practice it for real?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like "I am not my thoughts" and pressing your fingers together aren't holding up.
+
+Let's set a hard rule that you can follow. From now on, when you feel the urge to hover, you will:
+
+1. Say out loud: "I am not my thoughts."
+2. Press your fingers together.
+3. Hold your fingers together for 10 seconds.
+4. Look at the timer and say "I will not touch this task for the next 5 minutes."
+
+Let's practice it together. I'll start the timer. When you feel the urge to hover, say "I am not my thoughts" and press your fingers together. Ready? 1... 2... 3... (pause for 10 seconds) 4...
+
+Patient: Okay—I did it: I said "I am not my thoughts," pressed my fingers together and held them for ten seconds, then looked at the timer. For a second my chest loosened, but the rehearsal started again almost immediately—how is that supposed to stop me from jumping in later and rescuing things? I'm getting overwhelmed; can we slow down and map out one hard, enforceable rule (and what happens if I break it) and role‑play the worst‑case spike step‑by‑step so I can actually practice it?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the rule isn't holding up.
+
+Let's set a new, hard rule that you can follow. From now on, when you feel the urge to hover, you will:
+
+**Rule:** You will not engage with the task for 5 minutes after feeling the urge to hover.
+
+**Consequence:** If you break the rule by looking at the task or making a decision about it within those 5 minutes, you will put the stress ball down and start over.
+
+Here's the role-played scenario:
+
+1. You feel the urge to hover and put your hands flat on the desk.
+2. You take a deep breath and press your feet into the floor.
+3. You say out loud: "I am not my thoughts."
+4. You hold your fingers together for 10 seconds.
+5. You look at the timer and say, "I will not engage with the task for 5 minutes."
+
+Let's practice it together. I'll start the timer. When you feel the urge to hover, say "I am not my thoughts" and press your fingers together. Ready? 1... 2... 3... (pause for 10 seconds) 4... (start timer)
+
+Patient: Okay—I did it: I said "I am not my thoughts," pressed my fingers together for ten seconds, and started the timer. For a breath it eased, then the rehearsal came back hard and I felt my chest tighten like before. I'm confused—how is that supposed to stop me from rescuing things later? 
+
+Also, the consequence you gave (put the stress ball down and start over) just sounds like more punishment and guilt if I fail. If I break the 5‑minute rule, what exactly do I do step‑by‑step that actually undoes the urge instead of just restarting the loop? And what do I do the moment the timer rings so I don't cave straight away? I'm getting overwhelmed—can we slow down and role‑play the worst‑case spike now, with you walking me through the exact words and actions from the spike through the timer ending?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I understand your concerns about the rule and the consequence.
+
+Let's revisit the rule and the consequence. Instead of punishment, the consequence will be a gentle reset. When you break the rule, you'll acknowledge the urge and gently bring your attention back to your body. Here's the revised rule:
+
+**Rule:** You will not engage with the task for 5 minutes after feeling the urge to hover.
+
+**Consequence:** When the timer goes off, you'll take a few deep breaths, notice how your body is feeling, and acknowledge the urge. Then, you'll say to yourself, "I'm back to my body" or "I'm present with my body" to bring your attention back to the physical sensations.
+
+Now, let's role-play the worst-case spike step-by-step, with exact words and actions.
+
+1. You feel the urge to hover and put your hands flat on the desk.
+2. You take a deep breath and press your feet into the floor.
+3. You say out loud: "I am not my thoughts."
+4. You hold your fingers together for 10 seconds.
+5. You look at the timer and say, "I will not engage with the task for 5 minutes."
+6. The timer goes off. You take a few deep breaths, noticing how your body is feeling.
+7. You say to yourself, "I'm back to my body" or "I'm present with my body."
+
+Let's practice it together. I'll start the timer. When you feel the urge to hover, say "I am not my thoughts" and press your fingers together. Ready? 1... 2... 3... (pause for 10 seconds) 4... (start timer)
+
+Patient: I did the whole thing with you — said the line, held my fingers, started the timer — and for a second it loosened, then the rehearsal came roaring back. I'm not sure I follow how any of this actually stops me from diving in the second the timer ends; I need one exact sentence to say out loud the moment the timer rings that won't feel like useless fluff, and one single physical thing I have to do for 30–60 seconds that actually anchors me so I don't cave. I'm getting overwhelmed — can we slow down and role‑play that exact moment (timer rings → what I say, what I do, how long) step‑by‑step so I can practice it for real?

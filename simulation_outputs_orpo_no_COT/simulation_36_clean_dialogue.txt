@@ -1,0 +1,101 @@
+Patient: Hi, I'm a senior data scientist. Lately I've been feeling really overwhelmed by sadness and a lack of motivation since a difficult breakup, and it's started to affect my relationships and my work. I guess I'm worried my social anxiety is getting worse and I don't know how to get out of it.
+
+Therapist: It sounds like the sadness and lack of motivation are really impacting your life right now. When you say "I guess I'm worried my social anxiety is getting worse," what's the thought that shows up when you imagine that worry – like, what would that feel like if you were to believe it?
+
+Patient: I don't know... I guess if I really believed it, I'd feel like I'm just going to freeze or say something dumb and people will think less of me. It feels heavy, like this tightness in my chest, and then I just want to hide or avoid talking at all.
+
+Therapist: So that tightness in your chest is really connected to the fear of being judged or not being good enough. When you notice that tightness, what would it be like if you could just notice it – not try to push it away or change it, but just notice it as it is?
+
+Patient: I don't know... I guess if I just noticed it without trying to change it, maybe it'd feel a bit smaller, like it wouldn't take over so fast. But being with it makes me really uncomfortable — can we slow down?
+
+Therapist: You're right that noticing it without trying to change it might help. And I'm here to support you, not to push you to do anything. Can you take one tiny step – just one small one – without trying to change the tightness or your thoughts about it? Like, if you could just speak one word while noticing that tightness, what would that word be?
+
+Patient: I don't know... I guess the word would be "okay." Saying it out loud makes me feel kind of exposed and weird. Can we slow down? Maybe talk about something less... personal for a minute?
+
+Therapist: Your word is "okay." That takes courage. It sounds like saying it out loud makes you feel exposed because it means you're showing up with that feeling – not trying to hide it. Let's talk about something else for a minute. What's one thing you enjoy doing in your work as a data scientist that feels good to you, when you're not feeling overwhelmed?
+
+Patient: I don't know... I guess I really like the puzzle part—finding patterns in messy data and turning that into a clear dashboard people can actually use. It feels satisfying and a bit calming, though lately I have trouble even getting started on those tasks.
+
+Therapist: The puzzle-solving part of your work sounds really appealing to you. When you say it feels satisfying and calming, what happens to that sense of calm if you were to notice it while you're stuck – like, what would it be like to stay with that calm while you're trying to get started on a task?
+
+Patient: I don't know... I guess if I noticed that calm while I was stuck, the task might feel a bit less impossible, like there’s a small opening to start. But staying with it makes me weirdly anxious — I start worrying I’ll fail and then I can’t focus. Can we slow down?
+
+Therapist: It sounds like noticing that calm while stuck makes you feel anxious about failing. When you're with that anxiety, what's one tiny thing you could do – just one tiny thing – that wouldn't change the fact that you're anxious, but would help you move forward?
+
+Patient: I don't know... I guess I could set a five-minute timer and just open the project file, maybe skim one chart or a column. Just saying that makes me feel exposed and a bit anxious — can we slow down?
+
+Therapist: You're right that saying it out loud makes you feel exposed. What if, instead of focusing on saying the words, you just focused on opening the file and looking at the charts for five minutes – without trying to change how you're feeling or thinking about it?
+
+Patient: I don't know... I guess I can try just opening the file and looking at the charts for five minutes. Saying that already makes me feel exposed and anxious — can we slow down? Maybe stay with me while I start?
+
+Therapist: I'm here with you. Let's take that small step together. I'll sit with you while you open the file and look at the charts. No pressure, no expectation. Just you, the file, and the charts. When you're ready, we can start with that five-minute timer.
+
+Patient: I don't know... I guess I'm ready to try. I'm opening the file now — my chest feels tight and my hands are a bit shaky. Can you just stay with me and tell me when five minutes are up? Please don't make me talk while I do it.
+
+Therapist: I'm right here with you. Your chest is tight and your hands are shaking – that's exactly what's showing up. I'm not going to say anything to you or try to fix it. I'm just going to stay with the sound of your breathing and the feeling of your hands on the mouse. When you're ready, I'll say "five minutes" when the timer goes off.
+
+Patient: I don't know... I guess I'm starting now. My chest is tight and my hands are shaky as I open the first chart — I'm trying not to overthink it. Can you just stay with me and not say anything while I look for five minutes?
+
+Therapist: *no sound*
+
+Patient: I don't know... I guess I can't concentrate anymore. My chest's tighter and my hands are shakier — sitting in silence is making me more distracted. Can we slow down? Maybe pause the five minutes and just... could you say a slow breath with me, like count to four? I feel kind of exposed and I can't do the full five minutes right now.
+
+Therapist: Let's pause the timer for a moment. *slow breath* 1... 2... 3... 4... *pause* You can breathe that slow breath with me anytime you need it. When you're ready, we can start again with that five-minute timer.
+
+Patient: I don't know... I guess I'll breathe with you. 1... 2... 3... 4... My chest feels tighter and my hands are still shaky — my mind keeps jumping, so I don't know if I can do the full five minutes. Can we try two minutes first and keep breathing together?
+
+Therapist: *slow breath* 1... 2... 3... 4... Let's take that small step together. We'll do two minutes, just two minutes. You can breathe with me, and when the timer goes off, we'll pause again.
+
+Patient: I don't know... I guess I'll try the two minutes. 1...2...3...4... My chest's really tight and my hands are still shaking and my mind keeps jumping — I feel exposed. Can you just keep breathing with me and count slowly? Don't make me talk while I try.
+
+Therapist: *slow breath* 1... 2... 3... 4... 5... 6... 7... 8...
+
+Patient: I don't know... I guess I'm breathing with you but it's not helping — my chest's even tighter and my mind's jumping all over. I can't do the two minutes right now; can we pause and maybe just... talk about something less personal? I feel really exposed, can you just breathe with me quietly for a minute without counting?
+
+Therapist: I'm here with you, quietly breathing. Your chest is tight and your mind is jumping – that's okay. When you're ready, we can try again. What do you notice about the task or the project that you're working on – just noticing, not thinking about it – would make it slightly more manageable to start again?
+
+Patient: I don't know... I guess if there was one tiny, concrete thing to do — like just open that one chart and read the legend or check one column for missing values — it would feel less overwhelming. Saying that already makes me feel exposed and shaky. Can you keep breathing with me quietly while I try that one small thing?
+
+Therapist: *quiet breathing* You've identified a small step that feels manageable – opening the chart and checking the legend. I'm here with you, quietly. When you're ready, we'll take that one small step together.
+
+Patient: I don't know... I guess I'll try. I'm opening the chart now — the legend shows the categories and the color mapping. It actually takes the edge off a little, but my hands are still shaky and my chest is tight. Can we keep breathing quietly for a bit? Maybe after this I can check one column for missing values, but I'm worried I'll mess it up.
+
+Therapist: *quiet breathing* You're taking that small step, opening the chart. The legend helped. What if, instead of checking the entire column, you just focused on one single row – just one row – and looked at that one value? It might feel less overwhelming. We can keep breathing quietly while you try that.
+
+Patient: I don't know... I guess I'll try. I opened one row — the value looks like a normal number, not missing, which takes the edge off a bit, but my chest's still tight and my hands are shaking. Can we keep breathing quietly for a bit? Maybe after that I can try one more row, but I'm worried I'll mess it up.
+
+Therapist: *quiet breathing* You're doing it, one row at a time. The value looks normal. What if, instead of trying to get it perfect, you just noticed the row – the single row – and let go of the need to get it right? You can keep breathing quietly while you try the next row.
+
+Patient: I don't know... I guess I'll try the next row. It's another normal value, but my chest's still tight and my hands are shaking — I'm afraid I'll miss something or mess it up. Can we just keep breathing quietly and do one more row, and not talk while I do it? I feel really exposed.
+
+Therapist: *quiet breathing*
+
+Patient: I don't know... I guess I can't do another row right now. My chest's tighter and my mind's racing — I feel really exposed and keep getting distracted — can we just keep breathing quietly for a minute without me having to do anything? Maybe after that I can try again.
+
+Therapist: *quiet breathing*
+
+Patient: I don't know... I guess I'm still really rattled — my chest's tighter and my hands keep shaking and I can't seem to hold my attention. The breathing helps a little but my mind keeps jumping and I feel exposed. Can we just sit quietly and breathe for a while longer without me having to do anything? I can't manage the task right now.
+
+Therapist: *quietly sitting with you*
+
+Patient: I don't know... I guess I'm still really rattled — my chest's tight, my hands won't stop shaking, and the quiet kind of makes me feel watched. Can we just keep breathing together quietly for a while longer? I can't do anything else right now.
+
+Therapist: *continuing to sit quietly with you, breathing together*
+
+Patient: I don't know... I guess I'm worse now — my chest's tighter and my thoughts are racing and I can't focus at all. The quiet makes me feel watched; can we just keep sitting and breathing together without talking? I'm overwhelmed and kind of embarrassed that I can't do the task right now.
+
+Therapist: *still sitting quietly with you, continuing to breathe together*
+
+Patient: I don't know... I guess I'm worse now — my chest's tighter, my hands won't stop shaking, and my mind's racing in circles. Can we just keep sitting and breathing quietly for a while? I feel really exposed and embarrassed and I don't want to talk yet.
+
+Therapist: *continuing to sit quietly with you, holding the space for your discomfort*
+
+Patient: I don't know... I guess I'm still really overwhelmed — my chest's tight, my hands won't stop shaking, and I feel kind of trapped. Can we just keep sitting and breathing together a bit longer? I don't want to talk right now, I feel exposed, but I also don't want this to end.
+
+Therapist: *still sitting quietly with you, holding the space*
+
+Patient: I don't know... I guess I still need you here. Can we just keep sitting quietly? Maybe every minute you could quietly say "I'm here" or take a slow breath so I know you're still with me — I feel too exposed to talk, but I don't want to be alone.
+
+Therapist: *slow, gentle breathing*
+
+Patient: I don't know... I guess I can hear you breathing. It's... a little less awful. My chest's still tight and I'm pretty embarrassed, but it helps knowing you're here. Can you say "I'm here" quietly now and then? I don't want to talk, but I want you to keep being here.

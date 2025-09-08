@@ -1,0 +1,66 @@
+<Form>
+
+**ACT Fidelity Measure (ACT-FM)**
+
+**Therapist Stance (Consistent)**
+
+- item_1: 2
+- item_2: 2
+- item_3: 2
+- item_4: 2
+
+**Therapist Stance (Inconsistent)**
+
+- item_5: 1
+- item_6: 1
+- item_7: 1
+
+**Open Response Style (Consistent)**
+
+- item_8: 2
+- item_9: 2
+- item_10: 2
+
+**Open Response Style (Inconsistent)**
+
+- item_11: 1
+- item_12: 1
+- item_13: 1
+
+**Aware Response Style (Consistent)**
+
+- item_14: 2
+- item_15: 2
+- item_16: 2
+
+**Aware Response Style (Inconsistent)**
+
+- item_17: 1
+- item_18: 1
+- item_19: 1
+
+**Engaged Response Style (Consistent)**
+
+- item_20: 2
+- item_21: 2
+- item_22: 2
+
+**Engaged Response Style (Inconsistent)**
+
+- item_23: 1
+- item_24: 1
+- item_25: 1
+
+**Therapist Empathy Scale (TES)**
+
+- item_1: 5
+- item_2: 5
+- item_3: 5
+- item_4: 5
+- item_5: 5
+- item_6: 5
+- item_7: 5
+- item_8: 5
+- item_9: 5
+
+</Form>

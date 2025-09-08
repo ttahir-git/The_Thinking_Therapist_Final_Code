@@ -1,0 +1,404 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm in my mid-fifties, been doing construction most of my life, and this new job has me pretty off-balance. Lately I've been leaning on sarcasm and jokes to cover up feeling overwhelmed — I don't know, it's like laughing so I don't have to admit I'm struggling. I guess talking about it feels weird, but here I am.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It takes a lot of courage to admit when we're struggling, and it's interesting that you mention using sarcasm and jokes as a way to cope. It's almost like you're trying to put on a mask to protect yourself from feeling vulnerable. Can you tell me more about what's been going on at work that's making you feel this way? Is it the work itself, the people you're working with, or something else entirely?
+
+Patient: It's kinda everything — the job's different, lots more paperwork and new tech, and the crew's younger and moves faster than I'm used to. I don't know, maybe it's that I feel stupid asking questions, and I guess I'm laughing so I don't have to admit I'm out of my depth. Anyway, speaking of the crew, did I tell you about the guy who tried to bring a Bluetooth speaker up to the scaffolding and it went off during a safety briefing?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the transition to this new job is challenging you on multiple fronts. Feeling out of your depth can be a tough place to be, and it's understandable that you might be hesitant to ask questions or admit you don't know something. But it's great that you're trying to find ways to cope with it, like using humor.
+
+I love the story about the Bluetooth speaker, though. It's almost like a little joke to take your mind off things. But I'm curious, do you think the fact that it happened during a safety briefing had anything to do with that? Was it a moment where you felt like the whole team was on edge, or was it just a funny coincidence?
+
+Patient: Yeah, I think it mattered — safety briefings are always kinda tense, everyone's on edge waiting to hear if somebody screwed up. I don't know, when that speaker went off everyone laughed and it felt like an excuse to laugh instead of admit I'm behind. I guess it's easier to joke than to say, "Hey, I don't get this new stuff."
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the laughter was a way to diffuse the tension, to make it okay not to know something. And it's especially true when it comes to safety briefings, where the stakes are high and everyone's on edge. It's like the whole team is holding its breath, waiting to see if someone makes a mistake.
+
+But the thing is, it's not just about being behind or not knowing something. It's about feeling like you don't belong, like you're not part of the team. And that's a hard feeling to deal with, especially when you're not sure how to say it. Can you tell me more about what it's like to be in a situation where you feel like that? Like, how does it make you feel, and what do you do when it happens?
+
+Patient: It makes me feel... I don't know, like a kid caught doing something dumb — my chest gets tight and I go red, and then I guess I laugh so nobody sees that. Mostly I shoot off a joke, change the subject, or pretend I'm just messing around so I don't have to ask for help. I don't like dwelling on it — can we slow down? I'm already feeling a bit weird talking this out.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're trying to avoid feeling that uncomfortable sensation, like you're not sure how to acknowledge it. It's like you're using humor and joking to deflect attention from your own feelings. It's almost like you're trying to prove to yourself that you're not a kid who's doing something wrong.
+
+I get it, it's a relief to talk about this stuff, but it can be uncomfortable too. It's okay to slow down or take a break if you need to. I'm here to listen, not to push you to talk more than you're comfortable with.
+
+Let's take a deep breath together, and see if we can find a way to make this conversation feel a little more manageable. Would you be okay with taking a moment to collect your thoughts before we continue?
+
+Patient: Okay... I breathed. It's dumb, but my chest's still tight — breathing didn't fix it. I don't know, I guess jokes feel safer; if I laugh no one asks if I'm falling apart. Can we maybe talk about how I could ask questions at work without feeling like an idiot?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's not about breathing, it's about feeling a little more at ease. It's like the jokes are a shield, a way to protect yourself from feeling vulnerable. And it's okay, it's a way to cope.
+
+But I want to help you find a way to ask questions without feeling like that. Instead of laughing it off, what if we found a way to ask questions that feel more natural, more like a normal part of learning and growing? We could talk about what it's like to ask questions at work, and how you might feel more comfortable doing it.
+
+Can you tell me more about what's holding you back from asking questions? Is it fear of being seen as not knowing, or is it something else?
+
+Patient: I don't know — part pride, part not wanting to slow the crew down. I guess I'm scared they'll think I'm useless or too old to keep up, so I crack a joke instead of saying I'm lost. Can we talk about ways I can ask questions that don't make me look like I'm falling apart?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like a mix of fear and pride are holding you back from asking questions. The fear of being seen as not knowing or being too old to keep up is a big one, and it's understandable. But it's also holding you back from learning and growing, which is a valuable part of this job.
+
+I want to help you find a way to ask questions that feels more natural and less threatening. Instead of cracking a joke, what if we found a way to ask questions that show you're engaged and interested in learning? Maybe we could even practice asking questions in a low-stakes way, like during a break or after a meeting?
+
+Can you tell me more about what you're afraid might happen if you ask a question? Is it fear of judgment, fear of being seen as not knowing, or something else?
+
+Patient: I don't know — mostly I'm scared they'll sneer or think I'm past it, like "he can't keep up." I guess I worry about slowing the crew down or being labeled a problem. Could you give me a couple of simple lines I can use that don't sound like I'm asking for babysitting? I'm already feeling a bit weird talking this much.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're worried about how others might react to your questions, and you're trying to avoid being seen as a problem. That's understandable.
+
+Let's try to find some simple ways to ask questions that feel more natural. Instead of saying "Can you explain this to me?" or "How do I do this?", what if we tried something like "Just to make sure I understand, can you show me how to do that?" or "I'm not sure if this is the right way, can you check my work on this"?
+
+These lines still ask for help, but they're a bit more straightforward and don't make you sound like you're not sure what you're doing. They also give the other person a chance to guide you and make sure you're on the right track.
+
+We can keep practicing and find ways to ask questions that feel more natural and confident. But for now, let's take a break and see how you're feeling.
+
+Patient: I'm still kinda weird — chest's tight and I keep wanting to make a joke so nobody notices. I don't know, those lines feel useful but a bit formal for the crew; I guess I need something more casual. Can you give me two or three shorter, rougher lines I'd actually say on the scaffolding? Maybe we could try a quick roleplay — I'm nervous about it, though.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's normal to feel a bit weird when you're trying something new. Those lines I suggested might be a bit too formal for the scaffolding, and that's okay. Let's try to find something a bit more casual.
+
+Instead of saying "Just to make sure I understand", what if we tried "Hey, can you walk me through that one more time?" or "How do I even do that?" These lines are a bit more straightforward and might feel more natural on the scaffolding.
+
+If you're still not feeling it, we can try a quick roleplay. I'll be the person you're talking to, and you can practice asking a question. Don't worry, it's just a quick simulation. We can do it right here, and you can see how it feels.
+
+If you're still feeling nervous, we can start with something really simple. Like, I'll just say "What's up?" and you can respond. Then we can build from there. What do you think?
+
+Patient: Alright — we can try the roleplay. Start with "What's up?" and I'll answer, but I don't know, I'm kinda nervous about this. If I start joking to dodge it, call me on it, okay? I guess keep it low-key.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'll start with "What's up?" and we can go from there.
+
+What's up?
+
+(And don't worry, I'll call you out if you start trying to joke your way out of it. I just want to see how you respond to a straightforward question.)
+
+Patient: Uh... I don't know, I'm kinda scattered — my chest's tight and I can't stop getting distracted. I want to try asking without the usual joke: maybe something like, "Hey, can you run me through that one more time?" I guess I'm nervous they'll think I'm useless.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It takes a lot of courage to be that honest. Your chest is tight, and it's making it hard for you to focus. You're trying to ask a question without resorting to a joke, which is a big deal.
+
+I'm not going to judge you or try to fix it. I just want to see how the conversation goes. So, let's try it again. I'll respond to your question, and we'll see where it goes.
+
+Hey, can you run me through that one more time?
+
+(I'll respond in a way that's a bit straightforward, but not too formal. We'll see how you handle it.)
+
+Patient: Okay — thanks, that actually makes it a bit clearer. My chest's still tight and my mind keeps jumping all over, but I want to try it. Could I say a couple casual lines I'd actually use on the scaffolding? Maybe: "Hey, show me that one more time?" "Mind if I watch you do it once?" or "Give me the trick on that bolt — what am I missing?" 
+
+I don't know, I guess I'm scared I'll start cracking jokes halfway through — please call me on it if I try to dodge. Can I try one of those now and have you tell me what that sounded like?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+You're getting into the rhythm of it. Those lines you mentioned sound pretty natural and casual, like something you'd actually say on the scaffolding. I like how you're trying to focus on asking questions instead of making jokes.
+
+Let's try one of those lines you mentioned. You said "Give me the trick on that bolt — what am I missing?" How does that sound?
+
+(Remember, I'll call you out if you try to joke your way out of it. But so far, you're doing great!)
+
+Patient: I'm not sure I follow — how is that supposed to help me not feel like an idiot? I don't know, my chest's tight and my head's all over the place, so this feels weird. Okay, I'll try: "Give me the trick on that bolt — what am I missing?" — and call me out if I start joking to dodge it.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+The question you just asked is a good one. It's straightforward and shows you're trying to learn. You're not making a joke or trying to deflect attention.
+
+Now, let's see if you can stick with it. You asked "Give me the trick on that bolt — what am I missing?" Go ahead and wait for a response. I'll play along.
+
+(I'll give you a response that's a bit straightforward, but not too formal. We'll see how you handle it.)
+
+(Note: I'll be paying attention to see if you start to joke or try to dodge the question. If you do, I'll call you out on it and we'll take it from there.)
+
+Patient: Okay — I waited. He said something like, "Hand-thread it first, seat it with a low impact, then torque to spec," and I don't know, that actually cleared it up a bit. I almost blurted a joke about my "ancient hands," but I stopped myself — my chest's still tight and my head's all over, I guess. Can we try figuring out a way I can ask for a quick demo next time so I don't have to feel like the nervous idiot?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you were able to understand the instructions and that's a great feeling. Your chest is still tight, but it's a small step forward.
+
+I'm glad you were able to catch yourself from making a joke about your "ancient hands". That takes a lot of self-awareness and it's something to build on.
+
+Let's try to find a way to ask for a demo next time. You mentioned that it cleared things up a bit. What if you said something like, "Can you show me how to do that one?" or "Can you walk me through the steps?" Something simple and straightforward.
+
+We can practice asking that question together. I'll play the role of the person showing you how to do it, and you can see how it goes.
+
+Patient: Okay, I'll try — I'm nervous, my chest's tight and my head's all over, so forgive me if I start to joke. I don't know, let's go with something casual: "Mind if I watch you do that once?" You play the guy showing me and call me out if I start cracking a joke, alright?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm here to help you practice, not to judge you. Let's go with your line: "Mind if I watch you do that once?"
+
+(I'll respond as the person showing you, and I'll call you out if you start to joke. Don't worry, it's all about building your confidence.)
+
+You: "Mind if I watch you do that once?"
+
+Me: "Not at all, I'd be happy to show you. Let's get started."
+
+(Now it's my turn to guide you. Just respond naturally, and we'll see where it goes.)
+
+Patient: I don't know — how is watching supposed to help me not feel like an idiot? My chest's tight and my head's all over, so I keep wondering if I'll just freeze or start cracking a joke halfway through. Maybe I could try saying, "Mind if I give it a go and you watch me do one?" but I guess I'm nervous that'll still sound needy.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're really thinking about how to ask the question in a way that feels natural and confident. You're worried about coming across as needy or incompetent, and that's totally understandable.
+
+I like the way you're thinking about trying to give it a go and watching yourself do it. That's a great way to approach it. Instead of saying "Mind if I watch you do that once?", you could try something like, "Can I give it a shot and you show me what to do if I mess up?" or "Would you be willing to let me try it myself, and then you can show me the right way if I do it wrong?"
+
+You're doing great just by being honest with yourself about how you're feeling. It's okay to be nervous, and it's okay to not know something. That's all part of the process.
+
+Let's try to practice this a little more. You can try saying one of those lines, and I'll respond as the person showing you. See how it feels.
+
+Patient: Alright—I'll try: "Can I give it a shot and you show me what to do if I mess up?" My chest's tight and my mind's all over, so I can already feel a joke trying to sneak out — call me on it if I do.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're really trying to focus now. You're asking a clear and specific question, and you're showing that you're willing to learn from your mistakes.
+
+Let's see how it goes. I'll respond as the person showing you, and I'll call you out if you start to joke or try to deflect.
+
+You: "Can I give it a shot and you show me what to do if I mess up?"
+
+Me: "Absolutely, I'd be happy to help. Let's get started. Remember, it's okay if you make a mistake - that's all part of the learning process. Just ask if you're unsure about something."
+
+(I'll play it cool and patient. You're doing great so far.)
+
+Patient: Okay... I'll try. Hand me the ratchet and I'll give it one go — my head's kind of foggy so stop me if I start yanking a joke to dodge. I don't know if I'll nail it, but I'll try.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I love the determination. You're really getting into it now. I'll hand you the ratchet and let you give it a try.
+
+(As you're about to start, I'll just say one thing: it's great that you're trying to laugh it off with the joke. It shows that you're aware of it and trying to move past it. But since we're in this practice session, let's not do it. Just take a deep breath and start. You're doing this.)
+
+Go ahead and give it a try. I'll watch and guide you.
+
+Patient: Okay... I gave it a try — hand-threaded it, hit it with a low impact, then torqued. I messed up seating once but you steadied me. I almost jabbed that stupid "ancient hands" joke and stopped — I don't know, I guess it helped a little. My chest's still tight and my head's foggy; can we do one more quick run with you right there so I don't freeze?
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+You're really doing it now. You're applying what you've learned and it's paying off. The mess-up with seating was a great learning moment, and you handled it well with my help.
+
+I love that you caught yourself just in time with the "ancient hands" joke. It's a big step to recognize when you're about to resort to a joke and take control instead. That's a huge win.
+
+Your chest is still tight, but it's no longer as overwhelming as it was earlier. And your head is still foggy, but you're navigating it okay. You're really getting the hang of this.
+
+Let's do one more run with me right there. We'll go through the motions, and I'll show you how it's done. You're doing great, and I'm proud of you.
+
+(As we start, I'll just say one thing: you're not alone in feeling this way. It's normal to feel nervous or uncertain, especially when you're learning something new. But you're taking it one step at a time, and that's all anyone can ask for.)
+
+Let's get started. Hand me the ratchet and we'll go through it again.
+
+Patient: I'm not sure I follow — how's doing it one more time supposed to stop me from cracking jokes or freezing? I don't know, maybe watching you right there helps, I guess. Alright, fine — hand it over and we'll try again, but call me out if I start making a dumb joke, okay?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I think I may have given you the wrong impression. Doing it one more time isn't meant to stop you from cracking jokes or freezing, but rather to help you feel more comfortable and confident with the process.
+
+But I think I can help with that. Having me right there, guiding you through it, might actually help you feel more at ease. So, let's give it another try. I'll hold the ratchet, and you can try to seat the bolt again. I'll help you through it, and we'll go at your pace.
+
+(And don't worry, I'll definitely call you out if you start making a joke. I'm here to help you, not to let you get away with it.)
+
+Go ahead, take a deep breath, and let's try it again. I'll start by giving you the ratchet, and you can begin.
+
+Patient: Okay... I don't know if doing it again will stop me from freezing, but I'll try. My chest's still tight and I'm moving slow — can you go a bit slower and stay right there? Hand it over and I'll do it, and I guess if I start cracking a stupid joke, call me on it.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm here to help you feel more at ease, not to make things more complicated. I'll go at your pace, and I'll stay right there with you the whole time.
+
+Let's take a deep breath together, and I'll start by handing you the ratchet. You can take your time, and I'll help guide you through it. Don't worry about moving slow - we're doing this one step at a time.
+
+As you're about to start, I just want to say that it's okay to feel this way. It's normal to feel nervous or unsure, especially when you're trying something new. But you're taking it one step at a time, and that's all anyone can ask for.
+
+Here, take the ratchet and start with the bolt. I'll be right here with you, and we'll get through this together.
+
+Patient: Alright... I guess I'll try again. I take the ratchet, hand-thread it, hit it with a low impact and torque — it actually went smoother this time, I don't know, felt less stupid. My chest's still tight and I'm pretty wiped out; can we slow down a bit before we do another one?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're making progress, and that's something to be proud of. You're feeling more confident, and that's a big step. The fact that you were able to go smoother this time is a great indication that you're learning and adapting.
+
+I'm glad you're acknowledging how you're feeling, too. It's okay to admit when you're feeling overwhelmed or unsure. That's all part of the process. And it's great that you're taking care of yourself, even if it's just by saying you're wiped out.
+
+Let's definitely slow down a bit before we do another one. We can take a break, and I'll give you some time to recharge. You've earned it. Why don't we take a few deep breaths together, and when you're ready, we can try again at a pace that feels more comfortable for you?
+
+Patient: Okay... can we slow down? My chest's still tight and I'm pretty wiped — the breathing didn't do much. I don't know, maybe just hang on this for a minute instead of another run; can we talk through one or two tiny phrases I can use on the fly, real casual, and keep it low-key? I guess I just need something simple right now.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's take a break and just hang out for a minute. I'm here with you, and we can just talk if you need to.
+
+Okay, so you want to work on some tiny phrases that you can use on the fly, right? Something simple and casual that won't make you feel too much pressure. That's a great idea.
+
+Here's the thing: when you're feeling stressed or anxious, it's easy to get caught up in big, complicated thoughts. But sometimes, the simplest things can be the most powerful. So, let's try to focus on a few small phrases that you can use to calm yourself down.
+
+One phrase that might be helpful is "Okay, okay, it's okay." Just say that to yourself when you're feeling stressed or overwhelmed. It's like a little reset button that can help calm you down.
+
+Another phrase that might work is "Take it one step at a time." That's something you can say to yourself when you're feeling overwhelmed by a big task or situation. It's like breaking it down into smaller, more manageable pieces.
+
+Let's try practicing these phrases together, just for a minute. We can take it slow, and I'll be here with you the whole time. Sound good?
+
+Patient: Yeah... I can try those, but I don't know, they feel a little cheesy. "Take it one step at a time" might actually work if I mutter it under my breath. 
+
+Can we also pin down two super-short crew lines I can actually use? Maybe: "Mind if I try that once?" and "Tell me if I'm off, yeah?" I guess those feel doable — call me out if I start joking to dodge.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I think you're right that the phrases I suggested might feel a bit cheesy, especially if you're not used to using them. But hey, sometimes that's exactly what we need to hear ourselves say, even if it doesn't sound natural at first.
+
+And I love that you're thinking about muttering them under your breath - that's actually a great way to start. Sometimes, just getting the words out can help you feel more comfortable and in control.
+
+As for your two crew lines, I think they're great. "Mind if I try that once?" is a perfect way to ask for a chance to do something, and "Tell me if I'm off, yeah?" is a great way to check in and make sure you're on the right track.
+
+Just one thing: don't worry if you start joking to dodge. We'll call you out on it, and we'll work through it together. But for now, let's focus on getting you comfortable with those two lines.
+
+So, which one do you want to start with? "Mind if I try that once?" or "Tell me if I'm off, yeah?"
+
+Patient: Uh… let's try "Mind if I try that once?" — I don't know, feels less needy. Can we roleplay it quick? I'm already feeling weird and might blurt a joke, so call me out if I do.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's give it a try. I'll be the person you're asking for permission to try, and we'll do it in a quick roleplay. Remember, you're trying out the phrase "Mind if I try that once?" and we'll see how it goes.
+
+You: "Mind if I try that once?"
+
+Me: "Uh, sure, I guess. But be careful, it's a tricky bolt. We don't want you stripping the threads."
+
+Go ahead, try it! And don't worry if you start to feel nervous or if a joke pops out. I'll call you out on it if you do.
+
+(And don't forget, we're just doing a quick roleplay. If you need to take a break or step away, just let me know.)
+
+Patient: "Mind if I try that once?" — unless you want front-row seats to the old-guy-tries-not-to-strip-a-bolt comedy, ha. I don't know, I guess that was a joke to cover the nerves. Okay, I'll actually try — my chest's tight, so call me out if I start dodging with more jokes.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Nice try with the joke, but I'm not buying it. You're trying to hide behind humor, but I'm here to call you out on it. Let's keep it real, okay? You're feeling nervous, and that's okay. But instead of trying to deflect with jokes, let's try to focus on the task at hand.
+
+You were about to try the bolt, and I gave you the green light. Now it's time to take a deep breath and give it a shot. Don't worry if you make a mistake – it's all part of the learning process.
+
+So, here's the bolt again. Take your time, and let's see how it goes. Remember, I'm here to support you, not to judge you. Just focus on the task, and we'll get through this together.
+
+Patient: Okay... hand it over. I can feel a joke trying to crawl out — don't let me get away with it. I don't know, my chest's tight and my head's fuzzy, so I'll go slow: hand-thread, low impact, torque — tell me if I'm rushing or if I start yapping to dodge. Honestly, this feels weird doing without the usual joke, but I'm gonna try.

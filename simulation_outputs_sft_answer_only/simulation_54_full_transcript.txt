@@ -1,0 +1,284 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Um... I'm an older artist who just started a really demanding new program, and it's been bringing up a lot of social anxiety. Lately I get unexpectedly angry and frustrated in interactions there, and I don't know how to manage it without feeling awful afterward. I guess I'm worried it's going to mess up my work and make me look… unprofessional.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like this new program is pushing you out of your comfort zone, and that's causing a mix of emotions, including frustration and anger. Have you ever felt like you're hiding or pretending to be someone else, especially in those interactions?
+
+It seems like you're already aware that it's not ideal to be angry or frustrated, but the feeling is still there, and you're not sure how to handle it. Can you tell me more about what's been happening in these interactions? What kind of situations are you in, and how do you think you've been reacting?
+
+Patient: I guess...yeah, I do feel like I'm hiding — putting on a calm, polite mask during critiques so I don't seem fragile. It usually happens when someone questions my methods or when things get rushed; I either snap with something sharp or shut down and then stew about it for hours. I don't know, I try to tell myself to stay professional but it just feels impossible sometimes.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're performing this perfect, put-together artist persona, but inside, you're feeling really raw and exposed. Those interactions can be really tough to navigate, especially when you're already feeling vulnerable.
+
+It's interesting that you mention the critiques – it sounds like that's a place where you feel like you're being really scrutinized and judged. Have you noticed that when someone makes a comment, it's not just about the comment itself, but how it makes you feel? Do you find that certain things trigger a strong reaction in you, even if it's not necessarily a rational response?
+
+Patient: I guess...yeah, it's more about how it's said — a curt tone or when someone assumes my approach is outdated — not the actual critique. I don't know, it hits me like a shame thing, and then I get hot and snappy or I just shut down and stew. I don't really like poking at it, though — could we maybe talk about ways to not blow up in the moment?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the way someone says something can be really hurtful, even if the words themselves aren't that bad. It's like the tone and the assumption can be a lot to take in, and it's triggering this shame response in you.
+
+Let's try to break it down a bit more. What happens right after someone makes a comment that triggers this shame response? Do you notice any physical sensations, like tension in your body or a rush of emotions?
+
+And I want to acknowledge that trying to talk about this can be really hard, especially if you don't like thinking about it. But it's actually a really brave thing to do, and it can help you find ways to manage your reactions in the moment.
+
+Patient: I guess... right after someone says something, my face gets hot and my chest feels tight, like my breaths get shallow. My hands go tense and I either snap with something I regret or I go quiet and replay it for hours. I don't really like poking at these sensations — can we talk about quick things I can do in the moment so I don't blow up?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is responding to the shame and frustration with physical sensations, like your heart racing and your breath getting shallow. Those sensations can be really intense, and it's understandable that you want to find ways to manage them in the moment.
+
+One thing that might help is taking a pause. When you notice those physical sensations, can you try taking a deep breath in through your nose and out through your mouth? It's a simple thing, but it can help calm your body down a bit. You can also try pausing for a moment before responding to the comment, just to collect your thoughts.
+
+It's also worth noting that your response doesn't have to be perfect. You don't have to snap or shut down. Sometimes, just taking a moment to collect your thoughts and respond in a way that feels more thoughtful can make a big difference. Can you think of a time when taking a pause or responding more thoughtfully might have helped you feel better?
+
+Patient: I don't know... last week in critique someone said my technique was "a bit dated" and I blurted out something sharp like, "Well maybe you just don't see it," and then felt awful. I guess if I'd just said, "Hold on, can you explain what you mean?" or taken a breath I might've avoided the snapping, but even saying that feels hard. Can you give me a couple of tiny, practical things to actually do in the moment so I don't have to say much?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like taking that extra step to ask for clarification or take a breath can be really hard, especially when you're feeling defensive. One tiny thing you could try is making eye contact with the person and then looking away for a moment. It's a small, nonverbal way to say, "I need a minute to think about this." It doesn't mean you're avoiding the conversation, it just gives you a moment to collect your thoughts.
+
+Another thing you could try is taking a sip of water or making a small gesture, like adjusting your chair or clearing your throat. It's a subtle way to take a break and give yourself a moment to respond. It's not a big deal, and it can help you buy some time to think before you respond.
+
+Patient: I don't know... I guess the water trick could help, but I'm worried it'll look odd. Can you give me one tiny, quiet thing I can do or a one-line I can say—something that sounds normal like "Give me a moment"—or a silent thing like counting breaths or pressing my feet to the floor?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're worried about drawing attention to yourself, even if it's just a small gesture. One thing you could try is making a very subtle, quiet gesture, like pressing your feet to the floor or shifting your weight in your seat. It's a small, almost imperceptible movement, but it can help you find your center and give you a moment to think.
+
+As for a one-line, you could try saying, "Just need a sec," or "Let me think about that for a moment." It's a very neutral phrase that doesn't give away your thoughts, but gives you a moment to collect them. You could even just say, "Okay," and then take a deep breath before responding. It's a very simple, unassuming thing to say, but it can help you buy some time.
+
+Patient: I don't know... I guess "Just need a sec" sounds okay, but it still makes me feel exposed. Maybe I'll try the feet-press first since it's quieter and less noticeable. I don't really like practicing it here though—can we talk about ways to actually remember to do it in the moment when I'm flustered?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're worried that practicing the feet-press in a low-stakes situation might not translate to when it really matters. One thing you could try is associating the feet-press with a specific physical sensation or cue. For example, you could try pressing your feet to the floor whenever you feel a slight knot in your stomach or a tickle in your throat. It's a subtle way to anchor the behavior to a more physiological response.
+
+Another approach is to try to create a mental trigger or ritual. For example, you could tell yourself, "When I feel the knot, I press my feet to the floor," or "Before I respond, I take a deep breath and press my feet to the floor." It's a small, almost automatic action that can help you get into the habit of taking a moment to collect your thoughts.
+
+Patient: I don't know... alarms feel useless when I'm flustered, I just ignore them. I guess a tiny thing I always have with me — like my sketchbook or the strap of my bag — could be a discreet cue to press my feet and breathe; touching it might remind me without saying anything. Can you give me one more small, quiet cue I could try that won't feel weird in front of others?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for something that won't be too distracting or attention-grabbing, especially if you're in a public setting. One small, quiet cue you could try is a light tap of your sleeve or the hem of your shirt. It's a subtle, almost imperceptible gesture that might help you remember to take a breath and press your feet. You could even try tapping your sleeve just below your wrist, where it's less noticeable. It's a tiny, almost automatic action that might help you get into the habit of taking a moment to collect your thoughts.
+
+Patient: I don't know... the sleeve tap might be okay. I guess pressing my thumb into my palm under the table sounds even less noticeable, like something I could do without anyone seeing. I don't really want to practice it here though—can we maybe talk about how to actually remember to use it when I'm flustered?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for a way to generalize the behavior from a low-stakes situation to when you're actually feeling flustered. One thing you could try is to focus on the sensation of pressing your thumb into your palm, rather than the act itself. For example, you could tell yourself, "As soon as I feel my thumb start to press into my palm, I take a breath and press my feet to the floor." This way, you're not focusing on the specific action of pressing your thumb, but rather on the physical sensation that triggers it.
+
+You could also try to create a mental routine or script that goes something like, "I feel my thumb start to press into my palm... I take a breath... I press my feet to the floor." It's a small, repetitive phrase that can help you get into the habit of taking a moment to collect your thoughts.
+
+Patient: I don't know... I guess I could rehearse it at home a few times with my sketchbook—touch the corner, press my thumb, breathe—so it feels a bit automatic. But I'm worried I'll just freeze and forget when I'm actually flustered. Can you give me one tiny, private practice I can do on my own so it doesn't feel weird at the program?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for a low-key way to practice this in private, without drawing attention to yourself. One tiny, private practice you could try is just touching the corner of your paper or the edge of your desk with your finger, and then pressing your thumb lightly into your palm. It's a very small, almost imperceptible action, and it might help you get used to the feeling of pressing your thumb without actually doing it in a situation where you need to. Just do it a few times, and see if it helps you feel more comfortable with the sensation.
+
+Patient: Okay… I guess I can try that—touch the paper corner and press my thumb a few times at home. But right now I'm jittery and my hands feel clammy, and I can't stop picturing being called out in critique. I don't know, I don't want to practice here—can you give me one very short line I could whisper if I freeze, something that won't sound weird, and one tiny thing I can stick in my sketchbook as a reminder so I actually do it?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling overwhelmed and anxious, and that's making it hard to focus. One very short line you could whisper to yourself if you freeze is "Take a breath." It's simple, calm, and easy to remember. If you're worried it might sound weird, try whispering it to yourself in a way that feels natural, like when you're talking to someone else in a low voice.
+
+As for a tiny reminder to stick in your sketchbook, you could try writing down the phrase "Just touch and breathe" on a small piece of paper, or even just drawing a small arrow pointing to your hand. It's a tiny, almost imperceptible gesture that might help you remember to take a moment to collect your thoughts.
+
+Patient: I don't know... "Take a breath" might work — I guess I'll try whispering that if I freeze. For the sketchbook I'll tuck a tiny scrap that says "Just touch and breathe" or put a little dot by the corner so it's easy to feel, but I'm jittery right now and worried I'll still forget when it matters.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more grounded with the idea of whispering "Take a breath" to yourself, and having a small reminder in your sketchbook could help too. Sometimes, having a tiny physical cue can be really helpful in reminding us to do something. It's okay that you're feeling jittery and worried, it's all part of this process. Can I ask, is there one thing, just one thing, that you're hoping to feel more confident about, or accomplish, in this critique that's driving all these other feelings for you right now?
+
+Patient: I guess... I want to be able to stay calm enough to explain why I made the choices I did, so I don't walk away feeling like a fool. Right now I'm jittery and my hands feel clammy just thinking about it, and I don't know how to go from panicked to speaking clearly. I wish there was one tiny thing that would actually help me not feel so scattered in the moment.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a mix of anxiety and self-doubt, and it's making it hard to think clearly. The desire to explain your choices and feel confident in your work is a normal part of the creative process. Can I ask, what's at stake for you in this critique? What's the biggest fear you're trying to avoid? Sometimes, understanding what we're trying to protect or achieve can help us find a way to calm down and focus.
+
+Patient: I guess... what’s at stake is them thinking I don’t belong—like I’m a fraud or out of touch. I’m afraid I’ll get shut down or laughed at, and then I won’t be able to explain myself or keep my spot in the program. I don’t like poking at it, but it makes my chest tight and then I freeze.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like there's a deep-seated fear of not being good enough, and being judged or rejected. The fear of being seen as a "fraud" or "out of touch" is a really powerful one, and it's understandable that it's making you feel anxious and overwhelmed.
+
+Can I try to reframe this a bit? Instead of seeing this as a critique of you as a person, what if we looked at it as an opportunity to learn and grow as an artist? What if the feedback and criticism was not about you, but about the work itself? Sometimes, when we're feeling really defensive, it's hard to hear that. But what if we could try to approach this with a bit more curiosity and openness? Would that be something you'd be willing to try?
+
+Patient: I don't know... I guess I could try being curious instead of snapping, but it feels like a lot and I'm kind of worn out. Can we start with one very small thing to practice—like a single question I can ask in critique—so it doesn't feel so big?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit drained and overwhelmed, and you're not sure where to start. One small thing to practice is a great way to begin. Can I suggest a single question you could ask in critique that's very low-stakes and might help you feel more comfortable? How about: "Can you tell me more about what you mean by..."? It's a simple question that shows you're interested in understanding their perspective, and it's hard to get wrong. Would you like to try asking that?
+
+Patient: I don't know... maybe. I guess I could try asking, "Can you tell me more about what you mean?" but I'm jittery and might freeze — could we practice a whisper version like, "Can you explain?" just once?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit nervous about freezing up or saying something you might regret. Let's try a very small, very quiet practice. Can you just whisper to me: "Can you explain?" Just say it once, softly. Don't worry about getting it right, just try it. We can stop right there if you need to.
+
+Patient: I don't know... I guess. "Can you explain?"
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It was a very small step, and you did it. Just whispering those words, "Can you explain?" takes a lot of courage. It's a simple question, but it's a start. Now, I want to ask you to take it one more step. Can you do it a little louder, just a notch? Try whispering "Can you explain?" again, but just a bit louder than before.
+
+Patient: I don't know... okay. "Can you explain?" — I guess that felt a little less scary, but I'm still shaky and my hands are clammy.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the small step of whispering it a bit louder made it a little more manageable, but you're still feeling the physical effects of anxiety. That's completely normal. Can I try to help you relax a bit more? Take a deep breath in through your nose and out through your mouth. Feel your body relax just a tiny bit. It's okay if your hands are still clammy, just focus on that breath. As you breathe out, try to let some of that tension release.
+
+Patient: I tried... I guess that breath did a little, but I'm still shaky and my hands are clammy. I don't know, I'm kind of overwhelmed doing this here — could we just focus on one tiny, subtle thing I can actually manage in critique?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the setting and the pressure are making it hard for you to focus. Let's try to break it down even further. What if I just ask you to focus on your eyes? Can you look at me right now and hold my gaze for just a second? Don't think about anything else, just look at me. Can you do that?
+
+Patient: I don't know... I guess I can try. My chest's tight and my eyes keep wanting to flick away, but I'll look for a moment.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're really struggling to keep your focus, and that's okay. Just take a deep breath and look at me for a moment. Try to relax your eyes and hold them on mine. You don't have to hold it for long, just a second or two. Can you do that for me?
+
+Patient: I don't know... I guess I can try to look for a second. Okay—I'll hold it, but my chest's still tight and my eyes keep wanting to flick away. Can we maybe do something gentler, like me focusing on a spot on the wall instead?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're really struggling to keep your focus and it's causing you a lot of discomfort. That's completely understandable. Let's try something even simpler. Why don't you focus on a spot on the wall right in front of you? Just look at that spot and try to keep your gaze on it. Don't think about anything else, just look at that spot. Can you do that for me? It's a very small thing, but it might help you feel a bit more calm.
+
+Patient: I don't know... okay, I'll try. I'm looking at the spot—my chest's still tight and my hands are clammy, but I guess I can hold it for a few seconds; I don't know if it'll actually calm me.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to hold onto that tiny bit of focus, even if it's not entirely calming you down. That's a big effort, and it's okay that it's not working right away. Can I ask you to just notice how you're feeling in that moment, without trying to change it? Just acknowledge the tightness in your chest and the clamminess of your hands, and see if that's enough for now? No pressure, no trying to fix it - just be with it, for a moment.
+
+Patient: I don't know... I guess my chest's tight, my hands are clammy, my breath's shallow and my head feels fuzzy. It's kind of hard to just sit with it—can we do one tiny grounding thing now? Maybe three slow breaths or me pressing my thumb into my palm?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling completely overwhelmed and it's hard to just sit with that feeling. I totally get it. Let's try something very simple, just for a moment. Can you try pressing your thumb into your palm, just for a second? Not a long time, just a little bit. It's a small physical sensation, and it might help you feel more connected to your body right now. As you do that, I want you to focus just on the sensation of your thumb pressing into your palm. Don't think about anything else, just that sensation. Can you try that for a second?
+
+Patient: I don't know... okay. I pressed my thumb into my palm — it helped a little, took the edge off, but I'm still shaky and my chest feels tight. I guess... can you give me one really tiny, quiet sentence to tell myself the moment a critique starts so I don't freeze?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more calm, but still needing a reminder to stay focused. Here's a very small, quiet sentence you can tell yourself when a critique starts: "I can do this, one question at a time." Just whisper that to yourself, softly, and see if it helps you feel a bit more grounded. It's a tiny reminder that you're capable of handling this, and it might just give you the boost you need to get started.
+
+Patient: I don't know... I guess that phrase might help a little. Could you give me one single word I could whisper if I freeze? And maybe a quick idea for hiding it in my sketchbook so I actually remember without everyone seeing it.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more comfortable with the phrase, but still needing a single word to fall back on. Here's a single word you can whisper to yourself if you freeze: "Breathe". It's a very simple word, but it can be really helpful in the moment.
+
+As for hiding it in your sketchbook, you could try writing it on a small piece of paper and tucking it between the pages, or even just doodling it in a small corner of your sketch. Something that's easy to see, but not too noticeable. You could also try writing a few lines around it, like a mantra, to help you remember it. Just make sure it's something that won't draw attention to itself.
+
+Patient: I don't know... "Breathe" might help, I guess. I'm jittery right now and keep thinking I'll blank — can you give me one tiny, specific pairing to rehearse at home (like press my thumb and whisper the word once) and one really discrete place to tuck the scrap in my sketchbook so I actually notice it without anyone seeing?

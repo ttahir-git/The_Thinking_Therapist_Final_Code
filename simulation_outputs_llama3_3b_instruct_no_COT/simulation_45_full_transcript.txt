@@ -1,0 +1,264 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been drinking after shifts to try to numb this burnout — it's the only thing that takes the edge off. My mind's like a fortune-telling machine: I can already see it spiraling — I'll mess up at work, get written up, lose the job, fall behind on rent, end up without a place to stay, maybe worse — that's what's going to happen. I know people say it might not, but that just feels impossible to me.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the catastrophic thoughts are really overwhelming you right now. Can you take a moment to notice what it would be like if you could just step back from those thoughts, even for a brief moment, and simply observe them as they arise without judgment?
+
+Patient: I try, but when I try to step back the fortune-telling just gets louder — it's like a movie of the worst possible future and I get sucked in. Observing without judgment feels impossible; if I don't do something, those things will happen for sure, and that thought won't let me be. That's why I drink after shifts — it quiets the movie for a little while, even though I know it's not fixing anything.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like you're caught in a cycle where the thoughts are getting louder and more insistent. Can you imagine what it would be like to slow down the pace of that inner movie, even just a little bit, by bringing your attention to the sensation of your feet touching the ground or the sensation of the air on your skin?
+
+Patient: I try to do that, but the minute I tune into my feet the fortune-telling gets louder — my chest tightens and my hands go cold like I'm already slipping. It feels like focusing on my body just gives the movie more detail, and then I get so wound up I reach for a drink after work to shut it off, because if I don't, the rest of that nightmare is going to happen. I don't see how paying attention to air or feet would actually stop any of it.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the more you try to distract yourself or change your focus, the more the thoughts seem to intensify. Can you imagine what would happen if, instead of trying to change the movie or distract yourself, you simply allowed yourself to experience the sensation of your chest tightening and your hands feeling cold, without trying to push them away or change them?
+
+Patient: I can't—when I try to just feel it, the fortune-telling machine just revs up and my chest crushes and my hands go ice-cold like it's already happening. Letting it be feels like I'm watching proof the worst is coming, and if I don't do something—usually drink—I won't be able to stop the chain. I don't know what would help besides something that actually dials that movie down, not just breathing or noticing my feet.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like you're feeling a sense of inevitability and helplessness. Would you be willing to try something that's more direct, though? I'm not looking for a solution, just a small experiment: what would happen if, in the midst of those thoughts, you simply said to yourself, "I'm here, and I'm safe right now"?
+
+Patient: I tried saying that once — "I'm here and I'm safe right now" — and it felt like lying to myself. The moment I said it the movie just cut to the worst scene: me getting fired, my stuff on the curb, freezing somewhere, no one helping — saying I'm safe doesn't stop any of that. I don't see how that would help; it just feels like pretending everything's okay while the disaster's speeding toward me.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like saying "I'm safe" felt like a disconnect from the intense emotions and thoughts. Can you think of something else that you value in your life that you're willing to stand by, even when the worst-case scenario unfolds?
+
+Patient: I guess I value being dependable—doing good work and not letting the crew down. But the fortune-teller in my head says if I ever slip up from this burnout and drinking, I'll ruin that for good—get fired, everyone thinks I'm useless—so even that value feels like it's already being erased.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like the self-doubt is already eroding your sense of self-worth. What would be the opposite of being useless to your crew and to yourself, if you were to be kind to yourself and prioritize your own well-being, even if that means making mistakes or not meeting expectations?
+
+Patient: Maybe the opposite would be being steady and reliable—taking breaks when I need them, asking for help, admitting I’m not okay but still showing up. But the minute I picture that, the fortune-teller jumps in and says everyone will see me as weak, I’ll lose respect, get fired, and then all this drinking won’t even matter. I’m trying to see how that connects to my problem, but I’m struggling; it feels like we’re going in circles.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the self-doubt is creating a sense of being trapped. Let's try a small detour: What would it be like if you were to show up to work tomorrow, not with the weight of the worst-case scenario, but simply as you are, with a sense of "I'm here, I'm doing the best I can"?
+
+Patient: The minute I try that, the fortune-teller fires off a whole movie: I show up tired, I mess up a measurement, the foreman snaps, I'm written up, then fired, can't pay rent, end up on the street — it's like saying "I'm doing my best" just cues the disaster. So that line feels useless and even dangerous, and it makes me want a drink to shut the whole thing off. I don't see how imagining it helps — I'm stuck and honestly kind of panicking about what to do next.
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the anticipated outcome is still very much in control. What would happen if, in the midst of this panic, you simply allowed the thought to arise without judgment, without trying to push it away or change it? Would you just notice it, and then what?
+
+Patient: I'm not sure I follow—how is that supposed to help? When I try to "just notice" the thought the fortune-telling gets louder and my chest tightens like it's already happening, and I feel like if I don't do something—usually drink—the whole nightmare will unfold. Letting it "be" doesn't feel like a pause to me, it feels like watching proof.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you feel like noticing the thought is just acknowledging the very thing you're trying to avoid. Can you think of something small that you could do right now, in this moment, that wouldn't necessarily change the outcome, but might help you feel a bit more connected to your body and your breath?
+
+Patient: I guess I could try something small like planting my feet flat on the floor and really pressing into it, then taking a few slow breaths—like breathing in for four, out for four—just for one minute. Or I could name three things I can see and two things I can touch to get out of my head for a sec. I don't know how that's supposed to help—the fortune-teller in me says it'll just make the movie louder and I'll end up wanting a drink—but I can try it for a minute and tell you what happens.
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those sound like gentle, low-stakes steps. What would you do if, after trying one of those things, the fortune-telling machine is still going, but you're not feeling the urge to drink, and instead you notice something else – like your body relaxing a tiny bit or your mind feeling slightly less agitated?
+
+Patient: If I felt a tiny bit less wired after trying that, I'd notice it but my fortune-teller would shout that it's only a lull before the storm — like, "enjoy it now, because you'll mess up later and everything will fall apart." I'd be more anxious and distracted, waiting for the other shoe to drop, and I wouldn't trust the calm so I'd still be bracing. Part of me wants to hold onto that small relief, but I don't know how without feeling like it's fake and the disaster's still coming.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the fear of the unknown is still pulling the strings. What would you do if, instead of trying to hold onto the small relief, you were to explore what's driving the idea that the calm is just a precursor to disaster?
+
+Patient: I'd probably try to trace the chain — go back to the first time I relaxed and something went wrong, like the day I mis-measured a beam and the foreman lost it and everything spiraled. Even if I find times it didn't blow up, my head just writes those off as flukes and says the next time won't be, so digging into it feels like I'm just proving the disaster is coming. I'm jittery saying this, my hands are cold, and I don't see how that kind of poking around would keep me from wanting a drink when the movie ramps up.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like you're stuck in a pattern of expecting the worst, even when there's no evidence for it. Would you be willing to try something that doesn't involve trying to "fix" or "understand" the pattern, but instead, simply observe what happens when you stop trying to control the narrative, and just focus on the sensations in your body, like the coldness of your hands?
+
+Patient: I'm not sure I follow—how is just noticing my cold hands supposed to stop the movie? Every time I try it, the fortune-teller just turns the volume up and my chest clamps down. I can try focusing on the cold in my hands for thirty seconds, but I'm jittery and distracted and already bracing for the next disaster, and if it doesn't help I'll probably want a drink. Still, my hands are cold and my breath's shallow, so I'll try to notice that for a bit.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the body's response is still pretty intense. Can you just notice the sensation of your breath moving in and out of your body, without trying to change it or connect it to the thoughts, just observe it as it is?
+
+Patient: I'm not sure I follow—how is just noticing my breath supposed to help? Whenever I try it the fortune-telling machine just gets louder, my chest clamps and my hands go cold like it's already happening. I can try to pay attention to my breath for a bit, but I'm jittery and distracted, and if it doesn't quiet the movie I'll probably end up wanting a drink.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the thoughts are still very much in control. Would you be willing to try something even smaller, more subtle, like noticing just the sensation of your feet on the floor, without trying to change it or connect it to anything else?
+
+Patient: I'm not sure I follow — how is noticing my feet supposed to stop that movie? When I try it I get a tiny second of ground but then the fortune-teller just fills in the worst scene and my chest tightens, my hands go ice-cold, and I start panicking like it's already happened. I can try pressing my feet into the floor for thirty seconds, but I'm jittery and distracted and already bracing for the next disaster — and probably still thinking about a drink afterward.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting close to a kind of physical response. Can you notice what happens just before the panic starts to set in, before the fortune-teller takes over? Is there a tiny bit of space, a slight pause, before the thoughts and physical sensations kick in?
+
+Patient: I'm not sure I follow—there might be a tiny click, like half a heartbeat where nothing's happened yet, then the movie just floods in and my chest clamps and my hands go ice-cold. It's so fast I can't grab that pause; the fortune-teller's already yelling worst-case and my head's nudging me toward a drink before I even realize it. I don't see how noticing that little gap would help, but I can look for it if you want.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the floodgate opens quickly. Would you be willing to try to notice that tiny click, not as a pause to act on, but simply as a sensation, like the space between the beats of your heart? Can you just focus on that sensation, without trying to change it or react to it?
+
+Patient: I can try to look for that tiny click, but it's like a blink — then the movie crashes in: chest clamps, hands go ice-cold, I can already see the write-up, getting fired, losing my place. It's hard to muster the energy to chase that gap, and I don't see how noticing it would stop me from wanting a drink.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the whole experience is unfolding very quickly. Can you try to bring your attention to the sensation of your feet touching the floor, right now, without looking for the click or trying to change anything? Just focus on the sensation of your feet on the ground, as simply as that is.
+
+Patient: Okay... I'm trying. My feet are flat and I can feel the heel of my boot and the floor under me — it's a tiny bit steady — but that second barely lasts before the fortune-teller starts yelling I'll mess up a cut, get written up, lose the job, end up on the street. It takes so much to hold even that small thing and I'm already halfway thinking about a drink to shut the whole movie off.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're holding onto that small moment by a thread. Would you be willing to try to anchor into that sensation of your feet on the floor, even though it's fleeting, by adding one tiny word to your experience, like "I am here"?
+
+Patient: I'm not sure I follow—how is one tiny word supposed to do anything? Saying "I am here" before just felt like lying and the movie immediately cut to me getting written up and losing everything. But I can try it: "I am here" while feeling my boots on the floor, though I'm pretty sure the fortune-teller will just yell louder and I'll still be thinking about a drink.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the words themselves might not be the issue. Can you try to focus on the sensation of the word "I am here" itself, not as a thought or a feeling, but as a physical sensation, like the sound of the words, the movement of your tongue, the sensation of your lips on the air?
+
+Patient: I'm not sure I follow—how is paying attention to my tongue or lips supposed to help? But I'll try: saying "I am here" in my head and out loud, I feel my tongue press behind my teeth, a little vibration in my throat, and the air on my lips when the words leave. It's a tiny, dull thing and then the fortune-teller is already louder, telling me this is fake and the disaster's next, and I can feel my chest tighten and my mind slipping toward a drink.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you've taken a small step into the physicality of the experience. Can you try to hold onto the sensation of that vibration in your throat, or the sensation of the air on your lips, for just a tiny bit longer, without trying to do anything with it or react to the thoughts that are coming?
+
+Patient: Okay—I can try. I notice a tiny hum in my throat and the air on my lips for a beat, but it hardly holds before the movie crashes back in: mess up the cut, foreman yells, written up, fired, out on the street. It feels pointless and the urge for a drink spikes again—I don't see how that little thing stops any of it.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the hum is fleeting again. Can you try to notice the sensation of your body being in the present moment, right now, without trying to hold onto it or change it, just observe that you are here, with your feet on the ground, and your tongue on the roof of your mouth, and the sensation of the air on your lips, as simply as that?
+
+Patient: I can... kind of feel my feet on the floor, the roof of my mouth, the air on my lips — it's faint and flat though, like it's not enough. As soon as I notice it the fortune-teller screams louder, my chest clamps, and I can almost taste a drink calling me to shut it all off. I don't really see how this helps, but I'm sticking with it because you asked.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling the gap between noticing the sensations and the thoughts taking over. Can you try to simply allow the sensations to be there, without trying to do anything with them, without trying to make them stronger or change them, just as they are, without judgment?
+
+Patient: I'll try to let the sensations be. I can notice my feet, the air on my lips, the tiny hum in my throat for a breath or two, and it feels a little steadier — but as soon as I do the fortune-teller screams the worst, my chest clamps, my hands go ice-cold, and the urge to drink spikes. I can hold it for a short bit, but it feels like a losing battle and I'm already worn out.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting closer to a sense of tolerance for the sensations, even if it's a small one. Can you try to notice what happens when you allow the sensations to be there, without trying to change them, and you don't try to escape with a drink?
+
+Patient: I can try. When I let the sensations be and don't reach for a drink, for a short while my chest loosens and the movie gets a little fuzzy—but then the fortune-teller screams that it's just a lull before everything collapses, and my chest clamps up, my hands go ice-cold, and the urge to drink floods in. It leaves me wiped out and shaky, like I'm holding a dam with my fingertips, and I don't know how to stop myself when that panic hits.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling the impact of the thoughts and physical sensations in a very direct way. Can you take a moment to notice where you are in your body when the panic hits, and see if there's a place where you can anchor yourself, even if it's just for a moment, before the thoughts and feelings overwhelm you?
+
+Patient: I'm not sure I follow—when the panic hits it's mostly in my chest, like something squeezing, and my hands go ice-cold, stomach knotting. Pressing my heels into the floor and feeling the boot under me steadies me for a second, but the fortune-teller just screams louder and the urge to drink spikes, so it feels pointless a lot of the time. I can try to stay with my feet for a bit longer, though—I don't have much energy, but I'll try.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your body is feeling a lot of pressure and tension. Can you try to notice the sensation of your chest squeezing, the coldness in your hands, and the knot in your stomach, without trying to push them away or change them, just observe them as they are, and see if that can bring you a tiny bit of calm, even if it's just for a moment?
+
+Patient: I can try, but it's hard to stay with it. When I pay attention to the squeeze in my chest and the cold in my hands, the movie usually gets louder—my chest clamps down harder, my stomach knots, and the urge to drink spikes. Every once in a while it softens for a beat, but mostly it just feels like I'm bracing for the next disaster and I'm already wiped out. I'll try to hang with the sensations a little longer, but I don't know how useful it'll be.

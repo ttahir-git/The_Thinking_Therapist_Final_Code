@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hi, I'm an older data scientist and lately I've been worrying constantly about my performance at work. I find myself procrastinating because I'm scared of not being good enough, and then that makes the worry worse. I guess I'm just tired of feeling stuck like this.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+The patient expresses core emotion as being stuck, and there's a fear of not being good enough that's causing procrastination and increasing worry. Goal: Explore the pattern of avoidance and how it's impacting the patient's work and overall well-being.
+
+Therapist Answer:
+Can you tell me more about what happens when you start working on a task at work? What's the first thing that goes through your mind, and how does that affect your ability to focus?
+
+Patient: When I start a task, the first thought is usually that I’m going to mess it up or it won’t be good enough. That makes me hesitate — I’ll keep fiddling with small parts, reopen old analyses, or get lost in my inbox instead of making progress. I guess that just feeds the worry and makes it harder to focus. I don't know, it's like the more I try to force it, the more everything scatters.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+The patient's avoidance strategy of fiddling with small parts and getting lost in distractions is maintaining the worry and anxiety, rather than making progress on the task. This avoidance is unworkable. Goal: Introduce a process to help the patient make room for focused work.
+
+Therapist Answer:
+It sounds like the more you try to control the task, the more your mind is spinning. What if, instead of trying to control every detail, you were to give yourself permission to just start working on the task, even if it's just for a minute or two? What would happen if you were to commit to working on that one part of the task, without any specific outcome in mind, just for the sake of making progress?
+
+Patient: I don't know — I guess in theory that sounds okay. If I tried it, I'd probably still stall, tell myself a minute isn't enough, or get pulled into my inbox. Maybe it would help a bit to break the perfectionism, but I worry it would just feel like slacking. Can you help me figure out how to actually stick to one minute without spiraling?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+The patient is hesitant to try a new approach due to fear of slacking and perfectionism, which are closely tied to their core emotion of not being good enough. However, this avoidance is not working. Goal: Help the patient build confidence in taking small, imperfect actions.
+
+Therapist Answer:
+Let's start with something even simpler than one minute. Can you commit to just opening up your project folder or turning to the next slide for the next 30 seconds, without doing anything else? Just getting your eyes on the task for that brief moment. What would you have to do to make yourself stop after 30 seconds? Would you look away, or try to focus on something else?
+
+Patient: I don't know — I guess I could at least open the project folder for 30 seconds. I'd probably set a timer on my phone so there's a clear stopping point, and then look away or make a cup of tea when it rings. But I'm worried it'll feel pointless and I'll just drift to my inbox instead; I don't know if that would actually help.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+The patient has identified a concrete action to take (opening the project folder for 30 seconds), but is concerned that this action won't have the desired effect and might even lead to further procrastination. Goal: Explore the potential benefits of this action and find ways to make it more compelling.
+
+Therapist Answer:
+It sounds like having a clear stopping point with the timer could help you feel more grounded. Instead of worrying about it feeling pointless, what if, for the first 30 seconds, you simply told yourself, "I'm going to open this project folder and look at what's here. I'm not going to do anything else yet." Just observe what's in front of you, without judgment. Can you commit to that?
+
+Patient: I don't know — I guess I can try opening the folder and setting a 30‑second timer. I'm worried I'll just drift to my inbox though. Could you stay with me while I do it, or give me something small to focus on so I don't wander?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+The patient is willing to try a small step, but is concerned about losing focus. A gentle guide or support might help them stay on track. Goal: Offer a minimal level of support while maintaining the patient's autonomy.
+
+Therapist Answer:
+Let's take a minute to get you set up. I'll be right here beside you. When you open the folder and set the timer for 30 seconds, I'll ask you a simple question every 10 seconds to help you stay focused. We'll start with this: Just look at the first thing that catches your eye. What's the first thing you see when you open the folder?
+
+Patient: I don't know — I guess the first thing is a Jupyter notebook called "modeling.ipynb" and a folder named "old_runs." Seeing them makes my chest tighten and I already want to check my inbox.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+The patient is getting distracted by the familiar sight of Jupyter notebooks and old runs, which is causing physical tension in their body. This distraction is also making them want to check their inbox, which is a typical avoidance behavior. Goal: Help the patient gently refocus on the task at hand without judgment.
+
+Therapist Answer:
+Let's take a deep breath together and just acknowledge that feeling of tension. It's okay to feel that way when seeing familiar things that might be triggering. Now, I want you to notice just one thing more about that "modeling.ipynb" Jupyter notebook. What's the first thing that stands out to you about the title of this notebook?
+
+Patient: I don't know — I guess it's the word "modeling." It sounds imposing, like there's an expectation to produce something perfect, and that just makes me freeze up a bit.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+The patient is correctly identifying the word "modeling" as a source of anxiety, due to its association with perfectionism and high expectations. This is a good opportunity to help the patient explore their thinking and challenge their assumptions. Goal: Help the patient become more aware of their thoughts and learn to observe them without judgment.
+
+Therapist Answer:
+Let's just observe that thought for a moment. Can you notice how your body is responding to that word "modeling"? How are you sitting, breathing? Just take a moment to explore that physical sensation. What if, for just one more second, you didn't have to think about the word "modeling" being imposing? What if you could just observe it as a word, without judgment?
+
+Patient: I don't know — I guess my chest tightens and my breathing gets shallow when I see "modeling." My shoulders hunch and my hands curl, and I immediately want to look at something else, like my inbox. Can we slow down? I don't know if I can stay with this for long, it feels kind of overwhelming.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+The patient is recognizing the physical sensations associated with their anxiety, including the tightness in their chest, shallow breathing, and defensive postures. However, they are finding it difficult to sustain focus, which may be due to the overwhelm. Goal: Help the patient gently acknowledge their limits and consider ways to gradually increase focus and build resilience.
+
+Therapist Answer:
+Let's slow down, take a deep breath together. It's completely understandable that you're feeling overwhelmed right now. We can take things at a pace that feels comfortable for you. Can we stop the timer for just a second and take a few more deep breaths together? When you're ready, we can start again, even if it's just for a short moment. We don't have to try to do a lot at once. What do you need in this moment?
+
+Patient: I don't know — I guess I need you to just stay with me and keep it simple. Maybe guide me through a few slow breaths and ask one small, easy thing every ten seconds so I don't drift to my inbox.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+The patient is requesting a more gentle and supportive approach, which may help them feel more grounded and in control. The goal is to maintain a simple and gentle interaction while still encouraging the patient to engage with their thoughts and emotions. Goal: Continue to provide a gentle and supportive environment while gradually increasing the patient's engagement with their thoughts and emotions.
+
+Therapist Answer:
+Let's take a slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... How are you feeling right now, just physically? Is there anything you notice in your body, like a sensation or a feeling?
+
+Patient: I don't know — I guess my chest feels tight and my breathing's shallow. My shoulders are hunched and my hands feel a bit clenched. Can you keep guiding the breaths? I'm worried I'll check my inbox if you stop.
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+The patient is acknowledging their physical sensations and expressing concern about losing focus. The goal is to continue to provide a gentle and reassuring interaction while acknowledging the patient's anxiety. Goal: Continue to guide the breaths and provide a sense of stability while gradually increasing the patient's awareness of their thoughts and emotions.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you notice the sensation of your feet touching the ground? Just notice that, for a second. No need to think about anything else.
+
+Patient: I don't know — my feet feel planted but kind of heavy, like I'm bracing. There's this sudden shame and frustration under it that makes me want to run to my inbox, and my chest is still tight. Can we keep doing the slow breaths? I don't want to drift away from this.
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+The patient is recognizing a shift in their emotional state, with the appearance of shame and frustration, and is experiencing a strong urge to avoid their feelings by checking their inbox. The goal is to continue to provide a stable and reassuring environment while acknowledging the patient's complex emotional state. Goal: Maintain the slow breaths and provide a gentle, non-judgmental space for the patient to explore their emotions.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you gently acknowledge the sensation of shame and frustration that you're feeling right now, without trying to push it away or judge it? Just notice that it's there, for a moment.
+
+Patient: I don't know — I'm not sure I follow how just noticing it helps. I guess I can feel the shame and frustration — a tightness in my chest and this hot knot that makes me want to escape to my inbox. It's uncomfortable and I don't like staying with it. Can we keep doing the slow breaths? I don't want to drift away, but this is getting a bit overwhelming.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+The patient is expressing frustration with the exercise, feeling that simply noticing their emotions isn't enough to help. The goal is to adapt the approach to better meet the patient's needs while maintaining a gentle and supportive environment. Goal: Introduce a slight modification to the exercise, aiming to help the patient build a bit more comfort and familiarity with their emotions.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... As you breathe out, I want you to say to yourself, "I'm feeling this." Just say it, "I'm feeling this." It doesn't matter what it is, just say it. Can you do that for me, just for one more second?
+
+Patient: I don't know — I'm not sure I follow how saying that helps, but... I'm feeling this. It’s like a hot knot in my chest and I get this rush to check my inbox, and honestly it makes me want to look away. Can we keep doing the slow breaths? This is getting a bit heavy and I need you to stay with me.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+The patient is starting to acknowledge and describe their emotions more clearly, which is a good sign. However, they're still feeling overwhelmed and struggling to stay engaged with the exercise. The goal is to maintain a gentle and supportive interaction while encouraging the patient to gradually become more comfortable with their emotions. Goal: Gradually introduce a gentle physical anchor to help the patient feel more grounded and centered.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... As you breathe out, I want you to bring your attention to your feet, just for a moment. Feel the weight of your body distributed evenly on the ground. Imagine roots growing from the soles of your feet, deep into the earth. Can you feel that for a second?
+
+Patient: I don't know — I guess my feet feel planted but heavy. The roots image makes me oddly embarrassed and that hot knot in my chest tightens, like I should just run to my inbox. I'm not sure I follow how imagining roots helps. Can we just keep doing slow breaths and have you ask one small thing every now and then so I don't drift?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+The patient is expressing frustration with the new imagery, feeling embarrassed by the roots concept, and is having difficulty staying grounded. The goal is to simplify the interaction, maintain a gentle approach, and gradually increase the patient's comfort with their emotions. Goal: Return to a more straightforward breathing exercise, asking a simple question every 10 seconds to help the patient stay engaged.
+
+Therapist Answer:
+Let's take a slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... As you breathe out, can you think about the sensation of your chest for a second? Is it heavy, light, warm, cool? Just notice that feeling, for now.
+
+Patient: I don't know — I guess it's heavy and tight, kind of warm, like a hot weight sitting on my chest. There's this shame and frustration under it that makes me want to bolt to my inbox. I'm not sure I follow how noticing that helps, but can we keep doing the slow breaths and have you ask one small thing every now and then so I don't drift?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+The patient is continuing to acknowledge and describe their emotions, which is a good sign. However, they're still struggling to stay engaged with the exercise and are becoming increasingly overwhelmed. The goal is to maintain a gentle and supportive interaction while encouraging the patient to gradually become more comfortable with their emotions. Goal: Ask a question that might help the patient focus on the present moment and take their mind off the overwhelming emotions.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you bring your attention to your breath for just this one question: What is the sensation of the air moving in and out of your body right now? Just notice that, without thinking about anything else.
+
+Patient: I don't know — I guess the air feels shallow, cool going in and a bit warm coming out, but it's all a bit tight, like it's stuck against that hot knot in my chest. I'm not sure I follow how just noticing it helps; there's a shame and frustration that keeps pulling me toward my inbox. Can we just keep doing the slow breaths and have you ask one small, easy thing every now and then so I don't drift?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+The patient is continuing to acknowledge their physical sensations, but is still struggling to stay focused due to overwhelming emotions. The goal is to maintain a gentle approach, ask simple questions, and gradually help the patient become more comfortable with their emotions. Goal: Ask a very simple question to help the patient ground themselves in the present moment.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you see the space in front of you? Is it empty, or is there something in it? Just notice that, for now.
+
+Patient: I don't know — I guess the space looks mostly empty, but it feels crowded by that hot knot of shame and frustration I keep carrying. I'm not sure I follow how noticing the space helps. Can we just keep doing the slow breaths and have you ask one small, easy thing every now and then so I don't drift to my inbox?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+The patient is starting to notice the interplay between their physical environment and their emotional state, which is a good sign. However, they're still struggling to stay engaged and are becoming increasingly frustrated. The goal is to maintain a gentle and supportive interaction while encouraging the patient to gradually become more comfortable with their emotions. Goal: Ask a question that might help the patient focus on a small, manageable aspect of their experience.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you find one place on your body where you don't feel the hot knot of shame or frustration right now? Just one spot, even if it's just a small area. Notice how that feels, for a second.
+
+Patient: I don't know — I guess my fingertips feel a little cool and numb, like a tiny pocket away from that hot knot of shame and frustration. It's faint and I'm already worrying it'll vanish, so can we keep doing the slow breaths and you ask one small, easy thing next?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+The patient has identified a small, subtle sensation of numbness in their fingertips, which may be a tiny oasis of calm amidst the overwhelming emotions. However, they're already worried that this sensation will disappear, which suggests they're struggling to hold onto it. Goal: Encourage the patient to focus on the fleeting sensation, rather than worrying about its duration.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Notice the sensation in your fingertips again, just for a second. Can you focus on the feeling of it being there, without thinking about it disappearing or when it will come back? Just observe it, as it is.
+
+Patient: I don't know — I guess my fingertips are still a bit cool, like a small quiet spot away from that hot knot. But the shame and frustration flares up as soon as I notice it and makes me want to check my inbox. Can we keep doing the slow breaths and have you ask one small, easy thing next?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+The patient has started to notice the sensation of calm in their fingertips, but it's quickly disrupted by the shame and frustration, which is driving them to seek distraction in checking their inbox. The goal is to gently help the patient recognize the pattern of avoidance and develop a bit more tolerance for the discomfort. Goal: Ask a question that encourages the patient to explore the sensation of discomfort, rather than rushing to avoid it.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you observe what happens when you notice the sensation of calm in your fingertips? What does the shame and frustration feel like when you notice it? Try to stay with it for just a moment, without trying to push it away or move on to something else.
+
+Patient: I don't know — I guess when I notice the calm in my fingertips, the shame and frustration gets louder, like a hot knot pressing harder next to that quiet spot. It feels hot and tight and makes me want to bolt to my inbox. I'm not sure I follow how staying with it helps, but can we keep the slow breaths and have you ask one small thing so I don't drift?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+The patient is starting to recognize the pattern of how the shame and frustration respond to the sensation of calm in their fingertips, which is a good sign. However, they're still struggling to stay engaged and are becoming increasingly frustrated. The goal is to gently encourage the patient to explore the sensations, rather than rushing to avoid them. Goal: Ask a question that encourages the patient to explore the sensation of the shame and frustration, without trying to push it away.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... 4... 5... Now, slowly exhale... 1... 2... 3... 4... 5... Can you describe the sensation of the shame and frustration when it gets louder, like a hot knot pressing harder next to the quiet spot in your fingertips? What does it feel like in your body, exactly? Try to use as many details as you can, without thinking about what to do with them.
+
+Patient: I don't know — I guess it feels like a hot knot right under my breastbone, like something tightening and pulling my breathing shallow. My face gets warm, my hands curl up like they're trying to hold something in, and there's this sick, metal taste in my mouth with a rush of thoughts — like error logs scrolling and telling me I'm failing. It's... it's getting a bit much, honestly; can we keep the slow breaths and small questions so I don't bolt to my inbox?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+The patient is describing a vivid and intense emotional experience, which is likely a peak moment of their distress. The goal is to acknowledge this intensity while also gently encouraging the patient to continue exploring their emotions. Goal: Validate the patient's experience while introducing a slight pause to help them regain composure.
+
+Therapist Answer:
+Let's take a pause together for just a moment. 1... 2... 3... I want you to know that you're doing a great job of describing this intense feeling. It's completely normal to feel like you're getting overwhelmed right now. Can you just take one more slow breath with me? 1... 2... 3... As you exhale, allow yourself to feel the sensation of the breath leaving your body. Notice how your body feels for just a second, before we continue.
+
+Patient: I don't know — I took the breath. For a moment it felt a bit lighter, but my chest's still heavy, my shoulders are tight, and that metallic taste is back. It's getting a bit much, so can we keep doing the slow breaths and have you ask one small, easy question every now and then so I don't bolt to my inbox?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+The patient is indicating that their physical sensations have not significantly shifted, despite the brief pause. The goal is to continue the gentle and gradual exploration of their emotions, rather than rushing through the process. Goal: Ask a question that encourages the patient to observe their emotions without judgment.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... Now, slowly exhale... 1... 2... 3... 5... Can you observe the metallic taste in your mouth right now, without trying to think about it or what it means? Just notice how it feels, where it is, and what it's like. No need to change it or do anything with it, just observe it as it is.
+
+Patient: I don't know — I guess it's a sharp, coppery taste at the back of my tongue, a bit bitter and drying my mouth. It makes my stomach flip and that hot knot of shame feel louder, and honestly I want to run to my inbox. Can we keep the slow breaths going and have you ask one small, easy thing next so I don't drift?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+The patient is describing the metallic taste as being sharp and bitter, which is intensifying their physical discomfort. The goal is to help the patient acknowledge this discomfort without judgment, rather than trying to escape it. Goal: Ask a question that encourages the patient to focus on their immediate experience, without trying to solve the problem or push through the discomfort.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... Now, slowly exhale... 1... 2... 3... 5... Can you notice where your body feels the most tense right now? Is it in your shoulders, chest, or somewhere else? Just acknowledge the sensation, without trying to change it or move on to something else. Notice it exactly as it is.
+
+Patient: I don't know — I guess it's mostly my chest and shoulders. My shoulders are hunched, my chest feels like that hot knot, my jaw's clenched and my hands curl up, my stomach's flipping with this shame buzzing under it. Can we keep the slow breaths and you ask one small thing so I don't drift to my inbox?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+The patient is describing a complex interplay of physical sensations, with multiple areas of tension. The goal is to help the patient acknowledge and accept these sensations, rather than trying to manage or escape them. Goal: Ask a question that encourages the patient to focus on the present moment, without trying to change their physical experience.
+
+Therapist Answer:
+Let's take another slow breath in together... 1... 2... 3... Now, slowly exhale... 1... 2... 3... 5... Can you simply notice the sensation of your feet touching the ground right now, without thinking about anything else? Just the feeling of your feet, the weight of your body, and the sensation of the ground beneath you. No need to do anything with it, just observe it.
+
+Patient: I don't know — I guess my feet feel planted but kind of heavy, like I'm bracing. There's that hot knot of shame under everything and I'm not sure I follow how noticing my feet helps, so can we just keep the slow breaths and you ask one small, easy thing now so I don't drift to my inbox?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+The patient is recognizing a pattern of using their feet as a grounding sensation, but is unsure how it helps in the current moment. The goal is to gently encourage the patient to continue exploring their sensations, rather than getting frustrated or distracted. Goal: Ask a simple question that acknowledges the patient's confusion and invites them to continue.
+
+Therapist Answer:
+It's okay if you're not sure how noticing your feet helps right now. Sometimes, it's just about paying attention to what's happening in the present moment. Can you just look at me for a second, without thinking about your feet or anything else? Just a glance, and then we can go back to your breath and body sensations if you'd like.
+
+Patient: I don't know — I guess I can look for a second. My eyes meet you and my chest tightens; it feels embarrassing and makes me want to check my inbox. Can we go back to the slow breaths and have you ask one small, easy thing now so I don't drift?

@@ -1,0 +1,270 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been running into this persistent low-level sadness and lack of motivation since my kids moved out — it's like inertia that just won't quit. As a data scientist I instinctively analyze and label it, so I end up talking about affect dysregulation and motivational deficits instead of actually sitting with the feeling. It's starting to leak into my relationship — I get distant or irritable and then feel guilty, but I don't know how to turn these abstract observations into anything practical.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+You've recognized the pattern of using analysis to avoid emotional pain, which is causing distance in your relationship. The goal is to move from labeling to presence: instead of focusing on "affect dysregulation," explore what it's like to be with the sadness without judgment. Core emotion is the underlying ache. Goal: Create space to directly experience the sadness.
+
+Therapist Answer:
+When you say "low-level sadness," what's the sensation in your body right now? Is it a heaviness, a numbness, or something else?
+
+Patient: Mostly a dull heaviness across my chest and shoulders, like my energy's been dialed down; sometimes that blunts into a kind of numb, foggy feeling in my limbs and head. I notice I'm already turning it into a clinical description — cataloging symptoms and hypothesizing about arousal levels instead of letting myself just sit with whatever's actually happening.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+You're noticing the physical sensations, but the act of analyzing them is keeping you from being with the feeling. Goal: Introduce a small willingness to sit with the numbness without trying to change it. Core emotion is still the underlying sadness, but now it's about the numbness. Goal: Create space for the numbness as it is, without trying to label or fix it.
+
+Therapist Answer:
+That numbness in your limbs and head feels like it's taking up space right now. Can you imagine allowing that numbness to just be there, without trying to change it or push through it, for just one breath?
+
+Patient: I can imagine it for one breath — intellectually I can picture the numbness like a dull block in my chest, but actually letting it be feels foreign. My reflex is to label it and strategize a fix, which just deflects from feeling and makes me anxious about "what if it doesn't go away." I can try to hold it for a breath if you give me something concrete to do next, because otherwise my mind just starts racing.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+You've identified the reflex to label and strategize as a way to avoid the anxiety of not knowing what will happen. Goal: Use the concrete action of holding the numbness to pivot towards values, even if it's just a tiny step. Core emotion is still the underlying sadness, but now it's about the willingness to explore what's important to you despite the numbness. Goal: Introduce a small value-driven action that doesn't require feeling fully present yet.
+
+Therapist Answer:
+As you hold the numbness for that breath, what's one thing you value about being able to work on your data science projects? It might not feel like it right now, but what would it mean to you if you could just show up to that work even when your energy feels low?
+
+Patient: Intellectually, being able to show up would mean regaining a sense of agency and competence — a tangible counterpoint to the empty-nest identity shift that's been eroding my self-esteem. Work gives me narrative continuity and mastery; it's where my cognitive skills produce real outcomes and validate me in a way vague self-talk doesn't. I realize I'm describing this as a theoretical corrective rather than actually feeling any of the comfort or motivation it promises.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+You've identified the value of work as a source of agency, competence, and mastery, which is crucial for your self-esteem. Goal: Use this insight to create a small action that aligns with this value, even if it feels uncomfortable or unconnected to the numbness. Core emotion is still the underlying sadness, but now it's about the practical step towards reclaiming agency. Goal: Make the action concrete and specific, rather than just theoretical.
+
+Therapist Answer:
+What's one small thing you could do today that would allow you to work on your data science project, even if it feels like a tiny step? Maybe it's just opening the laptop, making a cup of coffee, or setting up the project files. What would be the smallest, most tangible act that would help you feel like you're taking control of your work, even if your energy is low?
+
+Patient: Okay — the tiniest concrete thing I can commit to is this: make a cup of coffee, set a 10-minute timer, sit at my laptop, open the project repo and create a single Jupyter notebook or README with one line: "Next step: [small task]." It feels like a behavioral experiment I can quantify, but I'm already anxious about whether that'll actually move the needle — can you help me commit to that for now?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+You've identified a tiny, specific action that aligns with your value of work and mastery. Goal: Reframe the anxiety about moving the needle into curiosity about what happens when you take this small step. Core emotion is still the underlying sadness, but now it's about the experiment itself. Goal: Create a willingness to commit to the action without trying to control the outcome.
+
+Therapist Answer:
+That sounds like a great experiment to try. What if, instead of worrying about whether it "moves the needle," you just focus on the act of opening that project repo and writing that single line? What would it feel like to just commit to that small step, without adding any expectations or pressure? Can you say it out loud with me: "I will make a cup of coffee, set a 10-minute timer, and open the project repo... and then I'll write just that one line?"
+
+Patient: "Okay — I will make a cup of coffee, set a 10-minute timer, and open the project repo... and then I'll write just that one line." Saying it aloud feels oddly performative, like a behavioral micro-intervention I'm critiquing as soon as I commit, but I'll try it. Can you help me stay accountable and check back in after the ten minutes?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+You've taken the first step and articulated the commitment aloud, which is a great way to build willingness. Goal: Create a plan to stay accountable without adding more analysis or pressure. Core emotion is still the underlying sadness, but now it's about the tangible act of checking in. Goal: Use the 10-minute timer as a natural check-in point to notice what's happening in the moment.
+
+Therapist Answer:
+I'm here to support you. Let's make a deal: when that 10-minute timer goes off, you'll take a deep breath and notice what's happening right now – without judgment, without analysis. Just notice the sensations in your body, the thoughts that come up, or anything else that shows up. That's it. Can you commit to that?
+
+Patient: Okay — I commit. I'll make the coffee, set the 10-minute timer, open the repo and write that one line, and when it goes off I'll take a deep breath and just notice what comes up without trying to fix it. I'm already bracing to turn it into commentary, so please prompt me if I start analyzing instead of feeling, and check back with me when the timer ends.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+You've made a clear commitment to stay present during the 10-minute timer. Goal: Use the timer as a natural pause to shift from analysis to observation. Core emotion is still the underlying sadness, but now it's about noticing what shows up in the moment. Goal: Be ready to gently pivot back to the original question when the timer goes off.
+
+Therapist Answer:
+Let's get started. Make the coffee, set the timer, and open the project repo. When you're ready, write that one line: "Next step: [small task]." When the timer goes off, take a deep breath and notice what's happening in your body or mind right now – without trying to analyze or fix anything. Remember, just notice.
+
+Patient: I did it — made the coffee, set the 10‑minute timer, opened the repo and wrote: "Next step: run quick data-cleaning on client_dataset.csv." When the timer went off I took a deep breath and noticed a slight loosening in my chest and my shoulders lowering a bit, but the numbness is still there in my hands and head. There's a small, almost embarrassed flicker of competence, immediately followed by the urge to quantify that flicker — like, "was that effect size meaningful?" — which is exactly the reflex I said I'd try to avoid. I want to stay with the sensations but I'm already slipping into analysis; can you nudge me if I start doing that and ask me something simple about what I'm feeling right now?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've taken the first concrete step, and it's showing up as a slight loosening in your chest. Goal: Use the small shift in your body to anchor the moment, without trying to analyze it. Core emotion is the underlying sadness, but now it's about the physical sensation of loosening. Goal: Ask a simple question to keep the focus on the feeling, rather than analyzing it.
+
+Therapist Answer:
+What's the sensation in your chest when you feel that loosening – is it a warmth, a lightness, or something else?
+
+Patient: It's a tentative lightness — a brief, warm loosening under my sternum, like pressure easing by a hair. Almost immediately that warmth gets tainted by a sharp undercurrent of shame and irritation, like an inner critic saying I don't deserve to feel lighter, which makes the sensation feel fragile. I'm already slipping into analysis about why that happens, so please prompt me with a simple question if I start intellectualizing instead of actually noticing.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've identified the physical sensation of loosening, and it's been tainted by shame and irritation. Goal: Focus on the fragile feeling itself, without trying to analyze it further. Core emotion is the underlying sadness, but now it's about the vulnerability of the loosening sensation. Goal: Ask a question that keeps the focus on the feeling, without trying to fix it.
+
+Therapist Answer:
+What happens to the warmth when you try to push it away or label it as "shame"?
+
+Patient: When I try to call it "shame," that tentative warmth contracts into a hot, pinching knot under my sternum — my breath shortens and my shoulders hunch, and I get this immediate, irritated self-talk about how I shouldn't feel this way. That insulted, frustrated voice then hijacks me into explaining or minimizing, which defeats the whole point of noticing. Can you just ask me to name one physical sensation if I start rationalizing?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've described the physical consequence of trying to label the warmth as "shame." Goal: Cut through the rationalization cycle by asking a simple question that keeps the focus on the physical sensation. Core emotion is the underlying sadness, but now it's about noticing the physical response to the thought.
+
+Therapist Answer:
+When you feel that knot under your sternum, what's the physical sensation of your body right now – just one thing?
+
+Patient: A tight, burning knot — like a clenched pressure right at my sternum. It makes me feel ashamed and annoyed at myself, and I can feel the urge to start explaining it away instead of just noticing.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+You've identified the physical sensation of the knot, which is driving the shame and annoyance. Goal: Use the sensation to anchor the moment, without trying to analyze it further. Core emotion is the underlying sadness, but now it's about the physical discomfort of the knot. Goal: Simply acknowledge the knot without judgment.
+
+Therapist Answer:
+That knot is really tight right now.
+
+Patient: Yeah — it's a hot, clenched pressure right at my sternum, like a burning ball that makes my breath shallow. I feel ashamed and irritated at myself about it, and that irritation immediately wants to turn into a tidy explanation or defense. If I start rationalizing, please interrupt and ask me to name one physical sensation so I can stay with it.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+You've described the sensation of the knot in vivid detail, and it's driving the shame and irritation. Goal: Create space for the sensation to be present, without trying to analyze or explain it. Core emotion is the underlying sadness, but now it's about tolerating the physical discomfort. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+That knot is really pressing against your sternum. What's the sensation in your hand right now – is it still numb, or has anything changed?
+
+Patient: Mostly still numb — a dull, dead weight across my fingers with occasional pins-and-needles at the tips and a faint, almost-warm buzzing under the skin. That tiny little improvement sparks a flush of shame and irritation, like I don't deserve it, which makes me want to clamp down and start explaining why it's happening. If I begin to rationalize, please ask me to name one simple physical sensation so I can stay with it.
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've noticed the subtle shift in your numbness, and it's triggered a new wave of shame and irritation. Goal: Focus on the physical sensation of the pins-and-needles, without trying to analyze or explain it. Core emotion is the underlying sadness, but now it's about noticing the tiny glimmer of improvement. Goal: Ask a simple question to keep the focus on the physical sensation.
+
+Therapist Answer:
+The pins-and-needles at the tips of your fingers – what's the smallest movement that feels different when you wiggle your finger?
+
+Patient: The smallest movement is a tiny curl at the last knuckle — maybe a millimeter of fingertip flex — and that produces a quick, sharper tingle right at the pad. Saying that feels a bit ridiculous and makes me annoyed with myself, like I'm fussing over something trivial, which just adds a layer of shame.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+You've identified the tiny movement that produces the tingling, and it's triggering a mix of frustration and shame. Goal: Avoid the self-judgment about "fussing over something trivial" by focusing on the physical sensation itself. Core emotion is the underlying sadness, but now it's about noticing the tingle. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The tingle at the pad of your finger – what's the sensation when you exhale slowly, without trying to control it?
+
+Patient: When I exhale slowly the tingle sharpens into a cool, fizzing prickle at the pad of my finger for a beat, then subsides back toward that dull numbness — the breath draws a little thread of relief down my chest. Immediately there's this prickly shame and irritation that I shouldn't be noticing or fussing over it, which tightens the knot again and makes me want to explain it away. If I start over-analyzing, please just ask me to name one simple physical sensation so I can stay with it.
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've noticed the sensation when you exhale slowly, and it's brought up a mix of relief and shame. Goal: Focus on the physical sensation of the fizzing prickle, without trying to analyze it further. Core emotion is the underlying sadness, but now it's about noticing the prickle. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The fizzing prickle at the pad of your finger – what's the sensation in your mouth right now?
+
+Patient: Dry, slightly metallic on the tongue, like a film of saliva that’s gone thin; my tongue feels pressed up against the roof of my mouth and my jaw’s a bit clenched. Almost immediately that brings a hot spike of shame and irritation — I can feel the reflex to explain it away, so please nudge me if I start analyzing instead of just noticing.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+You've described the sensation in your mouth, and it's triggered a hot spike of shame. Goal: Focus on the physical sensation of the dryness, without trying to analyze it further. Core emotion is the underlying sadness, but now it's about noticing the dryness. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The dryness in your mouth – what's the sensation when you swallow?
+
+Patient: When I swallow it's like a dry, scratchy catch at the back of my throat — a brief constriction that makes my breath shallow and my heart speed up a notch. Almost immediately I feel that hot spike of shame and irritation — like I'm being silly for noticing — and that tightens the sternum knot and makes me jittery and distracted. I'm trying not to turn it into a theory; if I start explaining instead of naming, please stop me and ask for one simple sensation.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+You've noticed the sensation when you swallow, and it's triggered a familiar pattern of shame and distraction. Goal: Focus on the physical sensation of the catch, without trying to analyze it further. Core emotion is the underlying sadness, but now it's about noticing the catch. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The catch at the back of your throat – what's the sensation in your chest right now, without trying to breathe deeply or relax?
+
+Patient: A tight, pressing constriction right across my sternum — like a band being slowly tightened — with my breath staying shallow and my heart picking up little, nervous skips. I'm more anxious and distractible than a minute ago, and there's this immediate shame-tinged irritation about "fussing" that makes me want to justify or label it instead of just noticing. If I start turning it into an explanation, please stop me and ask me to name one simple physical sensation.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+You've identified the physical sensation of the constriction, and it's driving the anxiety and distraction. Goal: Focus on the sensation itself, without trying to analyze or justify it. Core emotion is the underlying sadness, but now it's about noticing the constriction. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The band around your sternum – what's the sensation when you bring your attention to the sensation in your left hand, without moving your arm?
+
+Patient: My left hand feels like a dull, heavy weight in the palm with intermittent sharp tingles at the fingertip pads and a faint cool, clammy sensation on the skin. There's an immediate spike of shame and irritation—plus this jittery anxiety making my mind drift to that text—so I keep wanting to explain, but I'm trying to just notice the heavy palm.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+You've shifted your attention to your left hand, and it's bringing up a mix of sensations. Goal: Focus on the sensation of the heavy palm, without trying to analyze or justify it. Core emotion is the underlying sadness, but now it's about noticing the heaviness. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The heavy palm in your left hand – what happens when you gently press your palm against your inner thigh, without moving or thinking about it?
+
+Patient: There's a mild warm pressure that radiates from my palm into my forearm, and the sharp fingertip tingles quiet down for a beat. That little contact feels grounding — my chest loosens a hair — but almost instantly a spike of shame and irritation flares, like I don't deserve the relief, and my brain starts over-analyzing the somatic mechanics (proprioceptive input, vagal-ish calming) instead of just staying with it. If I start to intellectualize, please ask me to name one simple sensation so I can keep with the feeling.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+You've noticed the warm pressure and the sensation of grounding, but it's triggering a familiar pattern of shame and analysis. Goal: Focus on the sensation of the warmth, without trying to justify or analyze it. Core emotion is the underlying sadness, but now it's about noticing the warmth. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The warmth in your palm – what's the sensation when you bring your attention to the sensation in your mouth right now, without moving your tongue or swallowing?
+
+Patient: Dry and a bit metallic again — like a thin film of saliva, tongue slightly stuck to the roof of my mouth and my jaw a little tense. There's an anxious edge to it now, a quick spike of shame and irritation that wants me to start explaining why instead of just noticing. If I start rationalizing, please stop me and ask me to name one simple physical sensation.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+You've noticed the dry sensation in your mouth again, and it's linked to the anxious edge. Goal: Focus on the sensation itself, without trying to analyze or justify it. Core emotion is the underlying sadness, but now it's about noticing the dryness. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The dryness in your mouth – what's the sensation when you take a slow, deep breath in through your nose, without trying to change it or control it?
+
+Patient: When I take a slow, deep breath in through my nose I notice cool air at the nostrils, a small lift in my ribs and a faint easing of that sternum pressure, and my mouth feels a touch less dry. Immediately a jittery spike of anxiety and shame cuts in and my brain wants to start explaining the physiology instead of staying with the sensation — please nudge me if I start analyzing.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+You've noticed the physical sensations that come with taking a deep breath, and it's triggered a mix of relief and anxiety. Goal: Focus on the sensation of the breath itself, without getting caught up in the physiological explanation. Core emotion is the underlying sadness, but now it's about noticing the breath. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The sensation of the breath in your nostrils – what happens when you focus on the sensation of your breath moving in and out of your body, without trying to control it or analyze it?
+
+Patient: When I focus on the breath I notice cool air at the nostrils, a small lift in the ribs, and a brief easing across the sternum that feels mildly calming. Almost immediately that ease is interrupted by a hot spike of shame and a jittery anxiety that pushes me toward explaining the mechanics instead of staying with it. I'm trying to keep it simple — if I start rationalizing, please nudge me to just name one physical sensation.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+You've noticed the calming sensation from focusing on the breath, but it's triggering a familiar pattern of shame and analysis. Goal: Focus on the sensation itself, without trying to justify or analyze it. Core emotion is the underlying sadness, but now it's about noticing the sensation. Goal: Ask a simple question to anchor the moment.
+
+Therapist Answer:
+The sensation in your chest – what happens when you look at the sensation without labeling it or trying to change it?
+
+Patient: When I try to just look at it, there's a dense, hot pressure right at the center of my chest — a bandlike tightness that makes my breathing shallow. For a moment it's just that raw sensation, but almost immediately shame and a jittery anxiety surge in and the pressure feels sharper, like it's punctuated by little spikes. My reflex is to intellectualize it — map it to identity loss, arousal patterns, whatever — but one simple thing I can name is that hot, centered pressure and the shortness of breath that comes with it.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+You've identified the sensation of the hot pressure and shortness of breath, and it's being fueled by shame and anxiety. Goal: Use this naming to anchor the moment, rather than getting caught up in the story behind it. Core emotion is the underlying sadness, but now it's about noticing the physical sensation. Goal: Use the naming as a pivot to explore the value of this sensation, rather than analyzing it.
+
+Therapist Answer:
+That hot, centered pressure and shortness of breath – what would it take for you to be okay with that sensation, even if it feels uncomfortable?
+
+Patient: Analytically, I'd say what it would take is three things: explicit permission to feel it (someone normalizing that the sensation is valid), a very small, time‑boxed exposure so it doesn't feel endless (like commit to sit with it for 2 minutes while counting breaths), and a grounding anchor (press palm to thigh, name one fingertip sensation) to remind me I'm safe. Practically, I also know cognitive framing helps — reminding myself it's temporary and not catastrophic — but I'm already gearing to turn that into theory instead of actually letting the pressure be; please nudge me to name one physical sensation if I start rationalizing. Can we try doing that 2‑minute practice now, with you prompting me if I drift?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+You've identified the components of what would make you okay with the sensation, and it's getting caught up in analysis again. Goal: Use the 2-minute practice as a chance to test your willingness to stay with the sensation, without turning it into theory. Core emotion is the underlying sadness, but now it's about taking action. Goal: Use the grounding anchor to keep the focus on the physical sensation.
+
+Therapist Answer:
+Let's do the 2-minute practice now. You're going to sit with the hot, centered pressure and shortness of breath, and you're going to focus on the sensation of your fingertip on your thigh. When you feel the pressure, you're going to name it exactly, without trying to change it or analyze it. Ready? Here we go... What's the sensation in your fingertip?
+
+Patient: A sharp, electric tingle right at the pad of my fingertip — a quick prickling pulse. Naming it already pulls a flush of shame and a jittery anxiety spike; my chest tightens and my mind scrabbles for explanations, so I'm a bit distracted — please nudge me if I start analyzing.

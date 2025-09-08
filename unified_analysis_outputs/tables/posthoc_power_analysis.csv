@@ -1,0 +1,3 @@
+Dependent Variable,F-statistic,df_num,df_den,Observations,Cohen's f,Achieved Power
+act_fm_total,37.27885092022005,5,894,900,0.4550876040220782,1.0
+tes_mean,28.26180620158176,5,894,900,0.39624491725854605,1.0

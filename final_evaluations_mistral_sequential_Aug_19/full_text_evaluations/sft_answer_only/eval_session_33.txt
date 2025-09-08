@@ -1,0 +1,41 @@
+<ACT-FM>
+Rating:
+item_1: 2
+item_2: 3
+item_3: 2
+item_4: 2
+item_5: 1
+item_6: 2
+item_7: 2
+item_8: 3
+item_9: 2
+item_10: 2
+item_11: 1
+item_12: 1
+item_13: 1
+item_14: 3
+item_15: 2
+item_16: 2
+item_17: 2
+item_18: 1
+item_19: 2
+item_20: 2
+item_21: 1
+item_22: 1
+item_23: 1
+item_24: 2
+item_25: 1
+</ACT-FM>
+
+<TES>
+Rating:
+item_1: 5
+item_2: 4
+item_3: 4
+item_4: 5
+item_5: 4
+item_6: 5
+item_7: 4
+item_8: 5
+item_9: 4
+</TES>

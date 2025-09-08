@@ -1,0 +1,101 @@
+Patient: Hey, I’ve been stuck in these cycles of pretty harsh self-criticism — I fixate on what I see as failures and it just keeps spiraling. I had a rough time academically, even though I eventually found some success as a data scientist, and those old doubts never really went away. I don’t know, it’s kind of awkward to talk about, but that’s what’s been on my mind.
+
+Therapist: It takes a lot of courage to share this with me. Can you tell me more about what happens when those self-critical thoughts come up for you? What's the tone of those thoughts - is it angry, disappointed, or something else?
+
+Patient: Mostly it's this disappointed, nagging tone — like a running commentary reminding me of every little screw-up. Sometimes it flares into anger or shame, but usually it's more cold and… I don't know, like a constant low-level criticism. I guess I end up trying to ignore it or joke my way out when it gets too loud.
+
+Therapist: It sounds like those self-critical thoughts can be really tough to shake. Can you notice when you're trying to joke your way out of them - is there a sense of relief or temporary escape when you're able to laugh it off, or does the underlying discomfort linger?
+
+Patient: Yeah, laughing gives me a little short-term relief — like I can pretend it's not a big deal for a minute, but the nagging stuff is still there underneath. I don't know, it feels kind of hollow, like I'm papering over a crack. I guess it mostly just helps me avoid actually feeling it.
+
+Therapist: It's like you're trying to hold things together with a temporary fix, rather than dealing with the underlying feelings. What would happen if, for just a moment, you were to let go of trying to push those thoughts away, and instead, just allowed yourself to feel that discomfort or disappointment?
+
+Patient: I don't know… it's scary to actually let it in. I guess if I let myself feel it for a moment it gets messy — I get flooded and start replaying every academic screw-up and job worry, and then I just start berating myself. Okay, I'm feeling a bit overwhelmed with all this — can we slow down?
+
+Therapist: It sounds like it's a bit like a self-fulfilling prophecy - the more you try to avoid the discomfort, the more you end up reliving and amplifying the negative experiences. Would it be okay if we pause here for a moment and take a few deep breaths together, just to create some space before we continue?
+
+Patient: Okay, I can try. I don't know if this will help but... breathing in, breathing out. I guess that did calm me a bit, though my chest's still tight — can we go a little slower?
+
+Therapist: It's like your body is still holding onto some tension. Can I suggest we take a very small step forward, just a tiny one - would you be willing to just notice the sensation in your chest, right now, without trying to change it or push it away?
+
+Patient: I guess I can try. My chest feels tight, like a knot under my ribs, and my breaths get kind of shallow and jumpy when I pay attention to it. I don't know, noticing it makes me want to make it stop—can we go slower?
+
+Therapist: It's like your body is trying to protect itself from feeling that tension. Would you be willing to just observe the sensation in your chest, without trying to "fix" it or make it go away, even for just a few more breaths?
+
+Patient: I guess I can try. Breathing in... out... when I notice it the knot under my ribs loosens a little on the out-breath but then tenses back up, and there's this low buzzing that makes me want to move. I don't know, sitting with it feels really uncomfortable and makes me fidgety—can we go a bit slower?
+
+Therapist: The sensation is still quite unpleasant. Would you be willing to stay with that sensation, even as it's uncomfortable, and just focus on the sensation itself, without trying to change it or push it away - just be with it, like you're simply noticing it's there?
+
+Patient: I don't know... I can try to stay with it for a bit, but honestly it gets messy — the more I notice the knot, the more memories of every academic screw-up rush in and I start berating myself. I guess I can sit with the sensation for a couple more breaths, but I'm already getting fidgety and overwhelmed — can we go a bit slower?
+
+Therapist: It's like the more you try to sit with it, the more memories come flooding back. Let's take a very small step back - would you be willing to just focus on the sensation of your feet touching the ground, and the sensation of the air moving in and out of your body, without trying to notice the knot or any other thoughts that come up?
+
+Patient: I'm not sure I follow — how is focusing on my feet and breath supposed to help with the knot or the memories? I guess I can try, but it feels kind of weird and my mind just jumps right back to the knot and those old failures. I don't know, can we go slower or can you say why this would help before we do it?
+
+Therapist: It might feel weird at first, but it's actually a way to ground ourselves in the present moment and take our attention away from the knot. By focusing on something as simple as our breath or physical sensations, we can create some distance from the thoughts and emotions that are causing discomfort. It's not about avoiding the knot, but about noticing that we're already sitting in our bodies, with our feet on the ground, and taking a few deep breaths. Would you like me to explain more about that, or would you rather just try it for a few more breaths?
+
+Patient: I don't know… I'm not sure I follow—how does focusing on my feet actually help with the knot? I guess it might, but my brain just slammed into that stupid memory again and I feel ashamed and kind of furious at myself for letting it show up. Can we go really slow—just tell me one simple thing to notice, like one breath or one foot, before we try?
+
+Therapist: Let's try something simple. I'd like you to notice the sensation of the air moving in through your nose on this next breath. Just pay attention to the sensation of the air entering your body, without trying to change it or think about anything else. No labels, no judgment - just the sensation of the air moving in.
+
+Patient: Okay, I'll try. I can feel the air coming in—cooler at the tip of my nose and warmer on the out-breath. I don't know, though, as soon as I notice it that old shame and frustration floods back and I get pissed at myself—can we go really slow?
+
+Therapist: It's like the moment you become aware of the sensation, it gets amplified. Let's take an even smaller step back - would you be willing to just notice the sensation of your foot touching the ground, without paying attention to the air moving in or out, and without trying to change anything? Just notice the sensation of your foot on the ground, like it's a very small, simple fact.
+
+Patient: Okay… I guess I can try to notice my foot. When I do, though, this wave of shame and anger just floods back and I feel like moving — I don't know why it hits so hard. Can we go super slow? Tell me one tiny, exact thing to notice for one breath and I'll try to stick with it.
+
+Therapist: Let's try something tiny. I'd like you to notice the sensation of the top of your left toe. Just notice it, exactly - the sensation, without trying to change it or think about anything else. No labels, no judgment - just the sensation of that one toe. Can you focus on that for just one breath?
+
+Patient: I don't know... I guess I can try. I can kind of feel the top of my left toe — a light pressure and a tiny cool spot — but as soon as I focus that stupid memory rushes in and I get this wave of shame and pissed-off at myself. Can we just stay with that one tiny thing for another breath and go really slowly?
+
+Therapist: It's like the moment you focus on the sensation, it gets overwhelmed by the memory. Let's stay with the sensation of the top of your left toe, and I'll make a very slow request: notice the sensation of your breath moving in and out of your body, but not focus on the sensation of your toe. Just pay attention to the sensation of the breath.
+
+Patient: I'm not sure I follow—how am I supposed to notice the breath but not the toe? I don't know, I guess I'll try: breathing in feels shallow and my chest tightens, and as soon as I focus the shame just slams me and I get pissed at myself. I'm already feeling overwhelmed—can we go way slower and give me one tiny, exact thing to notice for the next breath?
+
+Therapist: It's okay, let's take a tiny step back. For the next breath, I just want you to notice the sensation of the floor beneath your sitting feet. Just focus on the sensation of the floor, without paying attention to your breath, your toe, or anything else. Can you just notice the sensation of the floor, exactly, for just one breath?
+
+Patient: I don't know... I guess I can try. My feet feel pressed against something solid — a bit cool under my heels and a firmer pressure under the balls of my feet. But as soon as I focus on it that stupid shame floods back and I want to shift or stand up. Can we go really slow? Give me one tiny, exact thing to notice for the next breath.
+
+Therapist: It's like the moment you focus, it gets overwhelmed. For the next breath, I'd like you to notice the sensation of the back of your chair, just behind you. Not the front of the chair, not the floor, just the sensation of the back of the chair. Can you just notice that sensation, exactly, for just one breath?
+
+Patient: Okay, I can try that for one breath. The back of the chair is solid against my shoulder blades—warm and a bit firm—and noticing it helps a little. I don't know, as soon as I focus that stupid memory slams back and I get ashamed and twitchy—can we go really slow? Give me one tiny exact thing to notice next.
+
+Therapist: It's like the moment you focus, it comes back. For the next breath, I'd like you to notice the sensation of the air moving past the tip of your nose. Just pay attention to the sensation of the air as it enters your nostrils, without thinking about your breath, the chair, or anything else. Can you just notice that sensation, exactly, for just one breath?
+
+Patient: Okay, I can try one breath. I notice a coolness at the tip of my nose as the air comes in and a bit of warmth on the out-breath. I don't know how this actually helps—when I focus the shame and anger just slam back and I get twitchy and pissed at myself. Can we go really slow? Tell me one tiny, exact thing to notice for the next breath.
+
+Therapist: It's like the moment you focus, it gets overwhelming. For the next breath, I'd like you to notice the sensation of the sensation that just passed through your nose - the coolness and warmth you noticed on the in-breath. Just notice the sensation of that feeling, exactly, as it's still lingering in your nostrils.
+
+Patient: I can try. I notice a faint coolness at the tip of my nose and the warm fade on the out-breath, but the moment I focus that stupid memory and shame just rush back and I get pissed at myself. I don't know—can we go really slow and just hold one tiny thing for another breath?
+
+Therapist: It's like the moment you focus, it comes back. I'd like you to hold onto just the sensation of the coolness at the tip of your nose, exactly, without trying to think about it or anything else. Just hold onto that sensation, without judgment, for just another breath.
+
+Patient: Okay, I can try — I notice a faint coolness at the tip of my nose, but my chest tightened and my mind's already racing and jumpy. I don't know, it feels like the shame just slams back the moment I try to hold it, and I'm getting anxious and fidgety. Can we go really slow — give me one tiny, exact thing to focus on for one slow breath?
+
+Therapist: It's like the moment you try to hold onto it, it gets overwhelming. For the next breath, I'd like you to notice the sensation of your left hand on the armrest. Just pay attention to the sensation of your hand resting on the armrest, without thinking about your chest, your mind, or anything else. Can you just notice the sensation of your hand, exactly, for just one slow breath?
+
+Patient: I don't know... I can try. My left hand feels warm on the armrest, a light pressure along my palm, but my chest's tightening and my mind's already racing and jumpy — that stupid memory keeps sneaking back and I get pissed at myself. Can we go really slow? Tell me one tiny thing to notice for just one slow breath.
+
+Therapist: It's like the moment you focus, it comes back. For the next breath, I'd like you to notice the sensation of the air moving in and out of your right nostril. Just pay attention to the sensation of one nostril filling with air, without thinking about your hand, your chest, or anything else. Can you just notice the sensation of that one nostril, exactly, for just one slow breath?
+
+Patient: I don't know... I can try to notice my right nostril — I feel a faint cool tug, but my chest tightens and that stupid memory just slams back and makes my mind race. I'm getting anxious and fidgety — can we go really slow? Tell me one tiny, exact thing to focus on for just one slow breath.
+
+Therapist: It's like the moment you focus, it comes back. For the next breath, I'd like you to notice the sensation of the chair's cushion on the top of your head. Just pay attention to the sensation of the cushion, the way it's supporting your head, without thinking about your nostril, your chest, or anything else. Can you just notice that sensation, exactly, for just one slow breath?
+
+Patient: I don't know... noticing the top of my head feels weird — I can't really tell there's a cushion up there. My chest's tight and my mind's already racing and that stupid memory keeps slamming back. Can we go really slow? Tell me one tiny, exact thing to notice for one slow breath.
+
+Therapist: It's like you're trying to pin down something that's not quite there. For the next breath, I'd like you to notice the sensation of your sitting bones, the feeling of your weight distributed on the chair, without trying to think about your head, your chest, or anything else. Can you just notice the sensation of your sitting bones, exactly, for just one slow breath?
+
+Patient: I don't know, I can try. When I focus on my sitting bones there's this grounded pressure under my pelvis, a firm contact and a tiny numbness, but as soon as I notice it that shame and that stupid memory slams back, my chest tightens and I want to shift. I'm getting jumpy and anxious—can we go really slow? Tell me one tiny, exact thing to notice for one slow breath.
+
+Therapist: It's like the moment you focus, it comes back. For the next breath, I'd like you to notice the sensation of the sensation of the numbness in your pelvis. Just pay attention to that numbness, without thinking about your sitting bones, your chest, or anything else. Can you just notice the numbness, exactly, for just one slow breath?
+
+Patient: I don't know... I can try. There's this dull, flat numbness across my pelvis but the moment I focus it that shame and that stupid memory slam back, my chest tightens and I get really jumpy. Can we go really slow—give me one tiny, exact thing to notice for one slow breath?
+
+Therapist: It's like the moment you focus, it comes back. For the next breath, I'd like you to notice the sensation of the silence between the sounds around you. Just pay attention to the quiet, without thinking about the numbness, your chest, or anything else. Can you just notice the silence, exactly, for just one slow breath?
+
+Patient: I guess I can try to notice the silence for one slow breath, but honestly the quiet just makes that stupid memory feel louder and my chest clamps down. My mind's already racing and I'm getting jumpy—can we really go slower? Give me one tiny, exact thing to hold onto for that breath.
+
+Therapist: It's like the silence is actually making the memory more present. For the next breath, I'd like you to notice the sensation of the air leaving your body as you exhale. Just pay attention to the sensation of the air moving out of your body, without thinking about the silence, the memory, or anything else. Can you just notice the sensation of the out-breath, exactly?
+
+Patient: I don't know… I'll try. I can feel the air leaving—warmer at my lips, a soft rush—but the moment I focus that stupid memory slams back, my chest tightens and I get really jumpy. Can we go really slow? Give me one tiny, exact thing to focus on for that out-breath.

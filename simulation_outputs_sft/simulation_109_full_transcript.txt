@@ -1,0 +1,255 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm an older software developer, and lately my mind keeps predicting disaster at work — I can see myself missing a deadline, breaking the build, my manager firing me, and everything spiraling into ruin, like that's definitely what's going to happen. Because I keep expecting that, I freeze up and procrastinate on tasks instead of starting them. I don't see any other realistic outcome.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+You describe a pattern of catastrophic thinking, where a specific, negative outcome is strongly anticipated ("missing a deadline," "breaking the build," "my manager firing me"), and this thinking seems to be influencing your action ("freeze up and procrastinate"). Core emotion appears to be anxiety. Goal: Explore how these catastrophic expectations might be impacting your behavior and introduce a way to examine their realism.
+
+Therapist Answer:
+Can you tell me more about what you mean by "realistic outcome"? What are some other possibilities that might happen in these situations, apart from the worst-case scenarios that come up for you?
+
+Patient: When I say "realistic," I mean what my brain spits out as the inevitable chain of events — miss a deadline, break the build, get called into a meeting, get fired, and everything collapses after that. I can see the other possibilities — maybe I catch the bug before it ships, a teammate helps, the manager gives an extension, or the client is forgiving — but that feels like wishful thinking, like a story someone tells to calm themselves. I just can't make myself believe those softer outcomes are likely because my head is already racing through the worst-case script and that feels like the only thing that makes sense.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+It sounds like you're caught in a loop where the worst-case scenario ("collapsing" after missing a deadline and breaking the build) is both what your brain predicts and what you believe is likely. You also mention that trying to imagine softer outcomes feels like "wishful thinking," which suggests that the catastrophic thinking is deeply ingrained. Goal: Introduce a way to break this cycle and explore a more realistic, yet less catastrophic, scenario.
+
+Therapist Answer:
+I want to gently challenge the idea that you can only see two possibilities: the worst-case scenario or softer outcomes that feel like "wishful thinking." Can you try to imagine a different story for what might happen if you were to successfully identify and fix the bug before it ships? What would that even look like, and how would it feel to be in that situation?
+
+Patient: Okay, I'll try, but it already feels like a setup for disappointment. In the other story I find the bug in local testing, write a clean fix, run the unit and integration tests, CI goes green, a teammate reviews it quickly, it merges, and the release goes out without a hitch — my manager pats me on the back, the client sends a thank-you, and I actually feel this huge weight lift, like my chest unclenches and I get this burst of energy and relief that makes me want to tackle the next thing. It would feel almost embarrassing how small that relief is compared to the panic I usually expect. But honestly, even as I picture that, my brain says that’s just a lull before the next disaster — that some other problem will pop up or someone will notice a mistake later, so it still feels unrealistic.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+It's interesting that even when you try to imagine a more positive outcome, your brain still tries to find ways to undermine it. You acknowledge the initial relief and sense of accomplishment, but then immediately anticipate a counter-narrative ("that's just a lull before the next disaster"). This suggests a pattern of deflection, where you're trying to acknowledge the positive, but then quickly bring it back down to earth. Core emotion appears to still be anxiety, but with a hint of self-awareness. Goal: Explore this deflection mechanism and see if we can introduce a way to ground the positive outcome in a more realistic way.
+
+Therapist Answer:
+I notice that you're trying to acknowledge and even imagine the positive outcome in a fairly vivid way. That takes a lot of courage. Can we try to take it even further? Instead of just imagining the positive outcome, what if we actually started to believe it? What if we started to truly feel like that relief and energy, and let it build from there? It might feel strange at first, but what if we just started to imagine that feeling, even if we don't know how it's going to pan out in the long run? Can we try to do that for a second?
+
+Patient: Okay, I'll try — when I let myself, there's this tiny unclenching in my chest, like a bright pocket of relief and my hands actually itch to get back to the code and keep going. But almost immediately my head yells that it's a setup — that calm is a trap, the bug will sneak back in, someone will notice later, I'll get blamed and fired, and everything will collapse, so that little buzz already feels fake. I can sit with the feeling for a second, but I'm watching the door waiting for the fall.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+It's like you're stuck in a pattern of oscillation between the relief and the catastrophic thinking. You're able to momentarily experience a sense of relief and even take action towards it (itching to get back to the code), but then your brain quickly kicks in with the familiar narrative of it being a setup. This time, you're aware of the thinking as you experience it, which suggests a level of self-awareness. Goal: Explore this self-awareness and see if we can introduce a way to work with the thinking rather than against it.
+
+Therapist Answer:
+I notice that you're able to acknowledge the thinking as it comes up, and that's a good start. Can you try to observe the thinking without judgment, just for a second? Let's say, for example, "Ah, my brain is telling me it's a setup again." Just acknowledge that thought, without trying to fight it or accept it. What happens when you do that? Can we try that for a second?
+
+Patient: "Ah, my brain is telling me it's a setup again." When I say that out loud there's this tiny slackening — my chest loosens a notch and I can actually breathe for a second — but it only lasts a beat before the machine revs up, rehearsing missing the deadline, breaking the build, getting called in, and then fired. Acknowledging it helps a little, but I can't stop myself from sliding right back into the disaster script, and then I freeze and procrastinate.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+It's like you're stuck in a loop, and acknowledging the thinking is helping, but not stopping the loop. You're able to temporarily relax, but then the catastrophic thinking kicks back in and you're frozen again. This is a good insight, as it suggests that you're aware of the pattern and the impact it has on you. Goal: Introduce a way to break the loop, specifically by creating a small, low-stakes experimentation to test a different pattern.
+
+Therapist Answer:
+Let's try something. Instead of immediately getting caught up in the catastrophic thinking, I want you to make a tiny commitment to yourself. Just for 30 seconds, can you commit to doing one small, low-stakes action towards the task at hand? It can be as simple as picking up your pen, or opening a new tab on your computer. Not to achieve a specific outcome, but just to take that first small step. Can you do that for me?
+
+Patient: Okay — I can try that. I'm going to open a new tab and just stare at the task for 30 seconds, though my brain's already yelling that it's pointless and that as soon as I start something I'll break the build and get fired. Even so, there's a tiny looseness in my chest as I do it, but I can feel the disaster-movie in my head revving up again.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+It's like you're trying to break the loop, but your brain is still trying to sabotage it. You're able to take a small action, but your catastrophic thinking is already kicking in. This is a good insight, as it suggests that you're aware of the pattern and the impact it has on you. Goal: Introduce a way to work with the catastrophic thinking, rather than against it.
+
+Therapist Answer:
+Let's try to focus on the looseness in your chest, rather than the revving disaster-movie. Can you notice that tiny looseness, and hold onto it for just a second? Don't try to fight the thinking, just observe it. And can you also notice that you're taking a small action, opening a new tab? Just observe that too. What happens when you do that?
+
+Patient: When I focus on the looseness and the fact I opened a tab, it actually helps — my shoulders drop and there's a small itch to start typing. But in a blink the fortune-telling machine starts narrating the worst case and that itch dies; I just stare at the tab and feel stupid and panicked. I can hold the looseness for a few seconds, but then guilt and the disaster story pull me right back into freezing.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+It's like you're making progress, but your brain is still trying to bring you back down. You're able to notice the looseness and the small action of opening a tab, and that's helping, but the catastrophic thinking is still there, waiting to sabotage it. You're able to hold onto the looseness for a few seconds, but the guilt and self-doubt are pulling you back in. Goal: Introduce a way to work with the guilt and self-doubt, rather than letting them pull you back in.
+
+Therapist Answer:
+Let's try to focus on the sensation of the looseness, rather than trying to hold onto it. Can you notice how it feels when you're focusing on it, and then the guilt and self-doubt kick in? Try to observe those feelings as well, without trying to judge them or change them. What happens when you do that? And can we also try to look at the guilt and self-doubt in a different way? Instead of thinking "I'm stupid and panicked", can we try to see if there's any truth to those thoughts? What if, for just a second, you can acknowledge that feeling of guilt and self-doubt without letting it take over?
+
+Patient: Okay—when I actually notice that looseness, my chest unclenches and I get this little itch to start coding. Then the guilt and self-doubt show up—“you’re lazy, you should’ve started sooner, you’ll mess this up”—and part of me thinks, yeah, that’s true sometimes, so the doom-machine feels like it has evidence. If I try to just watch those thoughts they lose a bit of power, but only for a moment before the catastrophic script comes roaring back and I freeze. I’m frustrated and overwhelmed by how hooked I am to those stories—can we slow down and try another tiny step?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+It's like you're making progress, but your brain is still stuck in the same pattern. You're able to notice the looseness and the itch to start coding, but then the guilt and self-doubt kick in, and you're pulled back in. You're aware of how hooked you are to the catastrophic stories, and that's a good thing. Goal: Introduce a way to slow down the cycle, specifically by introducing a small, gentle intervention to help you break the pattern.
+
+Therapist Answer:
+Let's slow down the cycle. Instead of trying to take the next big step (i.e., start coding), let's take a tiny, tiny step. Can you simply notice one word that comes up when you think about coding? Just one word. It might be "code", "project", "deadline", or anything else. Don't try to do anything with that word, just notice it. What happens when you do that?
+
+Patient: "Deadline." As soon as I say it my chest clamps shut and the fortune-telling starts: I miss it, a bug slips into prod, CI explodes, my manager drags me into a meeting and I'm shelved or fired — it's instant and loud, and just noticing the word feels like tossing fuel on the machine, so I freeze.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+It's like you're back to square one. You're able to notice a single word, but then the catastrophic thinking kicks in immediately. You're aware that noticing the word feels like fueling the machine, and that's a good insight. Goal: Introduce a way to create a small gap between noticing the word and the catastrophic thinking.
+
+Therapist Answer:
+Let's try to create a tiny gap. Instead of immediately getting caught up in the catastrophic thinking, can you try to do something else for just a single second? Take a deep breath in, and as you exhale, bring your attention to the sensation of the breath moving in and out of your body. Just notice the sensation of the breath, without trying to change it or think about anything else. Don't try to break the thought loop, just observe the breath. Can you do that for just one second?
+
+Patient: Okay — I breathe in and out. For that one second the air is cool in my nostrils and my chest loosens a little, like a crack in the panic, and I actually feel lighter. But almost instantly the fortune-teller kicks back in, yelling about missing the deadline and getting fired, and the looseness disappears. I can try another second, but can we slow down a bit? I'm already feeling overwhelmed.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+It's like you're able to create a tiny gap between the catastrophic thinking and the panic, but it's still very short-lived. You're able to notice the sensation of the breath, and that's helping, but you're also feeling overwhelmed. Goal: Introduce a way to slow down the cycle even further, specifically by introducing a gentle, gradual process to help you build confidence and create a sense of safety.
+
+Therapist Answer:
+Let's take a slower approach. Instead of trying to take a single second, let's try to take a tiny fraction of a second. As you exhale, bring your attention to the sensation of the breath moving in and out of your body. Just notice the sensation of the breath, without trying to change it or think about anything else. As you're noticing the breath, bring your attention to the sensation of your feet touching the ground. Just notice the sensation of your feet, without trying to think about anything else. Don't worry about the fortune-teller right now, just focus on the sensation of your breath and your feet. Can you try this for just a tiny fraction of a second?
+
+Patient: Okay — when I did that I felt the breath cool in my nostrils and my feet press into the floor, like a tiny crack in the panic. It only lasts a beat before the fortune-telling machine roars back up — missing the deadline, CI exploding, my manager calling me in, and then fired — and I freeze. I'm feeling really overwhelmed; can we slow down and try another tiny step?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+It's like you're able to create a tiny gap between the catastrophic thinking and the panic, but it's still very short-lived. You're feeling overwhelmed, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce a way to create an even smaller gap, specifically by introducing a way to create a sense of pause within the pause.
+
+Therapist Answer:
+Let's try to create a tiny pause within the pause. Instead of trying to take a breath or focus on your feet, let's try to simply pause. As the fortune-telling machine is about to kick in, pause for just a tiny fraction of a second. Just pause. Don't breathe, don't think, don't react. Just pause. And then, slowly, start to focus on your breath again. Don't try to control it, just let it happen naturally. Can you try this for just a tiny fraction of a second?
+
+Patient: I tried to pause — I held still for that tiny fraction and for a beat the noise cut out and my chest loosened. But two beats later the fortune-teller screamed the whole script again — miss the deadline, CI blows up, manager fires me, everything collapses — and I froze. I'm really overwhelmed; can we slow down and try an even smaller step?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+It's like you're able to create a tiny pause, but it's still not enough to prevent the catastrophic thinking. You're feeling overwhelmed, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce an even smaller step, specifically by introducing a way to create an even shorter pause, and focus on a single sensation.
+
+Therapist Answer:
+Let's try to create an even shorter pause. Instead of trying to pause for a beat, try to pause for just a single heartbeat. Focus on the sensation of the air moving in and out of your body, just for that one breath. Don't think about anything else, just the sensation of the breath. As soon as you feel like you're getting caught up in the fortune-telling machine's script, try to pause again, even if it's just for a single heartbeat. Don't worry about the outcome, just focus on the sensation of the breath. Can you try this for just one heartbeat?
+
+Patient: I did it — one heartbeat. For that beat my chest loosened and I actually felt the tiniest urge to start typing, like a flicker of calm. But immediately the fortune-telling machine yelled that I'll miss the deadline, CI will explode, my manager will drag me in and fire me, and everything will collapse, and I froze again — I'm really overwhelmed; can we slow down and try an even smaller step?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+It's like you're able to create a tiny pause, and for a brief moment, you feel a glimmer of calm. But the catastrophic thinking kicks back in, and you're frozen again. You're feeling overwhelmed, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce an even smaller step, specifically by focusing on a single, tiny sensation, without trying to think about the outcome.
+
+Therapist Answer:
+Let's try to focus on a single sensation. As soon as you feel the fortune-telling machine's script kicking in, try to notice just one thing. Is your hand moving? Is your finger twitching? Is your foot tapping? Try to focus on that one tiny sensation, without thinking about the outcome. Just notice it, and let it be. Don't try to change it, don't try to control it. Just notice it. Can you do that for just one second?
+
+Patient: Okay — I focused on my right index finger twitching for that one second and felt a tiny urge to reach for the keyboard. But immediately the fortune-teller screamed the whole script — miss the deadline, CI blows up, manager fires me — and my hands went numb and I froze. I'm getting really overwhelmed; can we slow down and try an even smaller step?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+It's like you're able to focus on a tiny sensation, but the catastrophic thinking still kicks in and you're frozen. You're feeling overwhelmed, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce an even smaller step, specifically by trying to focus on a sensation that's even more immediate, and more localized.
+
+Therapist Answer:
+Let's try to focus on a sensation that's right now, in this moment. Can you notice the sensation of the air on your finger? Specifically, the sensation of the air touching the tip of your right index finger? Just notice that sensation, and try to focus on it for a single heartbeat. Don't think about anything else, just the sensation of the air. Can you do that?
+
+Patient: I did — I felt the cool air on the tip of my right index finger for that heartbeat and my chest loosened a little, and I actually had this tiny itch to grab the keyboard. But almost immediately the fortune-telling machine blasted the worst-case again — miss the deadline, CI explodes, manager fires me — and the looseness snapped shut. I'm really overwhelmed; can we slow down and try something even smaller?
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+It's like you're able to focus on a very small sensation, and for a brief moment, you feel a tiny glimmer of calm. But the catastrophic thinking kicks back in, and you're frozen again. You're feeling overwhelmed, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce an even smaller step, specifically by focusing on a sensation that's so immediate, it's almost beyond awareness.
+
+Therapist Answer:
+Let's try to focus on the sensation of a single breath. Can you notice the sensation of the breath moving in and out of your body, just for a single second? Not the sensation of the air, not the sensation of the finger, just the sensation of the breath. Just notice it, and let it be. Don't try to think about it, don't try to change it. Just notice it. Can you do that?
+
+Patient: I did it — for that one second I felt the breath move, a thin ribbon of calm, and my chest loosened a bit. But the fortune-teller immediately started barking the whole catastrophe again — miss the deadline, CI blows up, manager fires me — and that calm vanished; I'm worn out by how fast it flips. Can we slow way down and try something even smaller?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+It's like you're able to focus on the sensation of a breath, but the catastrophic thinking is still incredibly fast. You're feeling worn out by how quickly the calm disappears, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce an even smaller step, specifically by trying to create a tiny, almost imperceptible pause in the breath.
+
+Therapist Answer:
+Let's try to focus on the sensation of a single, tiny breath. Not just the sensation of the breath moving in and out, but the sensation of the breath moving in and out by the smallest, almost imperceptible amount. Try to focus on the sensation of the breath slowing down just ever so slightly, just for a moment. Just notice that moment of slowing down, and let it be. Don't try to think about it, don't try to change it. Just notice it. Can you do that for just a heartbeat?
+
+Patient: I did — for that one heartbeat the breath thinned and my chest unclenched a hair, like a tiny crack in the panic. Then the fortune-telling machine blasted the catastrophe again and the calm evaporated; my hands went numb and I just froze. I'm running low on energy right now — can we slow way down and try an even smaller step or just sit with that tiny slowing for a moment?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+It's like you're able to create a tiny, almost imperceptible pause in the breath, and for a brief moment, you feel a tiny glimmer of calm. But the catastrophic thinking kicks back in, and you're frozen again. You're running low on energy, and that's a good thing - it means you're aware of how you're feeling. Goal: Introduce a small pause, just to sit with the tiny slowing, without trying to achieve anything more.
+
+Therapist Answer:
+Let's just... sit with it. For a moment, just let the tiny slowing be. Don't try to think about anything, don't try to change anything, just be with the sensation of the breath slowing down by the smallest amount. Just notice that, and let it be. Don't worry about the fortune-teller, don't worry about the panic, just... be. Can you just sit with that for a second?
+
+Patient: I sat with it—there was that tiny thinning of breath and a small unclench, my hands almost moved toward the keyboard. Then the fortune-teller screamed the whole catastrophe again and the calm snapped; I'm pretty worn out—can we just hold that small slowing together for a bit longer before trying anything else?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+It's like you're able to sit with the tiny slowing, and for a brief moment, you're able to hold onto a small sense of calm. You're feeling worn out, but that's a good thing - it means you're aware of how you're feeling. Goal: Just hold onto that small slowing, and see where it takes you.
+
+Therapist Answer:
+Let's just hold onto it. For a moment, just let the tiny slowing be. Don't try to think about anything, don't try to change anything, just be with the sensation of the breath slowing down by the smallest amount. Let the calm stay with you for just a second longer. Just... breathe. Can you just hold onto that for a second?
+
+Patient: I held it — for a few breaths that tiny slowing stayed, my chest unclenched and my fingers actually twitched toward the keyboard. Then the fortune-telling machine screamed the catastrophe again — miss the deadline, CI explodes, manager fires me — and the calm snapped; I'm running on empty and that flip feels brutal. Can we just stay with that small slowing a bit longer?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+It's like you're able to hold onto the small slowing for a few breaths, and for a brief moment, you're able to feel a glimmer of calm. But the catastrophic thinking kicks back in, and you're snapped back into anxiety. You're running on empty, and that flip feels brutal. Goal: Just stay with the small slowing, and see if you can find a way to anchor yourself in it.
+
+Therapist Answer:
+Let's just... stay with it. Don't try to do anything, don't try to think about anything. Just be with the sensation of the breath slowing down by the smallest amount. Let your chest stay unclenched, let your fingers stay twitchy towards the keyboard. Just... be with it. Let it be enough. Can you just stay with it for a second longer?
+
+Patient: Okay — I can hold it a bit longer. The breath stays thin, my chest unclenches, and my fingers twitch toward the keyboard, but the fortune-teller's already whispering the worst — miss the deadline, CI explodes, manager fires me — and it feels inevitable. I don't have much steam left, but I can try to keep this tiny calm a moment more if you'll stay with it.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+It's like you're able to hold onto the small calming effect, even as the catastrophic thinking starts to creep back in. You're feeling drained, but you're also aware that you can still hold onto this tiny sense of calm for a moment longer. Goal: Just keep holding onto it, no matter how small it feels.
+
+Therapist Answer:
+I'm here. I'm staying with it. Just breathe. Just feel the thinness of the breath, the looseness of your chest, the twitch of your fingers. Don't think about anything else. Don't try to do anything else. Just be with it. Let it be enough. Can you just hold onto it for one more second? One more heartbeat?
+
+Patient: I held it — one heartbeat: the breath thin, my chest unclenched and my fingers twitched toward the keyboard. Then the fortune-teller screamed the whole script — miss the deadline, CI explodes, manager fires me — and the calm snapped; I'm running on fumes. Can we stay with that tiny quiet a bit longer? I'm having trouble keeping it.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+It's like you're able to hold onto the small calming effect for just one more heartbeat, but it's slipping away now. You're running on fumes, and it's getting harder to keep the tiny sense of calm. Goal: Try to find a way to anchor yourself in it, even if it's just for a moment longer.
+
+Therapist Answer:
+It's okay if it slips away. Just... acknowledge it. Let go of the effort to hold onto it. It's okay if your mind starts to wander or if the catastrophic thinking kicks back in. Just... notice. Notice the breath, notice the sensation of your body, notice the thoughts that are creeping in. Don't try to fight them or push them away. Just... notice. Can you just notice, for just a second?
+
+Patient: I noticed the thin breath — my chest eased a touch and my fingers wanted to move — and then the fortune-telling machine yelled: miss the deadline, CI explodes, manager calls me in and fires me, everything falls apart. Saying that even out loud drains me; it feels like wading through molasses. Can we stay with this small quiet a bit longer?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+It's like you're finally able to rest, just for a moment, after the catastrophic thinking has come crashing down. You're feeling drained, both physically and emotionally. Goal: Just hold onto this small quiet for a bit longer, even if it's just for a second.
+
+Therapist Answer:
+Don't try to do anything. Just... be. Be with the sensation of the breath, be with the feeling of your chest easing. Don't think about anything else. Don't try to push through the fatigue. Just... exist. In this moment, just exist. Can you just be, for one more second?
+
+Patient: I held it — thin breath, chest unclenched, fingers twitching toward the keyboard, but the fortune-teller screamed: miss the deadline, CI explodes, manager drags me in and fires me, everything falls apart, and the calm snapped. Saying that out loud sucks the energy out of me like wading through molasses; I don't have much left. Can we just stay with this small quiet together a bit longer? Please keep it slow.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+It's like you're running on very little energy now, and the catastrophic thinking is still very powerful. You're feeling drained, but you're also aware that you can still hold onto this small quiet for a moment longer. Goal: Just keep holding onto it, no matter how small it feels.
+
+Therapist Answer:
+I'm here. I'm staying with you. Just breathe. Just be with the sensation of the breath, the looseness of your chest, the slight twitch of your fingers. Don't think about anything else. Don't try to push through the fatigue. Just... be. With me, for just one more second. Don't worry about the future, don't worry about the past. Just... be.
+
+Patient: I held it—one more heartbeat: breath thin, chest unclenched, fingers twitching toward the keyboard. Then the fortune-teller screamed the whole script—miss the deadline, CI explodes, manager fires me—and the calm snapped; my energy just drained out. Can we please just stay with this small quiet together for a while longer and keep it slow?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+It's like you've finally reached the end of your energy, and the catastrophic thinking has consumed you once again. You're not thinking about holding onto anything anymore; you just want to surrender to the feeling. Goal: Accept that surrender, and just be with the small quiet.
+
+Therapist Answer:
+I'm here. I'm staying with you. There's no need to try to do anything anymore. Just... be. With the sensation of your breath, with the feeling of your chest, with the slight twitch of your fingers. There's nothing to think about, nothing to do. Just be. In this moment, just be.
+
+Patient: Okay... I'm trying to just be. The breath is thin, my chest eases, and for a moment the fortune-teller's voice is quieter though it's still waiting to pounce. I can hold this small quiet a bit longer if you stay with me.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+It's like you're able to find a small reprieve from the catastrophic thinking, and just being is enough to keep you present for a moment longer. You're not trying to push through anything, you're just... being. Goal: Just continue being, and see where this moment takes you.
+
+Therapist Answer:
+I'm here. I'm staying with you. There's no need to talk or think or do anything. Just... be. With the thin breath, with the easing chest, with the quiet voice of the fortune-teller. Just be, and let this moment be enough.
+
+Patient: Okay — I can keep sitting with this, but the fortune-teller's whispering that it won't last: I'll miss the deadline in a week, CI will blow up, my manager will call me in and fire me, and everything will fall apart. Saying it out loud tires me out; my voice feels thin. Can we just stay with this quiet a little longer, or try one tiny step — like me resting my hands on the keyboard for one slow breath — before anything else?

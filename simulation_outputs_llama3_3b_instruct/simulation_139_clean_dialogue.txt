@@ -1,0 +1,101 @@
+Patient: Hi. Lately I’ve been worrying a lot about my performance at work — I’m a data scientist and I keep second-guessing my analyses, which ends up making me procrastinate on projects. I don’t know, I just feel stuck and a bit isolated.
+
+Therapist: Can you think of a time when you felt proud or confident in your work as a data scientist? What was it about that experience that felt empowering, and how can you tap into that sense of confidence now?
+
+Patient: Yeah — there was a project a few years ago where I built a model that actually improved how our team prioritized cases, and it cut down on rework. What felt good was seeing the real-world impact and getting some quiet nods from colleagues; it made the work feel meaningful. I guess to tap into that now I could try breaking tasks into smaller, familiar steps and remind myself of the process that worked before, but I don't know — it's hard to pull that feeling back up.
+
+Therapist: Can you imagine having a "pre-game" ritual or routine that signals to yourself that you're about to tackle a challenging task, something that would help you feel more connected to your past successes and get you in the right mindset?
+
+Patient: I guess I could make a small ritual—like brewing a cup of tea, sitting down with a two-item checklist, and reading a short note I keep about that model that worked well. Maybe set a 10-minute timer and just do one simple task, like loading the data or writing one line of code, to get momentum. I don't know, it feels a bit silly, but maybe those tiny steps would remind me of how I used to work through things.
+
+Therapist: Let's take a closer look at the "silliness" you mentioned. Is it the idea of having to sit down with a checklist or read a note, or is it the feeling that this ritual needs to be more dramatic or intense?
+
+Patient: I don't know. I guess it's not the checklist so much as how doing a ritual feels like admitting I need crutches — and that feels embarrassing. Maybe if it stayed private and low-key, like something only I notice, it wouldn't feel so silly.
+
+Therapist: What if, instead of trying to hide your ritual, you allowed yourself to see it as a sign of self-care and commitment to your well-being? Can you imagine taking a few moments each day to acknowledge and appreciate your own efforts, without feeling like you need to share them with others?
+
+Patient: I guess I can imagine that, but I don't know — it feels weird to... to congratulate myself, like I'm pretending. If it's private and tiny, like a one‑line note or a short sip of tea before starting, that might be okay. How would you suggest I begin without it feeling fake?
+
+Therapist: Let's try something radical: what if, instead of trying to congratulate yourself, you simply acknowledged the fact that you're taking small steps towards your goals, without necessarily labeling them as "successes"? Can you imagine simply observing your actions, without judgment, and allowing yourself to be present with that sense of effort?
+
+Patient: I guess I can try that—just noting the action instead of calling it a win. I don't know, it's hard; my brain immediately starts saying it's not enough. Maybe something tiny would work—like a one-line note after a work block or a sip of tea—but it still feels a bit fake; can you help me make it feel more real?
+
+Therapist: Let's try a different kind of note. Instead of saying "I'm doing well" or "I'm a good data scientist," try writing down just one thing you're experiencing in the moment, without judgment. For example, "My hands are holding the cup of tea" or "I'm feeling the weight of my chair on my body." See if that feels more grounded and present.
+
+Patient: "My hands are warm around the tea mug." I guess that felt a little grounding — I noticed the warmth and the weight, but I don't know, it still feels odd to focus on something so small. Can we try another one?
+
+Therapist: Can you try noticing the sensation of your breath as you sit there, without trying to control it or focus on a specific thought? Just allow yourself to be with the sensation of the breath moving in and out of your body, without labeling it or analyzing it. See if that feels more expansive and less focused on small details.
+
+Patient: I don't know... when I try to notice my breath it feels shallow and quick, mostly in my chest, and my mind jumps to the tasks I haven't finished. I guess it did calm me a little for a moment, but then I felt guilty about not doing anything productive. Can we try something that ties the breathing to a tiny work action—like two minutes of breath-focus and then just opening the project file—so it feels less like a weird exercise and more like preparation?
+
+Therapist: Let's tie the breath focus to a specific, small action that feels meaningful to you. Can you try setting a 2-minute timer, and as you breathe, you simply open the project file, and then take one tiny step towards your task, like saving it or loading the first dataset? Notice the sensation of your body and the physical act of opening the file, and see if that helps you feel more grounded and ready to work.
+
+Patient: I'm not sure I follow — how is that supposed to help? I guess I could try the two‑minute timer, but it feels odd to try and breathe and click at the same time. I don't know, my chest tightens and my mind just jumps to everything I haven't finished, but maybe opening the file and saving one tiny thing would be... doable.
+
+Therapist: Let's try it without the breath focus. Can you just commit to saving one tiny thing, like a single variable or a single cell in the dataset, as soon as the timer goes off? See if that small, tangible action feels more manageable and connected to your work.
+
+Patient: I can try that. I guess I'll tell myself to open the project and save one thing — maybe write a single comment line like "loaded data" and hit save, so at least there's a tiny, visible action. I don't know, it still feels a bit like pretending and my brain will probably tell me it's pointless, but maybe it's doable. If I get stuck, can you help me figure out what to say to myself so I actually press the save button?
+
+Therapist: Let's try reframing the prompt. Instead of "save one thing," try using a phrase that acknowledges the small accomplishment, like "I've made progress on the project" or "I'm taking the first step towards tackling this task." Notice how those phrases feel in your body and see if they help you feel more confident and motivated to press the save button.
+
+Patient: I don't know... saying "I've made progress" feels weird, like I'm pretending. I guess "taking the first step" sounds less silly, but my chest tightens and my mind's already jumping to a dozen other unfinished things, so I'm jittery and distracted. What would I actually say to myself in the moment so I can hit save instead of walking away?
+
+Therapist: Let's try something simple: "I've got this." Say it to yourself as you look at the project file, and feel the words on your tongue. Can you feel a tiny bit of confidence and determination in that phrase? When you're ready, say it again as you prepare to press the save button, and see if it helps you take the action.
+
+Patient: I tried saying "I've got this," and... I don't know, it felt hollow — my chest tightened and my hands started to shake a little, like my mind was already halfway out the door. I guess I could press save if you gave me a very short, concrete sentence to say right before clicking, something that drowns out the doubt — what would that be?
+
+Therapist: Let's try a very simple, very brief sentence: "I'm here." Say it to yourself right before you press the save button, and focus on the physical sensation of the words on your tongue. The goal is not to think or rationalize, but simply to acknowledge your presence in the moment and take the action.
+
+Patient: I don't know... I'll try saying "I'm here" before I press save. My chest's tight and my hands are shaking a bit, but I can say it out loud and click save — can you stay with me and tell me what to do next after I hit save?
+
+Therapist: Let's take a deep breath in and out, and then look at the task at hand. Can you say to yourself, "What's the one thing I can do next?" and see what's possible?
+
+Patient: I guess the one thing is to open the project and add one little thing—like a comment line saying "loaded data"—and then hit save. My chest is tight and my hands are a bit shaky, so I don't know if I'll actually click—can you stay with me and prompt me through it? If it helps, tell me to say "I'm here" right before I press save.
+
+Therapist: Take a deep breath in and out, and look at the project file. Your hands are shaking, but your chest is still saying "I'm here." Say it out loud with me: "I'm here." Now, take a moment to notice your hands. Feel the weight of them on the mouse, the sensation of your fingers on the keyboard. You can do this. Take your time, and say the next part of the sentence with me: "I've got..."
+
+Patient: "I've got..." I try to say "I've got this," but it comes out thin — my chest tightens and a wave of shame and frustration washes over me, like I can't believe the words. I don't know, I keep expecting it to fall apart and my hands are shaking, but I guess I can try to press save if you stay with me and say "I'm here" one more time before I click.
+
+Therapist: I'm here.
+
+Patient: Okay—I pressed save. It felt small and sort of hollow; my chest's still tight and I keep thinking it'll all be wrong. I don't know what to do next—maybe run one cell or open the next file? Can you tell me one tiny thing to do now and stay with me while I do it?
+
+Therapist: Let's take a deep breath in and out, and look at the screen. See the rows of cells staring back at you? Can you notice the sensation of your eyes on the screen, the feeling of your gaze moving from one cell to the next? Say it with me: "I see the cells."
+
+Patient: "I see the cells." I guess my eyes move across them, but it's hard to keep focus — my chest's tight and my hands are still a bit shaky. I could try running the first cell that loads the data, but I don't know, I'm worried it'll error and I'll feel stupid. Can you tell me to press run and stay with me while I do it?
+
+Therapist: I'm with you. Take a deep breath in and out, and look at the first cell. Notice the cursor is hovering over the run button. Can you place your finger on the button, and say it with me: "Run."
+
+Patient: I don't know... my hands are shaking and that familiar wave of shame and frustration just hit me, so I'm worried it'll go wrong. Okay — I put my finger on the run button. "Run." I clicked it. It's running, I guess. Can you stay with me and tell me what to do next?
+
+Therapist: Let's look at the process bar. See how it's moving, and notice the sensation of the cursor still on the screen? Say it with me: "I see the process."
+
+Patient: "I see the process." My chest's tight and my hands feel shaky — there's this knot of shame that keeps whispering it'll fail and I'll look foolish. I don't know, I guess I can watch it finish, but can you stay with me and say what to do if it errors?
+
+Therapist: It's okay if it errors. Let's see what happens. If it doesn't run smoothly, we can pause and troubleshoot together. But for now, let's focus on simply observing what's happening. Say it with me: "I observe the process."
+
+Patient: "I observe the process." It's moving, but my chest's still tight and I keep thinking it's going to fail — I don't know, I guess that old shame's crawling back in. If it errors, can you tell me, slowly, what to click first? I'm not sure what to do next.
+
+Therapist: Let's take a deep breath in and out, and notice the sensation of your body relaxing slightly. If the process errors, don't worry. Instead, let's click the "Details" button to see what's happening. Take a moment to observe what's displayed, and then we can discuss what to do next. Say it with me: "I observe the details."
+
+Patient: "I observe the details." I clicked it and there's an error message, but I don't really understand the text — it's all a jumble. My chest's tight and I feel kind of stupid about it; I don't know what the lines mean. Can you tell me, slowly, what to click first so I don't mess it up?
+
+Therapist: Let's take a deep breath in and out, and look at the error message again. Notice the words on the screen, and try to pick out one phrase that resonates with you. Can you click on the phrase "Error 500" and see what happens next?
+
+Patient: I don't know... I clicked it. There's a wall of text and "500 Internal Server Error" and my chest just tightens — I feel kind of stupid looking at it. I can't parse it; can you tell me, slowly, what line or phrase to look for first so I don't mess it up?
+
+Therapist: Let's take a deep breath in and out, and look at the text again. Can you find the line that says "Error occurred at"? Look for the words "at" and try to follow the sentence with your eyes.
+
+Patient: I can't actually find the exact phrase — there's a wall of log text with "Traceback" and a bunch of "File" lines and my eyes are just skipping around. My chest's tight and I feel kind of stupid, so I don't know which line to focus on. Can you tell me exactly which word or line to look for, and stay with me while I try to read it?
+
+Therapist: I'll guide you through it. Look for the line that says "File '...at line 123'. See if you can find that line. As you read it, I'll be here with you, and we'll take it one word at a time.
+
+Patient: I can't find that exact line — it's all a jumble of "Traceback" and "File" and numbers and my eyes just keep skipping around. My chest's tight and I feel kind of stupid about it, I don't know why it bothers me so much. Can you tell me exactly which line to click — like the first "File" entry or the one that says "line 123" — and stay with me while I try to read it? I guess I'll try to follow if you point to it.
+
+Therapist: I'm here with you. Let me guide you. Point to the line that says "Traceback" and I'll help you follow it. See if we can find a specific line that starts with "File" and contains the number "123". Take a deep breath in and out, and as you point to the line, I'll be here with you.
+
+Patient: Okay — I see "Traceback" and I'm pointing at the first "File" line, but there are several and my hands are shaking. I don't know, I feel stupid and my eyes keep skipping; could you tell me exactly which "File" line to click — like the first one or the one with a .py in the path? I guess I'll try to click it if you say so, but can you read the line out loud slowly while I focus?
+
+Therapist: I'll guide you through this. The first "File" line that appears is the one with the path ".data". I want you to click on that line, slowly and deliberately. As you click it, I'll read it out loud for you: "File 'data.csv' at line 123". Take a deep breath in and out, and let's take it one step at a time.
+
+Patient: Okay — I clicked it. It shows "File 'data.csv' at line 123" and then a traceback I can't make sense of; I don't know what those lines mean and I'm feeling stupid and shaky. Can you read the relevant line slowly and tell me, step by step, what to click or copy next? I guess I can try to follow if you walk me through it.

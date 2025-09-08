@@ -1,0 +1,271 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been preoccupied with an acute pattern of social anxiety that makes me withdraw from gatherings, even when the people there are explicitly supportive. I tend to conceptualize it—thinking in terms of behavioral avoidance, habituation failure, and attachment disruption from recent grief—so I often end up describing the phenomenon instead of actually naming the feeling. I want to figure out why my usual adaptability and sometimes-impulsive social style now coexist with this pervasive avoidance, because it increasingly feels like an intellectual exercise rather than lived sorrow.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+So, it sounds like you're feeling a bit stuck in this pattern of social avoidance, and it's becoming quite a puzzling experience for you, given that you normally value being around others and being adaptable. What is it about the situation where you're with supportive people that makes you feel like you're not really connecting with your values, or like you're just going through the motions?
+
+Patient: I think it's partly a protective strategy: I default to intellectualizing and performing—telling stories, offering solutions, making jokes—because that keeps the affect at bay and gives me the illusion of control. The grief amplified an anticipatory anxiety about being perceived as burdensome or fragile, so I preemptively detach and end up following a rehearsed social script that feels hollow compared with my stated values of closeness and authenticity. When you ask me to name the feeling, I realize I sidestep it—probably because actually naming it would mean admitting I'm frightened and lonely, and that feels riskier than analysis.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're using intellectualizing as a way to manage the emotional discomfort of being with others, which in turn prevents you from fully connecting with your values. Your concern about being perceived as burdensome or fragile seems to be a particularly sharp edge that you're trying to blunt. Can you tell me more about what it would be like if you were to be truly present with these feelings, without trying to control or hide them?
+
+Patient: If I frame it clinically, being truly present would mean tolerating unmodulated affective states without my usual cognitive scaffolding—letting grief and anxiety occupy space rather than being managed or explained away. In practice I think it'd feel physically raw: my chest tightens, my voice shrinks, I start scanning for a joke or a solution to yank me back into safety because there's this immediate fear of being judged as weak or burdensome. Paradoxically, I also suspect it could bring relief and real connection, but I'm not sure how to invite that without feeling like I'm going to unravel.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like there's a sense of vulnerability that's tied to this openness, and it's scary to you because it feels like it might expose a perceived weakness. Would it be possible to approach this vulnerability as a small, low-stakes experiment, just for a moment, and see what happens when you allow yourself to feel the tension in your body, without trying to ease it or explain it away?
+
+Patient: Okay—I can try, though I already frame it as an exposure-calibration exercise in my head, which is probably my reflex. Right now I can feel anticipatory tightness in my chest and a tightening at the back of my throat, and I'm worried I'll immediately default to commentary instead of staying with it; can we keep it very brief so I don't spiral into analysis?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're already anticipating the default to commentary. Let's keep it brief. Can you just bring your attention to the sensation of the tightening in your chest, without trying to describe it or explain it? Just notice it as it is, for a very short breath.
+
+Patient: Okay—I tried for one slow inhale and held attention. It felt like a small, hot knot under my sternum that didn’t really loosen, and my reflex was to immediately label and analyze it, which pulled me right back into commentary. I'm worried if I stay with it longer I'll start explaining it away or get shaky—can we do another very short one?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You were able to catch yourself right away. Let's try another tiny experiment. As you exhale, can you simply notice the sensation of your breath going out, without adding any thoughts or labels to it?
+
+Patient: I noticed it—the air felt slightly cooler on the exhale and there was a tiny loosening in the sternum—but my mind immediately began annotating and theorizing about the sensation, which pulled me out of it. Can we do another very short one? I'm worried if we linger I'll default to analysis and lose the contact with the feeling.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're getting close to catching the cycle again. Can you try a tiny, 2-second pause before your thoughts start to come in? Just a brief pause, where you don't think or label anything, and see if you can stay with the sensation of the breath?
+
+Patient: I managed the two-second pause—there was this fleeting, almost imperceptible loosening in the sternum that felt like a micro-relief—then my brain immediately jumped into metacognitive commentary, constructing causal narratives about why it happened. It was useful in a sterile, experimental way, but I'm anxious that if we extend it I'll default to analysis and narrativizing instead of actually staying with it. Can we keep doing multiple very brief pauses and slowly lengthen them, because I want to test whether graduated exposure to the sensation helps without tipping me into full-blown intellectualization?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're observing the process from a curious, experimental perspective. Let's try another 1-second pause, and then another, and see how it unfolds. Can you take a tiny breath in, and then pause for just 1 second before your thoughts start to come in?
+
+Patient: I took the tiny breath and managed that one-second pause—there was a very brief loosening in my chest, like a micro-gap of relief—then my metacognitive loop immediately started post-hoc theorizing about why it happened. I want to try again and slowly lengthen it, but I'm anxious I'll slip into full intellectualization and lose the contact with the feeling. Can we do two seconds next, and keep it very contained so I don't start narrativizing?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It seems like you're getting closer to being able to tolerate a bit more. Let's try two seconds again, and this time, when you feel yourself starting to think, gently bring your attention back to the physical sensation in your chest, without adding any thoughts. Just focus on the sensation, and see what happens.
+
+Patient: I managed the two seconds—there was that tiny, tangible loosening in my chest—but my brain immediately refactored it into an explanatory model (attachment disruption, predictive coding error, avoidance reinforcement) instead of staying with the sensation. I can feel the habitual pull to convert affect into a schematic; it's both adaptive and exasperating. Can we try three seconds next with a really brief verbal cue from you if I start narrativizing? I'm worried I'll get stuck in analysis, so I'd like a tighter scaffold.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're recognizing the automatic patterns. When you feel yourself getting caught in the narrative, I'll gently say "Anchored" and then you can bring your attention back to the sensation. Let's try it with three seconds, and see what happens. Go ahead and take a breath in...
+
+Patient: I tried to inhale, but my chest clenched almost immediately and a spike of anticipatory anxiety hit—my thoughts splintered into catastrophic coding metaphors and worst‑case social scripts. My heart's racing, my hands feel a bit shaky, and I can't sustain the three seconds without my mind reflexively narrativizing. Could you say "Anchored" now? I need that cue—I'm feeling really scattered and distracted.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll give you the cue. Anchored.
+
+Patient: Anchored helped a bit—I could feel a thin loosening under my sternum, but then my heart rate spiked and my hands started to tremble and my thoughts splintered into catastrophic coding metaphors. Could we try a single slow guided exhale together now, and then you say "Anchored" again if you notice me drifting into analysis? I need that tighter scaffold because I'm really scattered.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's take a slow, deep exhale together... Inhale for a count of four... hold for a count of four... exhale for a count of six... and exhale... Anchored.
+
+Patient: Anchored helped a little—the sternum loosened briefly, but then my heart sped up, my hands started trembling, and my mind splintered into catastrophic coding metaphors again. I can feel the habitual reflex to reframe every sensation as a problem to engineer rather than to inhabit. Could we do one more very short cycle—inhale, two‑second hold, slow exhale—and you say "Anchored" the moment I start narrativizing? I’m pretty scattered right now and need that tighter scaffold.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try another cycle. Inhale for a count of four... hold for two... exhale for a count of six... and exhale...
+
+Patient: I did the breath—there was a tiny loosening, then my chest clenched and my heart raced, my hands started trembling, and my head immediately splintered into catastrophic coding metaphors about being judged or failing socially. I know my reflex is to intellectualize and turn this into an analytic project, but right now that reflex is just amplifying the anxiety and making me feel dizzy; could you say "Anchored" now and maybe give a quick grounding cue (like "name 5 things you can see")? I want to keep doing very short cycles, but I need that tight scaffold because I'm really scattered and afraid I'll slide into a full analytic monologue.
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll say "Anchored" and provide a grounding cue. Anchored. Okay, bring to mind 5 things you can see around you.
+
+Patient: Okay... I can see: my monitor with code, a chipped coffee mug, a framed family photo, the gray light through the window, and a worn notebook with a pen. That actually steadied me a touch, but my head's already spinning theories about why it helped—can we do one more very short breath together?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try another cycle. Inhale for a count of four... hold for two... exhale for a count of six... and exhale...
+
+Patient: I did the breath—there was a small loosening, then my chest clenched and my mind immediately started mapping causes again. I'm low on energy and it's getting hard to keep doing this without slipping into commentary; could you say "Anchored" if I start narrativizing and guide one more very short exhale?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're getting close to the limit. Anchored. Take one more slow, deep breath with me... inhale...
+
+Patient: I inhaled and held—there was that tiny looseness on the exhale, then my chest clenched and my head immediately went to constructing threat matrices and predictive narratives. I'm pretty wiped and it's getting harder to stay with the sensation without reflexively analyzing. Can we do one more very short cycle, and you say "Anchored" the moment I start narrativizing? Maybe follow it with a simple 3‑thing grounding cue so I don't have to muster much.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's getting tough. Anchored. Name 3 things you can touch.
+
+Patient: Keyboard, chipped coffee mug, worn notebook. I'm not sure I follow how touching them's supposed to help—it feels a bit procedural and my brain's already theorizing—but the mug's rim under my fingers steadies me a little. Can we do one more very short anchored exhale now, and then the simple 3‑thing grounding cue you suggested?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The physical sensation of the mug seems to be providing some comfort. Anchored. Name 3 things you can hear.
+
+Patient: The low hum of my monitor fan, distant traffic outside, and the faint tick of the wall clock. I'm not sure I follow how that actually helps—it feels a bit procedural—though it steadied me a little. Can we do one more very short anchored exhale? Say "Anchored" if I start narrativizing.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The ambient sounds seem to be providing a gentle background. Anchored.
+
+Patient: Anchored—I noticed the exhale: a brief slackening, then my mind instantly began error-logging the sensation into threat hierarchies. I'm fuzzy and running low on reserves, so it's getting hard to stay present without defaulting to commentary. Can we do one very short anchored exhale together, and after you say "Anchored" give a tiny, low-effort cue—like "count to three"—so I don't have to manufacture a whole strategy in my head?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Inhale... hold... exhale... Anchored. 1... 2... 3...
+
+Patient: I did the count—felt a tiny slackening in my chest and my hands stopped trembling for a beat, but then my head immediately started mapping out failure modes and social scripts. I'm pretty drained now and it's harder to brave staying with the feeling without reflexively turning it into a problem to solve. Could we do one more very short anchored exhale, and then maybe move into a practical micro‑strategy I could try at an upcoming low‑stakes gathering—like a 15‑minute rule or a rehearsed 1‑line of vulnerability—so I have something concrete to practice instead of just theorizing?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's getting tough. Anchored. Take one more slow breath... exhale...
+
+Patient: The exhale gave a tiny slackening—then my brain instantly started scheming predictive narratives and I felt pretty wiped. A micro‑plan that feels doable: set a hard 15‑minute attendance limit, pick one person to stay near, rehearse a one‑liner like “I’m glad to be here, I’m just having a tough day” plus a simple exit line, and use a physical anchor (mug or watch) and a single grounding breath before going in. Can we role‑play that one‑liner now? If I start narrativizing, please say “Anchored”—I need that scaffold.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's practice the one-liner. "I'm glad to be here, I'm just having a tough day." Take a slow, deep breath... and with me... inhale... hold... exhale...
+
+Patient: I said it—“I’m glad to be here, I’m just having a tough day”—and my voice came out thin, like I’d rehearsed it in a terminal window. It felt oddly honest and performative at the same time, and now my head’s already spinning through possible awkward reactions and failure modes. Can we role‑play: you respond as a friend (maybe supportive or slightly awkward) and I’ll practice both the one‑liner and a short exit line—please say “Anchored” if I start narrativizing.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll respond as a friendly but slightly awkward friend. Go ahead with the one-liner and exit line. "I'm glad to be here, I'm just having a tough day..."
+
+Patient: "I'm glad to be here, I'm just having a tough day. I’ll probably stay about fifteen minutes and then head out—thanks for understanding."
+
+That came out kind of flat and rehearsed, and my mind’s already simulating awkward follow‑ups and troubleshooting responses. Could you try two friend replies—one warmly supportive and one a bit awkward—so I can practice short comebacks? Say "Anchored" if I start over‑analyzing.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try two different responses. Warm and supportive: "That sounds tough, but it's great that you're being honest with yourself and setting boundaries. Take care of yourself and we'll catch up soon." Awkward: "Uh, yeah, no problem, don't worry about it, everything's fine..." Anchored?
+
+Patient: Anchored. For the warm reply I'd probably say, "Thanks—that actually helps. I'll take it slow tonight and check in tomorrow," and then stick to the 15‑minute plan. For the awkward reply I'd keep it short: "No worries—I'll be in and out, catch you later."
+
+My brain's already back to simulating awkward follow‑ups and troubleshooting responses, so can you say "Anchored" if I start narrativizing? I could use one more quick practice run.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting more comfortable with the one-liners and exit lines. Let's try another quick practice run. Warm reply again: "That sounds like a great plan, take care of yourself." Awkward reply again: "Uh, yeah, cool, yeah..."
+
+Patient: Warm: "Thanks—that actually helps. I'll take it slow tonight and check in tomorrow."
+
+Awkward: "Uh, yeah, cool. I'll be in and out—catch you later."
+
+They're coming out a bit flat and my head's already simulating awkward follow‑ups and failure modes, so can you say "Anchored" if I start narrativizing and run one more quick role‑play (you as friend, one supportive, one awkward)?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try again. Warm reply: "I'm glad you're being honest with yourself, that takes a lot of courage." Awkward reply: "Uh, yeah, whatever..." Anchored?
+
+Patient: Anchored. Warm: "Thanks — that actually helps. I’ll try to be gentle with myself tonight and stick to the fifteen minutes." Awkward: "Uh, yeah, okay… I’ll pop in for a bit and then head out."
+
+They're feeling a bit flat and my head's already running through awkward follow‑ups and troubleshooting—can we do one more quick run and you call "Anchored" if I start narrativizing?

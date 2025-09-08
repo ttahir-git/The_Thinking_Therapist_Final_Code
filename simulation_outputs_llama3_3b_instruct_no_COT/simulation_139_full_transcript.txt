@@ -1,0 +1,260 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm an older data scientist and lately I can't stop worrying about my performance at work — every project I keep thinking I'm not good enough. That worry just makes me procrastinate so much that I end up not getting much done. I guess it's been wearing on me and I don't know how to fix it.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your worries about not being good enough at work have been quite persistent and are affecting your productivity. Can you tell me more about what's going through your mind when you think those thoughts about not being good enough? What happens in your body or emotionally when you experience those thoughts?
+
+Patient: Usually it starts with little things — a bug I missed, a meeting where I felt slow, or seeing a younger colleague ship something faster — and then my mind sort of loops on “maybe I’m not keeping up.” My chest gets tight, my head goes foggy, and I... I don't know, I just freeze and can't focus. I guess after that I put things off, tell myself I'll do it later, and then I feel guilty and more anxious.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like those thoughts and physical sensations are creating a bit of a feedback loop for you. The worry about not keeping up seems to trigger a physical response that makes it hard for you to focus, and then you put things off, which in turn makes you feel guilty and anxious. It's like a cycle of avoidance and regret.
+
+What do you think would happen if you were to take a tiny step towards tackling that worry or the task at hand, even if it's just a small one, like taking a few minutes to review the task or making a simple plan to tackle it?
+
+Patient: I guess it might help a bit — like if I spent five minutes just reviewing the task, maybe it wouldn't feel so huge. But I don't know, I'm worried that once I start it'll remind me of all the ways I could mess up and then I'll freeze. Could we figure out what the absolute smallest step would be? I'm not sure where to begin.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Spending just 5 minutes reviewing the task might be a tiny foothold for you. Can you think of a tiny, almost ridiculously small, step you could take that would move you towards tackling the task, even if it's just for those 5 minutes? Maybe something so small that you're almost embarrassed to admit it, but would still be a tiny step in the direction of making progress.
+
+Patient: I guess I could set a 5‑minute timer and just open the project folder and write one tiny thing — like a single TODO line or one-sentence comment about the first step. I don't know, it feels a bit silly, but maybe that's small enough that I won't freeze.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That sounds like a tiny, almost laughable, step, but exactly the kind of small action that could help you build momentum. By doing something so small, you might be able to create some space to breathe and reduce the overwhelm. Would you be willing to try setting that timer and making that tiny step, just for those 5 minutes, with the intention of taking it easy on yourself and not putting too much pressure on the outcome?
+
+Patient: I guess I can try the five minutes. I don't know if I'll actually manage once I open the folder — I just worry I'll stare at it and freeze. Could you help me pick the exact one-line TODO so I don't have to decide it all myself?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Having a specific one-line TODO can make it feel less overwhelming. What if, when you open the project folder, you simply write down the first thing that comes to mind, without worrying about its importance or feasibility? Just write down the first word or phrase that appears in your mind. What's the first thing that jumps out at you?
+
+Patient: I guess the first thing is: "TODO: open README.md and read the top paragraph." I don't know, that feels safe enough.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a tiny, completely reasonable task. Sometimes doing something as simple as reading the top paragraph of a file can be a gentle way to get started. Now, when you open the README.md and start reading, I want you to do something very simple: when you come across a sentence or phrase that catches your eye, just acknowledge it, and say to yourself "okay, I'm reading". Don't try to think about what it means, or analyze it, just acknowledge it. Can you try that with the first sentence of the README?
+
+Patient: Okay, I'm reading. The first sentence is something like "This project analyzes user behavior and provides reproducible scripts" — I don't know, it's pretty dry. I guess saying "okay, I'm reading" did make my chest a little less tight, but I'm still worried I'll freeze if I try to do more.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like saying "okay, I'm reading" helped you create a small sense of control and calmness. Sometimes, acknowledging what's happening can be enough to take a tiny step forward. Let's try to build on that. Instead of worrying about the sentence's meaning, what if you simply allow yourself to keep reading, without trying to do anything with it, even if it's just reading the next sentence? No judgments, no analysis, just reading. Would you be willing to try that?
+
+Patient: Okay, I'll try the next sentence. It says something like "Includes preprocessing and evaluation scripts" — I don't know, it's dry, but reading it did loosen my chest a bit. I guess I'm still worried I'll freeze if I go further; can we slow down and just do one more sentence?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're getting more comfortable with the process. It's great that reading is helping to loosen your chest. Let's keep going at a very slow pace. What if you simply read the next sentence, and when you're ready, we can take another tiny step together? No pressure, no expectations, just the gentle flow of reading. What's the next sentence?
+
+Patient: The next sentence says something like "Documentation for model training and hyperparameter tuning is in the models/ folder." I guess saying that out loud loosened my chest a bit, but I'm still nervous about actually opening the models folder. I don't know—could we just look at the folder names together first? That feels less scary.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're feeling more comfortable with the words, but the action of opening the folder is still a bit daunting. Looking at the folder names can help demystify it. What if we simply take a look at the folder names together, without feeling like we have to do anything with them yet? We can just gaze at the folder names, and I'll look with you. No pressure, no expectations, just a gentle exploration of the folder's contents.
+
+Patient: Okay, the folders are: data/, src/, models/, notebooks/, scripts/, docs/, tests/. I don't know, seeing "models/" still makes my chest tighten — I guess it feels like the place where I'd mess up. Can we just linger on the names for a minute and maybe start with the least scary one, like docs/?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those folder names are quite neutral, aren't they? Let's linger with the "docs/" folder for a moment. You mentioned it feels scary, but perhaps that's just because it's associated with potential errors. What if, instead of dwelling on the fear, we simply notice the "docs/" folder, and then we open it together, just to see what's inside? No expectations, no pressure – just a gentle exploration.
+
+Patient: Okay, I guess we can open docs/, but I'm feeling kind of jittery and distracted right now — my head's hopping around. Could we just list the files in docs/ first, maybe start with README.md there? I don't know, that feels safer than diving straight into models.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your nervous system is still trying to catch up with the process. Listing the files in docs/ can help you feel more in control. What if we take a deep breath together, and I help you list just the first file in the docs/ folder, which is README.md? No judgments, no expectations – just a gentle, slow, and careful listing of the file.
+
+Patient: Okay... I tried to take a breath, but I'm jittery and my head's hopping all over. The first file is README.md. I guess I can open it and read one line, but I don't know—I'm worried I'll get distracted and freeze.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your nervous system is still feeling a bit frazzled. Let's try to anchor ourselves to the present moment. What if, when you open README.md, we simply focus on the line that's at the top, just one line, and you read it together with me? No expectations, no goals, just a gentle, slow, and mindful reading of that one line. We can start with: "This project analyzes...".
+
+Patient: Okay, I'm reading: "This project analyzes user behavior and provides reproducible scripts." My chest is tighter and my head's hopping — I can't seem to stay with it. I don't know, I guess that helped a tiny bit, but I'm still pretty jittery; can we just linger on that one line a little more and maybe say it slowly together?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like that tiny success has given you a bit of a boost, but you're still feeling a bit jittery. Let's try to savor that line a bit longer. Can you take a deep breath, and then let's say the line together, slowly: "This project analyzes user behavior and provides reproducible scripts." Take your time, and just allow the words to hang in the air for a moment. I'll say it with you: "This project analyzes user behavior and provides reproducible scripts."
+
+Patient: Okay... "This project analyzes user behavior and provides reproducible scripts." I said it, but my chest's still tight and I feel kind of ashamed and annoyed at myself — like some old mistake is sitting on my shoulder. I don't know, it's hard to stay with it; I guess maybe we could just... hang on that line a bit longer, or maybe not go deeper right now? I'm jittery and distracted, so if we could slow down or do something a little lighter for a moment, that might help.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling a bit of self-criticism creeping in, which is understandable, but can be overwhelming. Let's take a step back and acknowledge that feeling. You've already taken a tiny step by reading the line, and that's something to be proud of. Sometimes, our nervous system just needs a brief pause to catch its breath. What if we simply take a deep breath together, and then pause for a moment, without doing anything in particular? No expectations, no goals – just a brief, gentle pause. Are you ready to take that pause with me?
+
+Patient: Okay... I guess I can try to pause with you. I don't know if it'll help — my chest is tight, I'm jittery, and there's this low shame I can't seem to shake — but I'll take a slow breath now.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's already a huge step. Let's just pause together for a moment, and allow the body to settle. Take a slow, deep breath in... and out... and just be with the feeling of the breath moving in and out. No judgments, no trying to change anything – just the gentle rhythm of the breath.
+
+Patient: Okay... I tried the breath. It helped a tiny bit, but my chest is still tight and I'm feeling kind of ashamed and annoyed at myself — like some old mistake is sitting on my shoulder and I want to shrink away. I don't know, I guess can we keep it really slow? Maybe just sit with that one line again or do something small like naming one thing I can see right now.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shame and annoyance are still present, but the breath has given you a tiny sense of stability. Let's try to focus on the present moment again. Instead of looking at the line, what if we notice something in your immediate surroundings? Can you notice one thing that you can see right now, without judgment? It can be a pen, a book, a photo on your screen... just one thing. No trying to change it or analyze it – just noticing it as it is.
+
+Patient: I can see a chipped blue mug on the desk, half full of cold tea. My chest's still tight and there's this low shame nagging at me — I don't know, like some old mistake is sitting with me — and it makes me want to look away. Maybe noticing the mug helps a tiny bit, but I'm jittery and not sure where to go from here.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing the mug seems to have helped a bit. It's like a tiny anchor in the present moment. Let's try to acknowledge the mug without trying to do anything with it. Just notice it, as it is, without judgment or analysis. And then, can you slowly, slowly turn your attention to your chest, and notice the sensation of the shame and tightness there? Just be with it, without trying to change it or push it away. What do you feel when you bring your attention to that area?
+
+Patient: When I bring my attention there it’s this tight, heavy knot — like my breath gets shallower and my chest feels hot. My thoughts start jumping to things I’ve messed up and I feel ashamed and annoyed at myself, and then I want to look away. I don't know, I guess I’m kind of overwhelmed right now — can we not go deeper into that for a moment? Maybe we could just name one more thing I can see, or linger on the mug a bit longer.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling overwhelmed and the shame is getting the upper hand. Let's try to take a step back and find something else to focus on. Instead of the mug, can you notice your feet on the floor? Just notice the sensation of your feet touching the ground, the weight of your body distributed on them. No trying to change anything, no judgment – just noticing the sensation of your feet.
+
+Patient: I guess I can feel my feet on the floor — heels planted, a bit of numbness in my toes and the rug under them. My chest's still tight and my mind keeps darting to that old mistake, so I don't know how long I can stay with this. Could we maybe keep it lighter for a bit, like notice one more thing in the room or count a few breaths?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's great that you can feel your feet on the floor. Sometimes, grounding ourselves in our physical sensations can help calm the mind. Let's try to notice something else in the room. Can you look around and notice the color of the wall to your left? Not the mug, not your feet, just the wall color. No judgment, no analysis – just noticing the color.
+
+Patient: It's a pale gray-green, kind of faded — I guess noticing it is a bit grounding. My chest's still tight and my thoughts keep darting back to that old mistake, so I don't know how long I can stay with this. Maybe we could keep it light and notice one more neutral thing in the room?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing the wall color seems to have helped a bit. Let's try to find something else that's just as neutral. Can you notice the sound of the air moving in and out of your body? Maybe the hum of the computer, the quiet rustling of the papers... just notice the sounds around you, without trying to interpret them or analyze them.
+
+Patient: I can hear the computer hum, the heater clicking, and a distant car — there's a faint ticking too, and my head keeps hopping between them. I don't know, noticing that helped a bit but I'm still jittery and ashamed; I guess could we keep it light and maybe set another 5‑minute timer to do one tiny thing instead?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like noticing the sounds has helped a bit. Setting a timer and doing a tiny task can be a great way to build momentum. What if we set the timer for just 5 minutes, and during that time, you do one tiny thing that doesn't require much mental effort? Maybe something like, I don't know, responding to an email, or looking at a single line of code? Just something small, to help you get started.
+
+Patient: I guess I can try the 5‑minute timer. I think the tiniest thing I can do is reply to that one email with a single line like, "Thanks — I'll take a look and get back to you," but I'm jittery and my chest is tight and there's this shame nagging at me that I worry will make me freeze. Could you help me stick to just sending that one line and not do anything else?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Reaching out to respond to that email can be a great way to start small. I'll be right here with you. When you're ready, take a deep breath, and just type out those two lines: "Thanks — I'll take a look and get back to you." No editing, no thinking about it too much – just typing those two words. Let's focus on getting those two words on the screen.
+
+Patient: Okay... I guess I can try. My chest's tight and I'm jittery, but I'll type it: "Thanks — I'll take a look and get back to you." I don't know if I can hit send — my hands feel shaky and I'm afraid I'll mess it up. Can you stay with me while I try to send it?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'm right here with you. Take your time, and let's focus on the physical act of hitting send. I'll be with you as you place your finger on the send button. When you're ready, just click it, and let it go. We'll wait together for a moment after you hit send, if you need it.
+
+Patient: Okay... I put my finger on the send button and I clicked it. My hands were shaking and my chest is still tight — I feel kind of foolish and like some old mistake is sitting on my shoulder. I don't know, can we just sit with this for a minute? I'm still jittery and not sure what to do next.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like hitting send has given you a sense of momentum, but also brought up some old feelings of self-doubt. Let's just sit with those feelings for a moment. You've already taken a big step by responding to the email, and now we can just be with the emotions that are arising. No trying to change them, no judgment – just noticing what's happening in your body and mind.
+
+Patient: I don't know. Sitting with it makes my chest squeeze and that old shame feels heavy—I keep wanting to look away. I guess I can stay with it a bit, but could we maybe keep it practical and set another 5‑minute timer to do one tiny thing instead of dwelling on the feeling?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like sitting with the shame is still feeling uncomfortable. Setting another timer can be a great way to create some space between your emotions and your actions. What if we set the timer for 5 minutes, and during that time, you do something even smaller than responding to the email? Maybe something like, I don't know, taking a sip of water or noticing the sensation of your feet on the floor? Just something tiny to help you feel more grounded.
+
+Patient: I guess we can try another 5‑minute timer. Maybe I’ll just take a few slow sips of water and keep noticing my feet on the floor — that feels small enough. I’m still jittery and kind of ashamed, and I don’t know if I can go deeper right now, so can we please keep it really light?

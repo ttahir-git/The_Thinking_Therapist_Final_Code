@@ -1,0 +1,164 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been stuck worrying a lot about my performance at work — about small mistakes and whether I'm keeping up with younger colleagues. That worry usually turns into procrastination; I delay tasks because I'm afraid they won't be good enough. I don't know, it's just been wearing me down and making me feel pretty alone.
+
+
+--- Turn 1 ---
+Therapist: That worry about performance can feel really suffocating, like it's always one step ahead of you. It's like you're trying to hold onto control of that worry, but it just keeps slipping away.
+
+Patient: Yeah, that's exactly it — it feels like it’s always one step ahead. I guess I put things off because once I start I get anxious that it won’t be perfect, and then the pile just grows. I don't know, it's... embarrassing to admit how much it's wearing me down.
+
+
+--- Turn 2 ---
+Therapist: Not being able to make progress because of that fear of not being perfect makes sense. It sounds like the pile is just a way of showing up for that fear. What would it be like if you were to make just one small step toward work today, not because you think it would be perfect, but because it matters to you?
+
+Patient: I don't know... I guess I could try a tiny thing, like set a 20-minute timer to tidy up one script or answer a single email. But I'm nervous it won't change anything and then I'll just end up avoiding it again.
+
+
+--- Turn 3 ---
+Therapist: That tiny step sounds tiny because it's tied to needing to change everything else. What if, just for a moment, you let go of needing that timer to make everything perfect? What if you just sat with the script or email for 20 minutes, even if it felt like it wasn't enough?
+
+Patient: I don’t know... I guess I could try, but I’m nervous it’ll just make me notice all the ways it’s wrong and then I’ll shut down. Can we maybe try for 10 minutes instead, or talk through a tiny first step so it doesn’t feel so... big?
+
+
+--- Turn 4 ---
+Therapist: It's like the timer is tied to the need to be perfect, and that's what's making it feel so big. What if we started with just noticing what would happen if you sat with that one script for 10 minutes, without trying to change it?
+
+Patient: I don't know... I guess I could try sitting with it for 10 minutes. I'm worried I'll just start noticing every flaw and then shut down — can we talk through what I should actually do in those 10 minutes so it doesn't turn into a panic?
+
+
+--- Turn 5 ---
+Therapist: Let's say you sit with that script for 10 minutes without trying to change it. What would you notice about your body if you just focused on sitting with it, even when you felt the thoughts of flaws showing up?
+
+Patient: I don't know... I guess my shoulders get tight and my chest feels heavy, like I'm holding my breath. My hands get clammy and I fidget with the mouse or a pen. I'm not great at talking about this stuff — can we maybe focus on what the very first small task should be instead?
+
+
+--- Turn 6 ---
+Therapist: Those physical sensations make sense when you're trying to change the script. What if the first small task wasn't about fixing the script, but just about noticing where you are with it for those 10 minutes?
+
+Patient: I don't know... I guess I could try just noticing it for 10 minutes. I'm worried I'll just end up watching my chest tighten and thinking I'm useless. Could you tell me exactly what "noticing" looks like—do I set a timer and quietly name the sensations or thoughts? I don't like talking about this, but maybe having a clear step would help.
+
+
+--- Turn 7 ---
+Therapist: Noticing wouldn't be about fixing the thoughts or the chest tightening; it would be about paying attention to what's happening in the moment.
+
+Patient: I don't know... I guess setting a 10-minute timer and quietly naming the sensations could work—like saying "tight shoulders" or "racing thought" and then bring attention back to the script. But I'm worried naming it will make me spiral and I'll just freeze. Can we make the very first step even simpler—like just open the file and highlight one function or type one sentence for an email?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist: Let's simplify it even further. What if, without thinking about fixing anything, you just opened the file and highlighted one word that shows up in the first sentence?
+
+Patient: I don't know... I guess I could try opening it and just highlighting one word — maybe the first noun in the first sentence. I'm feeling kind of jumpy and distracted right now, though, so I'm worried I'll stare at it and go blank; could you remind me to keep it simple if I start freezing?
+
+
+--- Turn 9 ---
+Therapist: That's understandable to feel jumpy right now. When you start to freeze, remember to just notice what's happening with your hands on the mouse. If your mind starts to wander, that's okay – just bring it gently back to the task of highlighting that one word.
+
+Patient: I don't know... okay, I'll try. I'm feeling really jittery — my hands are a bit shaky and my mind keeps hopping away. Can you remind me after a minute if I freeze? And do you mean literally just click and highlight the first noun, nothing else?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist: I'll remind you after a minute. Just click on the first noun, no matter what it looks like – just the click.
+
+Patient: I don't know... okay. I'll try to click the first noun — just one click, nothing else. I guess... please nudge me in a minute if I go blank.
+
+
+--- Turn 11 ---
+Therapist: Just wait for 1 minute.
+
+Patient: I don't know... I clicked the word, but then my mind just went foggy and I stared at the screen. I'm not sure that really counts. Could you nudge me now? I feel kind of... worn out.
+
+
+--- Turn 12 ---
+Therapist: Noticing how worn out you feel right now. When you're ready, you can take another small step.
+
+Patient: I don't know... I guess I could try one tiny thing—like put the cursor at the start of the next function and then stop. I'm pretty worn out, so can you just remind me to leave it there if I start doing more?
+
+
+--- Turn 13 ---
+Therapist: One tiny thing: put the cursor at the start of the next function. When you're ready, just leave it there – don't try to do more.
+
+Patient: I don't know... I guess I put the cursor at the start of the next function and left it there. My hands feel shaky and my head's kind of foggy, so I don't want to do more—please nudge me if I start editing, and maybe keep the next step even smaller so I don't spiral.
+
+
+--- Turn 14 ---
+Therapist: You're doing it. When you feel that urge to edit, notice it without fighting it – just the urge. Then, notice where you are with the cursor still there.
+
+Patient: I don't know... I noticed the urge to edit—my stomach tightened and my fingers wanted to move. I left the cursor and just watched the urge, but I'm pretty foggy and it's hard not to start changing things. Can you nudge me if I start tinkering?
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist: You're really close. When you notice your fingers wanting to move, just notice that movement – the finger twitching. Without stopping it, notice what's left when you let that movement be there.
+
+Patient: I don't know... I'm not sure I follow. How is noticing the finger twitch supposed to help — I guess when I try to watch it I just get tenser and end up editing instead. Can you tell me exactly what "notice what's left" looks like in one simple step? I'm kind of foggy, so please keep it very concrete.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist: Let's break it down. When your finger twitches, notice that twitch, and then, for just one second, look at the cursor where you left it. That's it. Just look at the cursor.
+
+Patient: I don't know... I tried that — I noticed the twitch and looked at the cursor for a second, but my chest got tight and my fingers still wanted to move. I guess I can try again; could you nudge me if I start editing and just remind me to look at the cursor for one second?
+
+
+--- Turn 17 ---
+Therapist: One more tiny step. When your fingers start to move, I'll remind you to look at the cursor. Just for one second.
+
+Patient: I don't know... I guess okay. I'll try — if my fingers start to move, please tell me to look at the cursor for that one second. My mind's all foggy and my chest's tight, so I might need the nudge.
+
+
+--- Turn 18 ---
+Therapist: Go ahead and try.
+
+Patient: I don't know... I tried — I looked at the cursor for a second but my fingers twitched and I almost started editing; my chest tightened and my head went foggy. Can you nudge me now if I start fiddling? I feel kind of stuck and it's hard to keep doing this without spiraling.
+
+
+--- Turn 19 ---
+Therapist: You're really close. When your fingers start to move, I'll remind you: "Look at the cursor."
+
+Patient: I don't know... okay. If my fingers start to move, please just say "Look at the cursor." I'm pretty foggy and my chest's tight already, so I might need you to say it now when you notice me starting to fiddle — can you do that?
+
+
+--- Turn 20 ---
+Therapist: Let's try.
+
+Patient: I don't know... my fingers are twitching already and my chest feels tight. Please just say "Look at the cursor" now if you see me start — do it now, because I might not notice. I'm feeling really foggy and distracted so I need that nudge.
+
+
+--- Turn 21 ---
+Therapist: Look at the cursor.
+
+Patient: I don't know... I looked at the cursor when you said it. It stopped the twitch for a second, but my chest's still tight and my head's foggy. I guess can we just leave it there for a minute and not do anything else?
+
+
+--- Turn 22 ---
+Therapist: You can leave it there.
+
+Patient: I don't know... I left it there. My chest's still tight and my head feels kind of foggy, so doing more feels like too much. I guess... can we just sit with that for a minute, and then you tell me the very next tiniest step? And please nudge me if my fingers start moving.
+
+
+--- Turn 23 ---
+Therapist: Let's sit with that for a minute.
+
+Patient: I don't know... I guess I'll try to sit with it for a minute. My chest's tight and my hands are shaky, so it's hard to stay still—can you nudge me in 30 seconds if I start fiddling? And after that, could you tell me the very next, tiniest step so I don't just sit here foggy?
+
+
+--- Turn 24 ---
+Therapist: 30 seconds.
+
+Patient: I don't know... okay, I'll try to sit with it for 30 seconds. I guess please nudge me if I start fiddling, and after that tell me the next tiniest step — I'm pretty worn out so keep it simple.
+
+
+--- Turn 25 ---
+Therapist: 30 seconds.
+
+Patient: I don't know... I tried to sit through the 30 seconds — my hands were still shaky and my chest stayed tight, and I mostly just stared. I guess... what's the very next tiniest step? Can you nudge me if I start fiddling again?

@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling really anxious in social situations — even small get-togethers with close friends make me want to bail. I'm in my late twenties, work as a software developer, and with my generalized anxiety and ongoing family conflict it just feels like too much sometimes. I don't know, I guess I'm avoiding things but I'm frustrated about it and I don't really know how to change.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Can you tell me more about what's going through your mind when you're in social situations like this? What are some of the thoughts that come up for you, and how do you typically respond to them?
+
+Patient: I get this voice in my head saying everyone's judging me or that I'll say something dumb, and then my heart starts racing and I can't focus. I usually find excuses to cancel, bail early, or just hide behind my phone when I'm there. I guess I'm embarrassed by it and I don't know how to make it stop.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That voice of self-criticism can be really uncomfortable. It sounds like it's connected to some strong feelings of anxiety. Would you be willing to take a closer look at that voice with me, and try to observe it as just a thought, without judgment? Can you say to yourself, "There's this thought that says...".
+
+Patient: I don't know... There's this thought that says everyone's judging me, like I'm going to say something stupid or they'll notice how awkward I am. My chest gets tight, I start fumbling my words, and I guess I just hide behind my phone or make an excuse to leave.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like that thought has become quite a reliable escape route for you. Can you notice what happens to you after you leave the situation? What's the relief or calm that follows when you're no longer in the midst of it all?
+
+Patient: I don't know... As soon as I'm out I get this huge rush of relief, like my chest unclenches and I can finally breathe. But then I feel guilty and ashamed, like I blew it or I'm letting people down, and I start worrying I'm losing friends. I guess that mix — relief but also shame — is what keeps me avoiding even though it makes things worse later.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That mix of relief and shame can be a heavy burden. It sounds like it's linked to some strong feelings of self-criticism. What would it be like if, instead of trying to avoid social situations altogether, you were to focus on feeling that initial sense of relief when you leave, without the guilt and shame?
+
+Patient: I don't know... I guess it would feel lighter, like I could actually breathe without bracing to leave. But when I try to imagine that, my chest tightens and I start replaying everything I said — I can't shake the thought that I disappointed someone. Can we slow down? It's kind of overwhelming to think about changing it.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That tightness and replaying the conversation can feel like a familiar pattern. Would you be willing to pause for just a moment, and bring your attention to your breath? We can just sit with that sensation together, without trying to change it.
+
+Patient: I don't know... when I try to pay attention to my breath my chest actually gets tighter and I start replaying things. Can we slow down? Maybe we could talk about one small, practical thing I could try at a get-together instead.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be challenging to break the cycle. Let's try something small. What about if, instead of trying to avoid social situations or escape the anxiety, you were to focus on taking one small, brief action, like making a cup of coffee or asking a friend how their day is going?
+
+Patient: I don't know... Asking a friend how their day is going sounds doable, I guess, but I'm worried I'll freeze or sound awkward. Maybe I could rehearse one simple line beforehand or tell myself I'll stay for just 20–30 minutes as a limit. I'm feeling a bit overwhelmed thinking about this — can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're trying to break down the task into manageable parts. Would you be willing to focus on just setting a small, concrete boundary for yourself, like saying "I'll stay for 20 minutes"?
+
+Patient: I don't know... I guess I could try saying I'll stay for 20 minutes — that feels like something concrete I could do. But I'm worried I'll either freeze and stay way longer because I can't leave, or I'll just count down the minutes the whole time and panic. Can we slow down and figure out a simple exit plan or a cue I can use if I need to leave early?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're concerned about getting stuck or losing control. Let's explore a simple exit plan together. What would be a small, unobtrusive cue that you could use to signal to yourself that it's okay to leave, even if it's early?
+
+Patient: I don't know... I guess a discreet phone alarm with a vague label — like "check timer" or "water" — could be an excuse to step outside, or I could plan a quick task like refilling my drink as my cue. But just thinking about having to do that makes me feel kind of stupid and ashamed, like I should be able to handle it without a plan, and that frustrates me. Can we slow down and maybe make the cue as simple and low-key as possible?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The concern about appearing weak or needing a plan can be a strong one. Can you think of a way to phrase the cue to yourself that doesn't imply a sense of shame or inadequacy? For example, what if your cue was simply "time to move on"?
+
+Patient: I don't know... "time to move on" sounds less... shamey, so I guess that could work as a neutral cue. But when I try to picture using it, I get this stupid rush of shame and frustration — like I'm replaying something I messed up before — and then I just want to bail instead of testing it. Can we slow down and figure out a really simple backup plan if the cue doesn't help?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the cue has become a trigger for old patterns of shame. Let's focus on the simple act of checking your watch or phone, as a basic way to know when the 20 minutes are up. What would be the absolute bare minimum you would do when that happens, without any guilt or self-judgment?
+
+Patient: I don't know... I guess the bare minimum would be to check my phone at the 20‑minute mark, say I need to step out for fresh air or refill my drink, and actually leave for a few minutes. But even saying that makes me feel stupid and pissed at myself, like I should just handle it — and that shame rush makes me want to bail instead. Can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the more you think about having a plan, the more it becomes a source of shame. Let's go back to the simplest aspect: checking your phone at the 20-minute mark. Can you just notice what happens to your body when you do that, without trying to do anything else?
+
+Patient: I don't know... when I check my phone my chest tightens and my breath gets shallow, my hands go kind of clammy, and this rush of shame spikes—like I just messed something up. It makes me want to bolt or pretend nothing's wrong, and I'm getting pissed at myself for reacting like this. Can we slow down? I don't know how to sit with it without wanting to run.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like checking your phone is triggering a strong physiological response. Would you be willing to just observe that physical experience, without judgment, without trying to do anything else?
+
+Patient: I don't know... I try to notice it, but my chest tightens, my breath gets shallow, and my brain immediately goes to 'you messed up' — that stupid shame spikes and I get really pissed at myself. I can't just watch it without judging; my mind's all over the place and I feel kind of scattered. Can we slow down?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is already set on a course of self-criticism. Let's focus on the physical sensation in your body, like the feeling of your chest tightening. Can you simply notice it, without trying to label it, without trying to do anything about it?
+
+Patient: I don't know... when I try to just notice it my chest actually tightens more and my thoughts scatter to every stupid thing I've done, and I immediately start judging myself. I'm feeling kind of jumpy and distracted right now — can we slow down? Maybe can we talk about one tiny thing I could actually do in that moment instead of just noticing?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like noticing the physical sensation is still leading to more thinking and judgment. Let's try something even simpler: what if, when your chest tightens, you simply acknowledge it with a quiet, matter-of-fact phrase, like "my chest is tightening"?
+
+Patient: I don't know... I guess I could try saying "my chest is tightening" to myself, but when I do it feels kind of dumb and then my brain just floods with everything I screwed up and I get mad at myself. I'm feeling jittery and scattered right now — can we slow down and maybe pick one tiny thing I can actually do in that moment instead?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the phrase itself is becoming a trigger for more thinking. Let's focus on a tiny, concrete action you can do right now, just with your body. Can you take a slow, deep breath in, and then exhale, without adding any commentary or judgment?
+
+Patient: I don't know... I tried to take a slow breath but it just made my chest clamp down harder and my thoughts started racing — I'm feeling really jittery and scattered. I'm kind of pissed at myself for not being able to do something so basic. Can we slow down? Tell me one tiny physical thing I can do right now that doesn't feel dumb.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like even a simple breath became overwhelming. Let's try something even smaller. Can you simply notice the sensation of your feet touching the ground, without doing anything else?
+
+Patient: I don't know... I can kind of feel my feet — like they're heavy on the floor and a bit tingly — but my chest's tightening and my mind's already bouncing to all the stupid things I've done, so I can't really stay with it. I'm pissed at myself for not being able to do even this. Can we slow down and pick one tiny movement I can do with my feet instead?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind is already pulling you away from the sensation. Let's focus on a tiny, tiny movement with your feet. Can you subtly lift your right foot off the floor, just a little, and then put it back down?
+
+Patient: I don't know... I guess I can try. Okay — I lifted my right foot a little and put it back down. It felt weird; my chest tightened, my breath got shallow, and my brain immediately started trash-talking me like I screwed something up, so I'm feeling jumpy and distracted and kind of pissed at myself. Can we slow down? Maybe give me another tiny thing I can do that's even less obvious.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the movement itself triggered more thinking and judgment. Let's try something even smaller. Can you notice the sensation of the air moving in and out of your nostrils, just as you breathe in and out?
+
+Patient: I don't know... when I try to notice the air in my nostrils my chest just clamps and my brain floods with every stupid thing I've done — I feel ashamed and pissed at myself. I'm really jittery and can't stay with it; can we slow down and try a different tiny thing, maybe something I can do with my hands instead?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the focus on the breath is still triggering a strong response. Let's try something with your hands. Can you notice the sensation of your fingers on the armrest, or on your lap, without doing anything else?
+
+Patient: I don't know... I can feel my fingers on my lap, kind of tingly and a bit numb, but as soon as I notice it my chest tightens and my brain starts trash‑talking me — like I already messed something up — and I get really jumpy and ashamed. I'm feeling scattered and annoyed at myself; can we slow down? Maybe give me a tiny hand thing that's even less obvious, like rubbing my thumb and forefinger together or something.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the focus on your fingers is still triggering the same response. Let's try something even more subtle. Can you gently touch the tip of your thumb to the tip of your index finger, just for a brief moment?
+
+Patient: I don't know... I guess I can try. Okay, I touched my thumb to my index finger — it felt kind of dumb and my chest clenched, my hands went clammy, and my brain immediately started trash‑talking me like I already screwed up, so I'm really jumpy and pissed at myself. Can we slow down? Maybe give me a different tiny hand thing that's even less obvious.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the physical touch is still triggering more thinking and judgment. Let's try something that's almost imperceptible. Can you subtly notice the sensation of your weight shifting ever so slightly onto your left side, without moving your body at all?
+
+Patient: I don't know... I can kind of feel a tiny shift to the left, like my weight's a little heavier, but as soon as I notice my chest clamps and my thoughts start spiraling into that shame loop and I get mad at myself. I'm feeling really jumpy and scattered right now — can we slow down and pick one tiny, practical thing I can actually do in the moment instead?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shift in weight is triggering the same pattern. Let's try something very practical and concrete. Can you take a sip of water from the glass in front of you?
+
+Patient: I don't know... I tried to take a sip but my hand shook, my chest clenched, and I felt that stupid rush of shame so I stopped. Now I'm even more anxious and scattered — can we slow down? Maybe give me something even smaller and less obvious to do, I guess.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the physical act of taking a sip was too much. Let's try something even smaller. Can you notice the sensation of your mouth opening and closing, without doing anything else?
+
+Patient: I don't know... when I try to notice my mouth opening and closing my chest clamps and that shame voice just floods in and I start judging myself. I'm really jittery and pissed at myself — can we slow down? Maybe give me one tiny, concrete thing I can do that doesn't feel dumb.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the focus on your mouth is still triggering the same response. Let's try something very simple and neutral. Can you lift your eyes to the top of the room, just for a brief moment?
+
+Patient: I don't know... okay, I looked up. It felt kind of stupid and my chest clenched right away, and then my brain started replaying stuff I messed up and I got this hot shame and pissed-off at myself. Can we slow down? Maybe give me one tiny, concrete thing to do in that moment — like a short phrase or a tiny move that doesn't make me feel ridiculous.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like looking up triggered the same response. Let's try something very brief and simple. Can you say the word "yes" to yourself, just out loud, without thinking about it too much?
+
+Patient: I don't know... yes. Saying it made my chest tighten and that stupid shame flare up — I'm feeling jumpy and kind of pissed at myself, and I'm a bit distracted; can we slow down?

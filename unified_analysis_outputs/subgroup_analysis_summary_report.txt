@@ -1,0 +1,801 @@
+================================================================================
+EXPLORATORY SUBGROUP ANALYSIS REPORT
+================================================================================
+
+### Optimal Models by Archetype Name ###
+  - For 'The Anxious Fortune-Teller':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'The Overwhelmed Avoider':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'The Hopeless Skeptic':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'The Intellectualizer':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+
+### Optimal Models by Psych Mindedness Level ###
+  - For 'Moderate':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'Low':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+
+### Optimal Models by Interaction Style Name ###
+  - For 'Catastrophizing/Future-Focused':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'Vague/Defensive':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'Argumentative/Resistant':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'Intellectualizing':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+
+### Optimal Models by Primary Issue ###
+  - For 'unknown':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'social anxiety':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'adjustment disorder':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'moderate depression':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    Instruct (no COT)
+  - For 'burnout':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'generalized anxiety disorder':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'low self-esteem':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'mild anxiety':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'grief':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+
+### Optimal Models by Life Event ###
+  - For 'significant family conflict':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'major life transition':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'job loss or instability':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'ongoing financial stress':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'starting a demanding new job or school program':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'a recent move':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'a recent difficult breakup':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    SFT (COT)
+  - For 'the loss of a loved one':
+    - Best on ACT-FM: Instruct (COT)
+    - Best on TES:    Instruct (no COT)
+  - For 'a health scare':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'feeling isolated or lonely':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+
+### Optimal Models by Coping Mechanism ###
+  - For 'using humor/sarcasm':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'talking to friends/family':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'exercise':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'engaging in hobbies':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'procrastination':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'overworking':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'substance use (mild/moderate)':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'seeking reassurance':
+    - Best on ACT-FM: Instruct (no COT)
+    - Best on TES:    Instruct (no COT)
+  - For 'intellectualizing feelings':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'avoiding triggers':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    Instruct (no COT)
+  - For 'emotional eating':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'mindfulness/meditation':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+
+### Optimal Models by Relationship Status ###
+  - For 'widowed':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'married':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'in a relationship':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'single':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'divorced':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (no COT)
+
+### Optimal Models by Support System ###
+  - For 'limited social support currently':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'colleagues provide some support':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'supportive family':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'a supportive partner':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+  - For 'a few close friends':
+    - Best on ACT-FM: ORPO (COT)
+    - Best on TES:    ORPO (COT)
+  - For 'relies mostly on self':
+    - Best on ACT-FM: ORPO (no COT)
+    - Best on TES:    ORPO (no COT)
+
+
+### COT Impact Analysis by Subgroup ###
+Difference in mean score (COT model - non-COT model)
+
+--- By Archetype Name ---
+  Subgroup: The Anxious Fortune-Teller
+    - Instruct | ACT-FM Diff: +3.08
+    - Instruct | TES Diff:    +0.16
+    - SFT | ACT-FM Diff: +3.03
+    - SFT | TES Diff:    +0.32
+    - ORPO | ACT-FM Diff: +1.91
+    - ORPO | TES Diff:    +0.08
+  Subgroup: The Overwhelmed Avoider
+    - Instruct | ACT-FM Diff: +0.77
+    - Instruct | TES Diff:    -0.29
+    - SFT | ACT-FM Diff: +2.31
+    - SFT | TES Diff:    +0.30
+    - ORPO | ACT-FM Diff: -1.80
+    - ORPO | TES Diff:    -0.35
+  Subgroup: The Hopeless Skeptic
+    - Instruct | ACT-FM Diff: -1.32
+    - Instruct | TES Diff:    -0.34
+    - SFT | ACT-FM Diff: +3.51
+    - SFT | TES Diff:    +0.57
+    - ORPO | ACT-FM Diff: -1.11
+    - ORPO | TES Diff:    -0.15
+  Subgroup: The Intellectualizer
+    - Instruct | ACT-FM Diff: +0.77
+    - Instruct | TES Diff:    -0.08
+    - SFT | ACT-FM Diff: +1.25
+    - SFT | TES Diff:    +0.09
+    - ORPO | ACT-FM Diff: +1.87
+    - ORPO | TES Diff:    +0.08
+
+--- By Psych Mindedness Level ---
+  Subgroup: Moderate
+    - Instruct | ACT-FM Diff: +2.01
+    - Instruct | TES Diff:    +0.05
+    - SFT | ACT-FM Diff: +2.21
+    - SFT | TES Diff:    +0.22
+    - ORPO | ACT-FM Diff: +1.89
+    - ORPO | TES Diff:    +0.08
+  Subgroup: Low
+    - Instruct | ACT-FM Diff: -0.52
+    - Instruct | TES Diff:    -0.32
+    - SFT | ACT-FM Diff: +3.05
+    - SFT | TES Diff:    +0.46
+    - ORPO | ACT-FM Diff: -1.38
+    - ORPO | TES Diff:    -0.22
+
+--- By Interaction Style Name ---
+  Subgroup: Catastrophizing/Future-Focused
+    - Instruct | ACT-FM Diff: +3.08
+    - Instruct | TES Diff:    +0.16
+    - SFT | ACT-FM Diff: +3.03
+    - SFT | TES Diff:    +0.32
+    - ORPO | ACT-FM Diff: +1.91
+    - ORPO | TES Diff:    +0.08
+  Subgroup: Vague/Defensive
+    - Instruct | ACT-FM Diff: +0.77
+    - Instruct | TES Diff:    -0.29
+    - SFT | ACT-FM Diff: +2.31
+    - SFT | TES Diff:    +0.30
+    - ORPO | ACT-FM Diff: -1.80
+    - ORPO | TES Diff:    -0.35
+  Subgroup: Argumentative/Resistant
+    - Instruct | ACT-FM Diff: -1.32
+    - Instruct | TES Diff:    -0.34
+    - SFT | ACT-FM Diff: +3.51
+    - SFT | TES Diff:    +0.57
+    - ORPO | ACT-FM Diff: -1.11
+    - ORPO | TES Diff:    -0.15
+  Subgroup: Intellectualizing
+    - Instruct | ACT-FM Diff: +0.77
+    - Instruct | TES Diff:    -0.08
+    - SFT | ACT-FM Diff: +1.25
+    - SFT | TES Diff:    +0.09
+    - ORPO | ACT-FM Diff: +1.87
+    - ORPO | TES Diff:    +0.08
+
+--- By Primary Issue ---
+  Subgroup: unknown
+    - Instruct | ACT-FM Diff: +1.33
+    - Instruct | TES Diff:    -0.04
+    - SFT | ACT-FM Diff: +0.86
+    - SFT | TES Diff:    +0.12
+    - ORPO | ACT-FM Diff: +0.79
+    - ORPO | TES Diff:    +0.08
+  Subgroup: social anxiety
+    - Instruct | ACT-FM Diff: +2.53
+    - Instruct | TES Diff:    +0.03
+    - SFT | ACT-FM Diff: +3.42
+    - SFT | TES Diff:    +0.23
+    - ORPO | ACT-FM Diff: -1.59
+    - ORPO | TES Diff:    -0.25
+  Subgroup: adjustment disorder
+    - Instruct | ACT-FM Diff: +0.79
+    - Instruct | TES Diff:    -0.22
+    - SFT | ACT-FM Diff: +5.82
+    - SFT | TES Diff:    +0.79
+    - ORPO | ACT-FM Diff: -1.07
+    - ORPO | TES Diff:    -0.29
+  Subgroup: moderate depression
+    - Instruct | ACT-FM Diff: -1.79
+    - Instruct | TES Diff:    -0.53
+    - SFT | ACT-FM Diff: +2.48
+    - SFT | TES Diff:    +0.15
+    - ORPO | ACT-FM Diff: +1.54
+    - ORPO | TES Diff:    -0.04
+  Subgroup: burnout
+    - Instruct | ACT-FM Diff: -1.64
+    - Instruct | TES Diff:    -0.55
+    - SFT | ACT-FM Diff: +4.76
+    - SFT | TES Diff:    +0.78
+    - ORPO | ACT-FM Diff: +2.74
+    - ORPO | TES Diff:    +0.31
+  Subgroup: generalized anxiety disorder
+    - Instruct | ACT-FM Diff: +0.14
+    - Instruct | TES Diff:    -0.09
+    - SFT | ACT-FM Diff: +2.51
+    - SFT | TES Diff:    +0.43
+    - ORPO | ACT-FM Diff: +1.81
+    - ORPO | TES Diff:    +0.14
+  Subgroup: low self-esteem
+    - Instruct | ACT-FM Diff: +2.48
+    - Instruct | TES Diff:    +0.04
+    - SFT | ACT-FM Diff: -0.75
+    - SFT | TES Diff:    -0.09
+    - ORPO | ACT-FM Diff: +2.48
+    - ORPO | TES Diff:    +0.23
+  Subgroup: mild anxiety
+    - Instruct | ACT-FM Diff: +0.75
+    - Instruct | TES Diff:    -0.03
+    - SFT | ACT-FM Diff: +4.41
+    - SFT | TES Diff:    +0.65
+    - ORPO | ACT-FM Diff: -3.59
+    - ORPO | TES Diff:    -0.54
+  Subgroup: grief
+    - Instruct | ACT-FM Diff: +0.47
+    - Instruct | TES Diff:    -0.06
+    - SFT | ACT-FM Diff: +1.97
+    - SFT | TES Diff:    +0.24
+    - ORPO | ACT-FM Diff: -5.05
+    - ORPO | TES Diff:    -0.88
+
+--- By Life Event ---
+  Subgroup: significant family conflict
+    - Instruct | ACT-FM Diff: +1.25
+    - Instruct | TES Diff:    -0.19
+    - SFT | ACT-FM Diff: +5.50
+    - SFT | TES Diff:    +0.79
+    - ORPO | ACT-FM Diff: +4.02
+    - ORPO | TES Diff:    +0.39
+  Subgroup: major life transition
+    - Instruct | ACT-FM Diff: +0.13
+    - Instruct | TES Diff:    -0.05
+    - SFT | ACT-FM Diff: +2.01
+    - SFT | TES Diff:    +0.24
+    - ORPO | ACT-FM Diff: +0.07
+    - ORPO | TES Diff:    -0.02
+  Subgroup: job loss or instability
+    - Instruct | ACT-FM Diff: +1.72
+    - Instruct | TES Diff:    +0.44
+    - SFT | ACT-FM Diff: +1.31
+    - SFT | TES Diff:    +0.31
+    - ORPO | ACT-FM Diff: -2.78
+    - ORPO | TES Diff:    -0.58
+  Subgroup: ongoing financial stress
+    - Instruct | ACT-FM Diff: -2.92
+    - Instruct | TES Diff:    -0.58
+    - SFT | ACT-FM Diff: +2.85
+    - SFT | TES Diff:    +0.53
+    - ORPO | ACT-FM Diff: -1.52
+    - ORPO | TES Diff:    -0.30
+  Subgroup: starting a demanding new job or school program
+    - Instruct | ACT-FM Diff: +2.69
+    - Instruct | TES Diff:    +0.06
+    - SFT | ACT-FM Diff: +3.95
+    - SFT | TES Diff:    +0.60
+    - ORPO | ACT-FM Diff: -2.14
+    - ORPO | TES Diff:    -0.44
+  Subgroup: a recent move
+    - Instruct | ACT-FM Diff: +1.27
+    - Instruct | TES Diff:    -0.06
+    - SFT | ACT-FM Diff: -1.69
+    - SFT | TES Diff:    -0.27
+    - ORPO | ACT-FM Diff: +0.06
+    - ORPO | TES Diff:    +0.06
+  Subgroup: a recent difficult breakup
+    - Instruct | ACT-FM Diff: +0.05
+    - Instruct | TES Diff:    -0.35
+    - SFT | ACT-FM Diff: +7.12
+    - SFT | TES Diff:    +0.74
+    - ORPO | ACT-FM Diff: +4.73
+    - ORPO | TES Diff:    +0.46
+  Subgroup: the loss of a loved one
+    - Instruct | ACT-FM Diff: +0.48
+    - Instruct | TES Diff:    -0.16
+    - SFT | ACT-FM Diff: +1.65
+    - SFT | TES Diff:    +0.24
+    - ORPO | ACT-FM Diff: -0.17
+    - ORPO | TES Diff:    -0.13
+  Subgroup: a health scare
+    - Instruct | ACT-FM Diff: +0.71
+    - Instruct | TES Diff:    -0.35
+    - SFT | ACT-FM Diff: +3.62
+    - SFT | TES Diff:    +0.56
+    - ORPO | ACT-FM Diff: +0.75
+    - ORPO | TES Diff:    +0.09
+  Subgroup: feeling isolated or lonely
+    - Instruct | ACT-FM Diff: -0.08
+    - Instruct | TES Diff:    -0.47
+    - SFT | ACT-FM Diff: +1.08
+    - SFT | TES Diff:    -0.11
+    - ORPO | ACT-FM Diff: -1.87
+    - ORPO | TES Diff:    -0.35
+
+--- By Coping Mechanism ---
+  Subgroup: using humor/sarcasm
+    - Instruct | ACT-FM Diff: +3.05
+    - Instruct | TES Diff:    +0.04
+    - SFT | ACT-FM Diff: -0.07
+    - SFT | TES Diff:    +0.22
+    - ORPO | ACT-FM Diff: +0.75
+    - ORPO | TES Diff:    +0.16
+  Subgroup: talking to friends/family
+    - Instruct | ACT-FM Diff: +4.73
+    - Instruct | TES Diff:    +0.27
+    - SFT | ACT-FM Diff: +1.77
+    - SFT | TES Diff:    +0.26
+    - ORPO | ACT-FM Diff: +1.60
+    - ORPO | TES Diff:    +0.13
+  Subgroup: exercise
+    - Instruct | ACT-FM Diff: +1.93
+    - Instruct | TES Diff:    +0.04
+    - SFT | ACT-FM Diff: +2.67
+    - SFT | TES Diff:    +0.28
+    - ORPO | ACT-FM Diff: +1.49
+    - ORPO | TES Diff:    +0.06
+  Subgroup: engaging in hobbies
+    - Instruct | ACT-FM Diff: -4.36
+    - Instruct | TES Diff:    -0.35
+    - SFT | ACT-FM Diff: +2.53
+    - SFT | TES Diff:    +0.26
+    - ORPO | ACT-FM Diff: +1.31
+    - ORPO | TES Diff:    -0.16
+  Subgroup: procrastination
+    - Instruct | ACT-FM Diff: +0.44
+    - Instruct | TES Diff:    -0.29
+    - SFT | ACT-FM Diff: -1.63
+    - SFT | TES Diff:    -0.44
+    - ORPO | ACT-FM Diff: -2.25
+    - ORPO | TES Diff:    -0.45
+  Subgroup: overworking
+    - Instruct | ACT-FM Diff: -4.50
+    - Instruct | TES Diff:    -0.85
+    - SFT | ACT-FM Diff: +5.25
+    - SFT | TES Diff:    +0.38
+    - ORPO | ACT-FM Diff: +1.11
+    - ORPO | TES Diff:    -0.21
+  Subgroup: substance use (mild/moderate)
+    - Instruct | ACT-FM Diff: +0.29
+    - Instruct | TES Diff:    -0.16
+    - SFT | ACT-FM Diff: +3.13
+    - SFT | TES Diff:    +0.50
+    - ORPO | ACT-FM Diff: +0.19
+    - ORPO | TES Diff:    -0.06
+  Subgroup: seeking reassurance
+    - Instruct | ACT-FM Diff: -2.34
+    - Instruct | TES Diff:    -0.67
+    - SFT | ACT-FM Diff: +8.41
+    - SFT | TES Diff:    +0.99
+    - ORPO | ACT-FM Diff: -1.75
+    - ORPO | TES Diff:    -0.24
+  Subgroup: intellectualizing feelings
+    - Instruct | ACT-FM Diff: -0.72
+    - Instruct | TES Diff:    -0.15
+    - SFT | ACT-FM Diff: +2.50
+    - SFT | TES Diff:    +0.27
+    - ORPO | ACT-FM Diff: -3.19
+    - ORPO | TES Diff:    -0.36
+  Subgroup: avoiding triggers
+    - Instruct | ACT-FM Diff: -1.55
+    - Instruct | TES Diff:    -0.33
+    - SFT | ACT-FM Diff: +6.36
+    - SFT | TES Diff:    +1.21
+    - ORPO | ACT-FM Diff: -0.86
+    - ORPO | TES Diff:    -0.17
+  Subgroup: emotional eating
+    - Instruct | ACT-FM Diff: +2.69
+    - Instruct | TES Diff:    -0.22
+    - SFT | ACT-FM Diff: -0.33
+    - SFT | TES Diff:    +0.35
+    - ORPO | ACT-FM Diff: -0.69
+    - ORPO | TES Diff:    -0.32
+  Subgroup: mindfulness/meditation
+    - Instruct | ACT-FM Diff: +2.88
+    - Instruct | TES Diff:    +0.26
+    - SFT | ACT-FM Diff: +7.21
+    - SFT | TES Diff:    +0.91
+    - ORPO | ACT-FM Diff: +0.54
+    - ORPO | TES Diff:    +0.50
+
+--- By Relationship Status ---
+  Subgroup: widowed
+    - Instruct | ACT-FM Diff: +0.26
+    - Instruct | TES Diff:    -0.11
+    - SFT | ACT-FM Diff: +3.85
+    - SFT | TES Diff:    +0.60
+    - ORPO | ACT-FM Diff: +1.22
+    - ORPO | TES Diff:    -0.01
+  Subgroup: married
+    - Instruct | ACT-FM Diff: +0.28
+    - Instruct | TES Diff:    -0.16
+    - SFT | ACT-FM Diff: +0.62
+    - SFT | TES Diff:    +0.02
+    - ORPO | ACT-FM Diff: -2.10
+    - ORPO | TES Diff:    -0.30
+  Subgroup: in a relationship
+    - Instruct | ACT-FM Diff: +1.18
+    - Instruct | TES Diff:    -0.35
+    - SFT | ACT-FM Diff: +2.18
+    - SFT | TES Diff:    +0.11
+    - ORPO | ACT-FM Diff: -0.07
+    - ORPO | TES Diff:    -0.03
+  Subgroup: single
+    - Instruct | ACT-FM Diff: +1.50
+    - Instruct | TES Diff:    +0.00
+    - SFT | ACT-FM Diff: +2.91
+    - SFT | TES Diff:    +0.43
+    - ORPO | ACT-FM Diff: +1.06
+    - ORPO | TES Diff:    -0.02
+  Subgroup: divorced
+    - Instruct | ACT-FM Diff: -0.14
+    - Instruct | TES Diff:    -0.22
+    - SFT | ACT-FM Diff: +4.06
+    - SFT | TES Diff:    +0.61
+    - ORPO | ACT-FM Diff: +0.30
+    - ORPO | TES Diff:    -0.05
+
+--- By Support System ---
+  Subgroup: limited social support currently
+    - Instruct | ACT-FM Diff: +3.07
+    - Instruct | TES Diff:    +0.18
+    - SFT | ACT-FM Diff: +3.79
+    - SFT | TES Diff:    +0.70
+    - ORPO | ACT-FM Diff: +1.19
+    - ORPO | TES Diff:    +0.09
+  Subgroup: colleagues provide some support
+    - Instruct | ACT-FM Diff: -0.13
+    - Instruct | TES Diff:    -0.29
+    - SFT | ACT-FM Diff: +3.41
+    - SFT | TES Diff:    +0.51
+    - ORPO | ACT-FM Diff: +0.54
+    - ORPO | TES Diff:    +0.11
+  Subgroup: supportive family
+    - Instruct | ACT-FM Diff: -0.24
+    - Instruct | TES Diff:    -0.43
+    - SFT | ACT-FM Diff: +1.56
+    - SFT | TES Diff:    -0.06
+    - ORPO | ACT-FM Diff: -1.03
+    - ORPO | TES Diff:    -0.29
+  Subgroup: a supportive partner
+    - Instruct | ACT-FM Diff: -1.49
+    - Instruct | TES Diff:    -0.45
+    - SFT | ACT-FM Diff: +3.46
+    - SFT | TES Diff:    +0.53
+    - ORPO | ACT-FM Diff: -2.43
+    - ORPO | TES Diff:    -0.67
+  Subgroup: a few close friends
+    - Instruct | ACT-FM Diff: +1.18
+    - Instruct | TES Diff:    -0.02
+    - SFT | ACT-FM Diff: +1.73
+    - SFT | TES Diff:    +0.07
+    - ORPO | ACT-FM Diff: +2.15
+    - ORPO | TES Diff:    +0.19
+  Subgroup: relies mostly on self
+    - Instruct | ACT-FM Diff: +0.72
+    - Instruct | TES Diff:    -0.02
+    - SFT | ACT-FM Diff: +2.01
+    - SFT | TES Diff:    +0.34
+    - ORPO | ACT-FM Diff: -1.34
+    - ORPO | TES Diff:    -0.25
+
+### Statistically Significant Differences (FDR Corrected p < 0.05) ###
+
+For Archetype Name:
+  - The Anxious Fortune-Teller: Instruct (COT) vs SFT (no COT) (p_adj=0.0093)
+  - The Anxious Fortune-Teller: Instruct (no COT) vs ORPO (COT) (p_adj=0.0004)
+  - The Anxious Fortune-Teller: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0081)
+  - The Anxious Fortune-Teller: ORPO (COT) vs SFT (COT) (p_adj=0.0041)
+  - The Anxious Fortune-Teller: ORPO (COT) vs SFT (no COT) (p_adj=0.0004)
+  - The Anxious Fortune-Teller: ORPO (no COT) vs SFT (no COT) (p_adj=0.0041)
+  - The Overwhelmed Avoider: Instruct (COT) vs ORPO (no COT) (p_adj=0.0065)
+  - The Overwhelmed Avoider: Instruct (COT) vs SFT (COT) (p_adj=0.0455)
+  - The Overwhelmed Avoider: Instruct (COT) vs SFT (no COT) (p_adj=0.0035)
+  - The Overwhelmed Avoider: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0027)
+  - The Overwhelmed Avoider: Instruct (no COT) vs SFT (no COT) (p_adj=0.0070)
+  - The Overwhelmed Avoider: ORPO (COT) vs SFT (COT) (p_adj=0.0038)
+  - The Overwhelmed Avoider: ORPO (COT) vs SFT (no COT) (p_adj=0.0005)
+  - The Overwhelmed Avoider: ORPO (no COT) vs SFT (COT) (p_adj=0.0003)
+  - The Overwhelmed Avoider: ORPO (no COT) vs SFT (no COT) (p_adj=0.0001)
+  - The Hopeless Skeptic: Instruct (COT) vs ORPO (COT) (p_adj=0.0161)
+  - The Hopeless Skeptic: Instruct (COT) vs ORPO (no COT) (p_adj=0.0029)
+  - The Hopeless Skeptic: Instruct (COT) vs SFT (no COT) (p_adj=0.0019)
+  - The Hopeless Skeptic: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0161)
+  - The Hopeless Skeptic: Instruct (no COT) vs SFT (COT) (p_adj=0.0225)
+  - The Hopeless Skeptic: Instruct (no COT) vs SFT (no COT) (p_adj=0.0006)
+  - The Hopeless Skeptic: ORPO (COT) vs SFT (COT) (p_adj=0.0015)
+  - The Hopeless Skeptic: ORPO (COT) vs SFT (no COT) (p_adj=0.0000)
+  - The Hopeless Skeptic: ORPO (no COT) vs SFT (COT) (p_adj=0.0006)
+  - The Hopeless Skeptic: ORPO (no COT) vs SFT (no COT) (p_adj=0.0000)
+  - The Hopeless Skeptic: SFT (COT) vs SFT (no COT) (p_adj=0.0227)
+  - The Intellectualizer: Instruct (COT) vs ORPO (COT) (p_adj=0.0073)
+  - The Intellectualizer: Instruct (no COT) vs ORPO (COT) (p_adj=0.0037)
+  - The Intellectualizer: ORPO (COT) vs SFT (COT) (p_adj=0.0060)
+  - The Intellectualizer: ORPO (COT) vs SFT (no COT) (p_adj=0.0037)
+
+For Psych Mindedness Level:
+  - Moderate: Instruct (COT) vs Instruct (no COT) (p_adj=0.0426)
+  - Moderate: Instruct (COT) vs ORPO (COT) (p_adj=0.0019)
+  - Moderate: Instruct (COT) vs SFT (no COT) (p_adj=0.0019)
+  - Moderate: Instruct (no COT) vs ORPO (COT) (p_adj=0.0000)
+  - Moderate: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0007)
+  - Moderate: ORPO (COT) vs ORPO (no COT) (p_adj=0.0330)
+  - Moderate: ORPO (COT) vs SFT (COT) (p_adj=0.0000)
+  - Moderate: ORPO (COT) vs SFT (no COT) (p_adj=0.0000)
+  - Moderate: ORPO (no COT) vs SFT (COT) (p_adj=0.0095)
+  - Moderate: ORPO (no COT) vs SFT (no COT) (p_adj=0.0001)
+  - Low: Instruct (COT) vs ORPO (COT) (p_adj=0.0106)
+  - Low: Instruct (COT) vs ORPO (no COT) (p_adj=0.0001)
+  - Low: Instruct (COT) vs SFT (COT) (p_adj=0.0188)
+  - Low: Instruct (COT) vs SFT (no COT) (p_adj=0.0000)
+  - Low: Instruct (no COT) vs ORPO (COT) (p_adj=0.0124)
+  - Low: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0001)
+  - Low: Instruct (no COT) vs SFT (COT) (p_adj=0.0026)
+  - Low: Instruct (no COT) vs SFT (no COT) (p_adj=0.0000)
+  - Low: ORPO (COT) vs SFT (COT) (p_adj=0.0000)
+  - Low: ORPO (COT) vs SFT (no COT) (p_adj=0.0000)
+  - Low: ORPO (no COT) vs SFT (COT) (p_adj=0.0000)
+  - Low: ORPO (no COT) vs SFT (no COT) (p_adj=0.0000)
+  - Low: SFT (COT) vs SFT (no COT) (p_adj=0.0101)
+
+For Interaction Style Name:
+  - Catastrophizing/Future-Focused: Instruct (COT) vs SFT (no COT) (p_adj=0.0093)
+  - Catastrophizing/Future-Focused: Instruct (no COT) vs ORPO (COT) (p_adj=0.0004)
+  - Catastrophizing/Future-Focused: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0081)
+  - Catastrophizing/Future-Focused: ORPO (COT) vs SFT (COT) (p_adj=0.0041)
+  - Catastrophizing/Future-Focused: ORPO (COT) vs SFT (no COT) (p_adj=0.0004)
+  - Catastrophizing/Future-Focused: ORPO (no COT) vs SFT (no COT) (p_adj=0.0041)
+  - Vague/Defensive: Instruct (COT) vs ORPO (no COT) (p_adj=0.0065)
+  - Vague/Defensive: Instruct (COT) vs SFT (COT) (p_adj=0.0455)
+  - Vague/Defensive: Instruct (COT) vs SFT (no COT) (p_adj=0.0035)
+  - Vague/Defensive: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0027)
+  - Vague/Defensive: Instruct (no COT) vs SFT (no COT) (p_adj=0.0070)
+  - Vague/Defensive: ORPO (COT) vs SFT (COT) (p_adj=0.0038)
+  - Vague/Defensive: ORPO (COT) vs SFT (no COT) (p_adj=0.0005)
+  - Vague/Defensive: ORPO (no COT) vs SFT (COT) (p_adj=0.0003)
+  - Vague/Defensive: ORPO (no COT) vs SFT (no COT) (p_adj=0.0001)
+  - Argumentative/Resistant: Instruct (COT) vs ORPO (COT) (p_adj=0.0161)
+  - Argumentative/Resistant: Instruct (COT) vs ORPO (no COT) (p_adj=0.0029)
+  - Argumentative/Resistant: Instruct (COT) vs SFT (no COT) (p_adj=0.0019)
+  - Argumentative/Resistant: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0161)
+  - Argumentative/Resistant: Instruct (no COT) vs SFT (COT) (p_adj=0.0225)
+  - Argumentative/Resistant: Instruct (no COT) vs SFT (no COT) (p_adj=0.0006)
+  - Argumentative/Resistant: ORPO (COT) vs SFT (COT) (p_adj=0.0015)
+  - Argumentative/Resistant: ORPO (COT) vs SFT (no COT) (p_adj=0.0000)
+  - Argumentative/Resistant: ORPO (no COT) vs SFT (COT) (p_adj=0.0006)
+  - Argumentative/Resistant: ORPO (no COT) vs SFT (no COT) (p_adj=0.0000)
+  - Argumentative/Resistant: SFT (COT) vs SFT (no COT) (p_adj=0.0227)
+  - Intellectualizing: Instruct (COT) vs ORPO (COT) (p_adj=0.0073)
+  - Intellectualizing: Instruct (no COT) vs ORPO (COT) (p_adj=0.0037)
+  - Intellectualizing: ORPO (COT) vs SFT (COT) (p_adj=0.0060)
+  - Intellectualizing: ORPO (COT) vs SFT (no COT) (p_adj=0.0037)
+
+For Primary Issue:
+  - unknown: Instruct (COT) vs SFT (no COT) (p_adj=0.0076)
+  - unknown: Instruct (no COT) vs ORPO (COT) (p_adj=0.0069)
+  - unknown: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0114)
+  - unknown: ORPO (COT) vs SFT (COT) (p_adj=0.0009)
+  - unknown: ORPO (COT) vs SFT (no COT) (p_adj=0.0023)
+  - unknown: ORPO (no COT) vs SFT (COT) (p_adj=0.0069)
+  - unknown: ORPO (no COT) vs SFT (no COT) (p_adj=0.0026)
+  - adjustment disorder: Instruct (COT) vs SFT (no COT) (p_adj=0.0105)
+  - adjustment disorder: ORPO (COT) vs SFT (no COT) (p_adj=0.0063)
+  - adjustment disorder: ORPO (no COT) vs SFT (no COT) (p_adj=0.0063)
+  - moderate depression: Instruct (COT) vs SFT (COT) (p_adj=0.0269)
+  - moderate depression: Instruct (no COT) vs SFT (COT) (p_adj=0.0256)
+  - moderate depression: Instruct (no COT) vs SFT (no COT) (p_adj=0.0256)
+  - moderate depression: ORPO (COT) vs SFT (COT) (p_adj=0.0345)
+  - moderate depression: ORPO (COT) vs SFT (no COT) (p_adj=0.0256)
+  - moderate depression: ORPO (no COT) vs SFT (COT) (p_adj=0.0256)
+  - moderate depression: ORPO (no COT) vs SFT (no COT) (p_adj=0.0269)
+  - generalized anxiety disorder: ORPO (COT) vs SFT (COT) (p_adj=0.0087)
+  - generalized anxiety disorder: ORPO (COT) vs SFT (no COT) (p_adj=0.0087)
+  - generalized anxiety disorder: ORPO (no COT) vs SFT (no COT) (p_adj=0.0125)
+  - low self-esteem: Instruct (no COT) vs ORPO (COT) (p_adj=0.0366)
+  - low self-esteem: ORPO (COT) vs SFT (COT) (p_adj=0.0256)
+  - low self-esteem: ORPO (COT) vs SFT (no COT) (p_adj=0.0378)
+  - low self-esteem: ORPO (no COT) vs SFT (COT) (p_adj=0.0498)
+  - low self-esteem: ORPO (no COT) vs SFT (no COT) (p_adj=0.0498)
+
+For Life Event:
+  - significant family conflict: Instruct (COT) vs ORPO (COT) (p_adj=0.0287)
+  - significant family conflict: Instruct (no COT) vs ORPO (COT) (p_adj=0.0286)
+  - significant family conflict: ORPO (COT) vs SFT (COT) (p_adj=0.0286)
+  - significant family conflict: ORPO (COT) vs SFT (no COT) (p_adj=0.0228)
+  - significant family conflict: ORPO (no COT) vs SFT (no COT) (p_adj=0.0330)
+  - major life transition: ORPO (COT) vs SFT (no COT) (p_adj=0.0307)
+  - major life transition: ORPO (no COT) vs SFT (no COT) (p_adj=0.0307)
+  - job loss or instability: Instruct (COT) vs SFT (COT) (p_adj=0.0407)
+  - job loss or instability: Instruct (COT) vs SFT (no COT) (p_adj=0.0323)
+  - job loss or instability: Instruct (no COT) vs ORPO (COT) (p_adj=0.0134)
+  - job loss or instability: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0060)
+  - job loss or instability: Instruct (no COT) vs SFT (no COT) (p_adj=0.0325)
+  - job loss or instability: ORPO (COT) vs SFT (COT) (p_adj=0.0062)
+  - job loss or instability: ORPO (COT) vs SFT (no COT) (p_adj=0.0051)
+  - job loss or instability: ORPO (no COT) vs SFT (COT) (p_adj=0.0033)
+  - job loss or instability: ORPO (no COT) vs SFT (no COT) (p_adj=0.0033)
+  - ongoing financial stress: Instruct (COT) vs ORPO (COT) (p_adj=0.0429)
+  - ongoing financial stress: Instruct (COT) vs ORPO (no COT) (p_adj=0.0146)
+  - ongoing financial stress: Instruct (no COT) vs SFT (no COT) (p_adj=0.0232)
+  - ongoing financial stress: ORPO (COT) vs SFT (COT) (p_adj=0.0146)
+  - ongoing financial stress: ORPO (COT) vs SFT (no COT) (p_adj=0.0146)
+  - ongoing financial stress: ORPO (no COT) vs SFT (COT) (p_adj=0.0146)
+  - ongoing financial stress: ORPO (no COT) vs SFT (no COT) (p_adj=0.0146)
+  - a recent move: Instruct (COT) vs SFT (COT) (p_adj=0.0424)
+  - a recent move: Instruct (COT) vs SFT (no COT) (p_adj=0.0424)
+  - a recent move: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0470)
+  - a recent move: ORPO (COT) vs SFT (COT) (p_adj=0.0424)
+  - a recent move: ORPO (COT) vs SFT (no COT) (p_adj=0.0424)
+  - a recent move: ORPO (no COT) vs SFT (COT) (p_adj=0.0168)
+  - a recent move: ORPO (no COT) vs SFT (no COT) (p_adj=0.0424)
+  - feeling isolated or lonely: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0386)
+
+For Coping Mechanism:
+  - exercise: Instruct (no COT) vs ORPO (COT) (p_adj=0.0083)
+  - exercise: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0179)
+  - exercise: ORPO (COT) vs SFT (no COT) (p_adj=0.0101)
+  - exercise: ORPO (no COT) vs SFT (no COT) (p_adj=0.0475)
+  - procrastination: Instruct (COT) vs ORPO (no COT) (p_adj=0.0295)
+  - procrastination: Instruct (COT) vs SFT (no COT) (p_adj=0.0408)
+  - procrastination: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0295)
+  - procrastination: ORPO (COT) vs SFT (COT) (p_adj=0.0295)
+  - procrastination: ORPO (COT) vs SFT (no COT) (p_adj=0.0369)
+  - procrastination: ORPO (no COT) vs SFT (COT) (p_adj=0.0112)
+  - procrastination: ORPO (no COT) vs SFT (no COT) (p_adj=0.0112)
+  - substance use (mild/moderate): Instruct (COT) vs SFT (no COT) (p_adj=0.0315)
+  - substance use (mild/moderate): Instruct (no COT) vs SFT (COT) (p_adj=0.0434)
+  - substance use (mild/moderate): Instruct (no COT) vs SFT (no COT) (p_adj=0.0403)
+  - substance use (mild/moderate): ORPO (COT) vs SFT (COT) (p_adj=0.0046)
+  - substance use (mild/moderate): ORPO (COT) vs SFT (no COT) (p_adj=0.0046)
+  - substance use (mild/moderate): ORPO (no COT) vs SFT (COT) (p_adj=0.0046)
+  - substance use (mild/moderate): ORPO (no COT) vs SFT (no COT) (p_adj=0.0046)
+  - seeking reassurance: Instruct (COT) vs SFT (no COT) (p_adj=0.0391)
+  - seeking reassurance: Instruct (no COT) vs SFT (no COT) (p_adj=0.0391)
+  - seeking reassurance: ORPO (no COT) vs SFT (no COT) (p_adj=0.0391)
+  - avoiding triggers: ORPO (COT) vs SFT (no COT) (p_adj=0.0146)
+  - avoiding triggers: ORPO (no COT) vs SFT (no COT) (p_adj=0.0293)
+  - avoiding triggers: SFT (COT) vs SFT (no COT) (p_adj=0.0146)
+
+For Relationship Status:
+  - widowed: Instruct (COT) vs ORPO (COT) (p_adj=0.0050)
+  - widowed: Instruct (COT) vs ORPO (no COT) (p_adj=0.0182)
+  - widowed: Instruct (COT) vs SFT (no COT) (p_adj=0.0158)
+  - widowed: Instruct (no COT) vs ORPO (COT) (p_adj=0.0039)
+  - widowed: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0134)
+  - widowed: Instruct (no COT) vs SFT (no COT) (p_adj=0.0309)
+  - widowed: ORPO (COT) vs SFT (COT) (p_adj=0.0134)
+  - widowed: ORPO (COT) vs SFT (no COT) (p_adj=0.0000)
+  - widowed: ORPO (no COT) vs SFT (COT) (p_adj=0.0309)
+  - widowed: ORPO (no COT) vs SFT (no COT) (p_adj=0.0004)
+  - widowed: SFT (COT) vs SFT (no COT) (p_adj=0.0309)
+  - married: Instruct (COT) vs SFT (COT) (p_adj=0.0043)
+  - married: Instruct (COT) vs SFT (no COT) (p_adj=0.0058)
+  - married: Instruct (no COT) vs SFT (COT) (p_adj=0.0102)
+  - married: Instruct (no COT) vs SFT (no COT) (p_adj=0.0081)
+  - married: ORPO (COT) vs SFT (COT) (p_adj=0.0016)
+  - married: ORPO (COT) vs SFT (no COT) (p_adj=0.0016)
+  - married: ORPO (no COT) vs SFT (COT) (p_adj=0.0002)
+  - married: ORPO (no COT) vs SFT (no COT) (p_adj=0.0002)
+  - in a relationship: Instruct (COT) vs SFT (no COT) (p_adj=0.0256)
+  - in a relationship: ORPO (COT) vs SFT (COT) (p_adj=0.0454)
+  - in a relationship: ORPO (COT) vs SFT (no COT) (p_adj=0.0201)
+  - in a relationship: ORPO (no COT) vs SFT (COT) (p_adj=0.0454)
+  - in a relationship: ORPO (no COT) vs SFT (no COT) (p_adj=0.0201)
+  - single: Instruct (COT) vs SFT (no COT) (p_adj=0.0207)
+  - single: Instruct (no COT) vs ORPO (COT) (p_adj=0.0026)
+  - single: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0026)
+  - single: ORPO (COT) vs SFT (COT) (p_adj=0.0009)
+  - single: ORPO (COT) vs SFT (no COT) (p_adj=0.0008)
+  - single: ORPO (no COT) vs SFT (COT) (p_adj=0.0085)
+  - single: ORPO (no COT) vs SFT (no COT) (p_adj=0.0009)
+
+For Support System:
+  - limited social support currently: Instruct (COT) vs SFT (no COT) (p_adj=0.0271)
+  - limited social support currently: Instruct (no COT) vs ORPO (COT) (p_adj=0.0022)
+  - limited social support currently: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0271)
+  - limited social support currently: ORPO (COT) vs SFT (COT) (p_adj=0.0285)
+  - limited social support currently: ORPO (COT) vs SFT (no COT) (p_adj=0.0018)
+  - limited social support currently: ORPO (no COT) vs SFT (no COT) (p_adj=0.0022)
+  - colleagues provide some support: Instruct (COT) vs ORPO (COT) (p_adj=0.0465)
+  - colleagues provide some support: Instruct (COT) vs ORPO (no COT) (p_adj=0.0465)
+  - colleagues provide some support: Instruct (COT) vs SFT (no COT) (p_adj=0.0102)
+  - colleagues provide some support: Instruct (no COT) vs SFT (no COT) (p_adj=0.0450)
+  - colleagues provide some support: ORPO (COT) vs SFT (COT) (p_adj=0.0450)
+  - colleagues provide some support: ORPO (COT) vs SFT (no COT) (p_adj=0.0019)
+  - colleagues provide some support: ORPO (no COT) vs SFT (COT) (p_adj=0.0450)
+  - colleagues provide some support: ORPO (no COT) vs SFT (no COT) (p_adj=0.0019)
+  - a supportive partner: Instruct (COT) vs ORPO (no COT) (p_adj=0.0283)
+  - a supportive partner: ORPO (COT) vs SFT (no COT) (p_adj=0.0454)
+  - a supportive partner: ORPO (no COT) vs SFT (COT) (p_adj=0.0420)
+  - a supportive partner: ORPO (no COT) vs SFT (no COT) (p_adj=0.0166)
+  - a few close friends: Instruct (COT) vs ORPO (COT) (p_adj=0.0106)
+  - a few close friends: Instruct (no COT) vs ORPO (COT) (p_adj=0.0001)
+  - a few close friends: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0071)
+  - a few close friends: ORPO (COT) vs SFT (COT) (p_adj=0.0005)
+  - a few close friends: ORPO (COT) vs SFT (no COT) (p_adj=0.0005)
+  - a few close friends: ORPO (no COT) vs SFT (COT) (p_adj=0.0106)
+  - a few close friends: ORPO (no COT) vs SFT (no COT) (p_adj=0.0013)
+  - relies mostly on self: Instruct (no COT) vs ORPO (no COT) (p_adj=0.0191)
+  - relies mostly on self: ORPO (COT) vs SFT (COT) (p_adj=0.0191)
+  - relies mostly on self: ORPO (COT) vs SFT (no COT) (p_adj=0.0065)
+  - relies mostly on self: ORPO (no COT) vs SFT (COT) (p_adj=0.0122)
+  - relies mostly on self: ORPO (no COT) vs SFT (no COT) (p_adj=0.0065)

@@ -1,0 +1,19 @@
+                 Mixed Linear Model Regression Results
+========================================================================
+Model:                  MixedLM      Dependent Variable:      tes_mean  
+No. Observations:       900          Method:                  REML      
+No. Groups:             150          Scale:                   0.8243    
+Min. group size:        6            Log-Likelihood:          -1259.1630
+Max. group size:        6            Converged:               Yes       
+Mean group size:        6.0                                             
+------------------------------------------------------------------------
+                              Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+------------------------------------------------------------------------
+Intercept                      5.290    0.082 64.711 0.000  5.130  5.451
+C(model)[T.Instruct (no COT)]  0.155    0.105  1.477 0.140 -0.051  0.360
+C(model)[T.ORPO (COT)]         0.387    0.105  3.688 0.000  0.181  0.592
+C(model)[T.ORPO (no COT)]      0.474    0.105  4.522 0.000  0.269  0.680
+C(model)[T.SFT (COT)]         -0.223    0.105 -2.127 0.033 -0.428 -0.017
+C(model)[T.SFT (no COT)]      -0.576    0.105 -5.490 0.000 -0.781 -0.370
+Group Var                      0.178    0.044                           
+========================================================================

@@ -1,0 +1,266 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hi, I'm a senior data scientist. Lately I've been feeling really overwhelmed by sadness and a loss of motivation since I lost someone close, and it's started to affect my relationship. I guess I don't really know how to handle it, and talking about it makes me uncomfortable.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It takes a lot of courage to acknowledge that you're not feeling okay and that talking about it makes you uncomfortable. That in itself is a testament to your value of honesty and vulnerability. Can you tell me more about what happens for you when you start talking about this feeling of sadness? What's the first thing that shows up for you, like a physical sensation, a thought, an image, or a memory?
+
+Patient: I don't know... when we start talking about it my chest gets tight and my breathing gets a bit shallow, and then my head goes kind of blank. I guess memories of them in the hospital or the last thing we said come up, and I feel this stupid guilt like I should've done more. After that I usually try to change the subject or talk about work because it's just... easier.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those physical sensations can be really distressing, and it sounds like they're associated with a lot of emotional pain. It's interesting that you mention feeling a sense of guilt, and that you try to change the subject or talk about work to avoid those feelings. Can you tell me more about what's hard for you about feeling that guilt, and what would happen if, instead of trying to avoid it, you made room for it, and allowed yourself to feel it more fully?
+
+Patient: I don't know... I guess what's hard is that it feels like if I let the guilt in it'll just swallow me — my chest tightens, I start crying, and I'm afraid I'll become this mess my partner can't handle. I'm scared that feeling it fully would mean losing control or being a burden, and that scares me more than staying numb. Sorry, I keep trying to dodge it — yesterday at work this model kept glitching and I got totally wrapped up in fixing it instead.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The fear of losing control and being a burden can be a really powerful and painful one. It's like you're trying to maintain a sense of external stability, like a functioning model, even when it comes to your own emotions. Can you think of what would happen for you if, for just a moment, you allowed yourself to feel that sense of overwhelm, without trying to fix it or control it? Would that be a quieter, more peaceful feeling, or something else entirely?
+
+Patient: I don't know... I guess part of me thinks it might be quieter, like the weight would settle for a bit, but I'm also terrified it'd turn into a wave I can't handle. I worry my partner would see me as fragile and leave, so I end up burying myself in work — yesterday a model kept glitching and I just dove into fixing it instead.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The fear of being seen as fragile can be really scary. It sounds like you're trying to protect yourself from that potential risk, even if it means staying stuck in a cycle of avoidance. Would it be okay with you to take a tiny step towards being more vulnerable, just for a moment, and see what happens? Maybe we can start with something small, like noticing how your body feels when you think about your partner seeing you feeling overwhelmed? Can you just notice that for me, without trying to change it or avoid it?
+
+Patient: I don't know... when I imagine them seeing me like that my chest tightens and my throat goes dry and I start telling myself "don't cry, don't cry." I guess I picture them looking at me with pity, and that makes me want to fix something instead — like that annoying model glitch at work.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The physical sensations and self-talk you're experiencing sound really intense. It's like your body is already responding to the fear of being seen as vulnerable, even before you start thinking about your partner's potential reaction. Would it be okay to pause with those thoughts and just notice the sensation of your chest tightening, the dryness in your throat, without trying to tell yourself "don't cry"?
+
+Patient: I don't know... okay, I'll try. My chest feels like it's being squeezed, my throat's dry, and my mind immediately jumps to fixing some work problem instead. I guess noticing it makes me a bit panicky and I want to change the subject.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a good start. You've acknowledged the sensations and the tendency to jump to fixing a problem. Can you take another tiny step back and simply observe those physical sensations without trying to change them or push them away? For example, can you say to yourself, "My chest is being squeezed, my throat is dry" without adding any judgment or self-talk?
+
+Patient: I don't know... okay. My chest is being squeezed, my throat is dry, and my breathing's shallow. I guess noticing it makes me panicky and my mind immediately tells me to go fix something instead.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing it. Just noticing the sensations without trying to change them. Now, can you imagine what might happen if, instead of trying to fix something, you simply allowed those sensations to be, without judgment or trying to push them away? What would it be like to have some space for those feelings, without trying to change them?
+
+Patient: I don't know... I guess if I let them be for a bit it might be like a duller ache, like the squeezing eases and things feel a bit lighter for a moment. But I'm terrified it'd flood me again and I'd lose control, so my brain just jumps to fixing something — like that model glitch yesterday — because that's safer. Okay, I'm feeling a bit overwhelmed with all this. Can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're catching glimpses of what might be possible if you allowed yourself to feel those sensations without judgment. It's understandable that you're scared of losing control, but it's also important to remember that it's okay to feel overwhelmed. Would it be okay if we take a pause, and you come back to this when you're feeling a bit more grounded? Or we can try something else, like a small mindfulness exercise, to help you feel more connected to your body and calm your nervous system.
+
+Patient: I don't know... I'm not sure I follow—how is pausing or a mindfulness exercise supposed to help? I guess I'm worried it'll just make me flood or feel like I'm wasting time. If we try something, can it be really short? My mind keeps jumping back to fixing that model.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're feeling skeptical about the value of taking a pause or doing a mindfulness exercise, and that's a normal response. You're also worried about wasting time and feeling like you're not making progress. Can I try something small and simple instead? Can you just pay attention to your breath for 5-10 seconds without thinking about anything else? Just focus on the sensation of the breath moving in and out of your body?
+
+Patient: I don't know... I'm not sure I follow how this is supposed to help, but okay, I'll try. Breathing in... breathing out... my chest feels a tiny bit less tight, but my mind's already pinging back to that model glitch and the things I should've done. I guess that felt a bit calmer—can we do another short one, or should we talk about why my head keeps jumping to work?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing great, and it's completely normal for your mind to bounce back. It sounds like your body is responding to the small pause, and that's a good sign. Let's do another tiny one. Can you just focus on your breath again, and this time, when your mind starts to wander to the model glitch, can you say to yourself, "Ah, my mind is wandering again"? No judgment, just a gentle acknowledgment?
+
+Patient: I don't know... okay, I'll try. Breathing in... breathing out... Ah, my mind's wandering again — "fix the model, check the logs." Saying that out loud pulled me back a bit, I guess, but my chest's still tight. Can we do one more short one? Or maybe talk about why my head always goes to work when I feel overwhelmed?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing great, and it's like you're developing a bit of self-awareness about your mental wandering. Saying "Ah, my mind is wandering again" was a helpful way to acknowledge the thought without getting caught up in it. Let's do one more tiny pause. Can you focus on your breath, and when you feel the thought "fix the model" come up, just say to yourself, "Not now"? No judgment, just a gentle reminder that you're not going to engage with that thought right now?
+
+Patient: I don't know... okay, I'll try. Breathing in... breathing out... Not now — "fix the model" — Not now. That pulled me back a little, but my chest's still tight and my thoughts keep pinging to the logs; can we do another short one or talk about why my head always jumps to work when I'm upset?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're really getting the hang of it. It sounds like you're making progress in acknowledging and pushing back against those thoughts. Let's try another tiny pause. Can you focus on your breath, and when you feel the thought "check the logs" come up, can you simply say to yourself, "Ah, my mind is going back to work"? No judgment, just a gentle acknowledgment of the thought's return?
+
+Patient: I don't know... okay, breathing in, breathing out. Ah, my mind's going back to work — "check the logs." Saying that pulled me back a bit, but my chest's still tight; can we talk about why my head always jumps to work when I'm upset? I guess it feels like the only thing I can control.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're recognizing that your mind tends to go to work as a way of trying to cope with emotions. The feeling that you're in control by focusing on work is an interesting one. Can you think of what might happen if, instead of trying to control your emotions through work, you actually allowed yourself to feel and be with those emotions, even if it feels scary or uncomfortable?
+
+Patient: I don't know... I guess maybe if I let myself feel it it could ease a bit, like you said, but I'm terrified it'll just flood me and I'll stop being any use to my partner. My first instinct is to dive into something fixable — the model, the logs — because that's where I feel in control. How would letting it sit actually help me in a practical way without messing up my ability to keep things together?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're worried that allowing yourself to feel your emotions will make you less functional or less capable in your work. That's a common fear. Let's explore this a bit more. What if, instead of trying to control everything, you could actually use those feelings as a signal to take a break and prioritize your own needs? For example, taking a few minutes to acknowledge your emotions and then coming back to work when you feel more centered. How might that look in practical terms?
+
+Patient: I don't know... I guess maybe practically it could be tiny things — a two- or five-minute breather when the chest tightens, setting a short alarm to remind me to pause, or a quick walk around the block before I plunge back into work. But I'm worried it'll look like I'm slacking or fragile at work, and that my partner will see it as me not holding up my end. Can we talk about small steps that feel safe and won't make me look weak or mess up my responsibilities?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're concerned about how others might perceive your actions. Let's focus on your own experience and what feels safe for you. Can you think of a small, private moment where you could pause and take a few deep breaths without feeling like you're abandoning your responsibilities or being seen as weak? For example, when you're alone in a quiet room, or during a break, or even when you're getting ready for the day? What would it be for you?
+
+Patient: I don't know... maybe in the bathroom at work for a minute, or sitting in the car for a couple of breaths before I go inside, or when I'm making tea in the morning. I could set a 2–3 minute alarm or use a coffee break to do a tiny pause. I guess this all feels a bit awkward and I'm worried it'll seem like I'm slacking or fragile, so I keep wanting to rush past it.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those are all good examples of small, private moments where you could take a brief pause. It's understandable that you're worried about being seen as fragile or slacking, though. Let's try to reframe that worry a bit. What if, instead of seeing those moments as a sign of weakness, you saw them as a sign of self-care and responsibility? You're recognizing your own needs and taking a few minutes to take care of yourself, which actually makes you a more capable and resilient person in the long run. Can you think of a time when you felt most proud of yourself, doing something that was difficult or vulnerable?
+
+Patient: I don't know... I guess maybe once I owned up to my team that I’d messed up a project and stayed late to fix it — it was awkward admitting I’d screwed up, but they respected me for being honest. It felt vulnerable but also kind of proud, like I wasn’t collapsing under pressure. Sorry, I keep wanting to switch to the model glitches — why do I always go back to work when I'm upset?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a great example of taking responsibility and being honest, even when it's uncomfortable. It's like you're saying, "I'm human, I made a mistake, but I'll own it and fix it." That takes a lot of courage. As for why you keep going back to work when you're upset, can you think about what might be driving that? Is it a fear of being overwhelmed, or is there something else at play? Maybe we can explore that together.
+
+Patient: I don't know... I guess it's that work is the one place I can actually do something and see results, so it feels safer than sitting with the mess of feelings. I'm scared if I stop I'll fall apart or my partner will see me as weak, so I just dive into the next bug to avoid it. Sorry, I'm getting distracted — why does that pull you toward asking more about it?
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like work provides a sense of control and accomplishment, which is comforting when you're feeling overwhelmed. And it's like you're trying to avoid the uncertainty and potential vulnerability that comes with processing your emotions. I'm not trying to pry or push you to explore it more, but rather to understand what's driving this pattern. It's like your mind is trying to protect you from feeling the discomfort of emotional pain. I'm curious because, as your therapist, I want to help you find ways to address those feelings in a healthier way. Would you be willing to explore this further, just for a little bit, to see if we can find a way to make it feel less overwhelming?
+
+Patient: I don't know... I guess I can try to explore it a little, but I'm not sure how that'll help — already feel that tight, shame-y heat in my chest and it makes me snappy. My mind's pinging to the model and that stupid failure keeps nagging me, so can we keep it really short? I don't want to fall apart or make my partner worry, and talking about this just makes me uneasy.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like exploring this further might feel a bit too intense right now. I completely understand. Let's just take a tiny step back. Can you just acknowledge the physical sensations in your chest, without trying to label them or judge them? Just notice the tightness, the heat, and see if that's enough for now?
+
+Patient: I don't know... okay. My chest's tight and hot, my breathing's shallow, and there's this shame-y heat that makes me feel frustrated and a bit snappy. Noticing it helps a little, I guess, but it's still loud in my head — can we do another really short breath or jump to one practical thing I can do at work when this hits?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're noticing the sensations, and that's a good start. Let's do a tiny pause, just 1-2 breaths. Can you focus on your breath, and when you're ready, we can talk about practical strategies for managing this at work.
+
+Patient: I don't know... okay, breathing in, breathing out — that actually helped a little, my chest's a touch less tight. I guess can you give me one or two really short, private things I can do at work when that shame and the urge to fix something grabs me — things that won't make me look weak or like I'm slacking? I'm already half thinking about the logs, so keep it super simple.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Glad the brief pause helped a bit. Here are two tiny, private strategies for you to try at work: 
+
+1. Take a quick walk to a different room or desk, even if it's just for 30 seconds.
+2. Write down the thought "I need a minute" on a sticky note and put it on your desk, then take that minute to pause and breathe.
+
+These are small, non-negotiable breaks that don't require anyone's attention, and can help you collect yourself. Try one of these and see how it goes.
+
+Patient: I don't know... I guess I can try the quick walk — that feels doable. But I'm worried someone will notice and think I'm slacking, and my head's already pinging back to the logs. Could we tweak it to something more private, like a 30-second stairwell or bathroom break, and how do I quiet the "fix the model" voice while I'm gone?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's tweak the strategy to make it even more private. Instead of a walk, how about taking a 30-second break in the bathroom, where you can step away from your desk and close the door? That's a more secluded spot. As for quieting the "fix the model" voice, can you try simply acknowledging it, without engaging with it? You could say to yourself, "Ah, my mind is still on the model" or "Okay, I see the thought, but I'm not going to engage with it right now". Just notice the thought, and let it go, without trying to change it or fix it.
+
+Patient: I don't know... I guess I can try the bathroom break — that feels private enough, but I'm still worried someone will think I'm slacking. Saying "Ah, my mind's on the model" might help a bit, but that shame-heat from that screw-up keeps making the voice louder and I have trouble letting it go. Can you give me one really short, private phrase I can say to myself in the stall to quiet it down? I'm feeling a bit uneasy, so can we keep it brief.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's focus on a simple phrase to help quiet the "fix the model" voice. Can you try saying to yourself: "Enough". Just say it quietly to yourself in the stall, and see if that helps to calm the voice down a bit.
+
+Patient: I don't know... I tried saying "Enough" quietly in my head and it felt blunt — it made me more annoyed at myself and that shame-heat didn't go away. Maybe something softer? Like "I can breathe" or "This will pass" — can you give me one really short, not-stupid-sounding phrase I can actually say without feeling worse? I'm already a bit on edge and my head's pinging to the logs, so keep it really short.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those phrases can be a bit too gentle, and might not be enough to cut through the intensity of the shame-heat. Can you try saying to yourself: "I'm here"? Just a simple acknowledgement that you are present, and that you're taking a break. Say it softly to yourself, and see if that helps to calm the space around you.
+
+Patient: I don't know... saying "I'm here" felt a bit dumb but it actually cooled the shame-heat a notch. That annoying shame is still buzzing and my head's already dragging me back to the logs. Can we try one more really short, not-cheesy phrase I can use, or a quick line I can tell my partner so they don't worry when I take these tiny breaks?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're getting close to a phrase that works for you. How about: "Taking a pause"? It's simple, neutral, and lets you take a break without feeling like you're saying "I'm not doing my job". You can use it with your partner to let them know you need a moment to collect yourself, and it's a straightforward way to communicate your needs.
+
+Patient: I don't know... "Taking a pause" actually feels less dumb, I guess — calmer than "I'm here." But that screw-up keeps nagging at me and my head's already pinging to the logs. Can you give me one really short line I can say to my partner so they don't worry (like a text or quick phrase)? And one more private phrase I can use in the stall that's not blunt or cheesy? I'm feeling a bit uneasy about this.

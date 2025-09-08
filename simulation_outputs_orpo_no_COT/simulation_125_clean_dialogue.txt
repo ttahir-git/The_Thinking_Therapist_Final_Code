@@ -1,0 +1,101 @@
+Patient: Hi, I'm a senior data scientist, and lately I've been feeling really overwhelmed by sadness and a lack of motivation since I lost a loved one. It's started to mess with my relationship — I get distant and then feel guilty, and I don't know how to show up for people. I guess I'm just... I don't know, it's hard to even talk about.
+
+Therapist: It sounds like the weight of those feelings is making it hard for you to connect with others, even when that matters to you. When you say "I don't know how to show up for people," what would happen if, just for a moment, you tried to be present with someone *even though* that sadness and overwhelm were there?
+
+Patient: I don't know. I guess if I tried to be present I'd be there physically but my head would be somewhere else, replaying things and zoning out. I might blurt out that I'm having a hard time and then worry I'm dragging them down, so I end up pulling back.
+
+Therapist: It sounds like being present with others feels like it's tied to being able to manage that painful feeling. When you imagine being physically there for someone, but your head is elsewhere, what would it be like if you just *allowed* that feeling to be there, without trying to push it away or fix it?
+
+Patient: I don't know. I guess if I let it be there it'd feel really heavy and maybe I'd start crying and then feel like I've ruined the moment, so I usually try to steer away. Honestly, I get distracted — I'll start talking about a work thing or some random dataset instead because it's less... messy.
+
+Therapist: The heaviness of that feeling is strong enough that you'd rather shift to something else. It's like your mind is saying, "Okay, that's too hard, I'll just focus on something else." What if, instead of trying to avoid the heaviness, you could notice it *while* you were talking about work or the dataset?
+
+Patient: I don't know. I guess if I tried to notice it while talking about work it'd feel awkward, like I'm faking being engaged, so I'd probably make a joke or drift into a dataset instead. Maybe I could say I'm a bit distracted, but I worry that would just make things weird and I'd end up pulling away anyway.
+
+Therapist: It sounds like the fear of being "weird" or "faking it" is strong enough to make you avoid being present altogether. When you say you might say you're a bit distracted, what would happen if you actually *did* say that, and then *just* noticed what it was like to be present while you said it?
+
+Patient: I don't know. I guess if I actually said I was distracted I'd feel exposed and worry they'd get uncomfortable, so I'd probably make a joke or pivot to a work story. I could try noticing the feeling while saying it, but I'm not sure I could hold it—my brain would probably leap to some dataset or something to fill the silence.
+
+Therapist: It sounds like the fear of being exposed is really close to the surface. What if, instead of trying to "hold" the feeling, you could just *allow* it to be there for a tiny moment, while you said "I'm a bit distracted"?
+
+Patient: I don't know. I guess if I said "I'm a bit distracted" and let the feeling sit for a second I'd feel exposed — my voice would get shaky and I'd want to laugh it off. I'd probably dodge with a joke about some dataset or change the subject because that's easier, but I'm trying to see how this connects to my problem and I'm struggling.
+
+Therapist: It sounds like you're already noticing what matters—connecting with others and feeling exposed—that's driving your behavior. What if, instead of avoiding that feeling with jokes or changing the subject, you could make room for it just enough to notice what matters most about showing up for this person?
+
+Patient: I don't know. I guess what matters most is not disappearing — like actually staying in the room and not retreating into work or a joke. But I'm scared if I let it show they'll get uncomfortable or I'll end up crying and ruin things, so I dodge. Maybe I could try saying "I'm distracted" and just pausing, but I don't know if I could hold that.
+
+Therapist: It sounds like staying with them matters more than the fear of what might happen if you let your feeling show. When you say "I'm distracted," what would happen if, instead of trying to hold the feeling, you just *paused* for a moment, without doing anything else?
+
+Patient: I don't know. I guess if I paused it'd feel like my stomach dropped and my chest got tight, and I'd probably get shaky and immediately make a joke about some dataset to fill the silence. I want to try, but I'm not sure I could stop myself from changing the subject.
+
+Therapist: It sounds like the pause feels really uncomfortable, and you're worried that's all you could manage. What if, instead of trying to fill the silence with a joke, you could *just notice* the feeling of your stomach dropping and your chest getting tight, right there in the pause?
+
+Patient: I don't know. I guess if I tried to notice it for a few seconds my chest would get tight and I'd probably laugh or make a joke about a dataset to cover it. I'm trying, but it's getting kind of overwhelming—can we slow down?
+
+Therapist: It sounds like the feeling is getting too big. Let's take a step back. Before we try to notice the feeling while saying "I'm distracted," what would it mean for you to just make room for it *while you were already talking* about work or a dataset? Not noticing it, but just being present with what you were saying.
+
+Patient: I don't know. I guess it would mean I'm still talking about the dataset but there's this tightness in my chest like a background noise, and I might keep answering but my head's not really there. It's getting a bit overwhelming—can we slow down?
+
+Therapist: That makes sense. The tightness is like a steady hum, and it's not letting you fully connect with what you're saying. Can you take one more small step with that tightness, not to try to make it go away, but just to notice it as you're already talking about the dataset?
+
+Patient: I don't know. I guess if I tried to notice it while talking I'd keep yammering about the dataset — like pointing out weird outliers — and that tightness would be this dull hum under everything. My voice would speed up and I'd probably crack a joke to cover it. I'm getting overwhelmed — can we slow down?
+
+Therapist: It sounds like noticing the tightness while talking about the dataset is getting too caught up in trying to fix it. Let's try something different. What would happen to the tightness if you didn't try to do anything about it, while you were already talking about the dataset?
+
+Patient: I don't know. I guess it'd just hang around like a dull pressure and I'd talk faster about the outliers to drown it out. Honestly, I hate that it makes me feel fake—can we slow down?
+
+Therapist: It sounds like the tightness is connected to feeling like you're not being genuine when you're talking about the dataset. When you notice that feeling of fakeness, what happens *before* you start talking about the outliers?
+
+Patient: I don't know. I guess right before I dive into the outliers there's this little jolt of panic and my brain races for something safe to talk about. Then I feel exposed and awkward, so I latch onto the dataset because it's predictable and I can hide behind it.
+
+Therapist: It sounds like that jolt of panic is a warning sign that you're stepping back from being present with what matters – connecting with others. When you notice that panic, what's the one thing that *really* matters to you about staying with them, even if it feels scary?
+
+Patient: I guess the one thing that really matters is not disappearing — just staying in the room so they know I'm still here and that we're still a thing. But I don't know, I'm terrified that if I let them see how tangled I am they'll get uncomfortable or start pulling away, so I end up blathering about a dataset instead. I'm trying to say this but it's hard—can we slow down?
+
+Therapist: It sounds like staying present with them matters more than the fear of what might happen if you let your feelings show. When you notice that panic and the urge to hide behind the dataset, what would it take for you to just *notice* that feeling – not to try to change it, but just to be with it – while you're already taking that small step to stay in the room with them?
+
+Patient: I don't know. I guess it'd take a really small, obvious permission — like them saying "it's okay, take a breath" — or me saying "I'm distracted" and actually pausing for one shaky breath. But honestly I'd probably still scramble for a joke or dive into a dataset to fill it, because I hate feeling exposed. I'm getting overwhelmed—can we slow down?
+
+Therapist: It sounds like having a small, tangible permission – like a verbal cue – would help you stay present with that feeling. When you notice that panic and the urge to hide, what's the one thing you could do *with* that feeling, not despite it?
+
+Patient: I don't know. I guess I could try naming it—like saying "I'm panicking" or "I'm distracted"—and just take one breath and stay in the room instead of diving into a dataset. But honestly I'd probably still crack a joke to cover it because I hate feeling exposed, and I'm getting kind of overwhelmed—can we slow down?
+
+Therapist: It sounds like naming that feeling might be a tiny step towards staying present. When you notice the panic and the urge to hide, what would happen if, instead of trying to cover it with a joke, you *just made room* for that feeling – even if it meant you didn't do anything else?
+
+Patient: I don't know. I guess if I tried to just make room for it it'd feel like a weight in my chest and I'd get shaky or start laughing or telling a stupid dataset joke to hide it. Maybe if I could stay even one shaky breath they'd know I'm still here, but I'm really overwhelmed—can we slow down?
+
+Therapist: It sounds like making room for that feeling feels like a big stretch. When you notice the weight in your chest and the urge to hide, what would happen if you *allowed* that feeling to be there, even if it felt scary – just for one moment?
+
+Patient: I don't know. I guess if I let it be there for a moment my chest would tighten, I might start to cry, and then I'd probably make a stupid dataset joke to cover it. I'm trying to stay with it but it's getting kind of overwhelming—can we slow down?
+
+Therapist: It sounds like letting that feeling be there for a moment feels really hard. When you notice your chest tightening and the urge to cry, what would happen if you just *gave yourself permission* to feel that way – not to change it, but just to be with it – while you were still saying "I'm here" to the person?
+
+Patient: I don't know. I guess if I actually gave myself permission I'd probably start crying — my voice would get shaky and I'd panic that I'd ruin the moment, so I'd scramble for a joke or drift into a dataset to cover it. Maybe I could manage saying "I'm here" once, but I'd be terrified they'd get uncomfortable or pull away. I'm getting overwhelmed — can we slow down?
+
+Therapist: It sounds like the fear of what might happen if you let yourself feel that way is really holding you back. What would it mean for you to *just say "I'm here" once*, not to try to fix it or change it, but just to be with the person in that moment?
+
+Patient: I don't know. I guess it would mean I'm actually staying there — like they’d hear me and know I’m still present even if I’m a mess. But I'm scared I'd blurt it out, start crying, and then make some stupid dataset joke to cover it — I'm getting overwhelmed, can we slow down?
+
+Therapist: It sounds like the fear of being a "mess" is really strong. What would happen if you could see that being a "mess" was actually what was needed to stay present with the person – not to impress them, but just to be with them while you were still struggling?
+
+Patient: I don't know. I guess if being a mess was what it took, it would mean I'm actually honest with them instead of disappearing — like they’d really know I'm here. But I'm terrified they'd pull away or get awkward, so I'd probably laugh it off or start talking about some dataset to cover it. I'm getting a bit overwhelmed—can we slow down?
+
+Therapist: It sounds like the fear of being honest and staying present is really tied to the fear of what might happen if the other person pulls away. What would it be like for you to be honest and stay present *not* because you're worried about what the other person might do, but because you actually want to be with them in that moment?
+
+Patient: I don't know. I guess if I was honest because I actually wanted to be with them it'd feel naked and scary but maybe also less lonely — like we'd actually be together instead of me hiding. But I'm terrified they'd pull away, so I'd probably stammer "I'm here" and then crack a stupid dataset joke to cover it; I'm getting overwhelmed — can we slow down?
+
+Therapist: It sounds like the possibility of being honest and present because you want to be with them is what matters most – even if it feels scary. What would it be like for you to try saying "I'm here" without trying to cover it with a joke, just for one moment, to see what happens?
+
+Patient: I don't know. I guess if I actually said "I'm here" without a joke it'd feel raw and shaky — I might start crying and then panic that I've ruined things, though maybe they'd just reach out and it'd feel less lonely. I'm getting overwhelmed—can we slow down?
+
+Therapist: It sounds like the possibility of being raw and shaky, and maybe even crying, is what's making it hard for you to try saying "I'm here" without a joke. What if, instead of trying to avoid that feeling, you could *allow* it to be there for just a tiny moment – not to change it, but just to see what happens when you say "I'm here" without a joke?
+
+Patient: I don't know. I guess if I let it sit and actually said "I'm here" without a joke it'd feel unbearably raw — my voice would shake, maybe I'd cry, and then I'd panic and scramble for a dataset joke to cover it. I'm trying, but I'm getting overwhelmed—can we slow down?
+
+Therapist: It sounds like the thought of being raw and shaking, and then scrambling to cover it, is what's making it hard for you to even try saying "I'm here" without a joke. What if, instead of trying to avoid that feeling, you could *notice* that it's already showing up, even if it feels unbearable – and then *just pause* for one tiny moment before trying to say something else?
+
+Patient: I don't know. I guess if I actually noticed it and paused for one breath my chest would tighten and I'd probably laugh or make some stupid dataset joke to cover it. I want to try, but I'm getting really overwhelmed—can we slow down?
+
+Therapist: It sounds like noticing your chest tightening and wanting to laugh or joke is already happening, even before you try to say anything. What if, instead of trying to push it away or make it go away, you could *just lean into* that feeling for one tiny moment – not to change it, but just to see what it would be like if you didn't try to fix it?
+
+Patient: I don't know. I guess if I actually leaned into it for a moment my chest would clamp up, I'd feel ridiculous and probably start to cry or laugh to cover it, and my brain would reach for a dataset joke to bail me out. Maybe I could try holding it for one shaky breath, but I'm really overwhelmed—can we slow down?

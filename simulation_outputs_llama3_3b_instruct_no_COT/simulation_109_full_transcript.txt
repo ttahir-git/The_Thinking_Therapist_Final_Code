@@ -1,0 +1,255 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm a 68-year-old software developer and lately I can't stop worrying about my performance at work — I picture one missed deadline turning into production crashes, the client cancelling contracts, the company downsizing and me being the first to go. Because I always see that chain of disaster, I end up procrastinating instead of fixing anything. It feels like my brain is a fortune-telling machine that only predicts the worst, and I can't make it stop.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That sounds like a really tough spot to be in. Can you think of a moment, no matter how small, when your brain might have stopped predicting the worst-case scenario and allowed you to focus on the present moment at work?
+
+Patient: Yeah — I can think of one afternoon last week when I was fixing a tiny logging bug and, for like ten minutes, I was actually focused and I felt proud that the tests passed. But then my brain dove right back in and pictured that fix triggering a subtle race condition that blows up in production at 3 a.m., customers suing, the company folding, and me completely ruined. Any suggestion that it might just stay fixed or that nobody will notice feels like naive wishful thinking — I can't make myself believe those calmer endings.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+So, the feeling of being fully focused and productive was short-lived, and your brain quickly jumped back into worst-case scenario mode. That can be really discouraging. It sounds like you're noticing a pattern here. What would happen if, for just one more moment, you tried to pause on that first feeling of being proud and focused, before your mind started spiraling into the disaster thoughts?
+
+Patient: If I try to pause, I can sometimes hold that proud, focused feeling for maybe thirty seconds. But almost immediately my brain yells that it's a trap — that tiny win is exactly when a hidden bug will slip into production, cause outages at 3 a.m., clients will drop us, the company will fold and I'll be ruined. I know it sounds extreme, but I can't help believing those stories, and then I freeze and procrastinate more and feel worse. I'm trying to see how this connects to my problem, but I'm struggling.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your brain is very good at generating worst-case scenarios. That can be really tough to catch onto. Would it be helpful for you to acknowledge the fact that those stories, even if they feel true, are just stories – and not necessarily reflections of reality?
+
+Patient: I wish it did, but no — telling myself they're just stories doesn't actually quiet them. My brain immediately launches into the whole movie — midnight outage, customers suing, layoffs, me blamed — so “it's just a story” feels naive and useless, and I get more frustrated and freeze instead of doing anything.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those stories can feel very real. Let's try something a bit different. Instead of trying to change your thoughts, can you try noticing, without judgment, what's happening in your body when you feel that sense of certainty about the worst-case scenarios? What physical sensations do you experience, and where in your body do you feel them?
+
+Patient: My chest clamps up and my stomach drops into a cold pit, like my guts are trying to run away; there’s a buzzing behind my eyes and my hands go clammy and a little shaky. My shoulders hunch, breathing gets shallow, and my muscles feel locked so I either want to bolt and "fix" everything frantically or I freeze and can't type a single line. When that happens it feels like proof the disaster is real, which only tightens everything more.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your body is really reacting to those thoughts, and it sounds like it's creating a sense of physical constriction and tension. Can you imagine, right now, taking a slow, deep breath in through your nose, and out through your mouth, and allowing your body to release just a tiny bit of that tension, without trying to change or fix anything?
+
+Patient: Okay — I try. I take a slow breath and for a few seconds my chest loosens and the buzzing behind my eyes eases like I might actually be able to type. But then my brain yells that this calm is a trap—that if I relax a bit a hidden bug will sneak into production at 3 a.m., customers will sue, layoffs will happen, and I'm ruined—and everything tightens up again. I'm feeling a bit overwhelmed with all this. Can we slow down?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're catching onto the pattern again. Would you be willing to take just one more tiny step back, and before you try to do anything about those worst-case scenarios, can you simply acknowledge the fact that you're feeling overwhelmed, and that it's okay to feel that way?
+
+Patient: Okay — I'm overwhelmed, my chest is tight and my head's racing, and I can say out loud that it's okay to feel that way even if it doesn't make the movie stop. The problem is as soon as I let that be true my brain screams that relaxing is a trap — the bug will slip through, production will crash at 3 a.m., clients will sue, layoffs, me ruined — and I freeze again. Can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're stuck in a loop. One moment you acknowledge your feelings, and the next, your brain jumps back in with the worst-case scenarios. Can you think of a tiny, tiny thing you could do, just this once, to break that loop? Something small, like typing a single word on your keyboard, or opening a file, or making a small move towards fixing that bug?
+
+Patient: Alright — I can try something tiny: I'll open the file and type a single letter, maybe just "x". But my brain's already screaming that'll be the exact keystroke that introduces a hidden race condition, which explodes at 3 a.m., customers sue, layoffs happen and I'm ruined, so I'm frozen and my hands are shaking. I'm feeling overwhelmed — can we slow down and stay with this for a moment?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is already imagining the worst, even before you make that tiny move. Would you be willing to just notice, without judgment, what's happening in that moment when you're frozen, before you react to the worst-case scenario? Can you observe the sensation of your hands shaking, the feeling of overwhelm, and just be with that, without trying to change it or fix it?
+
+Patient: I'm not sure I follow — how is that supposed to help? When I'm frozen my hands are shaking, my chest clamps, and my mind immediately starts the movie — one keystroke, race condition, outage at 3 a.m., clients sue, layoffs, me ruined — so it feels impossible to just "observe" without being pulled into the panic. I know that sounds stubborn, but sitting with it feels naive and like I'm letting the trap happen; I'm feeling overwhelmed — can we slow down?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're feeling stuck in a vicious cycle, and it's hard to break free. Let's try something different. Instead of focusing on what your brain is saying, can you focus on your breath, just for a moment? Take a deep breath in, and as you exhale, allow your gaze to gently come to rest on the physical sensations in your body – the shaking hands, the clamping chest – without trying to change them or react to them.
+
+Patient: I'm not sure I follow — how is breathing supposed to stop the movie? Okay, I try: a slow breath in and out and for a few seconds my chest loosens and the shaking eases and I actually feel like I could type. But almost immediately my brain yells that this calm is a trap — that letting up means a keystroke will slip in a race condition, blow up at 3 a.m., customers sue, layoffs, me ruined — and I'm frozen again. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're experiencing a brief moment of calm, but your brain immediately jumps back in. Let's try to explore this further. Can you think of a time when, in the past, you took a risk or faced a challenging situation, and it didn't lead to the worst-case scenario that you'd imagined? What happened instead?
+
+Patient: Yeah — there was one time about five years ago when I pushed a big feature and nothing blew up, clients even praised it and the team celebrated. But I can't take that as proof — my brain says that was just fluke luck, and next time a hidden bug will explode at 3 a.m., customers will sue, the company will downsize and I'll be first on the chopping block. Even when things go okay, that story grabs me and I freeze instead of moving, and I'm feeling overwhelmed — can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're caught in a cycle of always expecting the worst, even when things seem to be going well. Would you be willing to look at that five-year-old experience again, and this time, try to notice what values or hopes were connected to that moment of celebrating and the team's praise? What was it about that experience that felt valuable or meaningful to you?
+
+Patient: When I think back, what felt valuable was that surge of competence — like I could still ship something useful, that my work mattered, and I belonged to the team. It made me proud and reminded me I wasn't obsolete. But the moment I try to lean on that memory my brain yells it's a setup — next release will sneak in a fatal bug, customers will sue, layoffs, me ruined — so I can't make that pride stick. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is trying to protect you from getting hurt again, but in doing so, it's also taking away the good feelings and the sense of pride you got from that experience. Can you think of what would need to be true for you to feel that sense of competence and pride again, right now, in this moment, even if it feels scary or uncertain?
+
+Patient: I guess I'd need ironclad proof — exhaustive tests that catch every race condition, a senior engineer to sign off and take responsibility, a staging environment that's an exact mirror of production, and a manager promising I won't be blamed if anything goes wrong. But that sounds impossible to me — my brain immediately says even then a hidden bug will explode at 3 a.m., customers will sue, layoffs, me ruined — so I can't let the pride stick. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're thinking about all the things that need to go right in order to feel safe and confident, and that's creating a kind of paralysis. Can you think of what would happen if, instead of focusing on all the things that need to go right, you simply allowed yourself to be in the present moment, without trying to control or guarantee anything? What would that feel like, even if it feels scary or uncertain?
+
+Patient: If I try to be present, for a few seconds it feels lighter — shoulders drop, breathing steadies, I actually imagine typing without panic. But my brain immediately screams that's a trap: relax now, and that exact calm moment is when a hidden bug sneaks into code, it blows up at 3 a.m., clients sue, layoffs happen, I'm ruined — so I can't trust staying present. It feels terrifying, like letting go is setting a time bomb, and honestly I'm not sure I follow how sitting with that would help. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is trying to use the very act of being present as proof that you're not being responsible, that you're somehow avoiding the problems. Would you be willing to try a small experiment: instead of trying to control the outcome, or be present in a way that feels safe, let's try to see what would happen if you simply allowed yourself to be with the uncertainty, without judgment or trying to change it? Can you try to observe the experience of uncertainty, without trying to push it away or solve it?
+
+Patient: I'm not sure I follow—how do you want me to "observe" the uncertainty without it turning into that whole disaster movie my brain keeps playing? I'll try: I notice the tightness in my chest and the buzzing behind my eyes, but almost immediately the fortune-telling kicks in—one tiny slip, a 3 a.m. outage, customers suing, layoffs, me ruined—and I freeze. I'm feeling overwhelmed; can we slow down and stay with this for a moment?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is always on the lookout for a trigger to launch the worst-case scenario, and observing the uncertainty is just too vulnerable for you. Can you try to find a small, tiny, tiny anchor for yourself in this moment, something that's not judgmental, not trying to change, not trying to control, but just... existing? For example, can you focus on the sensation of your feet on the chair, or the sensation of the air on your skin, or the sensation of your breath moving in and out?
+
+Patient: I'm not sure I follow—how's focusing on my feet supposed to help? Okay, trying it: my feet feel planted and the floor's cool, the air brushes my wrists, and for a beat my chest eases. Then my fortune-telling brain screams that this calm is a setup—a keystroke will cause a race condition, a 3 a.m. outage, customers suing, layoffs, me ruined—and I freeze. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're still getting caught up in the worst-case scenario, even when you're trying to focus on something physical. Let's try to look at this in a different way. What if, instead of trying to "stop" your thoughts or control the outcome, what if you simply allowed yourself to be with the feeling of overwhelm, without trying to change it? Can you try to feel the overwhelm, without judgment, without trying to push it away or solve it? Just be with it, like you are now, with your feet and the sensation of the air on your skin.
+
+Patient: I'm not sure I follow—how is just "being with" the overwhelm supposed to help when my brain treats that like sitting on a ticking bomb? I try to notice the tightness and the buzzing for a few breaths and it loosens for a second, then the fortune-telling kicks in: one little lapse, a race condition at 3 a.m., customers suing, layoffs, me ruined. It feels pointless to just "be" when being still feels exactly like inviting the disaster. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're seeing being with the overwhelm as a form of invitation to the disaster, rather than a way to break free from it. Let's try to look at this in a different way. Can you think of a moment, in the past, when you were in a situation where you felt completely out of control, and yet, you were able to survive or even find a way to move forward? What was that moment like, and what, if anything, was different about it that might help you approach this situation differently now?
+
+Patient: Yeah — there was one time maybe ten years ago when a CI pipeline blew up right before a big release and everything felt out of control: I stayed up, rallied the team on a video call, we rolled back, patched the issue, and the clients barely noticed — we even got kudos for how we handled it. But I can't use that as proof — my brain says that was fluke luck and next time one tiny slip will cause a 3 a.m. outage, customers suing, layoffs, me ruined. I'm not sure I follow—how is remembering that supposed to help? I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're trying to use the past as a way to calm your fears, but your brain is still conjuring up the worst-case scenario. Let's try to look at this in a different way. Can you think of what you valued or needed to feel in that moment, in the past, when the CI pipeline blew up and the team was able to recover? What was it about that moment that made it feel like it was okay, or even okay-ish?
+
+Patient: What mattered was that people showed up — teammates jumped on the call, someone owned the problem, we had a rollback and a plan, and I felt competent and useful in the moment. But the instant I try to lean on that memory my brain yells that was just luck — next time the rollback fails, a subtle race condition sneaks in at 3 a.m., customers sue, layoffs happen, I'm ruined — and I freeze. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're trying to connect with the feeling of competence and usefulness in that moment, but your brain is still trying to pull the rug out from under you. Can you think of what would need to be true, for you to feel that sense of competence and usefulness now, in this moment, even if it feels scary or uncertain? What would you need to be feeling, or thinking, or experiencing, in order to hold onto that sense of confidence?
+
+Patient: I'd need concrete, show-me-the-proof stuff — exhaustive tests that catch race conditions, a senior to sign off and take responsibility, a mirror staging env, and a solid rollback/incident owner ready to jump in. But even if I had all that my mind screams a hidden bug will still sneak through at 3 a.m., customers will sue, layoffs happen and I'm ruined, so I can't actually feel confident. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're looking for a sense of security, a sense of being prepared and in control, but your brain is still trying to take that away from you. Let's try to look at this in a different way. Can you think of a moment, in the past, where you took a risk, and it didn't lead to the disaster that you feared? But instead, something unexpected happened, and it was actually positive? What was that experience like?
+
+Patient: Yeah — once I rolled out a risky refactor ahead of a demo and instead of exploding it cut latency in half, the demo went great and folks actually cheered. But my brain immediately says that was just fluke luck — next time that exact change will sneak in a subtle race condition that blows up at 3 a.m., clients will sue, the company will downsize and I'll be the first to go. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're caught in a cycle of trying to balance the need for control and security with the need to take risks and try new things. Can you think of what would need to be true, for you to be able to take a small, calculated risk, without your brain jumping to worst-case scenarios? What would you need to be feeling, or thinking, or experiencing, in order to be able to trust that you can handle the outcome?
+
+Patient: I'd need ironclad proof: exhaustive tests that catch every race condition, a senior engineer to sign off and take responsibility, a staging environment that's an exact mirror of production, an automatic rollback and incident owner on standby, and my manager promising I won't be blamed. But the minute I picture that, my brain yells that even with all that a hidden bug will still slip through, it'll explode at 3 a.m., customers will sue, the company will downsize and I'll be first to go. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you need a kind of "firewall" to protect yourself from all the potential risks, but your brain is still trying to find a way in. Can you think of what would happen, if, instead of trying to build a firewall, you were to let go of the need to control the outcome? What would that feel like, and what might be possible if you were to approach this situation with a sense of curiosity, rather than fear?
+
+Patient: If I tried to let go of control it would feel like loosening my grip on a live grenade — terrifying. My brain instantly scripts it: that tiny slack is exactly when a subtle race condition slips into prod at 3 a.m., customers scream, lawsuits, the company folds, layoffs happen and I'm left ruined. The idea of approaching it with curiosity feels naive and like a setup — I can't make myself believe any calm outcome, so I just freeze and procrastinate more. I'm feeling overwhelmed; can we slow down and stay with this?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like letting go of control feels like it would be catastrophic to you, and that your brain is still trying to protect you from the potential harm. Let's try to explore this further. Can you think of a time when you felt safe enough to not try to control every detail, and yet, everything turned out okay? What was that like for you?
+
+Patient: Yeah — like that CI disaster a while back where we rolled back, patched it, and the team pulled an all-nighter and everything was alright; I actually felt calm and useful for once. But I can't hold onto that — my brain says that was fluke luck and next time a tiny race condition will sneak in at 3 a.m., production will explode, customers will sue, the company will fold and I'll be ruined. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting caught up in the idea that one "fluke" experience doesn't mean anything, and that the worst-case scenario is always lurking just beneath the surface. Can you think of what it would take for you to feel like that experience was more than just a fluke, and that you actually had a hand in making it turn out okay? What would you need to feel like you were able to contribute to the success, rather than just being lucky?
+
+Patient: I'd need to have done all the things — exhaustive tests, paired on the change, a staged deploy that mirrored prod, a named incident owner and rollback plan, and teammates and manager explicitly backing me — concrete steps I could point to and say, "I did this." But the minute I picture that my brain still screams it's not enough — one weird timing bug at 3 a.m., an outage, clients sue, layoffs, me ruined — so I can't convince myself I contributed rather than just got lucky. I'm feeling overwhelmed; can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're trying to externalize your sense of control and worth, by pointing to specific steps and checks, but your brain is still trying to undermine that by bringing up the possibility of a hidden bug. Can you think of what would need to be true for you to feel like those steps were not just about being safe, but also about being able to take risks and try new things, without the fear of catastrophic failure? What would you need to feel like you were actually capable of making things work, rather than just following a checklist?
+
+Patient: I guess I'd need real psychological safety — teammates and managers who say, "Try this, we'll back you if it fails," plus tiny scoped experiments, feature flags, incremental rollouts, thorough tests, a named incident owner and a rollback plan so it's not all on me. In my head I can list all that, but my fortune-teller immediately screams that even with all those safeties a weird timing bug will slip through at 3 a.m., it becomes a major outage, clients sue, the company folds and I'm ruined — so I can't let myself trust any of it. I'm feeling overwhelmed; can we slow down?

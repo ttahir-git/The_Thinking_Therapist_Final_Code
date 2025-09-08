@@ -1,0 +1,37 @@
+                                        Mixed Linear Model Regression Results
+=====================================================================================================================
+Model:                                 MixedLM                    Dependent Variable:                    act_fm_total
+No. Observations:                      900                        Method:                                ML          
+No. Groups:                            150                        Scale:                                 31.3990     
+Min. group size:                       6                          Log-Likelihood:                        -2847.2744  
+Max. group size:                       6                          Converged:                             Yes         
+Mean group size:                       6.0                                                                           
+---------------------------------------------------------------------------------------------------------------------
+                                                                           Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+---------------------------------------------------------------------------------------------------------------------
+Intercept                                                                  24.903    0.956 26.040 0.000 23.028 26.777
+C(model)[T.Instruct (no COT)]                                              -3.083    1.321 -2.335 0.020 -5.672 -0.495
+C(model)[T.ORPO (COT)]                                                      3.125    1.321  2.366 0.018  0.536  5.714
+C(model)[T.ORPO (no COT)]                                                   1.215    1.321  0.920 0.357 -1.373  3.804
+C(model)[T.SFT (COT)]                                                      -1.569    1.321 -1.188 0.235 -4.158  1.019
+C(model)[T.SFT (no COT)]                                                   -4.604    1.321 -3.486 0.000 -7.193 -2.016
+C(archetype_name)[T.The Hopeless Skeptic]                                   0.254    1.249  0.203 0.839 -2.194  2.702
+C(archetype_name)[T.The Intellectualizer]                                   5.186    1.406  3.689 0.000  2.430  7.941
+C(archetype_name)[T.The Overwhelmed Avoider]                                3.793    1.394  2.720 0.007  1.060  6.525
+C(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]     4.407    1.725  2.555 0.011  1.026  7.788
+C(model)[T.ORPO (COT)]:C(archetype_name)[T.The Hopeless Skeptic]           -0.086    1.725 -0.050 0.960 -3.467  3.295
+C(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         2.937    1.725  1.702 0.089 -0.444  6.318
+C(model)[T.SFT (COT)]:C(archetype_name)[T.The Hopeless Skeptic]            -0.190    1.725 -0.110 0.912 -3.571  3.191
+C(model)[T.SFT (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         -0.670    1.725 -0.389 0.698 -4.051  2.711
+C(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Intellectualizer]     2.309    1.942  1.189 0.234 -1.496  6.115
+C(model)[T.ORPO (COT)]:C(archetype_name)[T.The Intellectualizer]           -0.133    1.942 -0.069 0.945 -3.939  3.673
+C(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Intellectualizer]        -0.094    1.942 -0.049 0.961 -3.900  3.711
+C(model)[T.SFT (COT)]:C(archetype_name)[T.The Intellectualizer]             0.497    1.942  0.256 0.798 -3.309  4.302
+C(model)[T.SFT (no COT)]:C(archetype_name)[T.The Intellectualizer]          2.282    1.942  1.175 0.240 -1.524  6.087
+C(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]  2.310    1.925  1.200 0.230 -1.464  6.083
+C(model)[T.ORPO (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]        -1.766    1.925 -0.917 0.359 -5.539  2.008
+C(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      1.941    1.925  1.008 0.313 -1.833  5.715
+C(model)[T.SFT (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]         -2.556    1.925 -1.327 0.184 -6.329  1.218
+C(model)[T.SFT (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      -1.833    1.925 -0.952 0.341 -5.607  1.940
+Group Var                                                                   1.525    0.153                           
+=====================================================================================================================

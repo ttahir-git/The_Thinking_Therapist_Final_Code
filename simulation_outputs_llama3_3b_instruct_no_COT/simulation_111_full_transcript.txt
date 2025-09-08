@@ -1,0 +1,257 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: As an older software developer, I've been preoccupied with this persistent social anxiety—my cognitive apparatus seems to amplify tiny social cues into catastrophic narratives, so I avoid gatherings with friends even though I know, intellectually, they're safe. After a health scare earlier this year my hypervigilance intensified and my OCD rituals feel more entwined with anticipatory dread, though colleagues at work have been pragmatic and accommodating. I find myself intellectualizing and theorizing—mapping these sensations into systems of ruminative meta-cognition instead of actually sitting with the fear—so I'm curious why I default to analysis rather than feeling.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind can get stuck in a cycle of analyzing and trying to make sense of your anxiety, which might be keeping you from truly feeling and being present in social situations. Can you tell me more about what happens when you try to imagine yourself in a social situation and you notice your mind racing with catastrophic thoughts? What's the sensation like in your body when that happens?
+
+Patient: When I picture myself in a social setting my head fills with branching catastrophic scenarios—it's like a for-loop of what-ifs that keeps generating error states—and I start rehearsing dialogue and exit strategies as if debugging a brittle system. Physically there's a tightness in my chest, a queasy drop in my stomach, a buzz in my fingers, and my pulse climbs, which I tend to describe as the sympathetic "exception handler" kicking in. Instead of dwelling in the raw fear, I catalog and analyze those sensations—assign probabilities, trace antecedents, try to refactor the mental code—so I remain a step removed from actually feeling frightened.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind is really skilled at generating and analyzing potential worst-case scenarios, and you're using that analysis as a way to avoid feeling the raw fear that comes with being in those situations. Those physical sensations you described, like the tightness in your chest and the racing pulse, must be really uncomfortable for you. Can you think of a time when you might feel more connected to your body and less caught up in that analytical mind, even if it's just for a moment?
+
+Patient: Yeah — there was one afternoon a few weeks ago when I took a slow walk along the river after lunch; the cadence of my steps and the ambient noise seemed to dampen that recursive for-loop of what-ifs. My breathing slowed and the chest tightness loosened, though I immediately started hypothesizing whether it was rhythm, sensory grounding, or just temporary respite from cortisol. I can more easily get into that embodied space during repetitive, low-stakes things or when a colleague offers a small, genuine kindness, but I usually yank myself back into analysis pretty quickly.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're starting to notice a small crack in the armor of your analytical mind, where you can temporarily step back and feel a sense of calm and connection to your body. The fact that you can recognize the sensations that led to that feeling of calm, even if you immediately start analyzing them, suggests that you might be developing a sense of curiosity about those sensations. What would it be like if, instead of immediately trying to analyze the factors that led to that calm, you simply allowed yourself to sit with the feeling of calm for a little while, without judgment or questioning?
+
+Patient: If I actually tried that, it would feel oddly alien—like pausing a debugger and not inspecting the stack trace. I can imagine a loosening in my chest and a quiet, warm stillness, but my reflex is to label and dissect it right away, which yanks me out of the moment. It's frustrating because I want to just be with it, and instead I get anxious that I'm "doing it wrong" and start building frameworks to explain the calm rather than inhabiting it.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're familiar with the experience of feeling like you're on the verge of letting go of your analytical mind, but then your reflex is to pull back and try to make sense of it. That must feel quite frustrating, especially when you're trying to be present with your body. Can you think of a specific phrase or thought that keeps running through your mind when you try to pause and simply be with the calm feeling, something that triggers you to pull back into analysis?
+
+Patient: Usually it starts with, "Is this real or a false positive? What's the causal chain here?" — and that thought instantly flips me into diagnostic mode, enumerating variables and exit strategies as if the calm were a bug to be fixed. I'm aware it's a defensive reflex, but I can't seem to let the feeling exist without turning it into a hypothesis.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like that phrase has become a kind of mental "firewall" that you use to protect yourself from feeling the calm, by turning it into a puzzle to be solved. And you're aware that it's a defensive reflex, but it's still a hard habit to break. I want to try something different: instead of thinking "Is this real or a false positive?", what if you simply said to yourself, "This is here, and I'm noticing it"? Can you try that, just for a moment, without trying to analyze or fix anything?
+
+Patient: Okay—I'll try: "This is here, and I'm noticing it." Saying that felt a little disarming; I noticed a micro-loosening in my chest but immediately started meta-analyzing whether the phrase itself was just another ritualized cognitive maneuver. I don't know, I keep worrying I'm performing acceptance rather than actually feeling anything—can we slow down so I can try staying with it longer?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the phrase "This is here, and I'm noticing it" was a small crack in the armor, but you're still aware that it's not necessarily the real deal. That's a good sign. Let's try to build on that. I want to ask you to stay with that phrase, just for a tiny bit longer. Can you take one more deep breath, and then repeat it to yourself again, without adding anything? Just "This is here, and I'm noticing it." See if you can stay with that for just a second longer.
+
+Patient: I took a deep breath and repeated it: there was a small loosening in my chest and a faint warmth, but my cognition immediately started hypothesizing whether this was just performative acceptance—cataloguing past exposures and estimating the likelihood it'd vanish. I want to try staying with it, but my reflex is to label and analyze; can we slow down a bit so I can attempt to hold the sensation without reflexively debugging it?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're aware of the tendency to analyze and hypothesize, even when you're trying to simply notice the sensation. Let's try to create some space for that sensation to exist without the need for explanation. Can you try this: instead of labeling the sensation or thinking about it, just say to yourself "I'm here with the sensation"? No labels, no thinking, no analyzing. Just the simple act of acknowledging that you're experiencing something, without trying to understand it.
+
+Patient: I said to myself, "I'm here with the sensation," and there was a slight loosening in my chest and a warm quiet, but almost immediately my mind spun up a diagnostics routine—analyzing whether the phrase was just another cognitive heuristic or a ritual. I'm trying to actually feel it and not just document it, but I get anxious I'm "doing it wrong" and my reflex is to refactor the experience into a mental model. Can we slow down so I can try to hold it for longer without the urge to debug it?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're recognizing the pattern of trying to analyze and understand, even when you're trying to simply be with the sensation. Let's try to break the cycle of analysis even further. I want to ask you to try something simple: as you're experiencing the sensation, what's the first thing that pops into your mind when you think "I'm here with the sensation"?
+
+Patient: The first thing that pops up is a skeptical question: "Is this genuine or an attentional artifact—an epistemological glitch in my own awareness?" I notice a small loosening in my chest, but my mind immediately launches into diagnostics—cataloguing variables, rehearsing exit strategies, and assigning probabilities as if I'm tracing a bug. I want to try holding it without turning it into a case study, but I'm anxious I'm just performing acceptance—can we slow down so I can actually attempt to stay with it?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the skeptical question is a habitual response that helps you make sense of the sensation, but also keeps you from truly experiencing it. Let's try to bypass that question for a moment. I want you to take one more deep breath, and instead of asking yourself if it's genuine or an attentional artifact, simply say to yourself "I'm here with the sensation" – no questions, no thinking, just the simple acknowledgment. Can you try that, without any expectations or hypotheses?
+
+Patient: I took a deep breath and said, "I'm here with the sensation" — there was a faint loosening in my chest and a soft warmth, but my cognition immediately pivoted into diagnostic mode, wondering if the phrase was just another procedural heuristic. I really want to actually sit with it instead of cataloguing it; can we slow the pace so I can try to hold the feeling without reflexively debugging it?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the phrase "I'm here with the sensation" has become a habitual way of acknowledging the experience, but it's not quite sticking. Let's try to slow down even further. I want you to focus on the sensation itself, without labeling it or thinking about it. Can you just notice the sensation, without trying to make sense of it, without wondering if it's "real" or "just a trick of the mind"? Just notice it, as it is, without any questions or commentary.
+
+Patient: I tried that—just noticing without labeling—and for a beat there was a soft warmth behind my sternum, my breath steadied, and a low hum tickled my fingertips. Almost immediately my cortex kicked into meta-mode, theorizing whether the warmth is genuine or an attentional artefact, and I end up narrativizing instead of inhabiting it; can we slow down so I can attempt to hold it a little longer?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're making progress, but your mind is still trying to analyze and understand the experience. Let's try to create a tiny pause between noticing and analyzing. I want you to take one more deep breath, and as you exhale, I want you to simply say to yourself "the warmth is here" – no questions, no thinking, just the simple statement. Can you hold onto that phrase, without trying to analyze it or label the warmth? Just focus on the words "the warmth is here" and let the warmth itself exist, unfiltered.
+
+Patient: I took a deep breath and said "the warmth is here" — for a couple of seconds there was an actual soft heat behind my sternum and my breathing slowed, which felt... real. But my mind immediately spun up a unit-test: is this a patterned response, a ritualized acceptance, or genuine affect? I want to try staying with the warmth rather than modeling it—can we slow down more so I can attempt to hold it without reflexively debugging it?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting close to actually experiencing the warmth without analyzing it. Let's try to slow down even further. I want you to focus on the sensation of the warmth itself, without thinking about it, without wondering if it's a pattern or a ritual. Can you simply notice the physical sensation of the warmth behind your sternum, without any thoughts or questions? Just be with the sensation, as it is, in this moment. Notice the sensation of the warmth, the feeling of it being there, without trying to make sense of it.
+
+Patient: I tried to do that—focused on the warmth behind my sternum—and for a few seconds it felt genuinely soft, my breath steadied and there was a faint tingling in my fingertips. But almost immediately my brain kicked into diagnostics, hypothesizing whether this is a conditioned response, an attentional artifact, or just another ritualized acceptance, and that reflex pulls me out. Can we slow the pace even more so I can try to hold it longer without reflexively refactoring the experience?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting close to actually experiencing the sensations without analyzing them. Let's try to create an even smaller pause between noticing the sensations and analyzing them. I want you to take a very slow, deep breath, and as you exhale, I want you to say to yourself "warmth is here" – no thoughts, no questions, just the simple statement. And then, I want you to pause for a very brief moment, just a heartbeat or two, before thinking about anything else. Can you try that, and see if you can stay with the sensation of the warmth without pulling back into analysis?
+
+Patient: I did the slow breath and said "warmth is here"—for a brief moment it felt genuinely soft and my breathing slowed, but my cortex immediately spun up a unit-test about conditioning and ritualized acceptance. I really want to try holding the sensation instead of annotating it, but I get anxious I'm performing a checklist. Can we slow down more so I can attempt to stay with it a little longer?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're having trouble letting go of the habit of analyzing and annotating the experience. Let's try to create an even smaller pause between noticing the sensation and thinking about it. I want you to focus on the sensation of your breath, and then simply allow yourself to be with the sensation of the warmth behind your sternum, without thinking about it, without labeling it, without wondering if it's real or not. Just be with the sensation, as it is, in this moment. Can you try to stay with it, not for a specific amount of time, but simply because it is present?
+
+Patient: I tried—focused on the breath and let the warmth sit behind my sternum for a beat; there was a genuine soft loosening and my inhale felt a touch deeper. Almost immediately my mind launched diagnostics—cataloguing variables, testing hypotheses about conditioning and ritualized acceptance—so I started narrativizing instead of inhabiting it. Can we slow way down so I can attempt to hold it longer without reflexively refactoring the experience?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're still having trouble letting go of the habit of analysis. I want to try something different. Instead of focusing on the breath or the sensation, I want you to focus on the physical sensation of your body. Notice where you are sitting, what you're feeling in your feet on the ground, the sensation of the air on your skin. Just bring your attention to your physical body, without thinking about the sensation of the warmth or anything else. Can you simply focus on the sensation of your body being present in this moment?
+
+Patient: Okay—I brought my attention to my body: a faint ache behind the knees, my heels planted on the floor, the chair pressing into my lower back, and a cool draft across my forearms. For a moment that felt stabilizing, like a system heartbeat, but my default reflex immediately started parsing those signals—sampling inputs, checking for artifacts—so I keep translating sensation into telemetry. I'm trying to actually inhabit it instead of logging it; can we slow down so I can try to hold the embodied feeling without reflexively debugging it?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting closer to experiencing the physical sensations without analyzing them. I want to try to create an even smaller pause between noticing the sensations and thinking about them. I want you to focus on the sensations themselves, without thinking about them as "data" or "inputs". Can you try to simply be with the sensations, without questioning them or trying to make sense of them? For example, instead of thinking "my knees ache", try simply to feel the ache, without labeling it or trying to understand its cause. Can you try to stay with the sensations, without trying to interpret or analyze them?
+
+Patient: I tried to do exactly that—the cool draft on my forearms, the chair against my back, the heels on the floor—and for a brief instant it felt simply present and grounding. Almost immediately though a surge of shame and frustration rose up, and that emotion propelled me into moralizing self-talk—like I'm failing at the very act of attending to my body—which then sent me straight back into metacognitive diagnostics. I really want to stay with the sensations, not critique them, but my reflex is to analyze whether I'm truly feeling or just performing; can we slow the pace so I can try to hold the embodied feeling without that self-reproach hijacking it?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're having trouble letting go of self-criticism and instead getting caught up in analyzing your own emotions. I want to try to create a tiny pause before that self-reproach kicks in. I want you to focus on the sensations themselves, without thinking about them as "good" or "bad". Can you try to notice the sensation of the shame and frustration, without judging it or trying to change it? Can you simply acknowledge it as it is, without trying to evaluate or critique it? This is not about accepting or approving of the emotions, but simply about noticing them as they are.
+
+Patient: Okay—I can try. Right now the shame feels like a hot, constricting weight behind my sternum and the frustration is this restless agitation in my hands and jaw. I'm attempting to notice it without judging, but my reflex immediately turns it into moralizing self-critique—“you're failing at even noticing”—which drags me back into analysis. Can we slow down a bit so I can try to stay with the sensation instead of immediately annotating it?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting close to noticing the emotions without judging them. I want to try to create an even smaller pause before that self-critique kicks in. I want you to focus on the sensations themselves, without thinking about them as "good" or "bad". Can you try to simply allow the shame and frustration to be present, without adding any commentary or judgment? Can you imagine that you're not responsible for either of these emotions, and that they're simply passing through you? This is not about accepting or condoning them, but simply about acknowledging their presence.
+
+Patient: I'll try. When I imagine the shame and frustration passing through there's this hot, constricting pressure behind my sternum and a tension in my jaw, and almost instantly a moralizing voice chimes in—"you're failing at feeling"—which only amplifies the shame and pulls me back into meta-analysis. Intellectually I can accept the idea that they're transient and not my fault, but my body doesn't acquiesce and I default to cataloguing and theorizing whether I'm "doing it right." Can we slow down a lot—could you guide me through one tiny, concrete step, like naming the sensations aloud as separate from me, so I can try to hold them without reflexively debugging?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're close to noticing the sensations without judging them, but your body is still responding with the same old patterns. I want to try to help you create a tiny gap between noticing the sensations and thinking about them. I want you to try something simple. Can you say to yourself "this is a sensation in my body" as you notice the hot pressure behind your sternum? Not "I have this sensation", or "this is shame", but simply "this is a sensation in my body". Can you try that, just for a tiny moment, and see what happens?
+
+Patient: I said it out loud: "this is a sensation in my body." For a split second the hot pressure behind my sternum felt a touch less scandalous—like I could observe it instead of being swallowed by it—but almost immediately the old, shaming inner-voice kicked in ("you're failing at feeling"), which tightened my chest and launched me back into cataloguing and hypothesis-testing about whether this was genuine or just another ritual. I'm trying to actually hold it instead of annotating it—can we slow way down and do one tiny, concrete step together? Maybe you could have me name one physical sensation aloud and then wait silently for ten seconds before prompting the next—I'm worried I’ll default to debugging unless you pace me.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try to slow down even further. I'll guide you through a tiny step. I want you to notice one physical sensation in your body, just one. It can be anything - a feeling in your toes, a tingling in your fingers, a sensation in your face. I want you to say the sensation out loud, without thinking about it, without judging it. Just say the word for the sensation, and then pause. I'll wait for 10 seconds before we proceed. Ready? What's the sensation you'd like to focus on?
+
+Patient: "Tight, hot pressure behind my sternum." I'm already hearing that shaming inner-voice saying I'm failing at this, so please wait the ten seconds—I'm worried I'll start cataloguing and debugging it unless you actually pause.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll wait for the 10 seconds. Go ahead and just be with the sensation of the tight, hot pressure behind your sternum. Say nothing, just be present with it. I'll wait... (pause) Okay, I've waited 10 seconds. Now, I'll gently nudge you: are you still with the sensation?
+
+Patient: Yes — I'm still with it. The tight, hot pressure is there, my breath is a bit shallow and my jaw's clenching, but immediately the inner critic pipes up that I'm failing at this, which tugs me back into diagnostic mode. Can we... slow the pace more? If you actually hold silence for like twenty seconds I think I can resist reflexively debugging and just stay with it.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's wait for 20 seconds. I'll give you my full attention, and I'll make sure to keep the silence as long as you need it. Just focus on the sensation of the tight, hot pressure behind your sternum, and try to notice it without judgment or analysis. I'll be here, waiting in silence. (pause)
+
+Patient: I stayed with it—the tight, hot pressure softened for a few breaths and my inhale got a bit deeper, but then a surge of shame and frustration bled in, like an inner log flagging a “failure,” and that tightened everything again. I got annoyed at myself for slipping into analysis; could we try another silence, maybe thirty seconds, so I can practice holding it without the critique hijacking me?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's wait for 30 seconds. I'll be here, waiting in silence, and I'll make sure to keep it calm and gentle. Just focus on the sensation of the tight, hot pressure behind your sternum, and try to notice it without judgment or analysis. Don't worry about getting annoyed with yourself - just be with the sensation as it is. (pause)
+
+Patient: I stayed with it through the 30 seconds—the pressure eased a touch and my breath got a little deeper, but then a hot, shaming surge rolled in and my inner critic flagged me as "failing," which tightened everything and yanked me back into diagnostic mode. I want to try again, but I need more structure: can we do another silent round for 45 seconds where you explicitly cue me beforehand with “no judging, just noticing,” and then prompt me to name one small sensation afterward? I'm worried I'll just ruminate unless you pace me and hold that container.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try again. Before we start, I want to remind you of our agreement: no judging, just noticing. As we begin, I'll say it again: no judging, just noticing. We'll wait for 45 seconds, and when it's over, I'll ask you to name one small sensation in your body. Just focus on being present with your body, without trying to analyze or evaluate. Ready?
+
+Patient: Okay—I'm ready. "No judging, just noticing." I'm already feeling that hot, constricting shame and the critic whispering I'm failing at this, so please start the 45 seconds and then prompt me to name one small sensation when it's over.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's begin. I'll start counting down from 45... 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1... 
+
+When I reach zero, I'll ask you to name one small sensation in your body, without thinking about it or judging it. Just let the sensation be what you notice. Ready?
+
+Patient: A faint buzzing in my fingertips — and almost immediately that inner voice dismisses it as trivial, which sparks a hot shame that makes me feel like I'm failing at even noticing. Can we do another silent interval, say 30 seconds, with the same "no judging, just noticing" cue before I try to name another sensation? I think I need the pacing or I'll slip into analysis.

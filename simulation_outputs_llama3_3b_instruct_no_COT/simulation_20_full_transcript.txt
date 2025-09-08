@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling stuck — like my whole life is just being a construction worker and I don't know what matters beyond that. The minute I think about changing things, my head goes straight to the worst: I try something new, it fails, I lose steady pay, can't keep my place, end up couch‑surfing and nobody wants to be around me after the breakup. I know that sounds over the top, but I can't shake that it's going to happen; anything else just feels unrealistic.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling really uncertain about the future and worried that making any changes will lead to more stress and instability. Can you help me understand what it is about the thought that your whole life is just being a construction worker that resonates with you?
+
+Patient: Probably because it's the one thing that still makes sense to me — steady pay, predictable hours, something I can point to when someone asks who I am. But as soon as I imagine doing anything else my head shoots to the worst: I try a new job or training, it doesn't stick, I miss work from anxiety, get fired, can't pay rent, lose my truck, end up couch‑surfing and cut off from everyone after the breakup. I know that sounds extreme, but it doesn't feel like fear — it feels like the only realistic outcome; the idea that it could just work out feels like nonsense.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It seems like the uncertainty about your life beyond construction is tied to a sense of identity and security. You feel like being a construction worker is a reliable aspect of your life. What would it be like if, for just a moment, you could let go of the worst-case thoughts about making a change and imagine yourself exploring something else, without the certainty of losing everything?
+
+Patient: I try, but as soon as I let myself imagine something different my head fires off the whole disaster: I sign up for training, can't keep up, miss shifts, get fired, can't pay rent, the truck gets repo'd, I'm couch‑surfing and cut off from everyone after the breakup. I know you're asking me to picture other outcomes, but honestly that feels like fantasy — the “it could work” story just doesn't land for me.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like the narrative about what could go wrong is really convincing, and it's hard to imagine a different story. Can you think of anything in your life right now that you're doing that feels somewhat enjoyable or fulfilling, even if it's not your main source of income or identity?
+
+Patient: Yeah—there are small things I like, like tinkering with my old pickup on weekends; the smell of diesel and getting something to run again actually calms me. But as soon as I enjoy it my head runs the whole worst-case: I hurt my back, miss shifts, get written up, lose the job, can't pay rent, lose the truck and I'm back to couch‑surfing and nobody wants to deal with me after the breakup. I know that sounds over the top, but the "it might be okay" story just doesn't sit with me.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It seems like, even in the moments where you do find small pleasures, like tinkering with your truck, the worst-case thoughts about losing it, losing your job, or struggling financially keeps showing up. Can you explore what it is about those thoughts that makes the "it might be okay" story feel so hard to accept?
+
+Patient: I guess I started doing it to feel in control — if I map out the worst, I can brace for it. I run the numbers: training costs, missed shifts, back pain, getting written up, fired, rent unpaid, truck gone, couch‑surfing — it all links up and feels inevitable. After the breakup there's nobody to catch me, so the worst-case feels less like panic and more like common sense. The “it might be okay” story just sounds like someone trying to sell me hope — I don't buy it.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're using the worst-case scenario as a way to feel prepared and in control, like you're anticipating and accepting the inevitable. That makes sense. What if, instead of trying to avoid the "it might be okay" story, you were to approach it with a sense of curiosity, like, "What if, just for a moment, I could let go of the need to control this all? What would be the experience of not knowing what's going to happen, of not having all the answers?"
+
+Patient: I get what you're asking, and I try to do that, but the moment I stop trying to control it my head fills the whole disaster movie: I let go, fall behind on shifts because I'm distracted, get written up, then fired, can't cover rent, the truck gets repo'd, and I'm couch‑surfing with nobody to call. It doesn't feel like fear — it feels like the only real future — so being curious about "not knowing" just sparks more planning for the collapse. Okay, I'm feeling a bit overwhelmed with all this; can we slow down?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the more you try to let go of the need to control, the more your mind fills up with worst-case scenarios. I'm not asking you to stop trying to control it, but rather to pause and breathe, and bring our attention to the sensation of being overwhelmed. Can you notice what's physically happening in your body right now, where you feel the tension or discomfort?
+
+Patient: Yeah — my chest feels tight, like a band, my stomach's in knots, shoulders all hunched up, jaw clenched, and my breathing's shallow so my hands start fidgeting. The second I pay attention to that it flips into the movie: chest tight -> panic at work -> miss shifts -> written up -> fired -> can't pay rent -> truck gone, and I'm couch‑surfing. I'm feeling pretty overwhelmed by all that; can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your body is mirroring the emotional response that you're trying to avoid. Can we take a deep breath together, and just focus on the sensation of the breath moving in and out of your body, without trying to control it or change it?
+
+Patient: Okay, I'll try. I take a slow breath in and out, but the band in my chest is still there and my breathing's shallow — the more I notice it the faster my head goes: distracted at work, miss shifts, written up, fired, rent unpaid, truck gone, couch‑surfing. It actually makes me more panicked, not less. I'm feeling really overwhelmed by that; can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your body is still responding to the worst-case scenario, even as you're trying to focus on the breath. Let's try a different approach. Instead of trying to change your breathing or thoughts, let's just bring our attention to the sensation of your body, wherever it is. Can you notice where your feet are touching the ground, or the sensation of your feet on the floor?
+
+Patient: My feet are flat on the floor, heels heavy, toes kind of numb and I keep shifting them — but the second I focus my mind shoots to tripping on a job, ripping my back, missing shifts, getting written up then fired, can't pay rent, truck gone, couch‑surfing. I'm really jumpy and distracted right now; can we slow down?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your body is still on high alert, and your mind is jumping from one worst-case scenario to the next. I'm not asking you to stop shifting your feet, just to acknowledge that they're shifting, and then gently bring your attention back to the sensation of your feet touching the floor. Can you do that, and just stay with that sensation for a moment?
+
+Patient: I try to keep my attention on my feet — heels heavy, the balls of my feet pressing — but as soon as I notice it my head shoots off: trip on a job, tear my back, miss shifts, get written up, fired, rent unpaid, truck gone, couch‑surfing. I'm really jittery and can't hold it; can we slow down?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're noticing the sensation, but your mind is already moving on to the next worst-case scenario. Let's try to bring our attention back to the sensation, but this time, before you notice the thoughts, let's just say "ouch" to the tension in your body, like you're acknowledging the discomfort without judgment. Can you do that with me?
+
+Patient: Okay—ouch. I try to do it, but the second I say that my head races into the whole collapse: I get distracted, miss a shift, get written up, fired, can't pay rent, truck gone, couch‑surfing. I feel stupid and ashamed that I can't even sit with this without spiraling. I'm really overwhelmed right now; can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like saying "ouch" actually helps you notice the physical tension, but your mind still goes to the worst-case scenario. Let's take another deep breath together, and this time, instead of saying "ouch", let's just acknowledge the feeling of shame or frustration that's arising. Can you name it for yourself, without judgment?
+
+Patient: Shame — and a kind of grinding frustration. It lands on me like I'm just... a screw‑up: I try to change, I mess it up, miss shifts, get written up, fired, can't pay rent, truck gets repo'd, I'm couch‑surfing and everyone's done with me. I'm jittery and can't even focus; I'm really overwhelmed right now — can we slow down?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like shame and frustration are really intensifying. Can you try to notice the physical sensations in your body that are accompanying those feelings? Is there a particular place where you feel the shame or frustration more intensely, or is it spread throughout your body?
+
+Patient: Mostly in my gut — a hard knot that makes my stomach flip — and a hot flush in my face, my chest tightening, shoulders up around my ears, jaw clenching, hands fidgeting. The second I notice it my head fires off the whole chain: miss shifts, get written up, fired, can't pay rent, truck gone, couch‑surfing — and then I feel stupid and ashamed for even trying. I'm really jittery and distracted right now; can we slow down?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The physical sensations of shame and frustration are really palpable. It's like your body is trying to express those feelings. Let's try to create a bit of space between noticing the physical sensations and the thoughts that follow. Can you take one more deep breath with me, and when you're ready, just say "I'm here" to the physical sensations in your body, without adding any thoughts or judgments?
+
+Patient: Okay — I breathe in and say "I'm here" to the knot in my gut, but the second I do this stupid shame comes crashing in and my head shoots the whole thing: miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing. I'm really overwhelmed and jittery right now; can we slow down?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the "I'm here" phrase only gave your mind a brief moment to pause, and then the shame and worst-case thoughts came rushing back. Let's try something a bit different. Can you imagine a small, safe space where you can sit with your physical sensations, like the knot in your gut, without any thoughts or judgments? Just a small, neutral space, where you can be with your body, without trying to change anything?
+
+Patient: I can kind of see it — a small, quiet shed, like the garage where I tinker with the truck, just a plain chair and nothing demanding. But the second I try to stay there my head fires the whole disaster loop: I take time, fall behind, miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing — and then I feel like an idiot for even trying. My chest's tight, hands shaking, stomach in knots, and I'm really overwhelmed and ashamed I can't hold the picture — can we slow down?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It seems like your mind is trying to pull you back into the worst-case scenario as soon as you imagine the safe space. Let's try to create a tiny bit more distance between the two. Can you imagine yourself standing outside the shed, looking at the small, quiet space inside? Just observe it from a distance, without trying to go inside or get involved with the thoughts.
+
+Patient: I can picture standing outside the shed, just looking in at the quiet chair, but the second I do my head kicks into the whole disaster: I take time, fall behind at work, miss a shift, get written up, fired, rent piles up, truck repo'd, couch‑surfing — it's not a maybe, it feels like what's going to happen. I can't just be an observer — I'm jittery, ashamed, and distracted, and the idea that I could look without it turning into that feels totally unrealistic; can we slow down?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is already pulling you back in, even when you're just observing the shed. It's like your mind is saying, "No, you're not safe, you're still at risk." Can you try to notice what's happening when you feel like you're not observing, but your mind is still spiraling into the worst-case scenario? Is there a feeling of being swept up in the thoughts, or a sense of being overwhelmed?
+
+Patient: Yeah — it's like my brain grabs me and drags me along a script I can't drop. I notice a little, and then I'm swept up: heart racing, hands shaking, stomach dropped, and the whole chain starts again — miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing — and I feel stupid and ashamed like I've already screwed this up before so of course it'll happen. I'm really jittery and distracted right now; can we slow down?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like your brain is hijacking you, pulling you along a familiar script. Can you try to gently ask yourself, "What's the purpose of this script?" What is it trying to accomplish or achieve by running this worst-case scenario over and over? Is it trying to protect you, or is it just a habitual way of responding to stress and uncertainty?
+
+Patient: I think it's trying to protect me — if I can predict the worst I can brace for it, so I don't get blindsided. It started after I screwed up before and the breakup; now it's a reflex — a way to feel in control even though it just makes me miserable, because the only useful thing about it is that I won't be surprised when the rent's due and I'm out on the street. But it's mostly habit too: my brain gets hooked on the disaster story and won't let anything else in, which makes me feel ashamed and stupid for not being able to stop it. I'm really jittery and distracted right now; can we slow down?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your brain is using the worst-case scenario as a way to feel in control, but it's also creating a cycle of shame and self-blame. Can you try to notice the physical sensations that come up when you think about being "hooked" on the disaster story? Is there a feeling of being trapped, or a sense of being stuck in this cycle?
+
+Patient: It's like a tight knot in my gut, my chest a band, shoulders up by my ears, hands shaking like I'm about to drop a beam — I feel trapped, like my feet are stuck in mud and I can't pull away from the script. The second I notice that, the whole chain kicks in: fall behind on shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing — and I feel stupid and ashamed, like I already messed it up once so of course it'll happen again. I'm really jittery and distracted right now; can we slow down?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're feeling stuck in a kind of emotional quicksand. Can you try to notice what would happen if, for just a moment, you were to let go of the need to be in control of this script? What would it feel like if you allowed yourself to be with the sensations of feeling trapped and stuck, without trying to move or escape?
+
+Patient: If I actually tried to let go, my stomach would drop into that hard knot, my chest would clamp down, my hands would start shaking and I’d feel dizzy — and before I even settle, my brain drags me through the script: miss shifts, get written up, fired, rent unpaid, truck repo’d, couch‑surfing. I’d feel that old shame flare up — like I already screwed it up once so of course it’s going to happen again — so “letting go” just turns into rehearsing the collapse. I'm freaking jittery and scattered just saying that; can we slow down?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like trying to let go is triggering the worst-case scenario all over again. Can you try to bring your attention back to the sensation of the knot in your stomach, the clamping in your chest, the shaking in your hands? Notice how those sensations feel, without judgment or trying to change them. Just be with them, as they are, in this moment.
+
+Patient: I try — the knot in my stomach's hard, my chest feels clamped, my hands won't stop shaking and my head's a little fuzzy. The more I notice it, the faster my brain drags me into the script: fall behind on shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing, everyone done with me. That sudden wash of shame from...stuff I screwed up before spikes and I get mad at myself for not being able to sit with it, which just makes me spin more. I'm really jittery and distracted right now — can we slow down?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like trying to stay with the sensations is actually making things worse. Let's take a step back and notice that you're trying to control this, and that's what's creating the chaos. Can you try to allow yourself to not control it, just for a moment? Allow yourself to be with the sensations, the thoughts, the emotions, without trying to change them or stop them?
+
+Patient: I try to do that, honestly, but the moment I stop trying to control it my chest clamps and my head fires off the whole disaster script — fall behind, get written up, fired, rent unpaid, truck repo'd, couch‑surfing — and that old screw‑up shame just floods me. I don't know how to "not control" it; I just get more jittery and distracted and start planning for the collapse. I'm really overwhelmed right now — can we slow down?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're stuck in a cycle of trying to control, and it's creating even more chaos. Can you try to see that this isn't about controlling the thoughts or the feelings, but about being with them, exactly as they are, without judgment? Let's take a deep breath together, and I'll say it slowly: "You are here, with the sensations, the thoughts, the emotions, exactly as they are."
+
+Patient: Okay — I'm trying to breathe with you and tell myself "you are here," but the second I do my chest clamps, my stomach knots, my hands shake, and my brain drags me into the whole collapse: fall behind at work, miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing, everyone's done with me. I feel ashamed and pissed at myself like I already screwed it up before, and that shame just makes me more jumpy and unfocused. I'm really overwhelmed right now — can we slow down?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your body is already responding to the "you are here" phrase, even though you're trying to say it. Can you try to be gentle with yourself, and notice that it's not your fault that your body is reacting this way? It's like your body is trying to protect itself, but it's also getting caught up in the worst-case scenario.
+
+Patient: I hear you, and I want to be gentle, but it lands like I'm admitting I'm weak — the moment I try to be kind to myself my brain screams that I already screwed up and then the whole movie starts: miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing, nobody wants to deal with me. My chest's tight, hands shaking, I feel stupid and ashamed for even needing this. I'm really overwhelmed and jittery right now; can we slow down?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like kindness to yourself is actually fueling the worst-case scenario. Can you try to imagine a different kind of kindness, one that's not about avoiding the thoughts or feelings, but about being present with them anyway? Like, what if you simply allowed yourself to exist in this moment, without trying to change or fix anything? What would that feel like?
+
+Patient: I try to picture that kind of kindness, but the second I do that old screw‑up pops back in and my chest tightens, my hands start shaking, and my head runs the whole movie: fall behind, miss shifts, get written up, fired, can't pay rent, truck repo'd, couch‑surfing, nobody wants to deal with me. The idea of just "existing" without fixing anything feels like a fantasy — like admitting I'm soft and that just makes the collapse more real. I'm really jittery and distracted right now; can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the fantasy of existing without trying to fix things is actually making the worst-case scenario feel more real. Can you try to notice what's happening in the moment when you think about existing without fixing anything? What's the sensation of that thought, exactly? Is it a feeling of heaviness, or lightness, or something else?
+
+Patient: It feels like a lead weight in my gut — heavy, like I'm sinking, my chest clamps and my hands go all jittery and shaky. The second I try to just exist without fixing it my head screams the whole collapse: I stop pushing, fall behind, miss shifts, get written up, fired, can't cover rent, truck repo'd, couch‑surfing — and that old shame from screwing up before floods me and I get mad at myself. I'm really scattered and anxious right now; can we slow down?

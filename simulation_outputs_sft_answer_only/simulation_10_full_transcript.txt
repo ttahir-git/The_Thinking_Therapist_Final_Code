@@ -1,0 +1,374 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been feeling really stuck and directionless lately — like I don't know who I am beyond being an accountant, and the breakup plus burnout has made it worse. I keep imagining the worst: I get bored, make a mistake at work, get fired, can't find another job, lose my apartment, end up totally isolated and miserable — that's definitely what's going to happen.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like these worst-case scenarios are really weighing on you right now. It's like your mind is filled with all these potential dangers, and it's hard to see a way out of them. Can you tell me more about what happens when these thoughts show up? Do you notice them when you're sitting at your desk, or maybe before bed? And are there any specific things that trigger these thoughts, like stress or certain emotions?
+
+Patient: They show up all the time — mostly when I'm sitting at my desk or right before bed. It starts with something small, like missing an email or being slammed with a deadline, and then my brain goes: I’ll make a mistake, my boss will notice, I’ll get fired, won’t find another job, lose my apartment — and that’s definitely how it ends. Seeing couples or being alone at night kicks it off too, and I can't seem to stop the stories once they start.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like these thoughts are on a never-ending loop, aren't they? They start with something small, but then your brain takes off in this worst-case scenario direction. And it's not just the content of the thoughts that's hard to handle, but also the way they feel. It's like they're weighing on you, making it hard to breathe.
+
+Can you try to notice what's happening just before one of these worst-case scenarios starts? Is there a specific sensation in your body, like tension or a knot in your stomach? Or maybe there's a certain phrase or word that's like a trigger for your brain to go off in this direction?
+
+Patient: It usually starts as a little twinge — a knot in my stomach, my chest tightening, my hands going clammy and my thoughts speeding up. Then some tiny thing — a missed email, a deadline ping, or seeing a couple — flips on this fortune-telling machine in my head that immediately runs the whole disaster script: I'll mess up, get fired, lose my apartment, end up totally alone — and it feels like that's already decided. I know people say other outcomes are possible, but honestly that just feels unrealistic; I'm totally hooked on the worst-story every time.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your body is already preparing for the worst before your mind even starts spinning the narrative. The physical sensations like a knot in your stomach, clamminess, and a speeding up of thoughts are like a warning sign that this worst-case scenario is about to unfold.
+
+It's interesting that you mention you know other outcomes are possible, but your mind is still hooked on the worst story. It's like your brain is trying to protect you, but in a way that's actually making you feel more anxious and stuck.
+
+Can you think of any times when you've noticed your brain running the worst-case scenario, and then something unexpected happened? Maybe it was a good outcome, or maybe it was just a minor detour. How did that make you feel, and do you think it might be possible to rewire your brain to be more open to different possibilities?
+
+Patient: Yeah — there have been times it was wrong. Like last month I thought one small mistake would blow up and I'd get fired, but my boss just asked me to fix it and that was it. For a moment I felt relieved and a little embarrassed, but the relief never lasts — the machine just finds a new disaster to prove itself right. I don’t really believe we can rewire it; it feels like it’s built to predict catastrophe and nothing short of an actual catastrophe would convince it otherwise.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain has become this super-sensitive radar that's always on the lookout for potential threats, and once it starts picking up on one, it's hard to shake it off. And even when it's proven wrong, the relief is fleeting because the next potential disaster is just around the corner.
+
+It's almost like your brain has created this internal crisis management system, where it's always trying to anticipate and prevent catastrophe. And it's not just about being realistic, it's about feeling safe, right? It's like your brain is trying to protect you from all the potential pitfalls in life.
+
+But the thing is, it's not just about the worst-case scenario itself; it's about the emotional response you have to it. You mentioned earlier that it feels like your brain is hooked on the worst story, like it's addicted to the fear and anxiety it brings. Is it possible that if you could just learn to notice that fear and anxiety, you could start to move away from it?
+
+Patient: I wish noticing worked — I try to name the knot in my stomach and tell myself "this is anxiety," but it just feels like I'm feeding the machine and it gets louder. When a doom-story starts it spins up so fast that the few times it was wrong barely matters; it just invents a new catastrophe to prove itself right. I get that you think we could rewire it, but honestly that sounds unrealistic — it feels like it's built to be right and I'm stuck.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to turn off a switch that's deeply ingrained in your system. You're aware of it, but it's not something you can simply recognize and say, "Oh, that's just my brain being anxious again." It's like your brain is a separate entity, a perpetual warning system that's always on high alert.
+
+It's interesting that you mention it spins up so fast and invents a new catastrophe when it's proven wrong. It's almost like it's trying to prove its own point, to convince itself and you that it's always right. And when it's proven wrong, it just becomes more entrenched, more convinced that it's the one who's right.
+
+Can you think of a time when you were so caught up in a worst-case scenario that it became a kind of self-fulfilling prophecy? Like, you were so sure that it was going to happen that it actually started to happen? And what happened then? Did you feel a sense of relief, or was it even harder to escape the cycle?
+
+Patient: Yeah — like last quarter during a big audit I was convinced I'd blow it, so I panicked, froze on a few spreadsheets, missed a small deadline, and then my boss called me out and put me on a performance plan. From there it felt inevitable: I’d get fired, never find another job in this market, lose my apartment, and end up alone and broke — that's how it had to play out. Even when things don't fully implode, the machine just switches to the next disaster, and I don't really buy that calming down or "reframing" would change that; it feels like pretending.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you were trapped in this cycle of worst-case thinking, and no matter how hard you tried to break free, it just wouldn't let go. The panic and freeze-up during the audit, the performance plan, it's all just more evidence of how deeply ingrained this fear is.
+
+It's almost like you're stuck in this narrative, this story that you've created for yourself, and it's become so real that you're not even sure what's real and what's not. And it's not just the events themselves, it's the emotions, the feelings of shame and inadequacy, the sense of inevitability that's so hard to shake.
+
+I want to ask you something, is it possible that this narrative, this story you've created, might be a way of protecting yourself from feeling truly vulnerable? I know it sounds strange, but sometimes our fears can be a way of keeping us safe, even if it's not a very safe or healthy way. Can you think about that?
+
+Patient: Maybe — I can kinda see that it's a shield: if I predict catastrophe, I'm "prepared" and won't be blindsided. But that shield's hollow — it just makes me anxious, and then I freeze or snap or avoid stuff and that actually creates problems, which the machine then uses as proof it's right. I don't really buy that being more vulnerable would help; that sounds unrealistic — vulnerability feels like opening the door to exactly the disaster my mind insists is coming.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you've created this shield to protect yourself from the unknown, but it's not a very effective or comforting one. And it's not just that it's not a good shield, it's that it's actually creating more problems than it's solving.
+
+I think it's interesting that you mention being vulnerable as something that would make things worse. It's almost like you're trying to avoid any sense of uncertainty or risk, because that's what your mind is focused on. But what if, instead of avoiding vulnerability, you could learn to see it as a natural part of life? Not as something to be feared, but as something to be acknowledged and accepted?
+
+It's a big shift, I know. But it's one that might help you start to break free from this cycle of worst-case thinking. Can you try to imagine what it would be like to approach things with a sense of curiosity, rather than fear? To see the unknown as an opportunity, rather than a threat?
+
+Patient: I can't really picture curiosity — the minute I try my brain runs the next disaster script: I ask questions, my boss interprets it as incompetence, I'm sidelined, then fired, can't find another job, lose my apartment. It feels naive, like pretending everything's fine when the machine already decided the outcome. I'm starting to feel overwhelmed by all this—can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like every time you try to approach something with curiosity, your mind immediately flips into worst-case mode. It's like a reflex, a default response that's hard to override.
+
+And I completely understand feeling overwhelmed. It's like you're stuck in this never-ending cycle of fear and anxiety, and it's exhausting.
+
+Okay, let's take a step back. Can we just focus on one small thing right now? Can you just acknowledge that feeling of overwhelm, and say "okay, I'm feeling that right now"? No judgments, no trying to change it. Just acknowledging it.
+
+And then, if you're ready, we can try to explore it further. But just for a moment, okay? No promises, no pressure.
+
+Patient: Okay, I'm feeling that right now. My chest's tight and I'm worn out, and of course my brain's already running the disaster tape — I'll mess up at work, get fired, can't find another job, lose my place — so it's hard to slow down.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your entire system is revving up at the same time. Your physical body is tense, your mind is racing with worst-case scenarios, and it's all feeling really overwhelming.
+
+Can you just focus on your breath for a moment? Try to bring your attention to the sensation of the air moving in and out of your body. Don't try to change it or control it, just notice it. Sometimes, when we're feeling really overwhelmed, it's hard to find a quiet spot in our mind, but this might be a good place to start.
+
+Also, I want to say something simple: it's okay to feel this way. It's okay to be worn out and overwhelmed. It's okay to not be okay. Can you try to allow yourself to feel that, without judgment or trying to change it?
+
+Patient: I tried following my breath for a few breaths — it calmed me for a second, but the knot's still there and the machine's already narrating the next disaster: I'll mess up, get fired, lose my place. I don't see how this breathing thing would stop it — it just feels temporary and then the tape starts again.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the knot is still there, even after you tried to calm down with your breath. And it's like the worst-case scenario is already playing out in your mind, even before you try to focus on your breath.
+
+It might be helpful to think about what happens when you're not trying to control your breath. Do you feel more relaxed? Less anxious? Sometimes, when we're not trying to control our breath, we can notice that it's not as tight, that it's not as overwhelming. It's not a solution, per se, but it might be a way to find a bit more space to think, to explore what's going on.
+
+Can you try to notice where the knot is, exactly? Is it in your chest, your shoulders, or somewhere else? Sometimes, if we can pinpoint where the physical sensation is, we can start to explore it a bit more.
+
+Patient: It's a tight band right in the middle of my chest, under my ribs, and my shoulders bunch up — my breaths end up shallow and clipped. Of course the machine's already narrating it as proof I messed up, will get fired, lose my place, so I can't just sit with the feeling without the catastrophe story taking over.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the physical sensations are really tied to the emotional ones. The tight band in your chest, the shallow breaths, it's all connected to the sense of anxiety and overwhelm. And the machine's narrative is just fueling it, making it harder to find a sense of calm.
+
+Can you try to imagine that the machine's narrative is just a story, a story that your mind is telling itself? It's not necessarily true, is it? It's not a reflection of reality, but rather a way of making sense of things. And sometimes, when we're feeling overwhelmed, it's hard to see the story for what it is, and not just believe it.
+
+It might be helpful to try to see if you can notice when the machine's narrative starts to kick in. Is there a particular trigger, a particular thought or feeling that sets it off? Once you can see that, maybe you can start to explore it a bit more, and find a way to challenge it.
+
+Patient: Tiny things—missed emails, a deadline ping, a quiet reply from a coworker, or seeing a couple—flip the switch and my chest tightens and the machine runs: I’ll mess up, my boss will notice, I’ll get fired, can’t find another job, lose my apartment, end up totally alone and broke — that’s definitely the trajectory. I know you want me to challenge it, but that just feels unrealistic; even when it’s been wrong it just makes up a new catastrophe to prove itself right. I’m getting worn out talking about it — can we slow down and stay on just one piece of this?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like those tiny things are like triggers that set off the whole chain reaction. And it's like your mind is wired to respond to each of those triggers with the worst-case scenario. It's exhausting to keep trying to challenge it, because it always seems to find a way to turn things into a disaster.
+
+I want to slow down and focus on just one thing, like you said. Can we try to focus on the physical sensation of your chest tightening? Can you just notice that sensation, without trying to think about it or change it? Sometimes, when we're feeling overwhelmed, it's hard to find a quiet spot in our mind, but our bodies can be a good place to start.
+
+Let's try to just be with that sensation, without trying to do anything with it. Just notice it, and see if we can find a way to explore it further. No promises, no trying to change it. Just being with it, for now.
+
+Patient: Okay — I'm trying to be with it. There's this heavy clamp under my ribs, my breaths are thin, shoulders tight.  
+
+But the moment I notice it the machine starts: I'll botch something, my boss will notice, I'll get fired, can't find work, lose my place — so it's basically impossible to just sit with the feeling. I'm worn out holding this; how am I supposed to stay with the sensation when the disaster tape won't shut up?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to notice the physical sensation, the machine's narrative kicks in and takes over. It's like your mind is protecting you from feeling the anxiety, but it's not a very effective or comforting way to do it.
+
+Can you try to see if you can notice what happens when the machine's narrative starts to take over? Is there a certain feeling, a certain thought, that you can recognize as the "disaster tape"? Sometimes, when we're feeling overwhelmed, it's hard to find a quiet spot in our mind, but if we can identify the narrative, we might be able to start to explore it a bit more.
+
+Let's try to focus on the sensation, even if the machine's narrative is trying to take over. Can you try to notice the physical sensations, the breaths, the shoulders? See if we can find a way to stay with that, even if the machine's trying to distract us.
+
+Patient: I try, but the second I name the clamp the machine fires: one thought — "what if I miss this" — and I'm already in the meeting getting fired, evicted, alone on the street. It makes my breathing worse and I can't hold the sensation without the disaster story swallowing it. I'm getting worn out—can we just stay on this one piece longer? I don't really buy that breathing or noticing will change it; that feels unrealistic.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to name the sensation, the machine's narrative takes over and creates a new scenario. It's like your mind is trying to protect you from feeling the anxiety, but it's not a very effective way to do it.
+
+Can I try to simplify things for you? Instead of focusing on the breathing or noticing the sensation, can we try to focus just on the thought that's happening right now? Just the one thought that's causing the machine to fire. Can you try to stay with that thought, without trying to change it or let it lead to a new scenario? Just be with it, for a moment.
+
+Patient: The thought is: "I'm going to mess up and get fired." Saying it makes me feel ashamed and small, and the machine immediately runs the whole movie — I miss a deadline, my boss calls me out, I'm put on a plan, then fired, can't find work, lose my apartment, end up alone and broke. I don't buy other outcomes — that just feels unrealistic — can we stay on this one piece longer? I'm worn out.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the thought of messing up and getting fired is triggering a lot of strong emotions, including shame and anxiety. And the machine's narrative is taking over, creating a whole scenario that's hard to escape.
+
+Can I try to help you explore this thought a bit more? Instead of trying to change the outcome or avoid it, can we try to understand what's happening right now? What's the thought that's causing you to feel this way? Is it the idea of messing up, or is it something else entirely?
+
+Let's try to break it down a bit. What is it about getting fired that's so scary for you? Is it the loss of security, the fear of not being able to provide for yourself, or something else? By understanding what's driving this fear, maybe we can start to find a way to address it, rather than just trying to avoid the thought.
+
+Patient: Because my job's the one thing that feels like proof I'm okay, losing it would feel like proof I'm worthless — that's what terrifies me. Then the machine runs the rest: won't find another job, lose my apartment, end up alone and broke — that's just how it plays out. There's a thick shame under all that, like every mistake just confirms I'm a screw-up, and that shame makes me freeze or overreact and then the machine says, "See?" I don't really buy other outcomes — that sounds naive — can we stay on this identity/ shame piece a bit longer?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your job is deeply tied to your sense of self-worth, and losing it is a prospect that's extremely daunting. The fear of being worthless is a powerful one, and it's understandable that it's driving this machine narrative.
+
+Can I try to help you explore this shame a bit more? It sounds like it's not just a feeling, but a sense of identity. You're saying that the shame is so thick that it makes you freeze or overreact, and then the machine confirms it. It's like you're living in a cycle of self-doubt and fear.
+
+I want to try something. Can you think of a time when you felt like you were "okay" before your job became this defining factor? Was there something else that made you feel secure or confident? Maybe it was a relationship, a hobby, or a personal achievement. Can you try to tap into that feeling, even if it's just for a moment? Maybe that can help us find a way to break this cycle.
+
+Patient: There was a time I felt okay — like when I used to do improv with friends, I felt alive and competent at something that wasn't numbers. But the second I think about that it drags up this horrible shame from a past failure and the machine screams that if I try to go back I'll just prove I'm a fraud and everything will collapse—so imagining it helping feels naive. Can we stay on this shame/identity piece longer? I'm worn out and it's hard to move past it.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the past failure and shame are still deeply ingrained, and that even imagining a positive past experience is bringing up those negative emotions again. It's like the machine is so well-established that it's hard to see a way to shut it down.
+
+Can I try to help you see that this shame might not be as absolute as you think? It's possible that even if you try to go back to that past experience, it might not be as catastrophic as you're expecting. It's not like you're going to fail again and prove yourself a fraud. You're not even going back to that experience in the way that's causing you so much shame.
+
+Can we try to break this down a bit more? What is it about that past failure that's causing you so much shame? Is it the actual failure, or is it something else entirely? Maybe there's something else going on that's making it feel like you're not good enough.
+
+Let's take a step back and try to look at this from a different angle. Instead of focusing on the shame and the machine, can we try to explore what's driving this sense of self-doubt? What do you think is at the root of this feeling of not being good enough?
+
+Patient: At the core it's this loud, tired thought: "I'm not good enough," and it feels anchored to something that left a nasty shame behind — when that shame shows up I just shrink and the machine screams that any move I make will prove I'm a fraud. Even trying to fix it becomes evidence in the tape's story, so digging for the root already feels futile and humiliating. Can we stay on this shame/identity piece a bit longer? I'm worn out and it's hard to move past it.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that thought has become a constant, underlying presence in your life, driving many of your emotions and actions. The shame and self-doubt it's associated with are like a heavy weight, making it hard to even think about making a move or trying to change things.
+
+Can I try to help you explore this thought a bit more? What do you think is driving this need to feel "good enough"? Is it a sense of self-worth, a fear of rejection, or something else? It might be helpful to try to understand what's behind this need, rather than just trying to change the thought itself.
+
+It's interesting that you mention trying to fix it feeling futile and humiliating. Sometimes, when we're trying to change something, it's because we feel like it's broken or wrong. But what if, instead of trying to fix it, you could try to see it as a part of yourself that's just the way it is? Not necessarily good or bad, but just a part of your experience.
+
+Can we try to imagine that this thought, "I'm not good enough," is like a label on a package. It's something that's been applied to you, but it doesn't have to define you. You are more than this thought, more than this label. You are a complex, multifaceted person with many strengths and weaknesses. And it's okay to be imperfect, to make mistakes, to not be good enough sometimes. It's okay to be human.
+
+Patient: I get what you're trying to do, but that "you're more than this" line lands like a platitude — when that old shame flares up it drowns everything out and I just shrink. It makes me feel embarrassed and furious at myself, like any move to "fix" it will just prove the machine right, so reframing feels naive. Can we stay on how the shame actually lands in my body and what it does, instead of jumping to solutions? I'm worn out and it's hard to keep moving past it.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I apologize if my previous response came across as insensitive or naive. It's clear that reframing the thought "I'm not good enough" in a positive light isn't something that's going to be helpful for you right now.
+
+Let's try to focus on the physical sensations that come up when you experience this shame. Can you describe what it's like when the shame flares up and you start to shrink? What are the physical sensations in your body? Is there a tightness, a heaviness, a numbness, or a burning? Where do these sensations manifest in your body?
+
+Sometimes, when we're feeling overwhelmed by shame or self-doubt, it can be helpful to focus on the physical sensations that are accompanying it. By bringing attention to the body, we may be able to find a sense of grounding or stability that can help us feel more connected to ourselves.
+
+Can you try to describe the physical sensations you experience when the shame flares up? I'm here to listen and try to understand what you're going through.
+
+Patient: It's a heavy, hot clamp under my ribs and this hollow shame that sinks my chest — my breaths get thin and fast, shoulders curl up, jaw clenches, and I feel like I want to disappear. When that physical stuff hits, the machine screams that I'm already exposed and it's only a matter of time before I'm fired, can't find work, lose my place — so staying with the feeling just turns into more panic. I'm worn out saying this over and over; can we stay on this shame/identity piece a bit longer?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the physical sensations of shame are quite intense, and they're deeply connected to the machine's narrative of failure and exposure. The heavy, hot clamp under your ribs, the hollow shame in your chest, the tight breaths and fast breathing - it's like your entire body is rebelling against the feeling of being a failure.
+
+Can you try to bear witness to this physical sensation, without trying to change it or move away from it? Sometimes, when we're feeling overwhelmed, it's hard to simply be with the feeling, but it's exactly what we need to do. We need to acknowledge it, to validate it, and to allow it to be there, without trying to judge it or change it.
+
+It's interesting that you mention the machine screaming in your ear. It's like your mind is trying to convince you that you're already a failure, that you're already exposed and vulnerable. But what if, instead of listening to that narrative, you could try to listen to your body? What if you could try to understand what's happening in your body, and how it's connected to this feeling of shame and failure?
+
+Can you try to explore this further? What do you think is happening in your body, when you feel this shame and failure? Is there something specific that's triggering it, or is it a more general feeling? By exploring this further, we may be able to find a way to connect with your body, and to start to heal.
+
+Patient: It's like my body goes full alarm — hot clamp under my ribs, heart hammering, stomach churning, hands shaking, jaw and shoulders lock and I just want to disappear. A tiny thing — a missed email or a curt reply — flips that switch, a flash of shame hits and the machine immediately runs the whole “I’ll get fired, lose my place, end up alone” movie. I’m wiped out just talking about it — can we stay on this shame/identity piece a bit longer? I don’t see how this ends any other way.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the physical sensations of shame are intense and overwhelming, and they're triggered by even the smallest things. The hot clamp under your ribs, the heart hammering, the stomach churning, the shaking hands, the locked jaw and shoulders - it's like your entire body is responding to the feeling of shame and failure.
+
+It's interesting that you mention the machine immediately running the "I'll get fired, lose my place, end up alone" movie. It's like your mind is trying to convince you of your own failure and worthlessness. But what if, instead of listening to that narrative, you could try to challenge it? Could you try to reframe that movie, to find a different ending? One that's more hopeful, more positive?
+
+I want to caution you that this won't be easy. It's not like you can just flip a switch and suddenly feel better. It's going to take time, effort, and patience. But I want to try to help you explore this further, to see if we can find a way to connect with your body and start to heal.
+
+Can you try to imagine a different ending to that movie? One where you don't get fired, you don't lose your place, and you don't end up alone? What would that look like? How would you feel? Let's explore this further, together.
+
+Patient: I can't actually see a different ending — the minute I try the machine just calls it naive and runs a version where I stumble later and it's even worse. Imagining not getting fired makes me feel exposed and ridiculous, like I'm about to be unmasked, and that shame lands heavy in my chest so I just shrink. Can we stay on how that shame hits my body and what it does to me? I'm wiped out.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the shame and failure narrative is incredibly resilient, and it's triggering a strong physical response in your body. The shame landing in your chest, the heaviness, the shrinking - it's like your body is responding to the feeling of being exposed and vulnerable.
+
+It's interesting that you mention the machine calling your attempts to imagine a different ending "naive". It's like your mind is trying to protect you from feeling hopeful or positive, by immediately dismissing any attempts to imagine a better outcome.
+
+Can you try to focus on the physical sensations in your body, without trying to analyze or interpret them? Just notice what's happening in your body, and how it's changing. Are there any other physical sensations that are accompanying the shame and failure narrative? Are there any areas of tension or release that you're experiencing?
+
+I want to try to create a sense of safety and grounding for you, by focusing on your physical body. Can you try to breathe deeply and slowly, and bring your attention to your body? Notice the sensations in your feet, your legs, your arms, your hands. Are there any areas that feel tense or heavy? Are there any areas that feel relaxed or light?
+
+Patient: I tried to follow that — my feet feel heavy, like they're glued to the floor, my legs go a bit numb, hips tight; my arms are locked up and my hands curl into fists, jaw clenched. Slowing my breath calmed me for two breaths and then the machine screamed, "you’ll freeze in the meeting, get fired, lose your place," and the chest clamp doubled down. I’m wiped out — can we stay on the shame/identity stuff longer? It’s hard to ground when that tape won’t shut up.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the machine's narrative is still very much in control, and it's triggering a strong physical response in your body. The heavy feet, numb legs, tight hips, locked arms, and clenched jaw - it's like your body is trying to prepare for the worst-case scenario.
+
+I want to try to help you find a way to calm your body and mind, despite the machine's narrative. Can you try to focus on your breath again, and see if you can find a way to slow it down and calm your body? It's like your body is on high alert, and it's hard to find a way to calm it down when the machine is screaming.
+
+It's interesting that you mention the machine screaming "you'll freeze in the meeting, get fired, lose your place." It's like your mind is trying to protect you from feeling vulnerable or exposed, by immediately coming up with a worst-case scenario. But what if, instead of listening to that narrative, you could try to challenge it? Could you try to reframe that scenario, to find a more positive or realistic outcome?
+
+I want to try to help you explore this further, but I want to do it in a way that feels safe and grounded for you. Can you try to focus on your breath, and see if you can find a way to calm your body and mind? And when the machine's narrative starts to come up, I want you to try to challenge it, rather than listening to it. Can you try to reframe that scenario, to find a more positive or realistic outcome?
+
+Patient: Breathing worked for two breaths and then the machine screamed I'd freeze in the meeting, get fired, lose my place and the clamp just doubled. A sudden spike of shame hit—hot and humiliating—and it makes me feel small and furious, like I want to disappear, and then the tape just spins louder. Reframing feels naive and only gives the machine more ammo; I don't buy other outcomes. Can we stay on this shame/identity piece longer? I'm wiped out and need to go slow.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the machine's narrative is becoming more and more entrenched, and it's triggering a strong physical response in your body. The clamp doubling down, the spike of shame, the feeling of smallness and fury - it's like your entire body is rebelling against the feeling of being exposed and vulnerable.
+
+I want to try to help you find a way to calm your body and mind, despite the machine's narrative. Can you try to focus on a single breath, and see if you can find a way to slow it down and calm your body? It's like your body is on high alert, and it's hard to find a way to calm it down when the machine is screaming.
+
+It's interesting that you mention reframing feeling naive and only giving the machine more ammo. It's like your mind is trying to protect you from feeling vulnerable or exposed, by immediately coming up with a worst-case scenario. But what if, instead of listening to that narrative, you could try to challenge it? Could you try to reframe that scenario, to find a more positive or realistic outcome?
+
+I want to try to help you explore this further, but I want to do it in a way that feels safe and grounded for you. Can you try to focus on a single breath, and see if you can find a way to calm your body and mind? And when the machine's narrative starts to come up, I want you to try to challenge it, rather than listening to it. Can you try to reframe that scenario, to find a more positive or realistic outcome?
+
+Also, I want to check in with you about your physical state. How are you feeling right now? Is there anything that's feeling more or less tense? Is there anything that's feeling more or less relaxed?
+
+Patient: My chest's a vise, shoulders and jaw locked, hands curled up and my feet feel glued to the floor — everything's shallow and tight. When that hits, the shame spikes hot and I feel small and furious, like I want to disappear, and the machine's already narrating me getting fired, homeless, alone. I don't trust breathing or reframing — that just feels naive and only feeds the tape. Can we keep on the shame/identity piece? I'm wiped out and need to go slow.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the shame and humiliation are really intensifying, and it's affecting your entire body. The vise-like feeling in your chest, the locked shoulders and jaw, the curled-up hands, and the feeling of being glued to the floor - it's like your entire body is rebelling against the feeling of being exposed and vulnerable.
+
+I want to try to help you find a way to calm your body and mind, despite the machine's narrative. Can you try to focus on a single, small movement, like taking one tiny breath or shifting your weight slightly? It's like your body is on high alert, and it's hard to find a way to calm it down when the machine is screaming.
+
+I understand that reframing might feel naive, and it's possible that it's just fueling the machine's narrative. But I want to try to explore this further with you, in a way that feels safe and grounded. Can you try to imagine a small, tiny thing that might be true, no matter what the machine says? Something that might be a tiny bit of comfort, even if it's just a small, small thing.
+
+Also, I want to check in with you about your physical state. Is there anything that's feeling more or less tense? Is there anything that's feeling more or less relaxed?
+
+Patient: Okay… my body’s still wrecked — chest like a vise, shoulders and jaw locked, hands curled, feet glued to the floor. I tried shifting my weight and one slow breath and it calmed for two seconds, then the machine screamed “you’ll freeze in the meeting, be exposed as a fraud, get fired, end up homeless” and the clamp just tightened. The only tiny thing I can admit is that I’m here, sitting and talking — but the machine says that just proves I’m stuck and only delaying the collapse. Can we stay on the shame/identity piece longer? I need to go slow.

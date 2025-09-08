@@ -1,0 +1,340 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been caught in these recurring episodes of anger and frustration around significant family conflict, and it's been hard to regulate despite my background as a nurse who's usually composed under pressure. I find myself defaulting to this sort of hyper-analytical mode—cataloguing triggers, theorizing about attachment dynamics and physiological arousal—rather than actually sitting with the sadness or fear beneath it, which probably makes me more impulsive in the moment. I'm anxious about how this pattern is eroding relationships and my own sense of equilibrium.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're noticing a disconnect between your usual self as a calm and composed nurse and the way you're reacting in these intense family conflict situations. Can you tell me more about what happens when you try to "catalogue triggers" or analyze the situation? What does it feel like when you're in that hyper-analytical mode?
+
+Patient: When I start cataloguing, it feels like I'm building this cognitive scaffolding—listing antecedents, assigning weights to provocations, running mini cost-benefit analyses on possible responses—so I can feel like I'm managing risk rather than being swept up in it. Physiologically, I'm often keyed up—tight chest, faster breath—but I translate that into observations about autonomic arousal instead of saying "I'm scared" or "I'm hurt," which somehow creates distance. It gives a faux sense of control and predictability, but the emotional residue—anger, shame, whatever it is—still accumulates and then tends to erupt impulsively later, which is exactly the problem.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the analysis and cataloguing become a way for you to cope with the uncertainty and unpredictability of the emotions that arise during conflicts, and that it's keeping the emotional experience at a distance. You're using a mental framework to feel more in control, but it's not allowing you to truly experience and process the emotions that are still present beneath the surface.
+
+Can you imagine what would happen if you were to let go of the need to catalog and analyze, and instead, simply acknowledged the physical sensations and emotions that arise in the present moment, without trying to make sense of them or assign meaning? What might that feel like for you?
+
+Patient: I think it would feel destabilizing at first — more raw somatic intensity, like heat rising, a faster pulse, that tightness in my chest — but maybe paradoxically a little lighter afterward if I didn't immediately intellectualize it away. My reflex, though, is to translate that into talk about interoceptive dysregulation, threat bias, and attachment schema activation, which is exactly the mechanism that lets me avoid the vulnerability underneath. Honestly, I don't know if I could actually stay with it without wanting to withdraw or snap back into control—can we maybe slow down on that idea a bit?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the idea of acknowledging the raw, intense sensations and emotions without analyzing them is still a bit daunting for you. You're drawn to labeling them as interoceptive dysregulation, threat bias, and attachment schema activation as a way to maintain a sense of control and distance from the experience.
+
+Can you think of what might happen if, for just a tiny step, you allowed yourself to experience the physical sensations and emotions without trying to give them a name or fit them into a framework? What if you simply noticed them, without judgment, and allowed them to be present, without trying to do anything with them?
+
+Patient: Theoretically, I can see how simply attending to the raw somatic markers—the tightness in my chest, the heat in my face, the quickened breath—without semantic overlay could allow the affective charge to dissipate rather than consolidate into later eruptions. In practice my default is to ritualistically reframe everything as "interoceptive dysregulation" or "attachment activation," so I'd need a very tiny, concrete step—like a 30-second guided breath-observation—because I don't trust myself not to slip back into analysis or impulsive reaction. Honestly, I'm already feeling a bit overwhelmed by the idea; can we slow down and actually try one of those tiny experiments together?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're recognizing the value in taking small steps towards not labeling and analyzing your experiences, but you're also aware of your tendency to fall back into familiar patterns.
+
+Let's try a tiny experiment. I'll guide you through a simple 30-second breath-observation exercise. Please find a comfortable seated or standing position, take a deep breath in through your nose, and exhale slowly through your mouth. As you breathe out, bring your attention to the sensation of the breath moving in and out of your body. Notice the sensation of the breath without trying to change it, without trying to analyze it, or even think about it. Just observe the sensation of the breath, without judgment. When your mind wanders (and it probably will), gently acknowledge the thought and bring your attention back to the breath. Can you do this with me for 30 seconds?
+
+Patient: Okay — I’ll try. Inhale... exhale... I'm noticing the breath moving in my chest, a little tightness under my ribs, the face heat, the impulse to tighten my jaw. My mind immediately wants to translate those sensations into "autonomic arousal" and rehearse the last argument, but each time I notice that thought I gently bring attention back to the breath. That felt destabilizing for a moment, and honestly I'm already slipping into analysis about how this is a form of interoceptive exposure — I feel a bit overwhelmed; can we slow down and do another very brief one, maybe with you prompting when my mind drifts?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You've done a great job of gently acknowledging the thoughts that arise and bringing your attention back to the breath. I'm not surprised that your mind started to drift into analysis - it's a natural tendency.
+
+Let's try another very brief exercise. When I say "pause," take a deep breath in, and I'll prompt you to notice the sensation of your feet on the ground. Just focus on the sensation of your feet touching the floor, without trying to think about it, without analyzing it, or labeling it in any way. Just notice the sensation of your feet. Ready? Pause...
+
+Patient: Okay — inhale. I'm noticing the pressure of my heels and the pads of my feet against the floor, a basic proprioceptive anchor that, in theory, should feel grounding. My mind immediately wants to reframe it as "proprioceptive anchoring" and safety signaling instead of just experiencing it, and I'm starting to feel a bit overwhelmed by that impulse to analyze. Can we do another one with you cueing me when I drift?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing great at noticing the sensation of your feet on the ground and recognizing the tendency to analyze it. I'll be here to help you stay with the physical sensations.
+
+When you feel like you're starting to get caught up in analysis, just take a deep breath in, and I'll say "pause" again. You can start again from the sensation of your feet on the ground, without trying to think about it or label it. Ready?
+
+Patient: Okay, I'm ready. I'll take a breath and try to focus on the pressure of my feet—but I can already feel the mind gearing up to reframe it as "grounding somatosensory input," so please say "pause" if I start to drift. Deep breath in now.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Take your time.
+
+Patient: Alright — I'm tuning into the weight of my heels and the slight pressure across the balls of my feet. My mind almost immediately abstracts it into "proprioceptive safety signaling" and runs off; that makes me feel frustrated and a little panicky, like I can't trust myself to stay present. Can you say "pause" now when you notice me drifting?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Pause.
+
+Patient: Okay — taking that pause now: I feel the weight under my heels and a faint warmth in my toes, and immediately my brain wants to slap the label "proprioceptive safety signaling" on it. That urge to intellectualize makes me annoyed with myself and a little panicky, like I'm sabotaging the process; can we do one more very short guided pause with you counting down the seconds so I have a concrete structure to hold onto?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's do a 5-second pause. Inhale... 1... 2... 3... 4... 5... Now, simply notice the sensation of your feet on the ground, without trying to think about it, without labeling it, without doing anything with it. Just be with the sensation.
+
+Patient: I noticed the weight in my heels and a dull warmth in my toes — for a few seconds the urge to slap on a label was quieter, which felt a touch relieving. But my brain kept offering commentary — "proprioceptive safety," "interoceptive signal" — and that meta-narration made me annoyed and a little panicky, like I'm watching myself sabotage being present. Can we do two more of those 5-second pauses with you counting so I have the structure; I think I need the external cue to not drift into analysis.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's do another 5-second pause. Inhale... 1... 2... 3... 4... 5... 
+
+And another one after that. Inhale... 1... 2... 3... 4... 5...
+
+Patient: The first 5 seconds actually felt mildly grounding — the labeling impulse quieted enough that I noticed a little relief in my heels — but by the second one the meta-commentary ramped back up and I felt annoyed and a bit panicky, like I'm watching myself undermine the process. My default is to articulate the phenomenology instead of inhabiting it, which paradoxically keeps the tension unresolved. Could we do three more 5-second pauses with you counting, and maybe one longer 10-second hold at the end? I need that external scaffolding or I can already feel my mind gearing up to theorize again.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's do another 5-second pause. Inhale... 1... 2... 3... 4... 5...
+
+And another one after that. Inhale... 1... 2... 3... 4... 5...
+
+And one more. Inhale... 1... 2... 3... 4... 5... 6... 7... 8... 9... 10...
+
+For the last one, just notice the sensation of your feet on the ground, without trying to think about it, without labeling it, without doing anything with it. Just be with the sensation. Stay with it for as long as you can.
+
+Patient: I managed to stay with the sensation for a few seconds—the weight in my heels and a faint warmth—but then my brain swooped back in with commentary, immediately relabeling it as "proprioceptive grounding," which made me annoyed and a bit panicky. Those few quiet seconds felt like a tiny decompression, but the meta-narration returns and I get impatient and distrustful of the whole experiment. Can we keep doing these external-cue pauses but shift the focus to my chest or throat next? I don't want to stop, I'm just anxious I'll slip straight back into analysis, so I need the structure.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the meta-commentary is still quite strong. Let's try shifting the focus to your chest or throat. We can start with a 5-second pause, and then I'll guide you to focus on the sensation in your chest. Inhale... 1... 2... 3... 4... 5...
+
+As we take the pause, I want you to bring your attention to the sensation in your chest, just notice it, without trying to think about it, without labeling it. Just be with the sensation.
+
+Patient: There's a tight, constricting pressure across my sternum—like someone's tightened a band—and a fluttery, shallow quality to the breaths, but my reflex is to rename it as "autonomic constriction" or "adrenergic surge" instead of admitting I'm scared. That narrativizing frustrates me and makes me angry at myself, and there's a low, stubborn sadness under it I keep sidestepping; can we do another 5-second chest-focused pause with you counting—I need that external cue because I'm already feeling a bit panicky and distrustful I'll slip back into analysis.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the naming of the sensations is becoming more automatic, but still underlying it is a sense of frustration and anger towards yourself. Let's try another 5-second pause to catch that. Inhale... 1... 2... 3... 4... 5...
+
+As we pause, I want you to gently ask yourself: what if you didn't need to label this sensation as "autonomic constriction" or "adrenergic surge"? What if you simply acknowledged it as the sensation in your chest, without trying to fit it into a category or a story?
+
+Patient: If I didn't label it, I think I'd feel exposed — raw fear and a stubborn shame under the anger — which is both terrifying and, paradoxically, maybe a little relieving. My reflex is to intellectualize to avoid that vulnerability, and when I notice the shame or the panic I get angry at myself for being weak, which just feeds the cycle. Can we do another 5-second chest pause with you counting and saying "pause" when I drift? I need the external cueing to not slip back into analysis.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like acknowledging the sensation without labeling it could be a way to confront the underlying emotions, but it's still a daunting prospect for you. Let's try another 5-second pause. Inhale... 1... 2... 3... 4... 5...
+
+I'll pause you whenever you start to drift into analysis. Just focus on the sensation in your chest, without trying to think about it, without labeling it. Let's see what happens if you can simply stay with it.
+
+Patient: I did the 5‑second pause — there was that familiar band of tightness across my sternum and a flutteriness in my breath, and for maybe two seconds I actually stayed with it. Then my brain scrambled to label it — "autonomic constriction," "fight‑or‑flight" — which made me annoyed and ashamed, like I'm sabotaging myself. I'm feeling a bit overwhelmed; can we slow down and keep doing short, cued pauses, and maybe try one with a very brief imagined family interaction so I can practice staying with the sensation without leaping into analysis?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're close to catching a glimpse of the sensation without labeling it, but your brain's tendency to analyze and label is still strong. Let's slow down and keep using the short, cued pauses.
+
+Before we try the imagined family interaction, I want to acknowledge that you're doing a great job of noticing the discomfort and frustration that arises when you try to stay with the sensation. That takes a lot of courage.
+
+Let's do a short pause to process this: inhale... 1... 2... 3... 4... 5...
+
+When you're ready, we can try the imagined family interaction. I'll guide you through a very brief scenario, and you can try to stay with the sensation in your chest without labeling it.
+
+Patient: Okay — I'm willing to try the imagined family interaction, but I'm already feeling a bit anxious about it; my reflex will be to narrativize the whole thing instead of feeling it, so I need it very brief and externally cued. Could you give a one‑sentence prompt (e.g., "your sibling accuses you of not caring") and then count out a 15‑second period where you say "pause" whenever you notice me drifting? I'm a little panicky just saying this, but I want to try.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your sibling accuses you of not caring about their feelings.
+
+Inhale... 1... 2... 3... 4... 5... 6... 7... 8... 9... 10... 11... 12... 13... 14... 15... pause.
+
+Patient: When my sibling accuses me I get that immediate banding across my chest, my breath goes shallow, my face heats up, and there's this rush of anger mixed with a sneaky shame — but my first move is to intellectualize it into rebuttals and labels instead of just feeling it, which makes me panicky and annoyed at myself. I want to keep practicing with your external cues because I can already feel the brain gearing up to narrate; can we do another 15‑second run where you say "pause" when I start to analyze, and if a raw feeling breaks through please prompt me to name it in one word (no theories)? I'm anxious about slipping back into analysis, so I need that scaffolding.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your sibling accuses you of not caring about their feelings.
+
+Inhale... 1... 2... 3... 4... 5... 6... 7... 8... 9... 10... 11... 12... 13... 14... 15... pause. 
+
+When you feel the raw emotion breaking through, I want you to just notice it in one word. That's it. Just one word. What is it?
+
+Patient: Ashamed.
+
+Saying that brings a tightness in my chest and a hot flush, and my brain already wants to reframe it as "schema activation" to avoid the sting. I'm feeling a bit overwhelmed—can you cue "pause" if I start narrating and prompt me to stay with that word for a few breaths?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Ashamed is a powerful word.
+
+Your sibling accuses you of not caring about their feelings.
+
+Inhale... 1... 2... 3... 4... 5... 6... 7... 8... 9... 10... 11... 12... 13... 14... 15... pause.
+
+Just notice the word "ashamed" and stay with it for a few breaths. No thinking, no analyzing, just being with the sensation of that word. Let's see if you can find a bit more stability in that feeling.
+
+Patient: I tried to hold the word "ashamed" for a few breaths — for a moment it was just a heavy knot in my chest and a hot flush, sort of quiet and raw. Then my brain immediately tagged it as "shame schema" and started rehearsing defenses, which made me annoyed and a little panicky. Can you cue me with "pause" on each breath or walk me through a 10‑second guided hold? I'm feeling overwhelmed and need that external structure.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you were able to catch a glimpse of the raw emotion, but your brain is still trying to protect you from feeling vulnerable.
+
+Your sibling accuses you of not caring about their feelings.
+
+Inhale... 1... 2... 3... 4... 5... 6... 7... 8... 9... 10... 
+
+I want you to pause on each breath, and stay with the sensation of "ashamed" for a few moments. Just notice it, without trying to think about it or analyze it. No labeling, no rationalizing. Just be with the feeling.
+
+Patient: Okay—I'm trying to do it. Inhale—pause—there's a heavy knot in my chest and a hot flush, and my reflex is to rename it as "shame schema activation," which immediately makes me annoyed and a little panicky. I'm feeling overwhelmed by the meta‑narration and angry at myself for not just staying with it; can you actually say "pause" on each breath and count me through a 10‑second hold?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10... pause.
+
+Just stay with the sensation in your chest, without trying to think about it, without labeling it. Notice the knot, the heat, the flush. Just be with it.
+
+Patient: I did manage to stay with it for a few breaths — a heavy knot in my chest, heat up my neck, a prickling behind my eyes — and then my brain immediately started narrativizing it as "shame schema activation," which makes me annoyed and kind of furious at myself. I'm sweaty and a little panicky now; the meta‑commentary just feels like sabotage. Can we keep the external scaffolding? Three 10‑second guided holds on the chest with you saying "pause" on each breath would help, and after each hold I want you to ask me to name the dominant feeling in one word (no theories) so I practice staying with it instead of analyzing. I'm not ready to stop — I actually feel like I'm teetering between wanting to withdraw and wanting to push through, so please slow down and keep guiding me.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting close to a breakthrough, but your brain is still trying to protect you from feeling vulnerable.
+
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10...
+
+Notice the sensation in your chest, without trying to think about it, without labeling it. Stay with it.
+
+What is the dominant feeling in one word, without analysis?
+
+Patient: Ashamed.
+
+Saying that brings a tight, hot knot in my chest and my reflex is to intellectualize it away, which just makes me frustrated and a bit panicky—can we continue with the three 10‑second guided holds you suggested, with you cueing "pause" on each breath and asking me to name the feeling after each? I'm not ready to stop and I need that external scaffolding.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your brain is trying to protect you from feeling ashamed again.
+
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10...
+
+Notice the sensation in your chest, without trying to think about it, without labeling it. Stay with it.
+
+What is the dominant feeling in one word, without analysis?
+
+Patient: Ashamed.
+
+Saying that already brings a hot knot in my chest and my mind's gearing up to narrate it away. Can we do those three 10‑second holds now, with you cueing "pause" on each breath and asking me to name the feeling after each? I'm not ready to stop.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your brain is already trying to label it again.
+
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10...
+
+Notice the sensation in your chest, without trying to think about it, without labeling it. Stay with it.
+
+What is the dominant feeling in one word, without analysis?
+
+Patient: Ashamed.
+
+Saying that brings the same hot knot in my chest and a prickly panic, and my brain's already racing to narrate it away. I'm feeling frustrated and a little panicky about slipping back into analysis—can we do the three 10‑second holds now with you saying "pause" on each breath and asking me to name the feeling after each one? I'm not ready to stop.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your brain is getting stronger in its attempt to protect you from feeling ashamed.
+
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10...
+
+Notice the sensation in your chest, without trying to think about it, without labeling it. Stay with it.
+
+What is the dominant feeling in one word, without analysis?
+
+Patient: Ashamed.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Inhale... 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... 7... pause... 8... pause... 9... pause... 10...
+
+Notice the sensation in your chest, without trying to think about it, without labeling it. Stay with it.
+
+What is the dominant feeling in one word, without analysis?
+
+Patient: Ashamed.
+
+Saying that tightens the hot knot in my chest and kicks up a prickly panic, and my reflex is already to narrativize it into "shame schema," which just makes me angrier at myself. I'm feeling overwhelmed—can we do another guided 10‑second hold with you cueing "pause" on each breath? I need the structure; I'm not ready to stop.

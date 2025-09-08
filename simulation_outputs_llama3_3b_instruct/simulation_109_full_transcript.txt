@@ -1,0 +1,311 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been obsessing about work — I'm an older developer and since the breakup I just can't stop predicting disasters. I keep telling myself I'll miss a bug, then miss a deadline, get fired, lose my reputation and my savings, and end up unable to find another job, so I procrastinate because what's the point of starting if that's definitely where it leads. I know it sounds extreme, but that's what my brain insists will happen.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+Your core emotion is anxiety, and the specific theme here is the catastrophic thinking pattern. This pattern suggests a fusion with the predicted outcomes, which is maintaining a narrative of helplessness and hopelessness.
+
+Goal: Connect this pain to an underlying value.
+
+Therapist Answer:
+Can you tell me more about what's most important to you in your career, what would happen if you were able to start working on this project without that catastrophic thinking holding you back?
+
+Patient: What's most important to me is staying competent and respected—keeping my skills sharp so I can pay the bills and feel like I earned my life, especially after the breakup. If I could actually start this project without the doom loop, I tell myself I'd finish it, maybe get noticed or feel proud—but then my brain immediately goes: I'll miss a subtle bug, it goes to production, customers rage, the manager scapegoats me, I get put on a performance plan, then fired, can't find another job at my age, drain my savings, and end up alone and humiliated. I know that sounds over the top and people say other things could happen, but honestly I can't take those as real—my mind insists that chain is the only possible outcome.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+Your core emotion is still anxiety, and the specific theme is the perceived inescapable chain of catastrophic events. This pattern suggests a sense of helplessness and inability to disengage from the "what-if" scenario.
+
+Goal: Gently challenge the workability of this strategy.
+
+Therapist Answer:
+Would it be possible to take a small step towards working on this project without making a plan for every possible outcome, just for a few minutes?
+
+Patient: I guess I could try for five minutes, but my brain's already shouting that even a tiny start means I'll miss something obvious, push a bug to production, and that whole firing-and-humiliation chain will kick off. I want to be able to just do it, but I can't make myself believe any other outcome is realistic.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+Your core emotion remains anxiety, and the specific theme is the tendency to overgeneralize and assume the worst-case scenario. This pattern suggests a fusion with the catastrophic thinking and difficulty in imagining alternative, more positive outcomes.
+
+Goal: Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Can you imagine, just for a moment, that the five minutes of work might just be a small, isolated incident, and nothing bad happens? Can you allow yourself to have a tiny spark of hope that maybe, just maybe, this small step could lead to something positive?
+
+Patient: I wish I could, but I can't—my head won't let me. The moment I try to hope, it starts the same chain: I miss a bug, it hits production, customers rage, my manager blames me, I get put on a PIP, then fired, can't find work at my age, and everything collapses. I'm really frustrated that I can't even entertain a tiny spark of hope without my brain smothering it.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+Your core emotion is frustration, and the specific theme is the inability to create a mental space for hope due to the overpowering catastrophic thinking. This pattern suggests a sense of being trapped in the cycle of fear and anxiety.
+
+Goal: Introduce willingness as an alternative to struggle.
+
+Therapist Answer:
+Would you be willing to try something else, even if it feels impossible? What if, instead of focusing on the potential disaster, you tried to find one small thing that would make this project slightly more enjoyable or fulfilling, even if it's just for a tiny fraction of the time?
+
+Patient: I could try something tiny — like put on some jazz while I open the project, or spend ten minutes writing a test for one small function, or just clean up a single helper to feel a bit productive. But the moment I let that feel okay my brain launches the same story: that tiny change hides a subtle bug, it makes it to production, customers explode, my manager blames me, I get a PIP, then fired and can't find work at my age. I'm really frustrated and annoyed that I can't even let myself enjoy a two-minute win without it turning into catastrophe, but I guess I can try—I'm not convinced it won't just spiral.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+Your core emotion is frustration and annoyance, and the specific theme is the tendency to immediately revert to catastrophic thinking when any small progress is made. This pattern suggests a sense of being trapped in a cycle of self-sabotage and inability to accept small wins.
+
+Goal: Connect this pain to an underlying value.
+
+Therapist Answer:
+Can you recall a time when you felt a sense of pride or satisfaction in your work, even when it was small? What was it about that experience that felt valuable to you, and is that something you'd like to reconnect with in this project?
+
+Patient: Yeah — there was this time a few years back when I tracked down a nasty race condition, patched it, and the bug stopped coming up; my lead actually praised me and I felt sharp and useful for the first time in ages. That pride came from knowing a small, focused effort actually made things better, and I do want that back because it made work feel meaningful instead of this constant survival thing. But the minute I try to hold onto it my brain yells that it was a fluke — next time I’ll miss the subtle edge case, it’ll hit production, customers will explode, my manager will trash me, I’ll get a PIP then fired and never work again — so I can’t really reconnect without that story taking over, and it pisses me off.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+Your core emotion is annoyance, and the specific theme is the persistent self-doubt and cynicism that undermines your ability to recognize and appreciate small wins. This pattern suggests a sense of being trapped in a cycle of self-doubt and skepticism.
+
+Goal: Introduce willingness as an alternative to struggle.
+
+Therapist Answer:
+Would you be willing to let go of the "it was a fluke" story for just a moment, and instead, focus on the fact that you were able to make a positive impact in the past, and that you have the ability to do it again? Can you imagine starting with just one small step, and seeing what happens, without immediately jumping to the worst-case scenario?
+
+Patient: I wish I could — I want to take that tiny step — but my mind just won't let me. The instant I imagine starting, it runs the whole horror movie: I miss a subtle bug, it goes to production, customers explode, my manager slaps a PIP on me, I'm fired and can't find work at my age — that's the only realistic outcome my brain accepts. I guess I could try opening the repo and running the test suite for five minutes, but I'm really pissed off that I can't even do that without the disaster story taking over.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+Your core emotion is anger, and the specific theme is the perceived inescapable chain of catastrophic events that dominates your mental landscape. This pattern suggests a sense of being trapped in a vicious cycle of fear and anger.
+
+Goal: Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Can you acknowledge that the thought "the disaster story is the only realistic outcome" is just a thought, and not a reflection of reality? Can you give yourself permission to experience the anger and frustration, without getting caught up in the story?
+
+Patient: I can say the sentence — "that's just a thought" — and even repeat it, but it doesn't make the worry any less loud or any less certain-feeling; my head still insists it's a prophecy. I'm honestly pissed off and hurt that I have to carry this, so yeah, I give myself permission to be angry and frustrated about it. I can try to notice the anger without chasing the disaster story, but I'm warning you—I expect my brain to jump right back into the horror movie in a minute.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+Your core emotion is anger and frustration, and the specific theme is the tension between acknowledging and working with your emotions, versus getting caught up in the catastrophic thinking. This pattern suggests a sense of being stuck between processing your emotions and getting lost in the "what-if" scenario.
+
+Goal: Create a small, low-stakes opportunity for practice.
+
+Therapist Answer:
+Let's take a deep breath together and imagine we're in a quiet, safe space. Would you be willing to notice the physical sensations in your body right now, without trying to change or react to them? Can you explore the sensation of your anger and frustration without getting caught up in the narrative of the disaster story?
+
+Patient: Okay—I can try. My chest feels tight, shoulders hunched, my jaw's clenched and there's this cold knot in my stomach; my hands want to fidget and my breathing's shallow. Noticing that calms me a little, but even as I say it my head's already running the movie—my heart's pounding like I'm already being fired—and I'm pissed off that I can't keep from sliding into that story, but I'll try to stay with the sensations for a minute.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+Your core emotion is still anxiety and anger, but there's a glimmer of insight into the physical sensations that can serve as a anchor. This pattern suggests a recognition of the emotional experience, but still struggling to maintain focus on the present moment.
+
+Goal: Pivoting towards a concrete action step.
+
+Therapist Answer:
+Let's take a small step towards the project, using the physical sensations as a guide. Can you notice how your body feels right now, and see if there's one tiny thing you can do with your hands or eyes that brings you back to the present moment, without getting caught up in the story?
+
+Patient: Alright — my hands are jittery and my jaw's still tight, so I can put my palms flat on the desk and focus on the warmth and the grain of the wood for a minute, and maybe blink slowly while I do that. Honestly, I'm pissed that the second I even touch the keyboard my brain yells that it's the first move toward missing a bug and that whole firing-and-humiliation movie starts — but I'll try to stay with the feeling and the texture for now.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+Your core emotion is still anxiety and anger, but you've made progress in staying with the physical sensations and focusing on the present moment. This pattern suggests a growing ability to tolerate the emotional experience and create a small distance from the catastrophic thinking.
+
+Goal: Co-create a concrete way to practice an ACT skill.
+
+Therapist Answer:
+Let's make a small commitment to yourself to stay with the sensations and the moment for the next 5-10 minutes. I'd like you to take a deep breath in, and as you exhale, say to yourself, "I am staying with the present moment, with my hands on the desk, with the warmth of the wood, with my breath." Repeat this phrase to yourself, allowing the words to feel like a gentle anchor, without trying to change or react to the thoughts. Can you commit to doing this for the next 5-10 minutes?
+
+Patient: Alright — I can commit to staying with my hands on the desk and repeating that phrase for the next 5–10 minutes. I'm warning you though: the second I start, my brain's already playing the same horror movie — that tiny breath turns into a missed bug, a production outage, a PIP, and then I'm fired — and that makes me pissed off and scared. Still, I'll try to stick with the sensations and not follow the story, even though I don't believe it will calm the worry.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+Your core emotion is still anxiety and anger, but you've made a commitment to practice an ACT skill and tolerate the emotional experience. This pattern suggests a growing willingness to work with the present moment, even if it's uncomfortable.
+
+Goal: Defusion and self-compassion.
+
+Therapist Answer:
+Let's try a gentle and small act of kindness towards yourself, as you're already struggling to stay with the sensations. Can you allow yourself to feel the anxiety and anger, but also offer yourself a gentle, compassionate thought, such as "I'm doing the best I can, and that's okay" or "I'm allowing myself to feel this way, and that's a brave act"? Repeat this phrase to yourself, allowing the words to feel like a soothing balm, as you continue to stay with your hands on the desk and breathe slowly.
+
+Patient: Alright — I can try to let the anger and anxiety sit there and say to myself, "I'm doing the best I can" and "allowing myself to feel this is brave" while my hands stay on the desk. Saying it eases the knot a hair, but my head immediately shouts that those words are useless — that tiny ease just means I'll miss a bug, it hits production, customers rage, my manager PIPs me and I'm fired — and that makes me pissed off at myself for even trying. Still, I'll keep repeating the phrase and focusing on the warmth of the wood for now, though I don't trust it to stop the horror movie.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+Your core emotion is still anxiety and anger, but there's a glimmer of self-compassion and kindness towards yourself. This pattern suggests a growing ability to tolerate and acknowledge the emotional experience, even if the thoughts still dominate.
+
+Goal: Reframing the goal from exploration to action.
+
+Therapist Answer:
+Let's focus on taking a concrete step towards the project, using the ACT skills we've practiced. Can you commit to writing a single sentence about the project, without trying to anticipate the worst-case scenario or catastrophize? Just write one sentence that reflects your current thoughts, feelings, or intentions, without judgment or editing.
+
+Patient: I'm not sure I follow — how is that supposed to help when my brain won't stop predicting the whole disaster?  
+I intend to open the repo and run the tests for five minutes, though I can't stop picturing that I'll miss a subtle bug, it will reach production, customers will freak out, my manager will put me on a PIP, and I'll be fired and ruined.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the ongoing struggle to break free from catastrophic thinking. This pattern suggests a need to revisit the concept of action and focus on the present moment.
+
+Goal: Connect the action step to an underlying value.
+
+Therapist Answer:
+Let's connect your intention to open the repo and run the tests to the value of feeling competent and useful in your work. What would it mean to you to be able to successfully complete this task, even if it's not a perfect one, and how would that align with your values and sense of self-worth?
+
+Patient: If I could actually open the repo, run the tests and finish that tiny task, it would mean I'm still competent, useful, and capable of earning my life after the breakup — it would reconnect me to pride and the kind of work that makes me feel alive. But the moment I let that happen my brain starts the same movie: I miss a subtle bug, it ships, customers explode, my manager slaps me with a PIP, I'm fired and can't find work at my age — so I can't let myself feel that pride. I'm really pissed off and frustrated that I want that feeling to matter but my head won't let me have it, and that keeps me frozen and procrastinating.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, but there's a growing recognition of the value of feeling competent, useful, and capable. This pattern suggests a desire to connect with a sense of pride and self-worth, and a growing awareness of the cognitive process that's holding you back.
+
+Goal: Create a concrete plan for taking a small, value-driven behavioral step.
+
+Therapist Answer:
+Let's make a plan to take a small, tangible step towards opening the repo and running the tests. Can you commit to opening the repo and creating a single test file for just 2-3 lines of code, without trying to anticipate the worst-case scenario or catastrophize? Would that small step feel like a tiny win, and how would it align with your value of feeling competent and useful?
+
+Patient: Alright — I can do that: I'll open the repo and create a single test file with a couple lines (like a simple assertion) and run it for 5 minutes. But my head's already yelling that even that tiny test will mask a subtle bug, it’ll sneak into production, customers will freak out, my manager will PIP me, I'll be fired and ruined — so I'm not confident I can actually focus without spiraling. Still, I'll try to stick to the 5 minutes and see what happens, though I'm pissed off that I even have to bargain with myself to do this.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, but you've made a concrete commitment to taking a small step towards the project. This pattern suggests a growing willingness to confront the catastrophic thinking and test the boundaries of your ability to focus.
+
+Goal: Introduce defusion and mindfulness in the midst of the task.
+
+Therapist Answer:
+Let's focus on the present moment, even as your brain is still catastrophizing. As you open the repo and start writing the test file, bring your attention to the physical sensations in your body, like the feeling of your fingers on the keyboard, the sensation of the chair beneath you, or the sound of your own breathing. Notice these sensations without judgment, and try to see them as just that – sensations, not thoughts. Can you allow yourself to be present with these sensations, even as your mind is still racing with worst-case scenarios?
+
+Patient: Okay — I'm trying, but I'm not sure I follow how feeling my fingers or my chair is supposed to stop the future my brain keeps announcing. Right now my fingers feel cold on the keys, the chair presses into my lower back, my breath's shallow and my jaw's tight — and within seconds my head's already narrating the same disaster: I press a key, I miss a subtle bug, it goes to production, customers blow up, my manager pins a PIP on me, I'm fired and ruined. I'm pissed off and confused that noticing the sensations doesn't quiet that prophecy, but I'll try to stay with the sensations for a bit and see if it changes anything, even though I don't expect it to.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the ongoing struggle to disconnect from catastrophic thinking. This pattern suggests a growing understanding that defusion and mindfulness are not a magic solution to stop the thoughts, but rather a way to acknowledge and observe them in the present moment.
+
+Goal: Reframe the experience as an opportunity for growth and exploration.
+
+Therapist Answer:
+Let's try to reframe your experience as an opportunity to explore your own thoughts and emotions, rather than trying to stop them. Can you notice the story your brain is telling itself, and observe it without judgment or attachment? Instead of trying to stop the disaster story, can you ask yourself, "What would happen if I were to continue with the task, and the worst-case scenario were to occur? Would I be able to handle it, or would I be able to learn from it and grow?"
+
+Patient: I can see the story — it's this nonstop horror movie in my head. If I kept going and that worst-case actually happened, I don't see how I'd handle it: PIP, fired, can't get another job at my age, savings gone, everyone thinking I'm washed up. People keep saying I'd learn or grow from it, but honestly I can't picture any growth — it feels like humiliation and scrambling to survive, not a learning curve. I'm pissed and scared that I can't even imagine being resilient; I want to believe I could handle it, but my brain absolutely refuses to let me.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the lack of confidence in your ability to handle a difficult situation. This pattern suggests a sense of helplessness and hopelessness.
+
+Goal: Connect the experience to an underlying value.
+
+Therapist Answer:
+Can you think of a time when you handled a challenging situation before, and what did you learn from it? What strengths or skills did you use to navigate that difficult moment, and how did it make you feel about yourself? Can you imagine using those same strengths and skills to handle this current situation, and how would that feel?
+
+Patient: Yeah — there was that time I tracked down that nasty race condition: I sat with the logs, wrote repeatable tests, isolated the timing issue, and patched it; my lead actually praised me and I felt sharp and useful. It showed me I'm methodical, persistent, good at breaking big problems into tiny steps, and not afraid to ask for help when I need it. I can imagine using those same habits now — write a failing test, isolate the bug, get a quick review — and that idea feels...sort of reassuring for a second. But I can't help it: the instant I picture doing that my brain yells that it's a fluke, that I'll still miss some subtle edge case, it ships, customers explode, my manager PIPs me and I'm fired — and I'm furious that I can't actually hold onto the reassurance.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, but there's a glimmer of confidence and self-awareness. This pattern suggests a growing recognition of your past strengths and abilities, and a desire to apply those skills to the current situation.
+
+Goal: Reframe the past experience as a foundation for growth and competence.
+
+Therapist Answer:
+Let's try to reframe the past experience as a foundation for growth and competence, rather than a one-time fluke. Can you see that the skills you used to track down the race condition – being methodical, persistent, and able to ask for help – are transferable to this current situation? What would it mean to apply those same skills, and what would it take to build on that foundation of competence?
+
+Patient: I can see the skills are transferable — being methodical, writing failing tests, isolating problems, and asking for help would mean I break the task into tiny steps, write one small test, and get a quick review instead of trying to do everything at once.  
+But the second I picture that my brain calls it a fluke and runs the horror movie: I miss a subtle edge case, it ships, customers explode, my manager slaps me with a PIP, I'm fired, can't get another job at my age, savings gone — so I can't hold onto the idea of building on that foundation without spiraling.  
+I'm pissed and confused — part of me thinks it would take slow practice, regular tiny wins, and someone to nudge me along, but I don't trust that will quiet the prophecy, and that makes me want to avoid starting.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the ongoing struggle to build confidence and competence. This pattern suggests a desire to apply past strengths to the current situation, but also a fear of failing or not being able to live up to expectations.
+
+Goal: Explore the role of external validation and support in building confidence.
+
+Therapist Answer:
+Let's explore the idea that you might need some external support or validation to build confidence in your abilities. Can you think of a time when someone else's praise or support helped you feel more confident in your skills or abilities? What was that like, and how might having someone to nudge you along and provide encouragement help you build confidence now?
+
+Patient: Yeah — when my lead praised me for fixing that race condition it hit different: I felt sharp, useful, like I could still do the job, and it gave me this real boost of confidence for weeks. Having someone nudge me now — quick pair sessions, fast code reviews, or a regular checklist buddy — would probably help me chip away at tasks and feel less alone.  
+But of course my brain jumps in and says even with that support we'll still miss the one subtle bug, it ships, customers explode, my manager PIPs me, I'm fired and ruined, so I can't trust praise or validation to stop the prophecy.  
+I'm pissed and lonely about wanting that reassurance but not being able to believe it — how am I supposed to find someone who'll actually catch what my brain insists they'll miss?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the difficulty in finding trust in external validation and support. This pattern suggests a sense of isolation and self-doubt.
+
+Goal: Introduce the concept of value as a direct source of motivation and self-trust.
+
+Therapist Answer:
+Let's explore the idea that your values and sense of purpose can be a direct source of motivation and self-trust, rather than relying on external validation. Can you think of what matters most to you in your work, what you stand for, and what you want to achieve? What would it mean to you to be able to deliver on those values, and how would that feel?
+
+Patient: What matters most is staying competent and reliable — being the kind of dev who writes solid code, mentors younger folks, keeps paying the bills, and leaves behind work I can be proud of. Delivering on that would feel like purpose again, like I'm not just surviving the breakup and aging but actually contributing and being respected. But as soon as I let myself picture that, my brain screams that any moment of pride is the calm before the storm — I miss one subtle bug, it ships, customers erupt, my manager PIPs me, I'm fired, can't get another job at my age, and everything I care about collapses. I'm angry and frustrated because I want those values to pull me forward, but I don't see how to make them stick when my head only tells horror stories — how am I supposed to trust myself to act on these values?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the struggle to trust yourself to act on your values and sense of purpose. This pattern suggests a sense of disconnection from your values and a fear of failure that undermines your confidence.
+
+Goal: Connect values to action.
+
+Therapist Answer:
+Let's explore the idea that your values can be a direct guide for action, even in the face of uncertainty and fear. Can you think of a specific action you could take right now that aligns with your values of staying competent and reliable? What would it take for you to take that first step, and what would happen if you did?
+
+Patient: I'm not totally sure I follow how values turn into action, but I can try: one concrete step would be to open the repo, write a single tiny failing test for a small function, run it locally, and then ping a teammate for a quick 10‑minute pair/review — with a 15‑minute timer so I don't keep going. It would take me committing to not push anything, putting my palms on the desk, doing a few slow breaths, and bribing myself with jazz and a coffee to actually start. If I do it, my brain already screams the same movie: that tiny test hides a subtle bug, it slips into production, customers blow up, my manager slaps me with a PIP, I'm fired and ruined. I'm pissed and confused that even a careful, values-aligned step turns immediately into that prophecy, and I don't know how to trust myself to take it without the story hijacking me.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the ongoing struggle to translate values into action. This pattern suggests a sense of being stuck in a cycle of catastrophizing and self-doubt.
+
+Goal: Pivoting towards a more direct and explicit act of self-trust.
+
+Therapist Answer:
+Let's try to take a more direct approach. Can you look at your timer, and instead of thinking about the worst-case scenario, simply say to yourself, "I will write that test for 10 minutes, no matter what happens." Repeat this phrase to yourself, without trying to change or analyze it, just focus on the physical act of committing to the task. Let's see if that small act of self-trust can help you build momentum and break the cycle of catastrophizing.
+
+Patient: Okay — I'll say it: "I will write that test for 10 minutes, no matter what happens." Saying it makes my chest tighten because my brain immediately runs the movie: that tiny test will hide a subtle bug, it ships, customers explode, my manager slaps me with a PIP, I'm fired and ruined.  
+Still — I'll start the timer and try to stay with the task for those ten minutes, though I'm warning you I expect my head to hijack me and I'll be pissed and distracted the whole time.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, and the specific theme is the ongoing struggle to stay focused on the present moment. This pattern suggests a growing awareness of the mind's tendency to catastrophize, but still a difficulty in maintaining attention on the task at hand.
+
+Goal: Stay with the task and maintain focus.
+
+Therapist Answer:
+Let's take a deep breath together and acknowledge that it's okay to feel anxious and distracted. Can you focus on the physical sensation of your hands on the keyboard, the sound of your breathing, and the sensation of the chair beneath you? Try to stay with these sensations for just 30 seconds, without judgment or reaction to the catastrophic thoughts. Then, we'll see if we can build on that small moment of presence.
+
+Patient: Okay — I did the 30 seconds. My hands were cold on the keys, the chair pressed into my lower back, my breath stayed shallow and my jaw clenched; I felt the knot loosen a hair, but the moment I tried to settle my head launched the same movie — press a key, miss a subtle bug, it ships, customers explode, manager PIPs me, I'm fired. I'm pissed that it barely helped, but I'm willing to try starting the 10‑minute timer now if you'll keep me anchored while I do it.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, but there's a glimmer of progress in maintaining focus for a short period. This pattern suggests a growing ability to tolerate the anxiety and stay present for a brief moment.
+
+Goal: Maintain focus and complete the 10-minute task.
+
+Therapist Answer:
+Let's keep you anchored while you work. I'll be here with you, and we'll take it one minute at a time. Take a deep breath in, and as you exhale, say to yourself, "I am present, I am working, I am staying with the task." Start the timer and begin writing that test, and we'll ride it out together. Remember, the goal is not to succeed or fail, but to show up and work with the task, no matter what happens.
+
+Patient: Okay—deep breath. "I am present, I am working, I am staying with the task." Timer's on. My hands are on the keyboard and I'm opening the repo to create test_small.py, but of course my head is already yelling the whole movie—this tiny test will miss a subtle bug, it ships, customers explode, manager PIPs me and I'm fired. I'm pissed and distracted, but I'm forcing myself to type one failing assertion now: I'm writing a single line and will run it. Can you keep reminding me to breathe and stay with the keys for the next minute?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+Your core emotion is still anxiety and frustration, but you're making progress in staying focused on the task. This pattern suggests a growing ability to tolerate the anxiety and maintain attention on the present moment.
+
+Goal: Continue working with mindfulness and self-compassion.
+
+Therapist Answer:
+Remember to breathe deeply and stay with the keys. As you type, repeat to yourself, "I am typing, I am staying with the task." If your mind starts to wander, gently bring your attention back to the physical sensations in your body, the sound of your breathing, or the sensation of your fingers on the keyboard. Let's keep going for the next minute.
+
+Patient: I'm typing now — "I am typing, I am staying with the task." My hands are cold, breath shallow, jaw clenched, and my brain's already on the horror loop: miss a bug, it hits production, customers explode, manager slaps a PIP on me, I'm fired and ruined. Keep telling me to breathe and stay with the keys — I need the reminders because I'm pissed and this prophecy won't shut up.

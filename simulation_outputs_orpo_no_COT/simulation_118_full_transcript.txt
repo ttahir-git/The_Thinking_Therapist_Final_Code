@@ -1,0 +1,163 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been stuck in this loop of really harsh self-criticism — I beat myself up over every perceived failure, even little things. I think it traces back to struggling in school, even though I found success later as a data scientist, and with job instability and my OCD it's feeling louder lately. I don't know, I guess I'm just tired of feeling like I'm always failing.
+
+
+--- Turn 1 ---
+Therapist: It sounds like that self-criticism feels especially loud right now, especially with your OCD and job instability. What would it be like to notice that criticism showing up, even when it feels like you're failing - without making room for it to push you away from doing something valuable to you?
+
+Patient: I guess it would feel really shaky — my chest tightens and I start second-guessing everything. I don't know, maybe if I could notice it without reacting I'd still go ahead and apply for jobs or finish a project, but it feels almost impossible to let the voice just be there. I get impatient with feelings, so I usually try to shove them aside and then wonder why nothing changes.
+
+
+--- Turn 2 ---
+Therapist: That makes sense - when you try to push the feeling away, it just seems to get louder. When you notice the tightness in your chest and second-guessing, what would happen if you allowed that feeling to stay there for just a tiny bit - not to change it, but just to be with it?
+
+Patient: I don't know. I guess at first it'd feel worse — chest tighter, thoughts louder — but maybe if I actually let it hang out for a minute, it might pass or at least not make me run away. It's uncomfortable to even imagine doing that; I'm getting kind of overwhelmed — can we... I don't know, talk about how other people handle it without spiraling?
+
+
+--- Turn 3 ---
+Therapist: It can feel really hard to imagine that small step, especially when it's scary. Can you tell me what happens when you imagine someone else doing that - like, what does it look like for them, and how does it feel for them to stay with that tightness and loud thoughts while still showing up for something important?
+
+Patient: I don't know — I guess they'd notice the tightness, name the thought (like, "there's that critic again"), and still keep doing the next small thing, like send one email or work for ten minutes. Maybe they'd breathe, remind themselves it's okay to be imperfect, and the panic stays loud but doesn't stop them from moving forward. I'm getting kind of anxious talking about this — could you give me a concrete example of what someone might actually say to themselves in that moment?
+
+
+--- Turn 4 ---
+Therapist: That sounds like a really small, manageable step. When someone notices that tightness and loud thought while still showing up for something important, they might say something like: "I'm feeling really stuck right now, but I need to send this email to the team. I can feel my heart racing, and that critic is saying I'm not good enough. Okay, I'm going to take a deep breath, and I'm going to write one sentence about why this email matters to me. Not about why I'm good enough, but about why this matters."
+
+(No advice or solution - just noticing what happens when they stay with the feeling while still moving forward.)
+
+Patient: I don't know — I guess that sounds doable in theory, but when I try to do it I just freeze and my brain goes, "Nope." I'm already feeling kind of exposed talking about this; can we try doing one of those lines together right now, or maybe talk about how my OCD rituals kick in when I try to send stuff?
+
+
+--- Turn 5 ---
+Therapist: That sounds really hard to notice right now. When you feel that freeze, what happens to your body - like, what sensations do you notice in your chest or hands?
+
+Patient: I don't know. I guess my chest just tightens — like a weight — and my breathing gets really shallow so I start panting a bit. My hands go numb or start fidgeting, my jaw clamps, and then my head goes kind of foggy and blank so I can't get the words out. I'm feeling a bit exposed saying that — can we try one of those self-lines together now?
+
+
+--- Turn 6 ---
+Therapist: That sounds really tough. Let's try one small step - what if you said to yourself, "I'm noticing my chest feeling tight right now, and my breathing is shallow. *pause* That's what's happening. I'm not trying to change it, I'm just noticing it." *pause* Then, what would it be like to *just* take one small step, like opening your hand or looking away from the screen, while you're noticing that tightness?
+
+Patient: I don't know. I guess I can try — my chest's already tighter and my breath's shallow, but okay, I'm opening my hand now and it's kind of trembling. I feel exposed saying that and honestly a bit stupid, so can we... I don't know, maybe just do one more tiny thing like look away for a couple seconds?
+
+
+--- Turn 7 ---
+Therapist: It's like you're already doing the hard part. When you look away for just a couple seconds, what happens to that trembling - does it change at all? Not because you're trying to stop it, but just because you're noticing it while you're looking away.
+
+Patient: I don't know — I guess the trembling eases a little when I look away, like my breath slows and the fog in my head thins a bit, but the critic's voice is still nagging. I'm feeling exposed talking about this, so can we... maybe switch to something concrete, like what one sentence I could actually write in a job email when that voice shows up?
+
+
+--- Turn 8 ---
+Therapist: That sentence can be really helpful. What if, when you're writing that email, you could say something like: "I'm sharing this update with the team because I think it matters for our project's success, and I'm open to feedback." Not because you're trying to prove yourself, but because you genuinely care about the project and want to work together.
+
+Patient: I don't know — I guess that line makes sense, but it feels weird and exposed to write something that sounds like I'm fishing for approval. Maybe something super concrete and plain would help, like: "Quick update — I completed the analysis on X and recommend we move forward with Y; welcome any feedback." I don't know, can we tweak it so it sounds straightforward and not like I'm trying to prove anything?
+
+
+--- Turn 9 ---
+Therapist: Let's try to tweak it even further. What if you said: "I completed the analysis on X and recommend we move forward with Y. I'm sharing this because it's relevant to our project." That line still sounds straightforward, but it doesn't imply you're trying to prove anything - it's just stating a fact and sharing it because it matters.
+
+Patient: I don't know — that actually sounds more plain and less like I'm fishing for approval, so I guess I could send it. But I'm already getting anxious just imagining hitting send; my OCD kicks in and I start over-checking and tweaking every word. Can we try role-playing me sending it and you saying what might happen next, or is that too much?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist: That sounds really tough. I'm not going to stop you from sending it - I want to help you see what might happen next. Let's try it: you hit send, and you feel a tiny moment of relief that it's done. Then, what happens next?
+
+Patient: I hit send and there's this tiny, weird relief for a second, and then my head dives straight into worst-case—what if it's wrong, what if they think I'm useless. I start refreshing my inbox and re-reading the message in my head; the OCD wants me to check every detail a hundred times. I guess I just feel kind of drained saying that—can we talk about ways to handle the urge to keep checking?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist: It sounds like you're already noticing the urge to check and re-check, and that's really tough. When you feel that urge, what matters most to you in that moment - is it making sure everything is perfect, or is it actually getting the work done?
+
+Patient: I'm not sure I follow. I guess in the moment it feels like trying to make it perfect — like if anything's off it proves I'm useless — but I also want to actually get the work done. How is knowing which one matters supposed to help me stop the checking?
+
+
+--- Turn 12 ---
+Therapist: Let's try to make a tiny distinction: when you're checking the email over and over, what's driving that checking - is it the fear that it's not perfect, or is it actually the desire to be done with it and get it out of your system?
+
+Patient: I don't know, I guess it's both—but mostly the fear that if I miss something it'll prove I'm useless. The checking feels like a quick safety check that calms me for a second but just leaves me more drained, so I keep doing it. Can we... maybe talk about one tiny thing I could try next time instead of spiraling?
+
+
+--- Turn 13 ---
+Therapist: Let's try something small. When you notice yourself reaching for that checking instinct, what if you just paused for a second before reaching for your phone? Like, you could say to yourself, "I'm feeling the urge to check... and that's okay. I can just notice it, and then I can choose what to do next."
+
+Patient: I don't know — I guess I can try to pause, but half the time my hand's already on my phone before I even notice. Maybe counting to five or saying, "I'm feeling the urge to check," out loud once could work, but it feels kind of dumb and I'm already worn out talking about this. Can we figure out a practical way to make that pause actually stick when I'm at my worst?
+
+
+--- Turn 14 ---
+Therapist: It sounds like you're looking for a way to make that pause work even when you're already feeling worn out. Let's try to find a small anchor that might help you pause when your hand is already on your phone. What if, when you notice your hand reaching for your phone, you could just touch your knee instead? That small physical action might help you pause just long enough to choose what to do next.
+
+Patient: I don't know — touching my knee sounds kind of dumb, and half the time my hand's already on the phone before I even notice. Maybe putting the phone in another room or turning on Do Not Disturb feels more reliable, but I'm worn out even talking about fixes. Could we... try role-playing that pause once, just to see if it might actually help?
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist: It sounds like you're feeling really exhausted from trying to figure out what to do next. Let's try something small. Imagine we're sitting here together, and I'm going to make a tiny request of you. When you notice your hand reaching for your phone, I want you to look at me and say, "I'm feeling the urge to check." Just that one sentence. No need to do anything else.
+
+Patient: I don't know... okay. "I'm feeling the urge to check." I guess saying it makes me feel kind of dumb and small, like I'm back to failing, and I'm already worn out. Can we try that one more time?
+
+
+--- Turn 16 ---
+Therapist: It sounds like saying it feels connected to that feeling of failing. Let's try it again, but this time, I want you to say it to me without judgment. When you notice your hand reaching for your phone, I want you to look at me and say, "I'm feeling the urge to check." Just that one sentence. No need to do anything else.
+
+Patient: I don't know... "I'm feeling the urge to check." Saying that makes me feel kind of small and ashamed, like I'm back to being useless, and it's annoying. Can we... try that one more time?
+
+
+--- Turn 17 ---
+Therapist: It sounds like saying it makes you feel like you're falling back into that pattern of shame. Let's try something different. When you notice your hand reaching for your phone, I want you to notice the physical sensation of that urge - what does it feel like in your body? Not the thought or the judgment, just the physical sensation.
+
+Patient: I don't know... I guess it's a heavy squeeze in my chest, breath gets shallow, my fingers tingle like an itch and my hands start fidgeting — jaw clamps and my head goes foggy. Saying any of this makes me feel small and ashamed, like I'm back at something I failed at. Can we... try that "I'm feeling the urge to check" line one more time, quick?
+
+
+--- Turn 18 ---
+Therapist: Let's try it one more time. When you notice that heavy squeeze in your chest, and the shallow breath, and the tingling in your fingers, and the fidgeting in your hands... *just pause*... and notice that urge to check, what would it be like to say "I'm feeling the urge to check" *just once*, without trying to change it or make it go away?
+
+Patient: I don't know... "I'm feeling the urge to check." Saying that makes my chest tighten and this old shame slides back in — I feel drained and small, like I'm back to failing. Can we try the knee-touch pause now or do a quick role-play of hitting send and not checking? I'm already getting kind of overwhelmed.
+
+
+--- Turn 19 ---
+Therapist: It sounds like you're feeling really stuck and overwhelmed. I'm not going to push you to do anything else right now. Let's just acknowledge that it feels like trying to pause or say the sentence is making things worse, and that's okay. If you're ready, we can try to come back to this later when you feel a bit more grounded. For now, I'm going to check in with you: what matters most to you right now - is it getting that work done, or is it something else?
+
+Patient: I don't know. I guess getting the work done matters long-term, but right now what matters most is not collapsing into that shame spiral — I just want a few minutes where I don't feel useless. I'm already wiped and overwhelmed, so can we do that quick role-play of hitting send and not checking?
+
+
+--- Turn 20 ---
+Therapist: It sounds like you're craving a tiny moment of not feeling useless right now. Let's try the role-play. Imagine you're sitting at your desk, and you've got the email ready to hit send. But before you do, you notice your hand reaching for your phone. *pause* Instead of checking, what if you just put the phone down and said to yourself, "I'm going to hit send." *pause* What happens if you do that, just for a tiny moment?
+
+Patient: I don't know... I guess if I say "I'm going to hit send" and actually do it, there's a tiny relief for a second and then my brain rockets into worst-case and the checking kicks in. It drags up that old shame and I feel small and frozen—can we try the role-play of me hitting send and you saying what happens next? I'm kind of wiped, so keep it really short.
+
+
+--- Turn 21 ---
+Therapist: Let's try it. Imagine you hit send, and it feels like a tiny weight lifting for a second. You notice your breathing slowing down, and your hand feels a bit lighter. Your brain starts to think, "What's the worst that could happen if I sent it?" And... what happens next?
+
+Patient: I hit send and there's this tiny lift for a second, then my brain rockets into worst-case—what if it's wrong, what if they think I'm useless—and I start refreshing and re-reading. It drags up that old shame and I feel drained and frozen. I don't know... can we do that really short role-play of what happens after I hit send?
+
+
+--- Turn 22 ---
+Therapist: Let's try it. You hit send, and for a tiny moment, it feels like the weight of it matters. Then your brain starts racing... *what happens next*
+
+Patient: I hit send and there's that tiny lift, and then my brain rockets into worst-case — I'm refreshing, re-reading, picturing them thinking I'm useless. The old shame floods back, my chest tightens and my jaw clenches and I just freeze. I don't know, I guess... can we do that really short role-play of a teammate replying so I can see it might not be catastrophic?
+
+
+--- Turn 23 ---
+Therapist: Let's try it. You hit send, and for a tiny moment, it feels like the weight of it matters. Then your brain starts racing... *and then* you imagine your teammate responding with something kind, like "Thanks for sharing that update, I really appreciate it." *what happens next*
+
+Patient: I don't know... I guess if they replied kindly I'd feel a tiny, stupid relief — like my chest loosens for a second — but then the old shame sneaks back and I start questioning if they were just being polite or actually meant it. I'm already wiped talking about this, so can we... role-play that reply once, really short, so I can see how it lands?
+
+
+--- Turn 24 ---
+Therapist: Let's try it. You hit send, and for a tiny moment, it feels like the weight of it matters. Then your brain starts racing... *and then* your teammate responds with a message that says exactly what you needed to hear: "I really appreciate your honesty about this." *what happens next*
+
+Patient: I don't know... I guess I'd feel a tiny, stupid relief for a second, then doubt would creep back in — wondering if they were just being polite — and that old shame would pull me flat again. I'd probably mumble a short "Thanks" and then start overthinking it. Can we role-play that teammate reply one more time, real quick, so I can see how it lands?
+
+
+--- Turn 25 ---
+Therapist: Let's try it. You hit send, and for a tiny moment, it feels like the weight of it matters. Then your brain starts racing... *and then* your teammate responds with a message that says exactly what you needed to hear: "I really appreciate your honesty about this. Let's talk about it." *what happens next*
+
+Patient: I don't know... I guess I'd feel a tiny relief at first, like my chest loosens for a second. Then the doubt would sneak back—wondering if they actually meant it—and I'd probably mumble, "Thanks, yeah let's talk," and then replay every word for hours. Can we do that short role-play now, me replying and scheduling the time? Keep it really brief, I'm pretty wiped.

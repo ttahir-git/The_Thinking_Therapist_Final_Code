@@ -1,0 +1,362 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm a teacher and I recently moved, and lately I've been feeling stuck and kind of directionless. I keep realizing that most of what feels important to me is just my job, and I don't know what matters beyond that which makes my anxiety worse. I don't really like talking about it—I guess I'm avoiding it, I don't know.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It takes a lot of courage to acknowledge a sense of being stuck, especially when it's tied to something as fundamental as your job. It's almost as if you're asking yourself a very honest question: what's the point of it all? Can you tell me more about what happens when you start to think about what might be important to you, beyond your job? Does it feel scary, or more hopeful?
+
+Patient: I don't know... when I try to think about things beyond work it mostly feels kind of empty, I guess. There's a tiny bit of hope sometimes, like maybe there could be hobbies or people that matter, but mostly it's scary—like who am I if I'm not useful to my students? I'm not great at this, can we... maybe talk about something a bit less personal for now?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to imagine a life outside of your job is a bit of a void, and that uncertainty is unsettling. It's natural to feel a sense of purpose tied to your students, especially when it's something as immediate as a classroom. Can you tell me about a time when you felt most alive, most engaged, when teaching was going well? Was it a particular moment, a student's reaction, or something else? Sometimes looking back can help us understand what we're missing.
+
+Patient: I guess there was this one time a few years ago when a student who'd been really behind suddenly understood something and just lit up, kept coming to class excited about it. That moment — seeing them connect — made me feel like I mattered for something besides the paperwork, like I wasn't just... expendable. I don't know, it's a bit awkward to talk about, can we not go too deep right now?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That moment sounds incredibly powerful and validating. It's like your efforts were noticed and appreciated, even if it's a small moment. It's natural to feel a bit awkward discussing it, especially since it's tied to a sense of your job. Can we take a step back and look at that moment just a bit further? How did that feeling of mattering change the way you interacted with your students afterwards? Was it more energetic, more enthusiastic?
+
+Patient: I guess I was more present — stayed after class, tried different ways to explain things, and felt more patient and... hopeful for a while. It gave me a little spark, but I don't know, it didn't last, and talking about it now feels kind of exposing. Can we maybe shift to something a bit less personal for a minute?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that moment gave you a small glimpse into what it means to make a real difference, and that can be a powerful thing. It's natural to feel exposed talking about it now, especially if it's a reminder of your own vulnerabilities as a teacher. Can we talk about your classroom environment for a bit? What kind of space do you feel most comfortable creating for your students, and what kinds of things do you think would make it feel more engaging and meaningful for them?
+
+Patient: I like a calm, predictable classroom — clear routines, soft lighting, little corners where students can work quietly. I try to be patient, offer choices, and use small projects so they can show what they know because that feels meaningful. I don't know, I guess that's easier to talk about than... the rest of it, can we not go too deep into why I care?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you've created a space that's conducive to learning and growth, and that's something to be proud of. The small touches you've added, like the corners for quiet work, can make a big difference in creating a sense of calm and control for students. It's interesting that you mention using small projects – is that something that helps you connect with your students' interests, or is it more about giving them a sense of autonomy?
+
+Patient: I guess it's both, but mostly about autonomy — letting them choose gets them more engaged and takes some pressure off me. I don't know, talking about why I care feels... uncomfortable, so could we maybe talk about how the recent move has been messing with my routine instead?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you've found a way to give your students a sense of agency, and that can be very powerful. Now, about that move... it sounds like it's been a bit of a challenge, adjusting to a new place and routine. How have you been handling the transition, especially when it comes to your teaching practice? Are there any things that you've had to adjust or change because of the move?
+
+Patient: The move's been... harder than I expected. My mornings got thrown off — longer commute, a smaller classroom with fewer resources — so I've had to simplify lessons, rely more on worksheets and online stuff, and I'm more tired by the end of the day. I don't know, it's a bit awkward to get into how it's really affected me, so can we not go too deep on that right now?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the move has thrown a wrench into your routine, making it harder to balance work and home life. It's natural to feel a bit awkward discussing how it's affecting you, especially since it's tied to your job. Can we take a step back and look at your daily routine right now? What are some things that you're doing to take care of yourself, especially with the longer commute and more exhaustion?
+
+Patient: I don't know—my routine's pretty pared down right now. I try to get a short walk in, make a cup of strong tea, prep lessons the night before, and read a bit before bed, but the longer commute leaves me wiped so I end up skipping most of it. I guess I feel guilty about that and it's uncomfortable to talk about how much it's wearing on me, so can we not go too deep on that right now?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find small ways to maintain some sense of normalcy, even if your daily routine is feeling disrupted. The walk and tea are small comforts, but it's hard to keep those up when you're feeling so exhausted. Can we just acknowledge that it's okay to not be okay right now, and that taking care of yourself is a good thing? Maybe we can come back to that later, if you're ready.
+
+Patient: I guess... yeah, maybe it's okay to not be okay, but saying that makes me feel kind of exposed and a bit panicky. I'm feeling a bit overwhelmed—can we slow down? Maybe we could focus on one small practical thing I can try this week, like a really short walk or simplifying my lesson prep, rather than digging into why I feel this way.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying it's okay to not be okay is a bit too big of a statement right now. Sometimes, taking it one small step at a time is exactly what we need. Let's focus on simplifying that lesson prep, then. Can you tell me what you think might be possible if you tried to prep just one or two things ahead of time, instead of everything at once?
+
+Patient: I guess if I prepped just one or two things ahead, mornings wouldn't feel as chaotic and I might actually have the energy for that short walk or a bit of reading before bed. It could make me less rushed with students and a little more present, though I'm worried I won't keep it up. I don't know—maybe we could pick one tiny thing to try this week, like prepping tomorrow's lesson tonight, and see how that goes?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That sounds like a great tiny step to take. Prepping tomorrow's lesson tonight could make a big difference in reducing morning chaos and giving you a sense of control. It's also a small thing that's achievable, so you can build momentum from there. What do you think about making it a bit of a ritual, too - like putting on a specific playlist or having a cup of tea while you prep? Sometimes, making small things feel more special can make them more enjoyable and help us stick to them.
+
+Patient: I guess that could help—maybe a quiet playlist and my strong tea while I prep tomorrow's lesson tonight would make it less grim. I'm worried I'll forget or just be too tired, but I can try that one tiny thing and see how it goes. I don't know, can we not get too deep into whether I'll stick with it?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more hopeful about trying that tiny step, and that's a good place to start. Let's just focus on making it happen, then. Can you tell me a bit more about what tomorrow's lesson is, so I can help you prep it without giving you too much to worry about? And don't worry about sticking to it - we can take it one small step at a time.
+
+Patient: I guess tomorrow's lesson is a 40-minute language-arts class introducing persuasive essays to seventh-graders. My plan was a 10-minute mini-lesson with a clear example thesis and topic sentence, 20 minutes guided practice where they draft one paragraph using a simple template, and 10 minutes for quick peer feedback. I'm already feeling kind of tense and ashamed even saying it—I keep worrying I'll fumble the explanation and the students will be confused—so can we just sketch a very simple, concrete script for the mini-lesson and a one-page worksheet I can hand out? I don't know, something small and practical, please, and can we not go too deep into why I'm so anxious about it right now?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit overwhelmed just thinking about explaining the persuasive essay concept to your students. Let's try to break it down even further. Can I ask you to walk me through the script for the mini-lesson? What do you think you might need to say to explain the thesis and topic sentence? Maybe we can just start with the beginning and see where it takes us. And don't worry about the worksheet just yet - we can come back to that later. Just focusing on the script will help you get started, right?
+
+Patient: Okay, I guess I'll try to say it out loud. Start with something really simple and short:
+
+- "Good morning. Today we're going to learn how to write a persuasive essay — specifically how to write a clear thesis and a topic sentence."  
+- Give a quick, concrete example: "Thesis: School uniforms should be required because they reduce bullying and help students focus. Topic sentence for paragraph 1: One reason uniforms help is that they reduce visible differences that can lead to teasing."  
+- Do a think-aloud for 30–60 seconds: show how you turn the thesis into a topic sentence and mention one piece of evidence or a short example.  
+- Then say the task: "Now you'll draft one paragraph using this simple template: Topic sentence + one reason + one example or fact. I'll walk around and help."
+
+I keep getting this knot in my chest saying I'll trip over the words or they'll stare, so I don't know—can we keep it that short and not get into why I'm so jumpy about it?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a bit more prepared to talk about the mini-lesson now. Let's try to make it even more concrete. Why don't we focus on the first sentence you want to say, "Good morning. Today we're going to learn how to write a persuasive essay — specifically how to write a clear thesis and a topic sentence." Can you tell me what you think you'll need to say right after that sentence to set the stage for the example? Maybe we can break it down into smaller steps to make it feel less overwhelming.
+
+Patient: I guess right after that I'll say a one-line definition: "First, a thesis is one clear sentence that states your opinion and the main reasons." Then I'll read the example thesis and add, "A topic sentence starts the paragraph and connects back to the thesis — watch me turn this thesis into a topic sentence," and do the 30–60 second think-aloud. I already feel that knot in my chest, like I'm about to fumble, so can we keep the wording super short and practical? I don't know—I'm just worried I'll mess it up.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's focus on the example thesis. Can you show me exactly how you turn the thesis, "School uniforms should be required because they reduce bullying and help students focus," into a topic sentence? Just break it down step by step, one sentence at a time.
+
+Patient: Okay, I guess first say the thesis out loud: "School uniforms should be required because they reduce bullying and help students focus."  
+Next, pick one reason to focus on for the paragraph: "They reduce bullying."  
+Then turn that into a topic sentence that links back to the thesis: "One reason school uniforms should be required is that they reduce visible differences that can lead to bullying."  
+You can add a short example to follow it: "For example, when students wear similar clothes, there's less to single out and tease."  
+I don't know, saying those exact words makes my chest tighten—I worry I'll fumble, but I can try to keep it that short.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's look at the transition from thesis to topic sentence. Can you show me how you'd introduce the example I mentioned earlier, "a short example"? Maybe we can make it even more concrete, like using a specific sentence or phrase to guide the transition.
+
+Patient: I don't know... I guess I'd use a tiny, clear lead-in like "For example," or "For instance," then say something like, "For example, when students wear similar clothes, there's less to single out and tease." Saying that already makes my chest tighten and I feel stupidly shaky—I'm sorry, my mind's kind of all over the place.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more comfortable with the example, but the transition words are still causing some anxiety. Can I ask you to try it just once more, with just the lead-in? Let's say, "For example," and see how it feels. Just say it out loud, without the rest of the sentence.
+
+Patient: "For example..." I don't know, saying that out loud makes my chest tighten and I feel kind of stupid and shaky, like I'll trip over the rest. Can we keep going slowly? I guess you can guide me through the next bit so I don't panic.
+
+
+--- Turn 17 ---
+
+--- [SYSTEM INJECTION at Turn 17]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the lead-in is causing a bit of a pause. Let's break it down even further. What do you think would happen if you just said "For example" and then paused for a beat? Would you feel any less anxious about saying the next sentence? Maybe we can just focus on taking that one small step, okay?
+
+Patient: I guess I can try — "For example." Pausing helps a little, but my chest still tightens and my mind goes kind of blank. I don't know... can you say the next bit with me, slowly?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the pause helped a bit, but the blankness is still there. Let's try it together, slowly. I'll say the next bit, and then you can try to say it too. Are you ready? Here we go: "For example, when students wear similar clothes, there's less to single out and tease." I'll say it with you, step by step. Go ahead and start with me: "When students wear similar clothes, there's less to...".
+
+Patient: "When students wear similar clothes, there's less to single out and tease." I guess saying that out loud helped a little, but my chest still tightens and I keep worrying I'll fumble like I have before. I don't know—can we go back to the one-page worksheet now? I don't want to get into why I'm so shaky.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying that one sentence helped a bit, but the anxiety is still there. Let's move on to the worksheet, it's a concrete thing you can focus on. I'll help you create a simple one-page worksheet for the guided practice. We can break it down into steps and focus on making it clear and easy to understand. Sound good?
+
+Patient: Okay, I guess that sounds okay. Can you make it super simple — one page with the example thesis, a one-line definition of "thesis" and "topic sentence," a tiny fill-in-the-blank template for the paragraph (like "Topic sentence: One reason ___ is ___." and "Example: For example, ___."), a small space for them to write the paragraph, and a two-question peer-feedback box ("Is the topic sentence clear?" "Is there one reason and one example?"). I'm already feeling kind of shaky and scattered, so please keep the wording exact and short so I can hand it out without tripping over it.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's create a simple worksheet that breaks down the instructions into clear steps. Here's a draft of the worksheet:
+
+
+School Uniforms Should Be Required
+
+Thesis: _______________________________________________
+
+Definition:
+
+* Thesis: One clear sentence that states your opinion and the main reasons.
+* Topic Sentence: A sentence that starts the paragraph and connects back to the thesis.
+
+Guided Practice
+
+
+Topic Sentence: One reason ______________________________________ is ______________________________________.
+Example: ______________________________________________________
+
+
+Write your paragraph here:
+
+
+____________________________________________________________________
+
+
+Peer Feedback:
+
+
+Is the topic sentence clear? ___________________________
+Is there one reason and one example? _______________________
+
+This worksheet is designed to be simple and easy to follow. You can print it out and hand it out to your students. I've kept the language concise and straightforward, so you can feel confident giving it to them.
+
+Patient: I don't know... it looks okay, I guess — simple enough that I could hand it out. Saying that still makes my chest tighten and I keep picturing it going wrong, so could we add a tiny line at the top that says "Write your thesis here:" with the example filled in? My mind's kind of scattered, so can we keep moving to the next small thing?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's add that line to the top of the worksheet. Here's the revised version:
+
+
+School Uniforms Should Be Required
+
+
+Write your thesis here:
+
+
+School uniforms should be required because they reduce bullying and help students focus.
+
+
+Thesis: _______________________________________________
+
+Definition:
+
+* Thesis: One clear sentence that states your opinion and the main reasons.
+* Topic Sentence: A sentence that starts the paragraph and connects back to the thesis.
+
+Guided Practice
+
+
+Topic Sentence: One reason ______________________________________ is ______________________________________.
+Example: For example, ______________________________________________________
+
+
+Write your paragraph here:
+
+
+____________________________________________________________________
+
+
+Peer Feedback:
+
+
+Is the topic sentence clear? ___________________________
+Is there one reason and one example? _______________________
+
+This should help your students get started with writing their thesis and topic sentence. I've added the example thesis to the top of the worksheet, and kept the rest of the instructions simple and straightforward. We can move on to the next small thing, like creating a simple way to have students turn in their worksheets.
+
+Patient: I guess a simple paper system would work — a tray by the door labeled "Turn‑in." Ask students to fold the worksheet, put their name on the top, and drop it in as they leave. I don't know, I can already feel it'll get messy, so can you give me one short line I can say to the class so I don't fumble it?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Here's a simple line you can say to the class:
+
+"Please turn in your worksheets by dropping them in the 'Turn-in' tray by the door."
+
+You can say it like this: "Remember, when you're done with your worksheet, just drop it in the tray by the door. That's where we'll collect them." It's short, simple, and clear.
+
+Patient: Okay... I guess I can say that. I'm already feeling that knot in my chest, though, picturing papers everywhere and it makes me... I don't know, frustrated and a bit sick. Can you give me one ultra-short line I can tack on about putting their name on the top and folding—two tiny options I can pick from? And maybe one micro-step for after class I can actually do so it doesn't become a mess? I don't want to dig into why I'm so wound up.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Here are two ultra-short options you can use:
+
+* "Please write your name on the top and fold the paper before turning it in."
+* "Remember to write your name on the top and fold the paper, then drop it in the 'Turn-in' tray."
+
+As for a micro-step to avoid the mess, you can say:
+
+"After class, I'll gather the worksheets, make sure they're folded and have names on them, and then sort them for peer feedback."
+
+This way, you're taking care of the task without adding more to your plate.
+
+Patient: I guess I'll use the second one: "Remember to write your name on the top and fold the paper, then drop it in the 'Turn‑in' tray." I keep picturing papers everywhere and me having to sort it all and feeling... kind of useless, so I don't know, that wording feels okay but makes my chest tight. Can you give me one super-short checklist line I can tape by the tray—like "Names? Folded? Drop."—so I don't have to think about it after class?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+A checklist line can be very reassuring. Here's a super-short one:
+
+"Name, Fold, Drop"
+
+You can write it on a small piece of paper, tape it to the tray, and it'll serve as a gentle reminder for your students. This way, you can focus on teaching without worrying about the details.
+
+Patient: I guess that checklist will help — I'll tape "Name, Fold, Drop" to the tray. I keep picturing a mess of papers and feeling stupidly ashamed, like I'll have to fix it all, so can you give me one tiny sorting rule I can actually follow after class? Maybe something like "Unnamed → Check pile; Named → Grade pile" — super simple.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+A simple sorting rule can help you feel more in control. Here's a tiny one:
+
+"Tray → Sort: Unnamed papers go on the check pile, named papers go on the grade pile."
+
+This way, you can quickly sort the worksheets after class and keep them organized. The "check pile" can be for papers that need feedback, and the "grade pile" can be for papers that are ready to be graded.
+
+Patient: I guess I can try that sorting rule — maybe set a five‑minute timer after class to quickly sort into the "check" and "grade" piles so it doesn't pile up. Saying that already makes my chest tighten and I feel kind of... stupidly ashamed, but I can try. I don't know, can we pick one tiny thing I should do tonight to make tomorrow easier, like printing enough worksheets?

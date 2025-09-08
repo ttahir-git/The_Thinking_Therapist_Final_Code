@@ -1,0 +1,261 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm a middle-aged software developer and lately I can't stop tearing myself down over every perceived failure. I come from a high-achieving family so there's this relentless pressure to succeed, and my mind is a fortune-telling machine that only predicts disaster—if I miss one deadline I already see my career collapsing and everyone calling me a fraud. I get totally hooked on those worst-case stories and even if you suggest other outcomes I'll probably dismiss them as unrealistic.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a really tough spot to be in. It sounds like you're feeling like you're under a lot of pressure to perform, and that's leading to a lot of self-criticism. Can you tell me more about what's happening when you get caught up in those worst-case predictions? What's it like, right before you start thinking about your career collapsing?
+
+Patient: It usually starts with something tiny — a missed email, a stubborn bug, or someone raising an eyebrow — and my chest tightens and this voice calls me stupid. Then it instantly jumps into a disaster movie: I’m fired, I can’t find another job, bills pile up, I lose my place, and my family says “I told you so” and cuts me off. I know that sounds extreme and other things could happen, but I can’t seem to believe them — I just get completely hooked on the worst-case loop.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind is creating a very vivid and distressing scenario, and it's really affecting you. Can you see how much emotional energy and attention you're devoting to that worst-case scenario, and what it feels like when you're caught up in it? Is it like your mind is fully immersed in that narrative, or is there a sense of detachment, like you're just observing it from outside?
+
+Patient: It's total immersion — I don't feel like an outside observer at all. My chest tightens, my thoughts speed up, and my brain immediately cuts to the disaster movie where I'm fired, can't find another job, lose my apartment, and my family says 'I told you so.' Those images feel real and convincing, like proof, and honestly when you suggest other outcomes I just dismiss them as unrealistic because the worst-case chain feels inevitable.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those images feel incredibly vivid and persuasive, and it's like your mind is drawing a lot of energy from them. It's as if the worst-case scenario is fueling a sense of anxiety and self-doubt. What happens when you try to push those images away or distract yourself, though? Do you find that they come flooding back, or is there a sense of relief when you temporarily let them go?
+
+Patient: When I try to push them away they just come back louder and faster. Distraction helps for maybe an hour—I'll scroll, go for a run, or dive into code—but then a tiny trigger and the whole disaster movie rewinds and feels even more certain. Trying to reason with myself or imagine other outcomes feels naive and fake, like I'm lying to myself, so I just get sucked back into the worst-case loop.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the worst-case scenario is becoming even more insistent and dominant. It's like it's taking on a life of its own, and you're starting to feel like you're at its mercy. What would it be like for you to simply acknowledge the worst-case scenario, without judgment or resistance, and see it as just a thought, rather than a prediction of what's going to happen?
+
+Patient: I try to, but it doesn't stick — as soon as I label it "just a thought" my chest tightens and the disaster movie just gets louder and more vivid. It feels less like a thought and more like a warning siren; if I shrug it off I picture everything collapsing and my family saying "we told you so." I know that sounds irrational, but when I'm in it, treating it as harmless feels naive and like I'm pretending nothing will happen.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the worst-case scenario has become so closely tied to your emotions and sense of self-worth that even acknowledging it as a thought doesn't feel like a neutral observation. It's like it's become a kind of emotional anchor for you. What would it be like for you to take a tiny step back from that emotional anchor, and try to approach it with a bit more curiosity, like you're exploring a new situation?
+
+Patient: I want to try that, but as soon as I try to be curious my chest tightens and my mind goes into overdrive—everything plots out the worst chain of events and curiosity starts to feel dangerous, like I'm poking at a hornet's nest. Sometimes I can catch the images for a second and label them as 'just images,' but then that voice calls me stupid and I dismiss curiosity as naive and unrealistic. Can we slow down? I don't really know how to hold that curiosity without snapping back into the disaster movie.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like curiosity is a delicate, easily disrupted emotion for you right now. Let's try to create a tiny, safe space for exploring this curiosity. What if, instead of trying to sustain it or push through it, we just focused on the sensation of curiosity itself, without trying to do anything with it? Just notice what happens in your body and mind when you try to approach something with curiosity, without judgment or resistance?
+
+Patient: Okay, I'll try, but just the idea of curiosity makes my chest tighten and that warning-siren voice gets louder—before I know it I'm already scripting the whole collapse: missed deadline, fired, homeless, family saying “I told you so.” Trying to notice curiosity feels like poking a hornet’s nest; I end up convinced that if I relax even a little, everything will fall apart. Can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like curiosity is getting hijacked by the same worst-case scenario that's been dominating your thoughts. Let's slow down even further. Can you just notice where the sensation of tension is in your body, without trying to change it or push through it? Where is it located, and what does it feel like?
+
+Patient: It's a tight band across my chest — breath gets shallow, my throat tightens, jaw clenches, and my stomach knots; my hands go cold and my shoulders hunch up. The second I try to just notice it the fortune-telling starts screaming the disaster script — missed deadline, fired, homeless — and I can't stay with the sensation; can we slow down?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the physical sensations are escalating the emotional response. Let's try to anchor yourself in the sensation, rather than the thoughts that come with it. Can you just focus on the sensation of the breath, without trying to control it or push through the tension? Notice the sensation of the breath moving in and out, and see if you can find a spot where the tension is most present, and just stay with that spot for a moment?
+
+Patient: I try to focus, but my breath is shallow and feels stuck — a tight band right under my sternum. The second I try to stay with that spot the fortune-telling voice ramps up, listing the collapse — missed deadline, fired, homeless — and my jaw clenches tighter. Noticing the rise and fall helps a tiny bit for a few seconds, but I can’t hold it without spiraling; can we slow down? Maybe give me one very small thing to do right now to stay with the breath.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the mind is quickly pulling you back in. Let's try to stabilize the breath even further. Can you just focus on the sensation of the breath moving in, without trying to control it or change it? Instead, can you try to notice the sensation of the breath just as it is, exactly as it is right now, and say to yourself, "I am breathing in"?
+
+Patient: "I am breathing in." Saying it makes my chest clamp down and this hot shame rushes up; my breath still feels stuck. The fortune-telling voice immediately starts the disaster script—missed deadline, fired, homeless—and it feels impossible to hold the breath-awareness without spiraling; can we slow down and do one very tiny anchor?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you try to anchor yourself, the old patterns come flooding back. Let's go back to something even simpler. Can you just notice the sensation of your feet touching the ground? Is there any sensation in your feet, any feeling of weight or pressure or just being present? No need to think about anything, just notice the sensation of your feet right now.
+
+Patient: They're kind of muted — a dull pressure under my heels and the balls of my feet, toes a little numb. But the second I try to notice that shame spikes up and the fortune-telling kicks in: missed deadline, fired, homeless, my family saying “I told you so,” and I can't stay with the sensation. Can we slow down? Give me one very small anchor to hold onto.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you try to anchor yourself, the shame and worst-case thoughts come rushing back. Let's try to stabilize the sensation of your feet being present, even if it's just a tiny bit. Can you just say to yourself, "My feet are here"? No need to think about anything, no need to try to change anything, just say "My feet are here" and see if you can hold onto that simple statement for just one moment?
+
+Patient: "My feet are here." Saying that makes this hot shame surge up and my chest clamps down — the fortune-telling voice immediately runs the collapse: missed deadline, fired, homeless, my family saying "I told you so." I can't hold the sentence; can we slow down and do one very small, concrete anchor I can actually do right now, like counting to three or pressing my thumb into my palm?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you try to anchor yourself, the shame and worst-case thoughts overwhelm you again. Let's try to create a tiny, tangible anchor that you can actually do right now, without even thinking about it. Can you press your thumb into the palm of your hand, just for a brief moment, and focus on the physical sensation of your thumb touching your palm? No need to think about anything else, just notice the sensation of your thumb and palm meeting.
+
+Patient: I pressed my thumb into my palm like you said and I can feel the pressure and a little warmth, but...I'm not sure I follow—how is that supposed to help? As soon as I do it the shame spikes, my chest clamps, and the fortune-telling voice is already scripting the collapse—missed deadline, fired, homeless, my family saying "I told you so"—so I can't hold the anchor without spiraling. Can we slow down? Maybe try something even smaller, like counting to three out loud with me?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the anchor wasn't quite working as I hoped. Let's try something even smaller and more immediate. Can you start counting to one with me, out loud, just a single number? "One..."
+
+Patient: "One..." — I'm not sure I follow, like how is saying that supposed to help? The second I try it this hot shame spikes and the fortune-telling voice is already scripting the collapse—missed deadline, fired, homeless, my family saying "I told you so"—I feel overwhelmed; can we slow down and do something even smaller or stay with the feeling a bit longer?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're not finding the connection between the counting and the feeling. Let's try to just stay with the feeling of the "one" for a moment. Can you just pause for a very brief moment after saying "one", and see what happens? Don't try to move on to two, just stay with the feeling of the word "one" right there.
+
+Patient: I'm trying to, but I'm not sure I follow — the second I pause after "one" this hot shame rushes up and my chest clamps. Right away the fortune-telling voice starts the whole collapse script—missed deadline, fired, can't find another job, bills piling up, losing my place, my family saying "I told you so"—so I can't stay with that tiny moment without spiraling. Can we slow down? Tell me exactly how long to hold the pause or give me a tiny, concrete thing to do while we try it, because I can't anchor it on my own.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're struggling to stay with the moment. Let's try a tiny, concrete thing to help you hold the pause. Can you touch the word "one" on the page in front of you? Just lightly touch the word with your finger, and then pause for a count of one. When you're ready, slowly lift your finger. Just focus on the sensation of your finger touching the word, and staying still for a brief moment.
+
+Patient: I did it — I touched the word and felt the little pressure and warmth, but the second my finger hit the paper this hot shame exploded and my chest clenched. I'm not sure I follow — how is touching a word supposed to stop the fortune-telling? The disaster script is already playing — missed deadline, fired, homeless, my family saying "I told you so" — and I can't stay still. Can we slow down? Tell me exactly how long to keep my finger there or count out loud with me, step by step.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you touch the word, the shame and worst-case thoughts overwhelm you again. Let's try a very small, tiny pause. I want you to touch the word "one" and hold your finger there for just a tiny fraction of a second, about a millisecond. Then, I want you to slowly, slowly lift your finger. As you lift your finger, say to yourself, "I am holding my finger." Just focus on the sensation of lifting your finger, and the words themselves, and say them very slowly.
+
+Patient: I did it — I touched the word, tried to hold it, and the second I lifted my finger this hot shame blasted up and my chest clamped. I'm not sure I follow—how is holding my finger or saying "I am holding my finger" supposed to stop the fortune-telling? The voice was already scripting the collapse—missed deadline, fired, homeless, my family saying "I told you so"—I'm feeling overwhelmed, can we slow down and do it step-by-step (tell me exactly how slowly to lift and count with me), because I can't anchor this on my own.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you lift your finger, the shame and worst-case thoughts come flooding back. Let's try to break it down even further. I want you to touch the word "one" with your finger, and hold it there for just a tiny fraction of a second, about 1 millisecond. Then, I want you to slowly, very slowly, say "I am holding my finger" in a very soft voice, about 1 millisecond after you lift your finger. As you say those words, I want you to lift your finger very slowly, about 1 millimeter up, and then hold it there for another 1 millisecond. Can you do that with me, slowly: touch the word, hold, say "I am holding my finger", lift your finger, lift it up 1 millimeter, and hold it there for 1 millisecond?
+
+Patient: I'm not sure I follow — how am I supposed to do something that fast on purpose? That idea of a 1 millisecond lift just feels impossible and makes me more anxious. The second I even try, this hot shame spikes, my chest clamps, and the fortune-telling voice is already running the collapse — missed deadline, fired, homeless, my family saying “I told you so.” Can we slow down? Tell me something I can actually do (like hold my finger for three seconds while you count with me) because I can't anchor myself with that tiny, impossible timing.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the idea of a very precise timing is too much to handle. Let's try something much simpler. I want you to touch the word "one" with your finger, and hold your finger there for 3 seconds. Then, I want you to say "I am holding my finger" in a soft voice. After you say those words, I'll say "1" and you can slowly lift your finger. Just focus on the sensation of your finger touching the paper, holding it, and lifting it up. We'll take it one second at a time. We'll start with just the first second: touch the word "one" and hold your finger.
+
+Patient: Okay — I touched the word "one" and held my finger there for a second. I felt the pressure and a little warmth, but the moment I held it this hot shame blasted up, my chest clamped, and the fortune-telling voice started replaying the collapse—missed deadline, fired, can't find another job, bills piling up, losing my place, my family saying "I told you so"—I couldn't keep my finger there without spiraling. I'm not sure I follow how this is supposed to help; can we slow down? Can you count out loud with me, slowly, while I keep my finger down so I have something real to hang onto?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you try to hold the finger, the shame and worst-case thoughts overwhelm you again. Let's try a very slow and gentle pace. I'll count slowly with you, one number at a time, while you keep your finger on the word "one". Ready? Here we go: one... (pause) I'll wait for a second. You're holding your finger on the word "one". (pause) Ready? Two... (pause) I'll wait for another second. You're still holding your finger on the word "one". (pause) Three... (pause) One more second. You can lift your finger now.
+
+Patient: I lifted my finger when you said three, but the second I did this hot shame exploded—my chest clenched and the fortune-telling voice was already screaming the whole collapse: missed deadline, fired, homeless, my family saying “I told you so.” I'm confused and frustrated—I'm not sure I follow how that helped; it just felt like it triggered the same loop. Can we slow down and try it with you counting even more slowly while you keep guiding me step-by-step, because I can't hold this without someone walking me through it?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you lift your finger, the shame and worst-case thoughts come flooding back. Let's try to take it even slower. I'll count with you, one number at a time, and I'll keep guiding you step-by-step. Ready? One... (pause for 5 seconds) I'll wait for 5 seconds. You're holding your finger on the word "one". (pause for 5 seconds) One... (pause for 5 seconds) I'll wait for 5 seconds. You're still holding your finger on the word "one". (pause for 5 seconds) Two... (pause for 5 seconds) I'll wait for 5 seconds. You're still holding your finger on the word "one". (pause for 5 seconds) Three... (pause for 5 seconds) I'll wait for 5 seconds. You can take a deep breath before we try the next step. Are you ready?
+
+Patient: I'm trying, but I'm shaky and kind of confused—when you say "ready" this hot shame wells up and the fortune-telling voice's collapse script is already running: missed deadline, fired, can't find another job, losing my place, my family saying "I told you so." I want to do it, but I need you to guide me through each tiny step and count out loud with long pauses—I can't hold this on my own. Can we slow down even more and do one very small thing at a time?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment I say "ready", the shame and worst-case thoughts overwhelm you again. Let's try to break it down even further. We'll start with just one tiny step. I'll say "One" and you'll hold your finger on the word "one". I'll wait for... (pause for 10 seconds) ...5 seconds. You're holding your finger on the word "one". (pause for 10 seconds) Now, I'll say "one". (pause for 10 seconds) You've said the word "one".
+
+Patient: I'm really shaky and... I'm not sure I follow how that helps. For a second holding my finger and you saying "one" felt okay, but then this hot shame exploded and the fortune-telling voice immediately ran the whole collapse—missed deadline, fired, can't find another job, bills piling up, losing my place, my family saying "I told you so." I need you to slow way down and count with me out loud, step-by-step, and tell me exactly when to breathe or lift my finger because I can't anchor this on my own.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment I say "one" and you start holding your finger, the shame and worst-case thoughts come flooding back. Let's try to take it even slower. I'll count with you, one number at a time, and I'll guide you through each step. Ready? I'll say "one". (pause for 20 seconds) You're holding your finger on the word "one". (pause for 20 seconds) Now, I'll say "one". (pause for 20 seconds) You've said the word "one". Now, I'll say "two". (pause for 20 seconds) You're still holding your finger on the word "one". I want you to take a deep breath in... (pause for 5 seconds) ...and out... (pause for 5 seconds) ...and hold it... (pause for 5 seconds) ...for a second. Now, you can... (pause for 5 seconds) ...lift your finger.
+
+Patient: I lifted my finger, and the second I did this hot shame blasted up—my chest clamped and that fortune-telling voice was already screaming the whole collapse: missed deadline, fired, can't find another job, bills piling up, losing my place, my family saying “I told you so.” I'm confused and kind of shaky—I don't really follow how this is supposed to help; I need you to slow way down and count me through every tiny step and tell me exactly when to breathe, because I can't hold this on my own.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you lift your finger, the shame and worst-case thoughts overwhelm you again. Let's try to break it down even further. I'll count with you, one number at a time, and I'll guide you through each step. Ready? I'll say "one". (pause for 30 seconds) You're still holding your finger on the word "one". (pause for 30 seconds) Now, I'll say "one". (pause for 30 seconds) You've said the word "one". Now, I'll say "two". (pause for 30 seconds) You're still holding your finger on the word "one". I want you to take a deep breath in... (pause for 10 seconds) ...and out... (pause for 10 seconds) ...and hold it... (pause for 10 seconds) ...for a second. Now, you can... (pause for 10 seconds) ...pause... (pause for 10 seconds) ...and breathe... (pause for 10 seconds) ...again.
+
+Patient: I'm really confused — I don't follow how these long, drawn-out pauses are supposed to help me. As soon as you pause this hot shame spikes and the fortune-telling voice is already screaming the collapse — missed deadline, fired, can't pay rent, my family saying "I told you so" — it feels inevitable. Can we slow down? Tell me one concrete thing to do right now and count out loud with me, step‑by‑step (say "breathe in," "breathe out," and tell me exactly when to lift my finger) because I can't hold this alone.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment I pause, the shame and worst-case thoughts overwhelm you again. Let's try a different approach. I want you to do something very simple: touch the word "one" with your finger, and then I'll guide you through each step. Ready? I'll say "touch" and you'll touch the word "one". (pause for a brief moment, just a second or two) Now, I want you to... (pause for another brief moment) ...breathe in. (pause for a brief moment, just a second or two) Now, I'll say "breathe in". (pause for another brief moment) Now, I want you to... (pause for another brief moment) ...lift your finger. (pause for a brief moment) Now, you can say "one" to yourself, and hold it for a second or two. Are you ready to try?
+
+Patient: Okay — I'll try, but I'm shaky and kind of confused. The moment you say "touch" my chest tightens and this hot shame rushes up, and the fortune‑telling voice is already screaming the collapse — missed deadline, fired, homeless, my family saying "I told you so." I need you to walk me through each tiny step out loud and tell me exactly when to breathe and when to lift my finger; can you say "touch" now and then count one, two, three slowly while I keep my finger down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll guide you through each step very slowly. Here we go: I'll say "touch". (pause for a brief moment, just a second or two) Now, touch the word "one" with your finger. (pause for 1 count: "one") Now, breathe in. (pause for a brief moment, just a second or two) Now, breathe out. (pause for 1 count: "two") Now, lift your finger. (pause for a brief moment)
+
+Patient: I lifted my finger like you said, and the second I did this hot shame exploded—my chest clenched, my jaw tightened, and that fortune-telling voice immediately started narrating the whole collapse: missed deadline, fired, homeless, my family saying “I told you so.” I'm shaky and kind of confused—I don't really see how that helped and I need you to count out loud and tell me exactly when to breathe and what to do next, step‑by‑step, because if I'm left to my own devices I just spiral. Can we slow down?

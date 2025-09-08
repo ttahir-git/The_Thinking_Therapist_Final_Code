@@ -1,0 +1,204 @@
+Patient: I've been worrying a lot about my performance at work as a data scientist, and that worry just makes me put things off until the last minute. I guess it's turned into this constant procrastination and a kind of burnout that's left me feeling pretty isolated. I don't really like talking about it, but I thought I should try.
+
+Therapist: Can you tell me more about what happens when you're putting things off until the last minute? Is it the actual task itself, or is it more about the sense of worry or anxiety that comes with it?
+
+Patient: I think it's more the worry than the task itself. I keep worrying that the work will show I'm not as sharp as I used to be, so I stall—then I end up scrambling and feeling worse. I don't know, I guess I just distract myself with small, safe tasks instead of the hard stuff.
+
+Therapist: It sounds like you're trying to protect yourself from feeling overwhelmed by the task, but in doing so, you're ending up feeling even more anxious and burnt out. Those small, safe tasks might give you a temporary sense of control, but they're not really addressing the underlying worry. Have you ever noticed what happens when you finally do get to the task you've been putting off? How does that feeling of accomplishment compare to the feeling of anxiety you experience before starting it?
+
+Patient: When I finally sit down and do it, there's this rush of relief — it's usually not as bad as I worried it would be, I guess. But the relief fades pretty fast and then I start worrying about the next thing, so it just feels like a loop. I don't know, sometimes I wonder if I'm just slowing down with age.
+
+Therapist: It's like you're caught in this cycle of worry, relief, and then more worry. The relief might give you a temporary reprieve, but it's not a sustainable solution. It's also interesting that you mention wondering if you're slowing down with age. How do you feel about that possibility? Is there a part of you that's concerned about that, or is it more of a nagging voice in the background?
+
+Patient: I guess part of me does worry that I'm slowing down — that thought nags at me and makes me scared of being seen as replaceable. I don't know, I don't really like sitting with that feeling for long. Maybe that's why I stick to small, safe tasks instead of the big stuff.
+
+Therapist: It's like the fear of being seen as replaceable is a pretty deep-seated concern, and it's causing you to stick with what's familiar, even if it's not really serving you well. That must be really tough to deal with. Can you think of any times when you've been in a situation where you've had to step up and take on something new, even if it scared you? How did that feel, and did it help to alleviate some of that worry?
+
+Patient: I guess there was a time a few years ago when my manager left and I had to lead a modeling project. I was nervous, but it actually went okay and I felt proud for a little while. I don't know, it helped in the moment, but the worry always sneaks back and I don't really like dwelling on it.
+
+Therapist: It sounds like that experience did help you feel a sense of accomplishment and pride, even if it was temporary. It's interesting that you mention it helped in the moment, but the worry always comes back. It's almost like the worry is a constant companion, even when you're trying to focus on the present. Can you think of a time when you were doing something that you really enjoyed, something that made you feel fully engaged and present? How did that make you feel, and do you think it's something you could draw on right now to help you feel more grounded?
+
+Patient: I used to really get lost in building models or debugging a messy pipeline — it's like everything else faded and I felt competent and calm. I guess mentoring younger colleagues gave me that same sense of purpose sometimes. I don't know, it's hard to recreate that at work now; I feel stuck.
+
+Therapist: It's like those moments of focus and competence are tied to specific activities or experiences that you've had in the past. It's hard to tap into those feelings when you're feeling stuck or overwhelmed in your current situation. Can you think of a way to connect with that sense of calm and competence right now, even if it's not in a specific task or activity? Maybe there's something you could do, even if it's just for a few minutes a day, to help you feel more grounded and focused?
+
+Patient: I don't know... I guess I could try short, five- to ten-minute "micro" sessions where I only tackle one small part of a problem — like fixing one bug or running one tiny experiment — so I can get that focused feeling without committing to a big block of time. Maybe a quick 15-minute mentoring check-in with a junior colleague once a week could help me feel useful again too. I'm not sure this will work and I don't really like talking about it, but... can we think about how to make those little practices stick?
+
+Therapist: It sounds like you're open to exploring some small, low-stakes strategies to help you regain that focused feeling. I'm glad you're willing to try out some new approaches, even if it's uncomfortable. Let's break it down a bit more. What do you think would make it more likely that you'll stick to these "micro" sessions and mentoring check-ins? Would it be helpful to have a clear goal or outcome in mind, or to have some kind of accountability or reminder system in place?
+
+Patient: I guess a tiny, concrete goal would help — like “spend 15 minutes on this one bug” with a kitchen-timer or a calendar block so it feels official. Reminders and pairing the session with something I already do (coffee, checking email) and telling one trusted colleague about the plan for accountability might make it stick. I don't know, I don't like making big promises, so maybe start with something I can cancel without freaking out.
+
+Therapist: Having a tiny, concrete goal and a clear plan can make it feel more manageable and increase the chances of sticking to it. It's great that you're thinking about how to make it feel less daunting. Let's focus on one thing for now: the "spend 15 minutes on this one bug" goal. What do you think would be a good way to start small and avoid feeling overwhelmed? Would it be helpful to start with a bug that's already been identified as a priority or one that you've been putting off for a while?
+
+Patient: I don't know... I guess starting with a small, already-identified priority bug would be better — less guessing and fewer surprises. If it's something I've already poked at a bit, I can aim for a single 15-minute timer and feel like I actually finished something. I don't really like planning this stuff out, but that feels safer than tackling something totally new.
+
+Therapist: It sounds like you're trying to take small, incremental steps towards regaining your confidence and momentum. Starting with a bug that's already been identified as a priority and one that you've had some experience with can help you feel more grounded and in control. The timer can serve as a simple, tangible goal to work towards, and the sense of accomplishment you'll get from completing that small task can be a great confidence booster. Have you thought about how you'll handle it if, after completing that first 15-minute session, you find that you actually want to keep going and tackle the next bug or task? Would you need any additional support or reminders to keep yourself on track?
+
+Patient: I don't know... I guess if I wanted to keep going after the first 15 minutes I'd let myself do one more 15-minute block, then force a break — like a rule I can trust. Telling that one colleague I mentioned might help keep me honest, but I don't really like making strict plans, so keeping it flexible and low-pressure would feel safer.
+
+Therapist: It sounds like you're thinking about how to create a simple, self-sustaining loop that can help you build momentum and confidence. Allowing yourself to complete one more 15-minute block if you feel like it, and then taking a break, can be a great way to pace yourself and avoid burnout. By having a trusted colleague to report to, you can get some accountability and support without feeling too much pressure or commitment. And by keeping things low-pressure and flexible, you can reduce your anxiety and make it feel more manageable to stick to your plan. Can I ask, what do you think is the main thing that's holding you back from taking action right now, aside from the anxiety and self-doubt? Is there something specific that's preventing you from taking that first step?
+
+Patient: I don't know... I guess it's a mix of being worn out and this nagging fear of being found out as not good enough, plus a shrinking patience for starting hard things. My head gets fuzzy and I can't pick a place to begin, and I'm kind of embarrassed to ask for help because I'm scared they'll think I'm just slow. I don't really like dwelling on this — can we talk about ways to make the first five minutes easier?
+
+Therapist: It sounds like you're carrying a heavy load of self-doubt and fear, which is making it really tough to get started. It's understandable that you'd feel embarrassed to ask for help, but sometimes that's exactly what we need to take the first step. Let's focus on making those first five minutes easier to get through. What if I told you that it's not about being "good enough" or not being smart enough, but about taking a small, tiny step towards something that feels scary or overwhelming? It's like building a fire - you start with a tiny spark, and then it grows into something bigger. Can you think of a tiny, small thing you could do right now, just for a minute, to help you feel like you're taking control? Maybe it's as simple as taking a few deep breaths, or making a cup of tea, or opening a book. Just one tiny thing to get you started?
+
+Patient: I don't know... I guess a tiny thing I could try is setting a 2-minute timer and just open the repo to read the bug title and the first comment — no code, just look. Maybe make a cup of tea first so it feels less like jumping in; I don't really like talking about this, but I can try.
+
+Therapist: It sounds like you're willing to take a small, tangible step to help you get started. Setting a 2-minute timer and just opening the repo to read the bug title and first comment can be a great way to build momentum. And making a cup of tea beforehand can help make it feel less intimidating. It's almost like doing a little warm-up exercise before diving into the task at hand.
+
+I want to acknowledge that it's okay to not be comfortable talking about this. You've been honest with me about how it makes you feel, and I'm here to support you in a way that feels safe and helpful. Can I ask, what do you think would happen if you were to successfully open the repo and read the bug title and first comment? What would it feel like to have taken that first small step?
+
+Patient: I don't know... I guess if I actually opened it and read that first comment I'd feel a small rush of relief, like the knot loosens for a moment and maybe a little bit proud. But it would probably fade quick and I'd start worrying about the next thing, so I'm not sure it would stick. Can we talk about how to make that tiny relief last longer or turn into something I can rely on?
+
+Therapist: It sounds like you're looking for a way to make that tiny relief and sense of pride last longer, so you can build on it and maybe even turn it into something more reliable. Sometimes, when we experience a small success, it can give us the motivation and confidence to tackle the next challenge.
+
+One thing that might help is to focus on the process, rather than just the outcome. Instead of just looking at the bug title and first comment, try to think about what you need to do to fix it. What steps will you take to resolve the issue? What tools or resources will you need? Focusing on the process can help you build a sense of control and momentum, which can make it feel more satisfying and even enjoyable.
+
+Another idea is to try to connect that tiny relief and sense of pride to something bigger. What are your goals and values, and how does this tiny step help you move closer to achieving them? By connecting the dots between the small step and the bigger picture, you can start to build a sense of purpose and motivation that can carry you through.
+
+How does that sound? Is there anything in particular that resonates with you, or is there something else you'd like to explore?
+
+Patient: I don't know... focusing on steps sounds like it could help — maybe a tiny checklist: open repo, read comment, try one quick edit. I guess connecting it to mentoring or feeling useful might make the relief matter more, but I'm pretty worn out right now; could we just sketch that one-minute checklist together so it's easy to follow?
+
+Therapist: Let's create a simple one-minute checklist that you can use to help you get started. I'll guide you through it, and we can make it as simple or as detailed as you need.
+
+Here's a starting point:
+
+* Open the repo (take 30 seconds to 1 minute to log in and open the repository)
+* Read the bug title and first comment (take 30 seconds to 1 minute to read through the title and the first comment)
+
+Now, let's add the "try one quick edit" part. What kind of edit would you like to try? Is it a simple typo fix, a minor rewording, or something else?
+
+We can break it down further if you need to. For example, we could say:
+
+* Read the bug title and first comment (30 seconds to 1 minute)
+* Try to fix one minor issue (e.g., typo, formatting) (30 seconds to 1 minute)
+
+How does that sound? Is there anything you'd like to add or change on this checklist?
+
+Patient: I guess that sounds okay. Maybe super-short like: 1) make tea; 2) set a 2‑minute timer, open the repo and read the bug title + first comment; 3) do one tiny edit or jot one possible fix; 4) stop. I'm pretty worn out, so could you help me write a one-line calendar reminder I can paste in? I don't really like writing that stuff.
+
+Therapist: Let's create a one-line calendar reminder that's simple and straightforward. Here's a suggestion:
+
+"Open bug X, read comments, try tiny edit (2 min)"
+
+Feel free to replace "bug X" with the actual bug number or title.
+
+As for the checklist, it looks like you've got a good start. Breaking it down into four steps is a great way to make it manageable, especially when you're feeling worn out.
+
+Here's a quick summary to help you refer to it later:
+
+1. Make tea
+2. Open the repo and read the bug title and first comment
+3. Try one tiny edit or jot a possible fix
+4. Stop
+
+If you need to refer to it again, just come back to this summary.
+
+How do you feel about moving forward? Is there anything else you'd like to discuss or any other questions you have?
+
+Patient: I guess I can try moving forward, but I'm pretty worn out and it's hard to think about more right now. Could you help me draft a short, low-pressure message to that colleague asking for light accountability? I don't know what to say — I don't like sounding needy.
+
+Therapist: Reaching out for accountability can be a big step, and it's normal to feel worn out. I'd be happy to help you draft a message that feels low-pressure and low-stakes.
+
+Here's a suggestion:
+
+"Hi [Colleague's Name], hope you're doing well. I wanted to touch base with you about a project I'm working on. I'm feeling a bit stuck and would love to get your thoughts on it. Would you be open to a quick check-in this week? Maybe we could catch up over email or a quick call? I'm not looking to dump everything on you, just get your input on one thing. Thanks in advance for your time!"
+
+This message is brief, friendly, and doesn't put a lot of pressure on the colleague. It also gives them an easy out if they're not available or don't have time. Feel free to modify it to fit your tone and style.
+
+Remember, asking for accountability is not about being needy; it's about getting help and support when you need it. You're taking a big step by reaching out, and that's something to be proud of.
+
+How does that sound? Is there anything you'd like to add or change?
+
+Patient: I don't know... that's okay, but can you make it much shorter and less needy? Maybe something like: "Hi [Name], quick favor — 10 min this week to look at bug #123? No pressure; email works." I don't really like asking, so keep it blunt and simple.
+
+Therapist: Your revised message is concise and to the point. It's clear, direct, and doesn't leave any room for misinterpretation.
+
+Here's your message again, with no changes:
+
+"Hi [Name], quick favor — 10 min this week to look at bug #123? No pressure; email works."
+
+This message is perfect for someone who prefers a low-key approach. It's brief, polite, and gets straight to the point. The "no pressure" disclaimer is a nice touch, as it acknowledges that the request might be inconvenient.
+
+I think you've got this. Just send it off and see how it goes.
+
+Patient: I guess I can send that. Maybe tweak it to "If you have 10 min this week — bug #123" so it sounds less like I'm asking for a favor. I don't know... what should I do if they don't reply? Waiting just makes me anxious and I don't like it.
+
+Therapist: Your revised message is even more concise and direct. It's a clear, no-nonsense ask that doesn't leave room for misinterpretation.
+
+As for what to do if they don't reply, it's completely normal to feel anxious waiting for a response. Here's a suggestion: set a reminder for yourself to check your email at a specific time, say 10-15 minutes after sending the message. If you don't hear back by then, you can send a quick follow-up message, like "Hi, just wanted to check in on the status of bug #123."
+
+Keep in mind that it's possible the colleague is busy or hasn't had a chance to respond yet. Don't take it personally if they don't respond right away. Just send a brief follow-up message and move on.
+
+Here's an example of a follow-up message:
+
+"Hi, just wanted to check in on the status of bug #123. No rush, just wanted to confirm we're on track. Thanks!"
+
+This message is brief, friendly, and shows that you're still interested in moving forward. It's a low-stakes way to nudge the colleague and keep the conversation going.
+
+Patient: I don't know... I guess I'll set a 15‑minute reminder and send the short message. Waiting just makes me restless and embarrassed — could you help me write an even briefer follow‑up I can paste and send if they don't reply, something I won't overthink?
+
+Therapist: Here's a very brief follow-up message that's hard to overthink:
+
+"Hi, just checking in on bug #123. Thanks."
+
+This message is short, to the point, and doesn't add any new information. It's a simple way to check in and show that you're still interested in moving forward.
+
+Remember, the goal is to keep the conversation going, not to add any pressure or complexity. This message is a gentle nudge, and if the colleague doesn't respond, you can move on without feeling anxious or embarrassed.
+
+Setting a 15-minute reminder should help you feel more focused and calm while you wait for a response. Take a few deep breaths, and try not to worry too much about it. Good luck!
+
+Patient: Okay, I'll send that short message and set the 15‑minute reminder, I guess. I don't know — I'm already dreading the wait; can you give me a one‑line self‑reminder I can paste in my notes so I don't fidget while I wait?
+
+Therapist: Here's a one-line self-reminder you can paste in your notes:
+
+"Waiting is a normal part of process. I can handle it."
+
+This simple reminder can help calm your nerves and keep you focused on the task at hand. Just paste it in your notes, and when you start to feel anxious, pull it out and read it again. It's a gentle way to remind yourself that waiting is a normal part of the process, and you can handle it.
+
+Patient: "Two minutes is fine — I can handle this."
+
+Therapist: That's a great reminder to have. Having a simple phrase like that can help you break down the time and make it feel more manageable. And if you find yourself getting anxious again, you can always come back to that reminder and repeat it to yourself.
+
+It sounds like you're ready to take a deep breath, send that message, and wait. If you need anything or just want to check in, I'm here. Otherwise, I'll leave you to it. Good luck, and I hope it goes well!
+
+Patient: I don't know... I'll send it, I guess. I'm already dreading the wait — can we pick one tiny 2‑minute task I can do while I wait so I don't fidget? I don't really like talking about this, but I need something concrete to hold onto.
+
+Therapist: Let's focus on a simple task to get you through the wait. How about we do something tiny and low-key, like updating your to-do list or making a quick note about what you're working on? Here's a specific task:
+
+"Update to-do list with bug #123 and send a 15-minute reminder."
+
+This task is easy, quick, and gets you moving. By doing something concrete like this, you'll have something to focus on and can distract yourself from the wait. Plus, it's a tangible task that you can check off when you're done, which might help you feel more in control.
+
+What do you think? Does this task sound like something you can get into while you wait?
+
+Patient: I don't know... maybe I'll just add "bug #123 — 15 min follow-up" to my to‑do list and set the 15‑minute reminder. I guess that should keep me from fidgeting while I wait, though I don't really like talking about it.
+
+Therapist: Adding "bug #123 — 15 min follow-up" to your to-do list and setting the 15-minute reminder can be a great way to keep yourself occupied and on track. It's a small, concrete task that can help you feel more in control.
+
+By focusing on this task, you might find that your mind starts to wander less and you're able to relax a bit more. Remember, it's just a 15-minute wait, and you can always check back in if you need to.
+
+Take a deep breath, add that task to your list, and set that reminder. You've got this!
+
+Patient: Okay... I added it and set the reminder. I guess I'll send the message now, though I'm already dreading the wait. Can you give me one tiny, 30‑second grounding thing I can do while I wait? I don't really like talking about this, but I need something.
+
+Therapist: Here's a tiny grounding exercise that might help:
+
+"Notice the sensation of your feet on the ground. Take a deep breath, and as you exhale, slowly let your shoulders relax. Now, bring your attention to the sensation of the air moving in and out of your body."
+
+This exercise is quick, simple, and can help you focus on the present moment. By bringing your attention to your physical body, you can calm your nervous system and reduce any feelings of anxiety or dread.
+
+Take 30 seconds to do this exercise, and see if it helps you feel more grounded and centered. When you're done, you can take a deep breath and send that message.
+
+Patient: Okay... I did that breathing thing. It helped a little, I guess. I'll send the message now, but I'm already dreading the wait — can you give me one tiny 30‑second task I can do while I sit here? I don't know, maybe something simple and physical so I don't fidget.
+
+Therapist: Sometimes, doing something physical can help calm your nerves. Here's a tiny 30-second task that might help:
+
+"Pick up a pen and scribble your name on a piece of paper, just once. Then, put the pen down. Now, take a deep breath and look around the room for something that's a different color than your shirt. Notice that color."
+
+This task is simple, physical, and requires minimal mental effort. By focusing on your surroundings and doing something tactile, you might find that your mind starts to wander less and you're able to relax a bit more.
+
+Take 30 seconds to do this task, and see if it helps you feel more calm and focused. When you're done, you can take a deep breath and... well, we'll get to that in a minute!
+
+Patient: I did it — scribbled my name and looked for the color. It helped a little, I guess, but my hands are still restless and I'm still dreading the wait. Can you give me one more tiny, two-minute task that's simple and won't make me think too much? I don't really like talking about this.

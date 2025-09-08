@@ -1,0 +1,158 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hey, I'm a construction worker and lately I've been feeling really sad and low on energy — I can't seem to get motivated for much anymore. I guess the loneliness's gotten worse and it's starting to hurt my relationship because I keep pulling away. I don't know, it's just been on my mind a lot and it's hard to talk about.
+
+
+--- Turn 1 ---
+Therapist: The weight of those feelings can be crushing when it comes to connecting with others. When you say "I'm a construction worker," what's the part of that job that matters most to you—what matters when you're doing that work?
+
+Patient: I guess what's important is the work itself — doing something real with my hands and seeing a job finished. It gives me structure, a reason to get up, and the money to take care of things. I don't know, it usually helps me not think about other stuff, but lately even that hasn't been enough.
+
+
+--- Turn 2 ---
+Therapist: It sounds like the hands-on work brings a sense of purpose and satisfaction that's hard to find when those other feelings are weighing on you. When you try to push them away with the work, what happens when that doesn't quite work anymore?
+
+Patient: I don't know, I guess when work stops distracting me everything just gets heavier and I feel stuck. I start dragging around the house, don't want to go out, and I end up snapping at my partner, which just makes me pull away more. Sometimes I drink more or stay in bed, but I don't know, it's just hard to admit.
+
+
+--- Turn 3 ---
+Therapist: It takes a lot of courage to admit when things feel stuck and hard to manage. When you notice those moments where everything feels heavier—like when you drag around the house or snap at your partner—what's the smallest part of what matters most to you about your work, about taking care of things, that might show up even in those moments?
+
+Patient: I guess it's that I can see something finished—like proof I showed up and did my part, you know? Even on rough days, that little bit of pride helps me not feel totally useless. I don't know, lately even that doesn't stick for long and I end up feeling... kind of hollow.
+
+
+--- Turn 4 ---
+Therapist: That tiny spark of pride when you see what you've accomplished matters to you—it feels connected to being able to show up, even when things get tough. When that spark starts to fade, what would it be like to make room for it to come back, even when the feeling of being hollow stays?
+
+Patient: I don't know. I guess maybe if I forced myself to do one small thing each day—finish a tiny repair, get dressed and sit outside for a bit—that little proof might pop up again even if I still feel hollow. I'm getting kind of uncomfortable talking about it though, so... yeah.
+
+
+--- Turn 5 ---
+Therapist: It's okay that it feels uncomfortable—just noticing that discomfort right now, without trying to push it away. When you say you're getting kind of uncomfortable talking about it, what happens to the thought "I don't know" when you try to make room for it to stay with you for just another moment?
+
+Patient: I don't know. If I try to let that thought sit it just feels heavy in my chest and makes me want to look away. I guess I start thinking about something else—like what I need to fix tomorrow—because it's easier than staying with it.
+
+
+--- Turn 6 ---
+Therapist: That's what happens when you try to let it sit—a heaviness that feels like a weight, and a urge to escape into something else. What if, instead of trying to push that heaviness away, you could just notice it right now, without trying to change it?
+
+Patient: I don't know... when I try to just notice it, it sort of swells up in my chest and I want to look away. I guess it feels like there's nothing I can do about it. I'm getting uncomfortable talking about it—can we slow down a bit?
+
+
+--- Turn 7 ---
+Therapist: It sounds like when you try to notice it, the heaviness comes up and you want to look away. That's okay. We don't need to do anything with it right now. We can just be with it, for a moment, without trying to change it. *pauses* What's the chair feeling like right now, where we are?
+
+Patient: I don't know — it's an old, stiff chair, the wood's rough and the seat makes my back tense after a while. I guess it feels heavy, like it's holding me down instead of supporting me. I'm getting uncomfortable talking about this, so can we slow down a bit?
+
+
+--- Turn 8 ---
+Therapist: That chair sounds like it's not very comfortable. The stiffness and roughness might be making your back tense, and that heaviness feels like it's holding you down. *pauses* You mentioned earlier that when you try to push those feelings away with work, it doesn't work anymore. What would it be like to notice that heaviness in your chest, while you're sitting in this chair, without trying to change it?
+
+Patient: I don't know. It feels tight, like a weight on my ribs that makes it hard to take a full breath. I guess it makes me want to get up and do something — go fix the fence or chew on some work — anything to make it stop. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 9 ---
+Therapist: The heaviness feels like it's pressing against your ribs, making it hard to breathe. That makes sense. When you try to push it away by getting up and doing work, what's happening when you notice that urge to get up right now?
+
+Patient: I don't know. I guess it's like an itch I can't scratch — if I sit with it it just swells, so getting up and doing something familiar feels like the only way to make it quieter. I'm getting kind of uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 10 ---
+Therapist: The itch feels like it's driving you to get up and do something. When you notice that urge, what's the smallest part of what matters to you about sitting here, even with the itch, that feels important to you?
+
+Patient: I don't know. I guess the smallest part is proving to myself I can sit through it — not run off to a job or a drink — like I'm actually showing up for myself or my partner. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist: It sounds like proving to yourself that you can sit with the itch is what matters most. That's a small, brave thing to notice. When you say "showing up for myself or my partner," what does that feel like in your body?
+
+Patient: I don't know. It tightens my chest, my heart starts racing, my shoulders go up, and my hands feel restless — my head keeps jumping around so I can't stick with one thought. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 12 ---
+Therapist: Your whole body is responding to the idea of showing up for yourself and your partner. That tension in your chest, the racing heart, the restless hands... what would it be like to notice all of that, just for a moment, without trying to change it?
+
+Patient: I don't know. If I try to notice it, my chest gets tighter and my head just scatters—thoughts about stuff I gotta do start popping up and I get jittery, like I need to get up and fix something right now. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 13 ---
+Therapist: It sounds like noticing it might actually make it worse. When you say "my chest gets tighter," what would it be like if you could just sit with that tightness for a moment, without trying to make it go away?
+
+Patient: I don't know. If I try to sit with it it just tightens more—my heart races, my hands go restless, and my head jumps to a dozen things I should be doing, like bills or tools I forgot about. I keep wanting to get up and check on something. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 14 ---
+Therapist: It feels like the tightness is getting worse when you try to sit with it. That makes sense. What would it be like if, instead of trying to sit with the tightness, you could just notice it *while* getting up to check on something?
+
+Patient: I don't know. I guess noticing it while I get up might dull it a bit since I'm doing something, but then my head just starts racing — did I lock the truck, did I leave the heater on, what about those bills — and my chest still tightens. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 15 ---
+Therapist: It sounds like even when you're doing something, the tightness and racing thoughts still come up. That might feel really frustrating. What would it be like if, while you're getting up to check on something, you could say to yourself, "I'm noticing this tightness *right now* while I'm doing this task. It's not going to change if I do it."
+
+Patient: I don't know. I guess saying that to myself might help a bit—like a reminder—but my head would probably still jump to a dozen things (did I lock the truck, the heater, those bills) and I'd still hurry. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist: It sounds like even with the reminder, the head would still jump to all those things. That's okay. What if, instead of trying to stop the jumping thoughts, you just noticed them *while* you're doing something else? Like, what if you just stood there by the door, noticing the tightness in your chest, *while* you checked the truck lock?
+
+Patient: I don't know. If I try that I stand there and my chest tightens and my head just races — did I lock the truck, the bills, the heater — and this stupid shame feeling hits me like I'm messing everything up, so I hurry. I guess maybe noticing while I check might help a little, but I get too anxious to actually stay with it. I'm getting uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 17 ---
+Therapist: It sounds like noticing while you check might actually make things worse for you. That shame feeling is really strong, and it's making it hard for you to stay with the tightness. What if, instead of trying to notice while you check, we just started with noticing the tightness *right now*, just for a moment?
+
+Patient: I don't know. If I try to notice it right now my chest just tightens and my head races — bills, the truck, dumb stuff — and this stupid shame washes over me like I'm a screw-up. I guess I can try for a second, but I'm getting really uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 18 ---
+Therapist: It sounds like noticing the tightness right now feels like it's making things worse for you. That shame feeling is really strong. *pauses* What if we didn't try to notice it right now, but just... stopped. Just stopped trying to notice the tightness and the racing thoughts. *pauses again* What would it be like if you just sat with the shame, even for just one breath?
+
+Patient: I don't know. I can try for one breath, but when I do that shame just wells up — my chest tightens, my stomach drops, and I feel like I'm screwing everything up, so I want to get up. I'm getting really uncomfortable talking about this; can we slow down a bit?
+
+
+--- Turn 19 ---
+Therapist: It sounds like even just one breath feels like it's making things worse. That shame feeling is really strong. *pauses* What if, instead of trying to push through the shame or get up, we just... acknowledged it. Just for one moment, without trying to change it or push it away.
+
+Patient: I don't know. If I try to just acknowledge it, that shame comes crashing in — my chest clamps down, my face gets hot, and I feel like I'm screwing everything up. I guess I can try for one breath, but my hands are restless and my head keeps jumping to a dozen things I should be doing. I'm getting really uncomfortable talking about this; can we slow down a bit?
+
+
+--- Turn 20 ---
+Therapist: It sounds like acknowledging the shame is making it even harder for you. That's okay. What if, instead of trying to acknowledge it, we just... noticed it *as* it's happening. Just for one moment, without trying to change it or push it away. *pauses* What would it be like if you just noticed the restlessness in your hands, *while* your chest clamps down, *while* your face gets hot?
+
+Patient: I don't know. If I try to notice all that at once my hands won't stop fidgeting, my chest clamps down and my face heats up, my heart races and my head snaps to a thousand things, and then this shame just floods me like I'm screwing everything up. I'm getting really uncomfortable talking about this—can we slow down a bit?
+
+
+--- Turn 21 ---
+Therapist: It sounds like trying to notice all that at once feels like it's making it even worse. That makes sense. *pauses* What if we started with just one small thing? Not noticing the shame, not noticing the restlessness in your hands. Just noticing one small thing. Like... *pauses* What would it be like if you just noticed the sensation of your feet touching the floor?
+
+Patient: I don't know — my feet feel flat and kind of cold on the floor, solid but a little numb. But when I try to focus on that my head just jumps to a dozen things and this stupid shame floods me like I'm a screw-up, so I want to get up. I'm getting really uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 22 ---
+Therapist: It sounds like trying to focus on your feet makes it hard for you to stay with it. That's okay. *pauses* What if we didn't try to focus on your feet, but just noticed the feeling of getting up when you think about your feet? Like, what's it like to notice that urge to get up, *while* your feet feel flat and cold?
+
+Patient: I don't know. My feet feel flat and cold, but as soon as I notice the urge to get up my chest clamps and this stupid shame hits like I'm screwing everything up, so I hurry — my head's racing to a dozen things (truck, bills) and my hands get restless. I'm getting really uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 23 ---
+Therapist: It sounds like noticing the urge to get up is making it hard for you to stay with the feeling of your feet. That makes sense. *pauses* What if we didn't try to notice the urge to get up, but just noticed what happens when you *do* get up? Like, what's it like when you stand up and your chest clamps and shame hits?
+
+Patient: I don't know — when I stand up everything just cliffs in: my heart's pounding, my chest clamps tight and I can't get a full breath. My hands go restless, my head starts firing off stuff — did I lock the truck, the heater, those damn bills — and then this shame just floods me like some old screw-up's shadow and I hurry to fix something. I end up snapping or drinking to quiet it. I'm getting really uncomfortable talking about this; can we slow down a bit?
+
+
+--- Turn 24 ---
+Therapist: It sounds like standing up and getting up to do something makes everything feel like it's crashing down for you. That's really tough to notice. *pauses* What if, instead of trying to stop the crashing, we just noticed what happens when you *do* snap or drink to quiet it? Like, what's it like when you're drinking to calm down, or when you're snapping at someone?
+
+Patient: I don't know. If I drink it dulls things for a bit — my hands calm and the chest doesn't feel as tight — but afterwards there's this stupid shame, like I'm screwing everything up. When I snap at my partner it's quick and ugly, then I feel awful and my head races to bills, the truck, all that stuff and I just want to fix it but I don't know how. I'm getting really uncomfortable talking about this, can we slow down a bit?
+
+
+--- Turn 25 ---
+Therapist: It sounds like using substances or snapping at others helps you feel calmer in the moment, but then you're left with that shame feeling afterwards. And when you snap at your partner, it feels like a huge weight after the moment passes. *pauses* What if, instead of trying to stop the shame or the snapping, we just noticed what happens when you *do* drink, or when you *do* snap? Like, what's it like to notice the shame when it shows up, even though it feels like it's "screwing everything up"?
+
+Patient: I don't know. If I try to notice the shame it just crashes over me — chest tight, face hot, hands restless, and my head starts racing to bills and the truck and I feel like a screw-up, so I want to fix something or drink to quiet it. I guess noticing it just makes it worse, and I'm getting really uncomfortable talking about this; can we slow down a bit?

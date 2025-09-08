@@ -1,0 +1,213 @@
+Patient: Lately I’ve been feeling really overwhelmed by sadness and just... a lack of motivation since I lost someone close to me. It’s leaking into everything — I’m distracted at work as a senior data scientist and I’m having a hard time connecting with my partner and family. I don’t know, it just feels like I’m moving through fog most days.
+
+Therapist: It sounds like you're carrying a heavy emotional burden right now. It's completely understandable that the loss of someone close would have such a profound impact on your life.
+
+Can you tell me more about what a typical day looks like for you lately? What kind of distractions are you experiencing at work, and how are you feeling about connecting with your partner and family?
+
+Patient: My days are kind of a blur — I get to the office and I’m in meetings but my mind just drifts, I tinker with small stuff instead of focusing on the big models and keep rechecking emails or dashboards. At home I’m tired and avoidant; I’ll sit on the couch and scroll or busy myself with chores so I don’t have to talk, and then I feel guilty when I snap or shut down with my partner. I don’t know, I guess the distractions are mostly a way to not sit with how sad I am. I don’t really like getting into this stuff, but it’s been spilling into everything.
+
+Therapist: It sounds like you're trying to cope with your emotions by diverting your attention to other things, like work or chores. But at the same time, you're also feeling really disconnected from your partner and family, and that's leading to more feelings of guilt and avoidance.
+
+It's like you're trying to avoid the sadness, but it's not working. It's just spreading to other areas of your life. Can you think of a moment, even a small moment, where you'd be okay with feeling sad? Maybe it's just a tiny crack in the fog, but is there anything that would make it feel a little more bearable?
+
+Patient: I don't know... maybe small things like making coffee in the morning when it's quiet — sometimes I'll just stand at the window and a wave of sadness comes and it's almost bearable. Or when I'm on a walk with my headphones and a certain song plays, I can let it out a little. I guess I mostly try not to dwell on it because it's uncomfortable and then I get distracted.
+
+Therapist: Those small moments, like making coffee in the morning or listening to a particular song on a walk, seem to be tiny pockets of acceptance for you. It's like you're acknowledging the sadness, but in a small, manageable way.
+
+It's interesting that those moments are bearable, but still require a certain level of distraction to get through. It's like your mind is constantly looking for an exit from the discomfort, and that's what you're trying to avoid.
+
+Can you tell me more about what happens when the song or the quiet morning moment is over? Do you feel like you're left with that sadness again, or is there a sense of... I don't know, maybe a little bit of calm that follows?
+
+Patient: I don't know... usually there's a little calm right after — maybe a few minutes where it feels okay — but then the fog sort of slides back in and I get guilty or annoyed with myself. I guess it's like a brief relief and then I start looking for something to do so I don't have to feel it. I'm not great at sitting with it for long.
+
+Therapist: It sounds like there's a brief respite after those small moments, but then the fog creeps back in and you feel overwhelmed again. It's like you're constantly chasing after a temporary reprieve from the discomfort.
+
+You mentioned being guilty or annoyed with yourself when the calm moment is over. It's like you're putting pressure on yourself to keep that calmness going, or to not have felt it in the first place. Is that feeling of guilt or annoyance more painful than the sadness itself, or is it just a different kind of discomfort?
+
+Patient: I don't know... I guess the guilt stings more sometimes because it's this constant nagging that I'm letting people down, which makes me feel worse than the sadness itself. I don't really like getting into this — it's getting heavy and I'm feeling a bit overwhelmed, can we slow down?
+
+Therapist: It sounds like the guilt is a more piercing and suffocating feeling for you, because it's tied to the idea that you're failing others. That must be incredibly painful.
+
+I can see why you'd want to slow down. It's been a heavy and overwhelming conversation so far. Let's take a deep breath together and pause for a moment. We can come back to this conversation when you're feeling a bit more grounded.
+
+Before we stop, is there one thing that you're holding onto right now, something that you feel like you need to say or process before we take a break?
+
+Patient: I don't know... I'm feeling a bit overwhelmed, can we slow down? I guess the thing I'm holding onto is this constant guilt — like I'm letting my partner and family down and that I'm somehow failing the person I lost. I don't really know how to fix it, and that part scares me.
+
+Therapist: It's like the guilt is a weight that's hard to put down, and it's making it hard for you to breathe. The thought of failing your partner and family, and the person you lost, is a heavy burden to carry.
+
+Can you try to say that out loud, just to yourself? "I'm letting my partner and family down, and I'm failing the person I lost." What does that feel like, saying those words out loud?
+
+Patient: I don't know... saying that out loud makes my chest tighten and my throat close up, like a weight I can't shift. I guess it feels shameful and small, and then I start replaying all the ways I think I've failed, which makes me want to look away. I'm getting overwhelmed—can we slow down? Maybe we could talk about something practical, like ways to manage the fog at work right now.
+
+Therapist: It sounds like bringing that guilt to the surface has made you feel physically uncomfortable, like your body is reacting to the shame and smallness. It's like you're trying to push it away, but it's hard to shake off.
+
+I'm glad you mentioned wanting to talk about something practical. Managing the fog at work can be a great way to start. Can you tell me more about what's been happening at work that's making it hard for you to focus? Is it the feeling of sadness, or is it something else?
+
+Patient: At work my head just drifts — I sit in meetings and catch myself replaying stuff from home, or I get lost fiddling with tiny bugs instead of the big models. Part of it is sadness, but there's also this anxious voice that I’ll mess something up, so I busy myself with checking emails and dashboards to prove I’m okay. I don't know, I guess it’s a mix of trying to avoid feelings and this fear of letting people down — can we talk about concrete, practical ways to get through the fog during the day?
+
+Therapist: It sounds like you're trying to stay busy and avoid feeling overwhelmed, but that's not really working. The anxiety about messing something up is a big part of it, and it's making you feel like you need to constantly check in and prove yourself.
+
+Can you tell me more about what it would take for you to feel like you're doing a good job at work? What would make you feel like you're not failing, and that you're actually contributing to the team?
+
+Also, have you considered taking a short break during the day to clear your head? Sometimes, taking a few minutes to step away from a task and do something else can help you come back to it with a fresh perspective. What do you think might help you feel more focused and present at work?
+
+Patient: I don't know... I guess if I had clearer priorities and really small, concrete goals to tick off each day, I'd feel less like I'm failing. Regular, specific feedback from my manager — even short check-ins that confirm I'm on the right track — would quiet that anxious voice a bit.
+
+Short breaks do help: a 10-minute walk, making coffee, or a quick Pomodoro (25/5) reset. Turning off notifications, batching email times, and having a visible checklist for the day seem to get me back on track more than trying to power through. I don't really want to get into the deeper why of the guilt right now — can we stick to practical stuff for a bit?
+
+Therapist: It sounds like having clear priorities and small, achievable goals would help you feel more in control and confident at work. And regular feedback from your manager would definitely help alleviate that anxious voice.
+
+I'm glad you mentioned that short breaks can be helpful. Sometimes, taking a step back and doing something else can help you recharge and come back to a task with a fresh perspective.
+
+It's also great that you've found some practical strategies to help you stay focused, like turning off notifications, batching email times, and having a visible checklist for the day. These are all good ways to manage distractions and stay on track.
+
+Let's keep focusing on the practical stuff for now. Have you considered implementing any of these strategies on a regular basis, or are you more of a "when it feels like it" kind of person?
+
+Patient: I don't know... I guess I've tried some of it but pretty inconsistently — checklists and Pomodoros help on good days, but I slide back into old habits when I'm tired or the fog hits. Blocking focused time on my calendar, asking my manager for a brief twice-weekly check-in, and putting a visible task board by my desk sounds doable, and maybe setting alarms to start/stop work would keep me honest. I'm starting to feel a bit overwhelmed — can we slow down and pick one small thing I could realistically try this week?
+
+Therapist: It's great that you're willing to try some new strategies, even if it's just small steps. Consistency can be tough, especially when you're feeling tired or overwhelmed.
+
+Let's pick just one small thing you can try this week. Why don't we start with setting a visible task board by your desk? Having a clear visual of your tasks and goals can help you stay focused and on track. It's a simple change that can make a big difference.
+
+Can you commit to trying this for just one week? That way, you can see if it helps you feel more organized and focused, and then we can reassess from there.
+
+Patient: I don't know... I guess I can try the visible task board for a week. It feels doable — I'll put a whiteboard or some sticky notes by my desk and check it each morning, and maybe set a daily 5-minute alarm to update it. I'm starting to feel a bit overwhelmed—can we slow down?
+
+Therapist: That's a great start. Taking it one small step at a time can be really helpful. The visible task board and daily alarm check seem like manageable changes to try out.
+
+Let's slow down just a bit more. Can you tell me what's feeling a bit overwhelming right now? Is it the task list itself, the feeling of having to update it every morning, or something else? Sometimes bringing it all out in the open can help us feel more in control.
+
+Patient: I don't know... I guess what's overwhelming is the pressure that the task board will just become another thing I'll mess up — having to remember and prove I did it every morning feels like a test. My energy is low so even small routines feel huge, and the guilt about letting people down sneaks in and makes me want to avoid it. I'm getting overwhelmed — can we slow down?
+
+Therapist: It sounds like you're feeling a lot of pressure and anxiety about taking on this new habit, and it's affecting your energy levels. The guilt about letting people down is also a big part of it, and that's making you want to avoid the task board altogether.
+
+Can we take a step back even further? Let's focus on your energy levels right now. How would you feel if you didn't have to worry about the task board or any of the other things that are feeling overwhelming? If you could just rest and recharge for a bit, how would that feel?
+
+( pause )
+
+Let's take a deep breath together and imagine that you're safe, relaxed, and not feeling any of the pressure or anxiety. Just for a moment, can you let go of all that and just be?
+
+Patient: I tried to breath like you said. For a few seconds my chest loosened and it felt almost okay, but then my mind started listing everything I haven't done and the guilt squeezed back in. I'm feeling a bit overwhelmed—can we slow down? Maybe we could talk about one tiny grounding thing I can do right now.
+
+Therapist: It's like your mind is a quick learner and it can easily switch back to the worries and guilt. But it's great that you were able to catch your breath for a few seconds and feel a tiny bit better.
+
+Let's focus on something tiny and present. Can you tell me what you're standing on right now? What's the sensation of your feet on the ground? Is it warm, cool, soft, or hard? Just notice the sensation of your feet touching the floor.
+
+Patient: I guess I'm standing on hardwood — it's cool through my socks and a bit firm under my heels. I can feel my weight more on my left foot and that actually makes me breathe a little easier for a second. I'm starting to get overwhelmed again — can we slow down? Maybe give me one more tiny grounding thing to try right now.
+
+Therapist: It sounds like your focus on your feet has helped a bit. Notice the sensation of the air on your skin. Can you feel the air moving in and out of your nostrils as you breathe? Maybe it's warm, or cool, or it's a bit stale. Just notice the sensation of the air.
+
+And don't worry if you start to feel overwhelmed again - we can come back to this. Just try to focus on your breath and the sensation of the air for a moment.
+
+Patient: I can feel the air cool when I breathe in and a bit warm when I breathe out — it sort of tickles the back of my throat. I don't know, my breaths are still shallow and my chest tightens when my mind slides back to that guilt. I'm getting overwhelmed — can we slow down? Maybe give me one more tiny grounding thing to try right now, like naming three things I can see or touching something nearby.
+
+Therapist: It sounds like your focus on the sensation of the air is helping a bit. The sensation of your breath moving in and out is a small, concrete thing that you can notice.
+
+Let's try something else. Can you look around you and notice three things that you can see? It doesn't have to be anything big or complicated. Just notice three things that catch your eye. It could be a chair, a book, a picture on the wall. Just try to notice three things that you can see right now.
+
+( pause )
+
+Take a deep breath in, and as you exhale, bring your attention to your feet. Notice the sensation of the floor beneath you. You're safe.
+
+Patient: I can see a framed photo on the shelf, a chipped coffee mug, and a stack of notebooks on the desk. That helped a bit—my breath is a little steadier—but I'm feeling overwhelmed again, can we slow down? Maybe give me one more tiny grounding thing to try right now.
+
+Therapist: It's great that you were able to notice three things around you. Sometimes, focusing on our surroundings can help us feel more grounded.
+
+Let's try something even simpler. Can you touch something nearby? It could be the coffee mug, the frame, or even the edge of the desk. Just pick up the mug, if you can, or run your hand over the frame. Notice the sensation of your hand touching the object. Is it warm, cool, smooth, or rough?
+
+( pause )
+
+Remember, you're safe. You're sitting in a quiet space, and you're taking small steps to focus on your breath and your surroundings. You got this.
+
+Patient: The mug's warm and smooth, and the chip on the rim catches my fingertip. I don't know... touching it makes my chest tighten and this stupid shame bubbles up, like I messed up something important, and I get really frustrated with myself. I guess my breaths are shallow again—I'm getting overwhelmed, can we slow down? Maybe one more tiny grounding thing, like holding the mug with both hands and counting breaths?
+
+Therapist: It sounds like touching the mug has triggered some of those same feelings of shame and frustration that we've been working with. It's like your body is reacting to the tactile sensation of the mug, but it's also bringing up those negative emotions again.
+
+I want to try something that might help you calm down and focus on your breath. Can you try holding the mug with both hands, like you said? Just hold it steady and see if that helps you feel more grounded. And then, I want you to focus on your breath. Take one slow, deep breath in, and as you exhale, say to yourself, "One." Take another breath in, and as you exhale, say, "Two." Keep counting your breaths, one at a time, and see if that helps you calm down and focus on the present moment.
+
+( pause )
+
+Remember, you're safe, and you're doing the best you can. It's okay to feel overwhelmed sometimes, and it's okay to take things one step at a time. You're not alone in this.
+
+Patient: Holding the mug with both hands and counting helped for a few breaths — my chest loosened a little — but then that stupid shame kept creeping back, like I’d messed something important up, and I got tight again. I don't know, I’m frustrated with myself. I'm getting overwhelmed—can we slow down? Maybe give me one more tiny grounding thing to try right now.
+
+Therapist: It's like the shame and frustration are a cycle that's hard to break. I want to try something that might help you interrupt that cycle. Can you try to focus on the sensation of the mug in your hands, just for a moment? Notice the weight of it, the feel of the material, the sensation of your hands touching the mug.
+
+And then, I want you to try to say something to yourself, just a simple phrase. Can you say, "I am here" or "I am safe"? Just say it to yourself, quietly, and see if that helps you feel a little more grounded.
+
+( pause )
+
+Remember, you're not trying to push away the shame or the frustration. You're just trying to create a small space for yourself to breathe, to calm down, and to focus on the present moment. You got this.
+
+Patient: I tried saying "I am here" quietly — felt a bit silly, but my chest eased for two breaths and then that stupid shame squeezed back in and I got frustrated with myself. I don't know... can we slow down? Maybe give me another tiny grounding thing, like naming five sounds I can hear or pressing my feet harder into the floor?
+
+Therapist: It's like the shame and frustration are still a bit of a challenge. I want to try something that might help you shift your focus away from those feelings. Can you try to notice the sounds around you? Can you name five things you can hear right now? It could be the hum of the air conditioner, the sound of a car driving by, the creak of the floor beneath your feet. Just try to focus on the sounds, one at a time. See if that helps you calm down and feel more grounded.
+
+And then, I want you to try pressing your feet harder into the floor. Just feel the weight of your body on the ground, and see if that helps you feel more connected to the present moment. You can do this, just one step at a time.
+
+Patient: Okay, I can try. I can hear the heater humming, a car going by outside, someone talking faintly next door, my keyboard clicking, and a clock ticking. Pressing my feet into the floor helped for a few breaths — I felt a little steadier — but then that stupid shame bubbled up again and I got frustrated with myself. I'm getting overwhelmed — can we slow down?
+
+Therapist: It's like you're making progress, but then the shame and frustration come back. I want to try something that might help you feel more grounded. Can you try to focus on the sensation of the air moving in and out of your body? Can you feel your breath moving in and out, and the sensation of the air touching your skin? It's a simple thing, but sometimes it can be really calming.
+
+And then, I want you to try to say something to yourself, just a simple phrase. Can you say, "I am doing the best I can"? Just say it to yourself, quietly, and see if that helps you feel a little more compassion for yourself.
+
+( pause )
+
+Remember, you're not trying to push away the shame or the frustration. You're just trying to create a small space for yourself to breathe, to calm down, and to focus on the present moment. You got this.
+
+Patient: I tried saying "I am doing the best I can" quietly — felt dumb, and it helped for a breath or two, then that stupid shame squeezed back in and I started replaying this old failure feeling and got really frustrated with myself. I don't know, I guess it's embarrassing how fast my mind goes there. I'm getting overwhelmed — can we slow down? Maybe another tiny grounding thing, like clenching and releasing my fists or naming colors around the room?
+
+Therapist: It's like you're getting sucked into this cycle of self-criticism and shame. I want to try something that might help you break out of it. Can you try clenching and releasing your fists? Just tense up your hands for a moment, and then release. Do that a few times, slowly. It might help you feel more grounded and connected to your body.
+
+And then, I want you to try to notice the colors around you. Can you see any colors in the room? Are there any reds, blues, greens, or yellows? Just take a moment to notice them, one at a time. See if that helps you calm down and focus on the present moment.
+
+( pause )
+
+Remember, you're not trying to fix anything or change anything right now. You're just trying to take care of yourself and be kind to yourself. You're doing the best you can, and that's something to be proud of.
+
+Patient: I did the clench-and-release a few times — my hands loosened for a moment and that felt…okay. I can name colors: faded blue mug, green plant, beige rug. But then that stupid shame bubbled up again, that old failure feeling, and I got frustrated with myself. I'm getting overwhelmed — can we slow down? Maybe one more tiny grounding thing, or could we shift to a single practical step I can try right now?
+
+Therapist: It's like you're trying to break out of the cycle, but it's still hard to shake off. I want to try one more tiny grounding thing, just to see if it helps. Can you try to focus on the sensation of your feet on the floor? Just notice how they feel, the weight of them, the sensation of the floor beneath them. It's a simple thing, but sometimes it can be really calming.
+
+If that doesn't work, I want to suggest a single practical step you can try right now. Can you try to make a single phone call or send a single text message to someone you trust? It doesn't have to be a big or important message, just something to get you moving and talking to someone. Sometimes, just getting something off your chest can help you feel a little better.
+
+( pause )
+
+Remember, you're not trying to fix anything or change anything right now. You're just trying to take care of yourself and get through this moment.
+
+Patient: I don't know... maybe I could try sending a very short text to someone I trust — like my sister — something like, "Not great today, can we chat later?" But even that makes that stupid shame flare up, like I'll mess it up or bother them, and I get stuck. I'm getting overwhelmed—can we slow down?
+
+Therapist: It's like even a simple text message is triggering those same feelings of shame and anxiety. I want to try to help you break free from that. Can you try to reframe that text message in a way that focuses on your own needs and feelings, rather than worrying about how it might affect someone else?
+
+For example, instead of "Not great today, can we chat later?", try "I'm having a tough day and I need to talk to someone, can we catch up later?" This way, you're framing the message as a way to take care of yourself, rather than as a burden to someone else.
+
+Let's try that, just for a moment. Can you take a deep breath and try to rephrase that text message in a way that feels more positive and empowering for you?
+
+Patient: I don't know... maybe something like, "Hey — I'm having a rough day and could really use someone to talk to. Are you free later?" I guess it feels more like asking for support than apologizing, but saying it already makes that old shame flare up and I’m getting overwhelmed — can we slow down?
+
+Therapist: It sounds like even that revised message is triggering those same feelings of shame. I want to try to help you break free from that.
+
+Can you try to separate your thoughts about the message itself from your feelings about it? For example, you're having a tough day, and that's okay. You're asking for support, and that's a brave thing to do. It's not about apologizing or blaming others; it's about reaching out for help when you need it.
+
+Let's try to focus on that support, rather than the shame. Can you take a deep breath and imagine that you're having a conversation with your sister, where you're talking about how you're feeling and asking for her support? How does that feel?
+
+( pause )
+
+Remember, you're not alone in this. You're reaching out for help, and that's a sign of strength, not weakness.
+
+Patient: I don't know... imagining that chat with my sister feels oddly relieving for a second, like maybe someone could actually hold some of this for me, but then that stupid shame bubbles up and my chest tightens. I guess it feels scary — like I'll say the wrong thing or be a burden, and then I freeze instead of sending it. I'm getting overwhelmed — can we slow down?
+
+Therapist: It's like you're caught in a cycle of self-doubt and fear. You're trying to reach out for help, but your own shame and anxiety are holding you back.
+
+Can you try to see this as a normal response, rather than something to be ashamed of? It's okay to feel scared or unsure about reaching out for help. It's a big step, and it's natural to feel uncertain.
+
+Let's take a step back and look at this from a different perspective. What if, instead of feeling scared or ashamed, you felt a sense of relief and gratitude for having someone to talk to? What if you could see that reaching out for help is a sign of strength, not weakness?
+
+I want to try something with you. Can you imagine that you're already sending that text to your sister, and that it's been sent successfully? What does that feel like? What does it mean to you?
+
+( pause )
+
+Remember, we're not trying to fix anything right now. We're just trying to take it one step at a time, and to see things from a different perspective. You're not alone in this, and you're doing the best you can.
+
+Patient: I don't know... imagining it did feel like a little relief, like maybe someone could actually hold some of this for me, but then that old failure feeling shoots up and I tense like I'm about to be judged. I guess part of me wants to send it, part of me just freezes and starts replaying all the ways I might mess it up. I'm getting overwhelmed—can we slow down?

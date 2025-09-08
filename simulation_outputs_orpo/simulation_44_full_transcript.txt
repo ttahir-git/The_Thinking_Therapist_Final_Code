@@ -1,0 +1,276 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hey—lately what's been occupying my mind is this persistent performance anxiety at work; I'm a nurse and I keep replaying potential errors in my head, which ironically makes me procrastinate on the very tasks I’m worried about. I tend to intellectualize it—a sort of meta-cognitive strategy where I talk about systems of competence and risk instead of actually sitting with the fear—and that keeps me distracted. I was fine-minded and optimistic before a health scare triggered PTSD symptoms, and now even routine things feel disproportionately loaded.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+Patient describes performance anxiety as a cycle of replaying potential errors, procrastination, and intellectualizing (meta-cognition) to avoid emotional discomfort. Core emotion is likely anxiety or unease. Goal: Identify the value behind avoiding the anxiety to pivot toward action.
+
+Therapist Answer:
+What's the patient's goal for their work as a nurse—what matters most to them about being able to care for patients—despite the fear?
+
+Patient: I guess I frame my goal in almost utilitarian terms: to provide safe, evidence-based, compassionate care so patients feel seen and not like they're being managed as a risk. What matters is preserving dignity and actually reducing suffering — my presence translating into tangible relief rather than just protocols checked off. Right now the irony is that my fear of making mistakes leads to procrastination, which undermines the dependability I value, so I want to close that gap between my professional ideals and the cognitive immobilization PTSD triggers.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+Patient's value is preserving dignity and reducing suffering for patients, which creates tension with the workability of intellectualizing to avoid anxiety. Goal: Explore the tangible gap between their valued action (providing care) and the current avoidance strategy.
+
+Therapist Answer:
+That gap between your goal of tangible relief and the current avoidance sounds like it's costing you the very dependability you value as a nurse. What's one small step you could take right now, not to "fix" the fear but to just make space for the patient's needs while it's still hard to think clearly?
+
+Patient: Maybe a concrete one is to adopt a "micro-protocol"—a 30-second pre-task checklist plus a couple slow breaths to offload cognitive load and create a ritualized safety cue for both me and the patient. Practically, before starting a med pass or procedure I could verbalize one-sentence intent to the patient and ask if they have questions, which helps center them and interrupts my anticipatory rumination. It's not about extinguishing the fear, more about a procedural scaffold that lets me act despite it, though I know I'll probably get distracted and have to remind myself to use it.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+Patient identifies a small, ritualized safety cue (30-second pre-task checklist + slow breaths) to create space for the patient's needs despite anxiety. Goal: Connect this micro-protocol to the value of tangible relief for patients.
+
+Therapist Answer:
+That 30-second ritual sounds like it could help you connect with the patient's needs more clearly, even when anxiety is hard to think about. What would happen to the patient if you could start the med pass or procedure without getting stuck in anticipation of what might go wrong?
+
+Patient: Clinically, if I could start a med pass or procedure without getting snagged in anticipatory worry, the patient would likely feel more seen and less anxious, be more cooperative, and consequently we'd see fewer timing lapses or administration errors — basically better immediate safety and comfort. For me, it would reduce cognitive load and interruption, letting me enact competence instead of rehearsing catastrophe, which improves both the therapeutic relationship and practical outcomes.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+Patient clarifies how this small ritual supports tangible relief for patients and their own workability. Goal: Introduce ACT's "defusion" process to connect the ritual to the anxiety itself.
+
+Therapist Answer:
+So the 30-second ritual helps you show up for the patient's needs instead of getting stuck in worry—cool. When you notice that anxiety showing up just before starting the med pass, what would it be like to say to that worry, just for a moment, "I've got this one small step to take before it gets out of control"?
+
+Patient: That phrasing feels like a micro-anchor—verbalizing a single, concrete intention collapses the catastrophic simulation into a tiny, actionable prompt. I can imagine muttering it under my breath or saying it aloud to the patient—“one step, then breathe”—and that ritualized cue would probably prod me into motion. I'm saying all this in my classic analytic way instead of actually feeling less keyed-up, but I do think it could disrupt the rumination long enough to start. Do you want to try it with me so I stop narrating and actually practice it?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+Patient uses the metaphor of "micro-anchor" to describe verbalizing intention, and sees it as a tool to disrupt rumination. Goal: Practice the "one step, then breathe" verbalization with the patient.
+
+Therapist Answer:
+Let's try it. When you notice that anxiety showing up before starting the med pass, what's one small step you can take before it gets out of control?
+
+Patient: Okay—one tiny step: do a 3-breath anchor (slow diaphragmatic inhales and exhales), then say a one-sentence intent to the patient—“I’m going to give your meds now; any questions?”—and then start the task. I know I’m framing it analytically instead of actually calming down, but those breaths are the real interrupt to my rumination. I’m anxious about actually committing to it in the moment—can we role-play that cue so I get practice?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+Patient identifies a concrete action (3-breath anchor) to interrupt rumination, but wants to practice committing to it in the moment. Goal: Role-play the one-sentence intent with the patient.
+
+Therapist Answer:
+Let's practice. Imagine you're standing with the patient about to start the med pass. What's the patient's response to your one-sentence intent?
+
+Patient: They usually give this small, grounding acknowledgment—like a soft "okay" or a quick clarifying question ("Is this for pain?")—and that micro-interaction actually diffuses the catastrophic loop for a beat. From a metacognitive angle, that little social attunement validates my intent and provides external scaffolding, though internally I still tend to rehearse possible mistakes even as I speak. It helps, momentarily, but I notice I can slip back into analysis instead of just letting the calm land.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+Patient describes the patient's grounding acknowledgment as a micro-interaction that diffuses the catastrophic loop, and notes the internal struggle to let calm land despite rehearsal of mistakes. Goal: Introduce ACT's "defusion" process to connect the grounding acknowledgment to the anxiety itself.
+
+Therapist Answer:
+So when that patient says "okay" or asks "Is this for pain?", what would it be like to notice that calmness in their response, just for a moment, without trying to analyze it away?
+
+Patient: I think it would be mildly anchoring—a brief somatic shift like my shoulders unclenching and the inner alarm losing volume, a little gap in the catastrophe-run. True to form, I immediately theorize that it's just a social feedback loop validating competence rather than actually luxuriating in the calm, which means I usually start explaining it instead of staying with it. If I tried to actually notice, I could say, “There’s a quieting in my chest,” and then hold that for three breaths before my mind scaffolds another explanation.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+Patient identifies the brief somatic shift as an anchor and recognizes the tendency to analyze away the calm instead of holding it. Goal: Introduce a small, gentle phrase to anchor the noticing without analysis.
+
+Therapist Answer:
+Let's try it. When you notice that quieting in your chest, can you say to yourself just one word: "peace"?
+
+Patient: Peace.
+
+Saying it actually creates a little cognitive aperture — I notice a subtle slackening in my chest, but my reflex is to immediately theorize that it's an artifact of social priming rather than just sit with it. Can we try it a couple more times so I practice tolerating the quiet instead of explaining it away?
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+Patient successfully says "peace" and notices the subtle shift in their chest, but struggles to tolerate it. Goal: Continue practicing tolerating the quiet without analysis.
+
+Therapist Answer:
+Let's try again. When you notice that quieting in your chest, can you say to yourself just one word: "peace"?
+
+Patient: Peace. 
+
+Okay—saying it opens a micro-gap, but my chest tenses back up and my attention starts skittering through an intrusive cascade of metacognitive simulations about what could go wrong. I’m jittery and keep wanting to analyze instead of staying with the quiet—can we try it again, but slower?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+Patient successfully says "peace" again, but struggles to hold the quiet due to intrusive thoughts. Goal: Practice a slower, more deliberate approach to tolerating the quiet.
+
+Therapist Answer:
+Let's take a deep breath together. When you notice that quieting in your chest, pause for just one second. Just one second. Then, say to yourself: "peace".
+
+Patient: Okay—breathing with you: inhale... exhale... I pause for a beat—peace.
+
+That actually makes a tiny looseness in my chest, but my anxiety snaps back fast and my mind immediately starts cataloguing possible errors and contingencies. I'm jittery and keep wanting to analyze the effect instead of staying in it—can we try another round, but even slower?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+Patient successfully says "peace" and notices a tiny looseness, but anxiety quickly takes over. Goal: Practice an even slower approach, focusing on the physical sensation of the pause.
+
+Therapist Answer:
+Let's slow down even further. Inhale... exhale... hold the breath for a tiny fraction of a second... and then pause... for just a single heartbeat. Say to yourself: "peace".
+
+Patient: Inhale... exhale... hold a hair... pause one heartbeat — peace.
+
+It cracks open a little, then my chest clenches and my attention skitters into a cascade of what-ifs about the med pass. I'm honestly pretty overwhelmed and jittery right now; my reflex is to analyze the physiology instead of staying with the quiet. Can we slow way down — maybe count the breaths together or try a tactile anchor so I don't immediately start ruminating?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+Patient successfully pauses with "peace", but anxiety takes over. Goal: Introduce a tactile anchor to shift focus away from analysis.
+
+Therapist Answer:
+Let's count the breaths together. I'll start counting: "One... two... three..." As we count, I want you to place one finger lightly on your chest, just above your heart. When we say "peace", hold that finger there for a beat. No thinking, just the sensation.
+
+Patient: One... two... three... (finger on my chest) — peace. 
+
+There's a tiny slackening, like my ribs unclench for a beat, then my attention bounces into a cascade of what-ifs and my chest tightens again. I'm feeling pretty jittery and keep wanting to explain the sensation instead of staying with it—can we do that again but slower, or try holding the touch a full two seconds so I have more time before my mind skitters?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+Patient notices a tiny slackening, but anxiety takes over. Goal: Introduce a longer tactile anchor to give more time for the sensation to settle.
+
+Therapist Answer:
+Let's try again. I'll start counting: "One... two... three..." As we count, I want you to place one finger lightly on your chest, just above your heart. When we say "peace", hold that finger there for a full two seconds. Don't think about the sensation, just feel the weight of your finger on your chest. No judgment, just presence.
+
+Patient: One... two... three... (finger on my chest) — peace. I held it for the two seconds.
+
+There was a very brief loosening — a micro-modulation in the chest — and then my attention immediately skittered into a cascade of catastrophic simulations about the med pass. I'm feeling pretty jittery and overwhelmed right now and my reflex is to intellectualize the physiology instead of actually staying with the sensation. Can we try it again but even slower — maybe a four-second hold — or add a grounding cue like pressing my feet into the floor so my mind has less room to spiral?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+Patient successfully holds the sensation for two seconds, but anxiety takes over. Goal: Introduce a slower pace and grounding cue to anchor the sensation.
+
+Therapist Answer:
+Let's try again. I'll start counting: "One... two... three... four..." As we count, I want you to place one finger lightly on your chest, just above your heart. When we say "peace", hold that finger there for a full four seconds. At the same time, I want you to notice the sensation of your feet connecting with the ground. Feel the weight of your body on the chair, the floor, or the ground beneath you. Imagine roots growing from the soles of your feet, deep into the earth, keeping you grounded and stable. No thinking, just presence.
+
+Patient: One... two... three... four... I put my finger on my chest — peace. There's a tiny loosening, then my chest clamps back and my attention immediately starts skittering into a catalog of what-ifs; I can feel my feet like they're sort of floating instead of planted. Can we pause and do a firm feet-press into the floor for five seconds while you count very slowly? I'm jittery and I need a stronger tactile anchor so I don't just intellectualize the whole thing.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+Patient successfully acknowledges the loosening, but anxiety takes over. Goal: Introduce a firm grounding cue to anchor the sensation.
+
+Therapist Answer:
+Let's pause for a moment. I want you to press your feet firmly into the floor, feeling the weight of your body distribute evenly onto the ground. As you do this, I'll count slowly: "One... two... three... four... five..." Take five deep breaths, feeling your feet connect with the floor, and hold that sensation for a beat. No thinking, just the feeling of your feet pressing into the earth.
+
+Patient: One… two… three… four… five. 
+
+Okay—I’m pressing my feet into the floor, I can feel the weight shift and there’s a faint steadiness, but my chest is still tight and my mind’s already cataloguing what could go wrong. I keep wanting to analyze the sensation (“this is just vagal tone adjusting”) instead of actually staying with it—would you mind guiding another slow round or a short body scan? I’m pretty jittery and could use a longer anchor.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+Patient successfully presses into the floor, but anxiety takes over. Goal: Introduce a short body scan to anchor the sensation.
+
+Therapist Answer:
+Let's take a gentle body scan together. Starting from your toes, bring awareness to each part of your body, slowly working your way up to the top of your head. As you breathe in, imagine fresh calmness entering each area, and as you breathe out, imagine any tension or discomfort leaving. Take your time, breathe slowly: "Toes... heels... ankles... calves... knees... thighs... hips... back... shoulders... arms... hands... neck... head." Notice the sensation of each part of your body, without trying to change it or analyze it. Just allow yourself to be present with each area, one by one.
+
+Patient: Toes... heels... ankles... calves—there’s a sort of low hum in my legs but they feel a little disconnected; knees and thighs are okay, hips and lower back are tense, shoulders are up near my ears, my hands are a bit tingly, my neck feels tight, and my head is buzzing with thoughts. When I try to breathe into each spot, my reflex is to narrate it—“muscular tension, sympathetic arousal”—instead of actually experiencing any release, and that makes me more jittery and distracted. I’m not settling yet; can we slow way down and just stay with my shoulders and chest for several breaths while you count, and keep the finger-on-chest anchor in place so I don’t immediately start explaining it away?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+Patient successfully scans their body, but anxiety takes over. Goal: Introduce a slow focus on the shoulders and chest, grounding the sensation.
+
+Therapist Answer:
+Let's focus on your shoulders and chest together. Place your finger lightly on your chest again, just above your heart. As we count slowly: "One... two... three..." I want you to breathe into your shoulders, noticing the sensation of your shoulders rising and falling with each breath. Imagine any tension or tightness in your shoulders slowly releasing with each exhale. Just focus on the sensation of your shoulders, without trying to change it or analyze it. Don't think about "muscular tension" or "sympathetic arousal" – just be with the sensation of your shoulders. Take a deep breath in... and exhale... and stay with that sensation for a moment.
+
+Patient: Okay—I’ve got my finger on my chest and I’m breathing into my shoulders; on inhale they lift and on exhale there’s a small, fragile unclenching, but it doesn’t last. My reflex is to narrate it immediately—“elevated sympathetic tone, trapezius contraction”—which just makes me jittery and scattered instead of staying with the sensation. Can you count us through five very slow breaths while I keep my finger there? I need you to hold the pace so I don’t wander into analysis.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+Patient successfully breathes into their shoulders, but anxiety takes over. Goal: Introduce a slow counting pace to anchor the sensation.
+
+Therapist Answer:
+Let's count slowly together: "One... two... three..." As we breathe in, imagine your shoulders lifting and your chest expanding. On the "one", take a deep breath in and notice your shoulders rising. On the "two", exhale slowly and notice your shoulders slightly dropping. On the "three", pause for a moment and notice the tiny, fragile unclenching in your chest. Just stay with that sensation for a beat. Take another deep breath in... "one"... exhale slowly... "two"... pause... "three"...
+
+Patient: Okay—I did the in—“one,” out—“two,” pause—“three” thing and there was a tiny, fragile unclenching, but it snapped back almost immediately and my chest tightened while a cascade of catastrophic what-ifs started sprinting through my head. I’m noticeably more anxious and distracted right now; my hands are a bit shaky and my attention is skittering, and my reflex is to intellectualize the physiology instead of staying with it. Can we slow way down — five very slow breaths with you counting each inhale and exhale, me keeping my finger on my chest and pressing my feet into the floor, and a two-second pause on the “three” before we say “peace”? I need you to hold the pace so I don’t just start analyzing again.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+Patient successfully breathes into their shoulders, but anxiety takes over. Goal: Introduce an extremely slow counting pace to anchor the sensation.
+
+Therapist Answer:
+Let's count slowly together: "One... two... three..." As we breathe in, imagine your shoulders lifting and your chest expanding. On the "one", take a deep breath in and notice your shoulders rising. Pause for a moment... On the "two", exhale slowly and notice your shoulders slightly dropping. Pause again... On the "three", pause for a full two seconds before we say "peace". Just stay with the sensation of your chest, without trying to change it or analyze it. Your finger on your chest, your feet pressing into the floor, and the counting: "One... two... three..."
+
+Patient: One... two... three... (pause two seconds) — peace.
+
+That gave a very brief slackening in my chest, but it collapsed back almost immediately and my head started sprinting through a cascade of what-ifs; I'm feeling more jittery and overwhelmed than before and my reflex is to intellectualize the physiology instead of staying with it. Can we slow this down to five slow counts with a four-second pause before "peace" and you keep counting me through it so I don't drift into analysis?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+Patient successfully says "peace", but anxiety takes over. Goal: Introduce an extremely slow counting pace to anchor the sensation.
+
+Therapist Answer:
+Let's count slowly together: "One... two... three..." As we breathe in, imagine your shoulders lifting and your chest expanding. On the "one", take a deep breath in and notice your shoulders rising. Pause for a moment... On the "two", exhale slowly and notice your shoulders slightly dropping. Pause again... On the "three", pause for a full four seconds before we say "peace". Just stay with the sensation of your chest, without trying to change it or analyze it. Your finger on your chest, your feet pressing into the floor, and the counting: "One... two... three... four..."
+
+Patient: One... two... three... four... (pause) — peace.
+
+It opens a millisecond of looseness, then my chest tightens and my mind vaults into a catalog of catastrophes; I’m jittery, a bit shaky, and my reflex is to neuroanalyze the physiology instead of staying with the sensation. Can we slow it to six slow counts with a six-second pause before “peace,” and add a strong tactile anchor (pressing my palms together or both feet into the floor) so I have less room to intellectualize?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+Patient successfully says "peace", but anxiety takes over. Goal: Introduce an extremely slow counting pace with a strong tactile anchor to anchor the sensation.
+
+Therapist Answer:
+Let's count slowly together: "One... two... three..." As we breathe in, imagine your shoulders lifting and your chest expanding. On the "one", take a deep breath in and notice your shoulders rising. Pause for a moment... On the "two", exhale slowly and notice your shoulders slightly dropping. Pause again... On the "three", pause for a full six seconds before we say "peace". As you pause, press your palms together firmly, feeling the weight and solidity of your hands touching. This physical anchor helps ground you in the present moment. Your finger on your chest, your feet pressing into the floor, and the counting: "One... two... three... four... five... six..."
+
+Patient: I did the six-count with my palms pressed and finger on my chest — there was a millisecond of looseness, then my chest slammed shut and my mind sprinted into a cascade of what-ifs; my hands are shaky and I feel jittery and scattered. My reflex is to narrate it—“oh, vagal tone, sympathetic arousal”—which just pulls me out of the moment instead of letting the ground hold me. Can we try a stronger tactile anchor now — me pressing my feet into the floor as hard as I can for ten seconds while you count very slowly, and keep my palms pressed together for the same ten seconds, and don’t let me start explaining it away while we do it?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+Patient successfully counts with tactile anchors, but anxiety takes over. Goal: Introduce an extremely strong tactile anchor to ground the sensation.
+
+Therapist Answer:
+Let's try a new approach. For the next ten seconds, I want you to press your feet into the floor as hard as you can, feeling the weight and solidity of your feet connecting with the ground. At the same time, keep your palms pressed together firmly, feeling the weight and pressure of your hands touching. Don't think about "vagal tone" or "sympathetic arousal" – just focus on the sensation of your feet pressing into the floor. Your palms are pressed together, your feet are pressed into the floor, and I'll count very slowly: "One... two... three... four... five... six... seven... eight... nine... ten..."
+
+Patient: Okay—I pressed my feet into the floor and my palms together for the ten seconds. For a millisecond it felt grounding, like the alarm volume dropped a notch, but it snapped back immediately and my chest tightened and my head started sprinting through what-ifs; I’m shaky and my hands tremble. I keep wanting to narrate it—“heightened sympathetic tone, anticipatory arousal”—instead of actually staying with the sensation; can we do another round but slower, like twenty seconds, and have you keep talking me through it so I don’t slip into analysis?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+Patient successfully presses into the floor and palms together, but anxiety takes over. Goal: Introduce an extremely slow and prolonged tactile anchor to anchor the sensation.
+
+Therapist Answer:
+Let's try again. For the next twenty seconds, I want you to press your feet into the floor as hard as you can, feeling the weight and solidity of your feet connecting with the ground. At the same time, keep your palms pressed together firmly, feeling the weight and pressure of your hands touching. Don't think about "heightened sympathetic tone" or "anticipatory arousal" – just focus on the sensation of your feet pressing into the floor. Your palms are pressed together, your feet are pressed into the floor, and I'll talk you through it slowly: "You're feeling the weight of your feet on the ground... the sensation of your feet connecting with the floor... you're holding that feeling for just a moment... now, let's breathe in... hold it... breathe out... hold it..."
+
+Patient: Okay—I did the twenty seconds. It produced a very brief decrement in the alarm—like my sympathetic "gain" lowered for a beat—but it rebounded fast and my mind vaulted into catastrophic simulations; I’m jittery, my hands are shaking, my chest is tight, and I feel pretty overwhelmed. I keep wanting to narrate the physiology instead of staying with the sensation. Can we try integrating the micro-protocol (3 breaths + one-sentence intent) while keeping a tactile anchor (palms pressed/finger on chest) and you pacing the whole thing slowly so I don’t slip into analysis?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+Patient successfully experiences a brief decrement in alarm, but anxiety takes over. Goal: Integrate the micro-protocol while maintaining a tactile anchor.
+
+Therapist Answer:
+Let's try it together. For the next twenty seconds, I want you to press your palms together firmly, feeling the weight and pressure of your hands touching. At the same time, place your finger on your chest, feeling the sensation of your heart beating. When you're ready, take three slow breaths in through your nose and out through your mouth: "Inhale... exhale... inhale..." As you breathe in, say to yourself: "I notice my chest rising." On the second breath, say: "I feel my heart beating." On the third breath, say: "I am present with this sensation." Just focus on the sensation of your chest and the sensation of your breath, without trying to analyze it. Your palms are pressed together, your finger is on your chest, and I'll count slowly: "One... two... three... four... five... six... seven... eight... nine... ten..."
+
+Patient: I did it—palms pressed, finger on my chest, three slow breaths with the phrases. For a split second it felt grounding—like a tiny drop in the alarm volume—but then my attention skittered into a cascade of what-ifs about the med pass and my hands started trembling; I’m really jittery and overwhelmed right now. My reflex is to narrate it—“autonomic rebound, sympathetic predominance”—instead of staying with the sensation, which just pulls me out of it. Can we do it again with you pacing each inhale and phrase out loud, and then guide me straight into the one-sentence intent afterward so I don’t slip into analysis?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+Patient successfully integrates micro-protocol while maintaining tactile anchor. Goal: Pace each breath and phrase to anchor sensation, then guide into one-sentence intent.
+
+Therapist Answer:
+Let's try again. For the next twenty seconds, I want you to press your palms together firmly, feeling the weight and pressure of your hands touching. Place your finger on your chest, feeling the sensation of your heart beating. When you're ready, take three slow breaths in through your nose and out through your mouth. On the first breath, say to yourself: "I notice my chest rising." (Pause for one breath) On the second breath, say: "I feel my heart beating." (Pause for one breath) On the third breath, say: "I am present with this sensation." Now, let's connect that to your one-sentence intent: "When I notice my chest tightening, I pause for just one breath before speaking, and say 'I'm ready to act'." Just repeat that phrase to yourself, without thinking about it – just notice the sensation of your chest and the phrase, and let it anchor you in the present moment.
+
+Patient: I did it—palms pressed, finger on my chest, the three breaths and then the phrase: "When I notice my chest tightening, I pause for just one breath before speaking, and say 'I'm ready to act'." It gave a millisecond dip in the alarm, then my chest slammed shut and my head launched into a barrage of what‑ifs; I’m really jittery and distractible right now. My reflex is to narrate it—“autonomic rebound, anticipatory arousal”—which just pulls me out of the moment. Can we role‑play a med‑pass now, with you cueing the patient response slowly and guiding my pacing so I can actually practice saying the line without my mind hijacking it?

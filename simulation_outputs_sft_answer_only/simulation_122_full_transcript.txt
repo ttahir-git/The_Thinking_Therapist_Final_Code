@@ -1,0 +1,379 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've noticed I intellectualize my feelings a lot—turn them into problems to solve or business decisions—especially since the job instability started. I guess I do that to numb the anxiety and avoid the actual fear and sadness, but I don't know how to feel it instead. Talking about this already feels really uncomfortable, so I might jump around or say "I don't know" a lot.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It takes a lot of courage to acknowledge and share this about yourself, especially when it feels uncomfortable. It's interesting that you mention intellectualizing your feelings as a way to cope with the anxiety and uncertainty of your job situation. Can you tell me more about what you mean by that? For example, how do you find yourself turning emotional experiences into problems to solve, or business decisions, and how does that relate to the job instability?
+
+Patient: I guess what I do is turn whatever I'm feeling into a task—if I'm scared about money or the business I start making spreadsheets, forecasts, pivot plans, like it's just another project to manage. It feels safer to optimize and problem-solve than to sit with the fear or sadness, but then I kind of numb out and end up exhausted or making impulsive choices. I don't know, talking about it now actually makes me want to change the subject because it feels like admitting the fear will make it real.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you've found a way to cope with your emotions by turning them into something you're more comfortable with - a task that you can manage and optimize. But in doing so, you're also numbing out the underlying feelings, which can lead to exhaustion and impulsive decisions. It's like you're putting a Band-Aid on the wound, but not addressing the wound itself.
+
+It's understandable that talking about it now makes you want to change the subject, because it can feel like admitting the fear will make it real. But the opposite is true: by acknowledging and talking about your fear, you're actually bringing it into the light, and that can be a powerful first step towards dealing with it.
+
+Can you think of a time when you felt like you were in a situation where you had to make a difficult decision, and you found yourself getting caught up in that task-oriented mindset? What happened after that, and how did it end up playing out?
+
+Patient: Yeah—there was this time I had to decide whether to let an underperforming cofounder go, and I turned it into spreadsheets, risk matrices, pro/con lists—like it was a product pivot. I pulled the trigger, but afterwards I felt kind of hollow and started taking impulsive contracts to prove I wasn't failing, which only made the anxiety worse. I don't know, talking about how that hollow feeling actually felt makes me want to immediately start optimizing the business plan instead.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're really good at putting your feelings into a structured framework, even when it's not necessarily the most effective way to deal with them. The example of the underperforming cofounder is a great illustration of this - by turning it into a business decision, you were able to manage the anxiety and uncertainty, but also avoid really feeling the emotions that came with it.
+
+It's interesting that you mention feeling hollow afterwards and taking impulsive contracts to prove you weren't failing. It sounds like you were trying to distract yourself from the underlying emotions, but it ended up making things worse.
+
+It's almost like you're caught in a cycle of trying to manage your feelings through productivity and optimization, rather than actually feeling them. It's like you're saying, "If I can just optimize this, I'll feel better."
+
+Can you think of a time when you did something that wasn't driven by a need to optimize or manage your feelings? Something that was more spontaneous or intuitive? How did that feel, and what did you learn from it?
+
+Patient: I guess once I said yes to a last-minute camping trip with a friend—no spreadsheets, no plans, just went. It felt unexpectedly calm and kind of freeing, like my brain finally quieted, but afterwards I just shrugged it off and dove back into overworking to prove it wasn't about escaping. I don't know, talking about this is already making me jittery—can we slow down a bit?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're already feeling a bit anxious about slowing down, but it's worth it to explore this further. Let's take a deep breath and try to go at your pace.
+
+It's interesting that the camping trip felt calming and freeing, but afterwards you just shrugged it off and dove back into overworking. It's like you were trying to prove to yourself that it wasn't about escaping or taking a break, but rather about being productive.
+
+Can you tell me more about what you mean by "being free"? What happened during the camping trip that made you feel that way? Was it the natural setting, the company of your friend, or something else entirely?
+
+Patient: I don't know, it was mostly the quiet — no emails, no plans, just the woods, a fire, and someone else making dinner. I guess being free meant my brain didn't have to turn everything into a checklist; I could just notice the stars and feel calm for once. But talking about it already makes me jittery, like I should be doing something—can we slow down? I don't want to start fixing it instead of feeling it.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the quieter, more natural surroundings helped you tune out your thoughts and feel more at ease. And being free meant that you didn't have to constantly be "on" or trying to manage everything, you could just be present in the moment.
+
+I want to slow down too, and try to create a safe space for you to feel whatever comes up. No checking emails, no making plans, just this quiet moment together. Let's focus on just being here, together, and see where it goes. Can you just take a deep breath and let's start from here, without trying to do anything or fix anything?
+
+Patient: Okay, I'm trying to breathe—slowly. My chest feels tight and my brain keeps filling with a list of things to do, like I should be fixing this right now instead of feeling it. I don't know, can we just stay with this quiet for a minute? I'm already jittery and want to jump into planning.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is trying to come back online, and your brain is trying to take over again. I'm just going to stay here with you, quietly, and see if we can't create a little space for your body and mind to settle down.
+
+You can stay right here, and I'll just sit with you in silence for a minute. No talking, no doing, just this quiet together. I'm not going anywhere, and I'm not going to try to do anything with you. I just want to be here, with you, in this quiet moment.
+
+Just breathe, and let's see what happens.
+
+Patient: I don't know... I'm trying to stay with the breathing but my chest's tight and my mind keeps spitting out a to‑do list like I should be fixing something. I guess it feels like fear—maybe shame too—but I'm already jittery and want to start planning. Can we just keep sitting with this for a bit?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is trying to respond to the fear and shame, and your mind is trying to take over with a to-do list. But I want to stay here with you, quietly, and see if we can't create a little space for you to feel whatever is underneath.
+
+I'm not going to try to fix anything or make any plans. I just want to sit here with you, and let you be. Your body is tight, and your mind is racing. That's okay. We can just be with that, right here, right now.
+
+Can you try to notice the tightness in your chest, just for a moment? See if you can feel it, without trying to do anything about it. And can you try to notice the thoughts in your head, without judgment? Just see them, without trying to change them or do anything with them. We can just be with the thoughts, and the feelings, and see what happens.
+
+Patient: I don't know...when I try to notice it, the tightness feels like a weight under my sternum and my breaths get shallow. My head keeps jumping to bills and contracts and what I should do next, like it’s a problem to solve, and I keep wanting to get up and fix it. I guess I can try to stay with it for a bit, but it's really uncomfortable and I'm already jittery—can we keep this slow?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is trying to protect itself from feeling the weight, and your mind is trying to find a way to solve the problem and make it go away. That's a lot to handle, and it's no wonder you're feeling uncomfortable and jittery.
+
+Let's take a moment to acknowledge that it's okay to feel this way. It's okay to be uncomfortable, and it's okay to not know what to do. Can you try to acknowledge that feeling of discomfort, even if it's just for a moment? Just a small acknowledgment, like a nod to yourself, can be helpful.
+
+And I want to reassure you that we're not trying to solve any problems or fix anything right now. We're just sitting here, quietly, and trying to be with your feelings. You're not alone in feeling this way, and it's okay to take things one step at a time.
+
+Can you try to take just one more breath, and then we can try to do something small? Just one more breath, and then we can move forward, slowly.
+
+Patient: Okay — I took the breath. It loosens things a bit, but it also sparks this hot shame and frustration that makes me want to jump up and start planning to prove I'm okay. I don't know... I can try one tiny thing: the weight in my chest feels a little less sharp right now, but can we keep this really slow? I'm already jittery.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and frustration are trying to overwhelm you, and your mind is trying to find a way to escape and prove that you're in control. But I want to slow it down, really slow, and see if we can't create a little space for you to feel whatever is underneath.
+
+The weight in your chest feeling a little less sharp is a small step, and I want to acknowledge that. It's a tiny bit of progress, and it's okay to take it one step at a time. But let's not try to do too much too soon. We'll just take it one tiny step at a time, and see how it goes.
+
+Can you try to notice the shame and frustration, without trying to do anything about it? Just see them, like they're clouds passing by, and don't try to chase them away. We can just be with them, for now, and see what happens.
+
+And remember, we're not trying to prove anything right now. We're just trying to be with your feelings, and take it one small step at a time. You're doing the best you can, and that's enough.
+
+Patient: I can feel that hot shame and frustration rising—like if I admit it, I’ll be exposed, so my brain immediately wants to make a plan to fix it. I don't know, it drags up past stuff that just makes me feel small, and it’s embarrassing. I guess I can try to notice it, but my chest tightens and my head starts listing fixes, so can we please keep this really slow? I'm already jittery and want to change the subject.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and frustration are trying to shut down, and your mind is trying to come up with a plan to fix it before it gets exposed. But I want to slow it down, really slow, and see if we can't create a little space for you to feel whatever is underneath.
+
+I want to acknowledge that it's hard to feel small, and that it's okay to feel that way. It's okay to acknowledge the shame and frustration, even if it's embarrassing. Can you try to just acknowledge it, without trying to do anything about it right now? Just a small acknowledgment, like a nod to yourself, can be helpful.
+
+I'm not going to try to change the subject or fix it right now. I'm just going to be here with you, and try to create a little space for you to feel whatever is going on. You're doing the best you can, and that's enough.
+
+Can you try to take just one more breath, and then we can see what happens? Just one more breath, and then we can move forward, slowly.
+
+Patient: Okay — I took the breath. It helps a bit, but the hot shame and frustration are still there and make me want to jump up and start fixing things to prove I'm not failing. I don't know… can we just keep this really slow? I'm jittery and keep wanting to change the subject.
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and frustration are still trying to push you, and your mind is still trying to come up with a plan to fix it and prove that you're not failing. But I want to keep it slow, really slow, and see if we can't create a little more space for you to feel whatever is underneath.
+
+Can you try to notice the shame and frustration, not as a problem to be solved, but just as a feeling? Just see them, without trying to change them or do anything about them. We can just be with them, for now, and see what happens.
+
+I'm not going to try to change the subject or fix it right now. I'm just going to be here with you, and try to help you feel whatever is going on. You're doing the best you can, and that's enough.
+
+Can you take just one more breath, and then we can see what happens? Just one more breath, and then we can move forward, slowly.
+
+Patient: Okay—I took the breath. It helps a bit, but this hot shame and frustration keeps rising up, like something from my past making me feel small, and my brain immediately wants to jump into planning to prove I'm okay. I don't know, I can try to stay with it, but can we please keep this really slow? I'm already jittery and keep wanting to change the subject.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and frustration are still trying to overwhelm you, and your mind is still trying to come up with a plan to fix it and prove that you're not failing. But I want to keep it slow, really slow, and see if we can't create a little more space for you to feel whatever is underneath.
+
+Can you try to acknowledge the shame and frustration without judgment? Just see them, without trying to change them or do anything about them. You can say to yourself, "This is the feeling I'm having right now," or "This shame is showing up for me right now." Just acknowledge it, and then we can try to explore it further.
+
+I'm not going to try to change the subject or fix it right now. I'm just going to be here with you, and try to help you feel whatever is going on. You're doing the best you can, and that's enough.
+
+Can you take just one more breath, and then we can see what happens? Just one more breath, and then we can move forward, slowly.
+
+Patient: I'm not sure I follow—how is saying "this is the feeling I'm having" supposed to help? Saying it just makes my head kick into fix-it mode and my chest tightens, and I get jittery. I don't know, can we just stay really slow and can you give me one simple, concrete way to notice it without turning it into a plan?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying "this is the feeling I'm having" is making things worse for you. I'm sorry if it's not helpful.
+
+Let's try something different. Can you just notice the sensation of your chest tightening, right now, without trying to do anything about it? Just notice the physical feeling, like a band or a pressure, in your chest. That's it. Just notice that sensation, without trying to change it or fix it.
+
+No judgment, no thoughts, no plans. Just the sensation of your chest tightening, as it is, right now. Can you do that for me?
+
+Patient: Okay, I can try. It feels like a heavy band under my sternum — tight, warm, my breaths get shallow and a hot shame rises that makes me want to start listing fixes immediately. I'm already jittery, so can we just stay really slow and sit with that for a minute? I don't know if this is helping.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the sensation of the heavy band under your sternum is connected to the hot shame rising up. Can you just acknowledge the shame, without trying to do anything about it right now? Just notice it, like a thought or a feeling, without judgment. No trying to fix it, no trying to change it, just noticing it.
+
+You can say to yourself, "This shame is here," or "This hot feeling is showing up." Just acknowledge it, and then we can try to explore it further. Can you do that for me? Just notice the shame, without trying to change it.
+
+Patient: I can try—saying "this shame is here" out loud makes my heart race and I suddenly want to make a plan to fix it. I don't know, it feels like admitting it will make me look small or like I messed up. Can we just stay with the band in my chest for a minute? I'm already jittery and afraid I'll start changing the subject.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying "this shame is here" out loud triggered a reaction in you. Can we try to go back to just noticing the sensation of the heavy band under your sternum? Just focus on that feeling, without trying to change it or fix it. No plans, no thinking, just the sensation.
+
+You can try to do it in a way that's a little more gentle with yourself. Instead of saying "this shame is here", you could say "this band is tight". It's just a small change, but it might help you focus on the physical feeling instead of the emotional one. Can you try that? Just notice the band, and see if you can stay with it for a moment.
+
+Patient: Okay — we’ll keep this very slow. If it feels doable, try this one small, concrete thing: place a hand lightly over that band on your chest and breathe with me.
+
+- Inhale gently for a count of four, noticing the band lift under your hand.  
+- Exhale slowly for a count of six, feeling the band soften if it does.  
+- Repeat that for three breaths, just noticing any tiny changes — temperature, tightness, movement — without trying to change them.
+
+If that starts to feel too much or your mind races, we can switch to a grounding choice instead: would you prefer to keep focusing on the band, or try a quick 5-4-3-2-1 grounding exercise? Either is fine — you get to pick. How does the band feel after those breaths?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I think I can try that. *takes a deep breath* Okay, I'm going to place my hand over the band... *places hand over chest* Ah, I can feel the band under my hand. *begins to breathe*
+
+Inhale... *inhales for 4 counts, noticing the band lift slightly*... it's still there, but it's not as tight as it was. *exhales for 6 counts, feeling the band soften slightly*... that feels a tiny bit better. *notices the band's temperature and tightness* It's still warm, but it's not as constricting as it was.
+
+*repeats the process for 2 more breaths, noticing the band's movement and any changes in its feel*... I'm not sure if I'm doing this right, but it's kind of... calming? *exhales slowly, feeling a sense of relaxation wash over*
+
+I think I can try to continue with this for a bit longer, but if I start to feel overwhelmed, can we switch to the grounding exercise? *pauses, taking another deep breath* I'm not sure how much longer I can keep this up, but I'll try.
+
+Patient: Okay—I think those breaths helped a little, the band loosened but this hot shame keeps flicking up and it drags up past stuff that makes me feel small. I don't know, I'm getting jittery and my brain's already rattling off fixes like I should be doing something. Can we switch to the 5-4-3-2-1 grounding exercise now? I guess that feels safer.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Those breaths may have helped a bit, but it's clear that the hot shame is still a significant challenge for you. I'm glad you're feeling more comfortable with the grounding exercise, though. It's a great way to shift your focus away from the shame and into your physical surroundings.
+
+Let's take a moment to ground ourselves. Can you start by noticing five things you can see around you? It might be a chair, a book, a picture on the wall - anything at all. Just notice it, and try to see it clearly. What are the five things you can see?
+
+(And don't worry, we'll come back to the shame later. For now, let's just focus on grounding ourselves.)
+
+Patient: Okay — I guess five things: a lamp, my laptop (with spreadsheets open), a half‑drunk coffee mug, a stack of invoices, and a small potted plant. I don't know, noticing them like this makes that hot shame flicker up and I get jittery, so can we keep this really slow?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like noticing the physical things around you is helping to ground you, but it's also triggering the shame. That's okay. We can try to move a bit more slowly through this exercise.
+
+Let's take it one thing at a time. Can you notice the lamp? Just notice it, without trying to do anything with it or make any judgments about it. See it, and then let's move on to the next thing.
+
+(And remember, we're not trying to do anything with the spreadsheets or the invoices right now. We're just focusing on the physical things around you, and trying to find some calm.)
+
+Patient: I'm not sure I follow—how is noticing the lamp supposed to help? Okay, it's a black metal lamp with a warm yellow bulb on a little wooden side table. Looking at it actually makes my chest tighten and that hot shame flicker up and my brain start listing fixes, so I guess I can try to stay with it but can we keep this really slow?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like noticing the lamp is actually making things worse for you, and that's okay. That's what we're trying to do here - notice the physical sensations and emotions, without trying to change them or fix them right now.
+
+Let's try to focus on the physical sensations in your body, without getting too caught up in the shame or the thoughts. Can you just notice the feeling in your chest, right now, as you look at the lamp? It's tightening, and it feels... hot. Just notice that feeling, without trying to change it or do anything about it.
+
+We'll keep going slowly, one thing at a time. Can you notice your breath, right now, as you look at the lamp? Just notice the sensation of the air moving in and out of your body, without trying to control it or change it in any way?
+
+Patient: I'm trying, but I'm not sure I follow—how is this supposed to help? My breaths are pretty shallow, the band under my sternum is still tight, and as soon as I pay attention the hot shame spikes and my brain jumps into listing fixes. I don't know, can we keep this really slow?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the more you try to focus on your breath and the sensations in your body, the more your brain is trying to defend against it. The shame and the fix-it thoughts are like a reflex, and they're making it hard for you to stay calm and focused.
+
+Let's try something different. Can you just acknowledge the fact that you're feeling overwhelmed right now? It's okay to feel that way. It's okay to not be able to control your thoughts and feelings. You're trying your best, and that's all anyone can ask for.
+
+Let's take a deep breath together, just for a moment. Inhale... exhale... And then, can you just say to yourself, "I'm feeling really overwhelmed right now"? No judgment, no trying to change it. Just acknowledging it, and accepting it, for what it is.
+
+Patient: "Okay... I'm feeling really overwhelmed right now." I don't know, saying that makes my chest tighten and my brain immediately start rattling off fixes—I'm already jittery and want to change the subject. Can we keep this really slow? I'm not sure this is helping.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like acknowledging your feelings is actually making things worse for you. Your brain is trying to protect itself by getting defensive and finding ways to escape from the discomfort.
+
+Let's try something else. Can you just notice the fact that you're saying "it's not helping"? That's the thing that's not helping. It's the fact that you're trying to change it or fix it that's making things worse. It's like you're pushing the problem away instead of facing it.
+
+Let's try to just be with the feeling of being overwhelmed, without trying to change it or fix it. Can you just sit with that feeling, without trying to do anything about it? No judgment, no trying to change it. Just being with it, for a moment.
+
+Patient: I can try, but I'm not sure I follow—how is just sitting with it supposed to help? I don't know, when I do that the hot shame and this frustrated, small feeling just spikes and my brain immediately starts listing fixes, so I'm already jittery and want to change the subject. Can we keep this really slow? I feel kind of stuck and embarrassed right now.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like sitting with the feeling of being overwhelmed is actually making it worse for you. The shame and frustration are spiking, and your brain is getting defensive again. That's a really tough spot to be in.
+
+I think we need to take a step back and try to approach this from a different angle. Instead of trying to sit with the feeling of being overwhelmed, let's try to focus on your breath again. Can you just bring your attention to your breath, without trying to change it or fix it? Just notice the sensation of the air moving in and out of your body.
+
+We can do this one small step at a time. Let's just focus on your breath for a moment. Can you do that for me? Just notice your breath, and try to let go of any thoughts or feelings about the situation.
+
+Patient: Okay... I'll try to focus on my breath. I'm breathing but it's pretty shallow and when I try to let go this hot shame and frustration spikes—makes me feel small—and then my head immediately starts listing fixes, so I'm not sure how this is supposed to help. I don't know, can you count with me or guide me more concretely and really slowly? I'm already jittery and need the pace kept low.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I can count with you, and guide you slowly. Let's focus on your breath together. I'll start by counting your breaths, and you just notice how many you're taking.
+
+1... inhale... 2... exhale... 3... inhale... 4... exhale... 5... inhale... 6... exhale...
+
+Just notice your breath, and try to let go of any thoughts or feelings about the situation. Don't try to change your breath or fix anything. Just be with it.
+
+When you're ready, I can count again. Or we can try a different exercise. But for now, let's just focus on your breath. Can you do that for me? Just one slow count, and then we can see how you feel.
+
+Patient: Okay... I can try one slow count. I don't know if I'm doing it right—my chest's already tight and my brain's listing fixes—but can you count really slowly with me? Like inhale for four, exhale for six, and just do three breaths out loud so I can follow?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'll count really slowly with you. Let's start with your first breath.
+
+1... inhale... (pause for 4 counts)...all the way in... 
+
+2... exhale... (pause for 6 counts)...slowly out... 
+
+3... exhale... (pause for 6 counts)...even slower... 
+
+Let's take a moment to pause at the end of that last exhale. Just notice how your body is feeling, and try to let go of any thoughts or feelings about the situation. Don't try to change your breath or fix anything. Just be with it.
+
+Remember, we can always take a break if you need to. But for now, let's just stay with this one slow breath. Can you do that for me?
+
+Patient: Okay — I did that slow breath. It helped a little, my chest loosens a bit, but then this hot shame spikes up and I suddenly feel small and frustrated and my brain starts listing fixes. I don't know… can we just stay really slow and quiet for a minute, or try something else gentle? I'm jittery and don't want to jump into planning.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the slow breath helped a little, but then the shame and frustration came back. That's okay. We can try something else. Let's take a moment to just notice your body, right now, without trying to do anything about it. Just notice how you're feeling, physically.
+
+Can you take a moment to notice your feet on the ground? Are they touching the floor? Are they feeling heavy or light? Just notice that, without trying to change it or do anything with it.
+
+We can stay here for a minute, just noticing your feet and your body. No trying to fix anything or plan anything. Just being with what's happening right now.
+
+Patient: I guess my feet are touching the floor — they feel kind of heavy, like I'm anchored but also tense. I'm not sure I follow how noticing that helps; it actually makes this hot shame flicker up and I want to start making a plan to prove I'm okay. I don't know… can we keep this really slow and just stay with it for a minute?

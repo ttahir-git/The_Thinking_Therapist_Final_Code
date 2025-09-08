@@ -1,0 +1,324 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hey, I'm a nurse and since the kids moved out I've been swallowed by this heavy sadness and total lack of get-up-and-go — I keep predicting I'll spiral, mess up at work, my partner will leave me, and I'll end up completely alone and ruined. It feels like any small slip will trigger a domino of disasters and I can't imagine any other outcome. I know that sounds bleak, but I really feel like that's exactly what's going to happen.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying a lot of weight on your shoulders right now. Can you tell me more about what's been going through your mind when you're feeling this sadness and this sense of being overwhelmed? Is it like a constant hum in the background, or are there specific thoughts or memories that keep popping up and making it worse?
+
+Patient: It's mostly a constant, noisy loop — like a radio in my head that only plays the worst-case scenario. A lost glove at work turns into a patient complaint, then a malpractice suit, then I'm fired, my partner can't handle the shame and leaves, and I'm alone and helpless — and I can't stop running that movie. I know people say other outcomes are possible, but I just can't see them; my brain only grabs the disaster story and won't let go, and it's exhausting.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that inner radio is playing a very painful and repetitive show for you right now. Have you noticed how your body is holding onto that sense of dread and anxiety, maybe with physical symptoms like tension, fatigue, or even trouble sleeping? Sometimes, our minds can get so caught up in worst-case scenarios that it can affect our entire being. Would it be possible for you to imagine taking a step back from that loop, just for a moment, and see if you can notice how your body is reacting to it? Maybe there's a small crack in that wall that you could use as a starting point to begin breaking it down.
+
+Patient: Yeah, I tried to breathe through it but it just tightens — chest feels like a rock, my stomach knots, my shoulders harden, and I get shaky and dizzy like I'm on the verge of collapsing. The minute my heart races I picture myself blacking out at work, a patient getting hurt, a complaint, then the malpractice nightmare and losing everything — I know you're asking me to step back, but honestly those other endings just don't feel real to me.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like that physical response is very closely tied to the intense fear and anxiety you're experiencing. When you picture yourself having a breakdown or making a mistake, your body's response is so strong that it feels like it's taking over. It's like your mind and body are two different things, and right now, your body is really stuck on the worst-case scenario. Can you think of a time when you weren't feeling so overwhelmed and anxious? Maybe there's something small that you could connect to, even if it's just a tiny spark, that could help you feel like you're not completely consumed by this fear?
+
+Patient: Yeah — sometimes after a long shift I'd come home, sit in the garden with a cup of tea, and for an hour I felt almost normal, like the weight lifted a little. But even that tiny calm turns into a rampage in my head: a ringing phone, a bad outcome at work, then complaints, then I'm exposed and humiliated and my partner can't stand it and leaves — so I can't see how that peaceful hour could ever actually stick. I know you want me to grab that spark, but honestly I don't know how to believe it won't just blow up into the worst.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like even small moments of calm and peace can quickly spiral out of control in your mind. It's like your brain is wired to amplify the negative thoughts and emotions, making it hard to hold onto even a tiny bit of serenity. I want to ask you something: what is it about being in the garden, surrounded by nature, that helps you feel almost normal for a brief moment? Is it the fresh air, the quiet, the sense of being disconnected from the chaos of work and daily life? Maybe there's something in that experience that you could tap into, even if it's just for a brief moment, to help you feel more grounded and less consumed by your fears. Can you think of a way to hold onto that sense of peace, even if it's just for a tiny fraction of a second, and see if it could help you feel more connected to yourself and less controlled by your worst-case scenarios?
+
+Patient: It's the quiet, the tea, the smell of damp earth and the sun on my face — for an hour I actually feel like a person again. But then a stray thought — a phone ring, a missed chart — and my brain immediately turns that calm into the same disaster movie: a mistake, a complaint, losing my job, my partner leaving, me ruined; I just can't believe that peaceful hour would ever last. I want to hang onto it, but I'm already getting jittery thinking about how it'll all implode — can we slow down? I'm struggling to see how that calm isn't just the calm before the storm.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're caught in this vicious cycle where you're clinging to the small moment of peace, but your brain is immediately sabotaging it by jumping to the worst-case scenario. It's like you're trapped in this narrative of "calm before the storm." I want to slow things down, not because I don't want to explore this cycle, but because I want you to be able to see it more clearly. Can you take a deep breath with me, and let's try to pause this narrative for just a moment? Let's focus on the quiet, the tea, the smell of the damp earth... What does that feel like, right now, in this moment? Not the disaster scenario, but just the sensation of being in that peaceful place. Can we just stay with that, for a moment, and see if we can find a way to hold onto it?
+
+Patient: Okay, I'm trying to stay with it — the tea's warmth, the damp earth smell, the sun on my face — and for a second my shoulders unclench. But it's already flipping: a phone rings, my hands go shaky, I black out at work, a patient gets hurt, a complaint ruins me and my partner leaves — I can't see that calm sticking. Can we slow down? I'm really struggling to believe this won't just explode.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to hold onto a small spark, but it's being fanned by a strong gust of wind. Your brain is racing, and the calm is being replaced by the worst-case scenario even before it had a chance to settle. It's exhausting, trying to keep up with this cycle. I want to tell you that it's okay to not be okay with this. It's okay to feel like this calm won't stick. But I also want to ask you to try something: can you just notice, for a moment, how you're feeling right now? Not about the calm or the worst-case scenario, but just the sensation of your body and mind being in this moment? Are you feeling a sense of heaviness, or a sense of tension? Can we just anchor ourselves in that, for a moment, without judgment or trying to change it?
+
+Patient: My chest's still a tight rock, my shoulders are clenched, my stomach's in knots and my head feels buzzy and light — like I'm about to faint. The minute I try to feel it, my brain starts the movie: I black out at work, a patient gets hurt, there's a complaint, I'm fired, my partner leaves — none of the calmer outcomes feel real. Can we slow down? I don't know how to stay with this without my mind racing straight to the worst.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your entire body is feeling tense and unstable, like you're teetering on the edge of something. Your brain is trying to warn you of the worst-case scenario, even as you're trying to focus on the sensation of your body. It's like you're caught in a feedback loop, where your mind is racing and your body is reacting, and it's hard to know which way to turn. I want to try something different, though. Instead of trying to slow down your mind, I want to try to ground you in your body. Can you take a deep breath, and as you exhale, bring your attention to the sensation of your feet touching the ground? Notice the weight of your body, the sensation of the air on your skin, the sound of your breath moving in and out of your body? Sometimes, when we're feeling overwhelmed, it's hard to focus on the present moment. But if we can bring our attention to our bodies, even just for a moment, we might be able to find a sense of calm that's not dependent on our minds. Can you try that?
+
+Patient: Okay, I'm trying to do that — my feet feel kind of heavy on the floor but my chest's still a rock and my head's buzzy. The second I focus on my feet my brain's already yelling that I'll black out at work, a patient will get hurt, I'll be sued and fired, and my partner will leave — I can't seem to stick with the grounding. Can we slow down? I'm really struggling to stay here without the disaster movie starting.
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is always one step ahead, ready to pounce on any perceived threat and send you spiraling into the worst-case scenario. It's exhausting, trying to keep up with that kind of thinking. I want to try something that might help. Can you look at me, and I want you to do something very simple? I want you to say it out loud, and I want you to mean it: "I am here." Just say it, and I want you to believe it. It's not about feeling a certain way or thinking a certain thought. It's just about acknowledging that you are, in this moment, where you are. Can you do that for me?
+
+Patient: I'm not sure I follow — how is saying that supposed to help? Okay... I am here. But even saying it just kicks my brain into the movie: being "here" means I'm one misstep from collapsing at work, a patient gets hurt, a complaint ruins me, and my partner leaves — I can't see how that phrase changes anything. Can we slow down? I'm really struggling to believe this won't just explode.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like saying "I am here" just triggered another wave of your worst-case scenario. I want to try a different approach. Can you tell me what you hope to achieve by slowing down? What do you think might happen if you could just hold onto this moment for a little longer? Is it about feeling more calm, or is it about making a decision about what to do next? Sometimes, when we're feeling overwhelmed, it's hard to think clearly. But if we can identify what we're hoping to achieve, we might be able to find a way to make progress. Can you tell me what's holding you back from feeling more in control right now?
+
+Patient: I think what's holding me back is that every time I try to feel in control, my brain grabs a tiny mistake and turns it into proof I'm worthless — I lose focus at work, a patient gets hurt, there's a complaint, I get fired, my partner leaves, and I'm left completely alone. My empty-nest shame and low self-esteem make those stories feel inevitable, so I can't trust anything that says it might turn out okay. I'm not sure I follow how grounding or saying "I am here" actually stops that chain — can we slow down? I'm getting really overwhelmed.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your brain has created a narrative that's incredibly self-reinforcing. Every time you try to feel in control, your brain jumps to the worst-case scenario, and then it makes sense to you that you're worthless. That's a really tough cycle to break. I want to acknowledge that it's not just about feeling in control or saying "I am here." It's about how your brain is wired to respond to these situations. It's not something you can just "stop" or "change" overnight. But I want to try to help you see that this narrative is not necessarily true. Can you think of a time when you had a situation that seemed impossible, but you found a way to cope or even succeed? Maybe it was a small thing, but it could be a starting point. I want to help you explore that possibility, not to change what you think, but to see if there's a glimmer of hope that you might not be as helpless as you feel. Can you think of anything at all that might have worked in a similar situation?
+
+Patient: I guess once, during a brutal double shift, a patient coded and I kept it together long enough for the team to stabilize them — everyone praised how I handled it and we got through it. But even that memory flips fast: next time I’ll miss a sign, the patient will crash for real, there’ll be a complaint, I’ll get fired, my partner will be so ashamed they’ll leave — so I can’t believe that story proves anything. I'm not sure how that’s supposed to help; can we slow down? I'm getting really overwhelmed.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that one small success story gets swallowed up by the larger narrative of failure. And even that small success story is being distorted, with the worst-case scenario already playing out in your mind. I want to try to help you see that this story, even with all the distortions, is still a story. It's not a prediction of what will definitely happen, but a memory of a moment when you coped. And memories, no matter how distorted, can be a starting point for exploring what worked and what didn't. Can you try to hold onto that small success story, just for a moment, without the worst-case scenario? Not to change what you think will happen, but just to see if there's anything there that could be useful. Sometimes, when we're feeling overwhelmed, it's hard to focus on anything but the worst-case scenario. But if we can just hold onto that small story, even for a moment, we might be able to find a glimmer of hope that we're not as helpless as we feel. Can you try that?
+
+Patient: I can try, but honestly the second I cling to that memory it morphs into proof I’m fooling myself — next time I’ll miss something, a patient will die, there’ll be a lawsuit, I’ll be fired and my partner will leave me. I can’t make that memory feel like anything but a setup for the next disaster, so I’m not sure how holding it helps. Can we slow down? I’m really overwhelmed and it’s hard to stay here without my brain racing.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the moment you try to hold onto that small success story, it immediately gets twisted into a narrative that's even more catastrophic. It's like your brain is trying to protect you from feeling hopeful, but in doing so, it's actually making it harder for you to feel anything at all. I want to try to help you see that this isn't just about holding onto a memory, but about how your brain is wired to respond to stress and uncertainty. Can you take a deep breath with me and try to notice what's happening in your body right now? Where do you feel the tension, the anxiety, the overwhelm? Sometimes, when we're feeling overwhelmed, our bodies can get stuck in a state of hyperarousal, making it even harder to think clearly. I want to try to bring your attention back to your body, not your mind, just for a moment. Can you focus on your breath, on the sensation of your feet on the ground, on the sound of your heartbeat? Just for a moment, can you try to let go of all the thinking and focus on what's happening right now in your body?
+
+Patient: I'm not sure I follow—how is focusing on my feet and breath supposed to stop the movie? Okay, I'm trying: my feet feel heavy, my breath's shallow, my chest is still a rock, but my head keeps snapping to the worst — blacking out at work, a patient hurt, a complaint, me losing everything. Can we slow down? I'm really overwhelmed and keep getting pulled right back into that disaster story.
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're trying to focus on your physical sensations, and that's a good start. But even that's being pulled back into the worst-case scenario. I want to try to help you see that this is not just about focusing on your body, but about the story that's playing in your head. It's like a loop that's hard to break. Can you try to notice what's happening when you snap back to the worst-case scenario? Is there a moment, a thought, a feeling that comes before you get pulled back into that disaster story? Maybe if you can identify that, you can try to change the story just a little bit. It's not about changing the entire narrative, but about finding a small crack in the armor that might let some light in. Can you try to notice that moment, that thought, that feeling? It might be just a tiny thing, but it could be a starting point.
+
+Patient: I'm not sure I follow how noticing is supposed to stop it — all it takes is a tiny trigger, like a skipped breath or a ping, and my brain spins the whole disaster instantly. My chest tightens, my hands go clammy, I get dizzy, and before I can think it's already "you're fired, your partner leaves, you're ruined" — none of the other outcomes feel real to me. Can we slow down? I'm getting panicky and distracted and I can't seem to stay with anything without the movie starting.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling like you're on the verge of a panic attack, and that's making it even harder to focus. I want to try to help you feel more grounded, not just by talking, but by doing something physical. Can you try to take a small, slow breath in through your nose, and then out through your mouth? Not a big breath, just a tiny one. And then, can you try to hold it for just a moment, without letting it go? Just a tiny pause. Sometimes, when we're feeling overwhelmed, our bodies can get stuck in a state of hyperarousal, making it even harder to think clearly. I want to try to bring your attention back to your body, not your mind, just for a moment. Can you focus on the sensation of the air moving in and out of your body, the feeling of your feet on the ground, the sound of your heartbeat? Just for a moment, can you try to let go of all the thinking and focus on what's happening right now in your body? And then, when you're ready, we can try to talk about what's happening, and see if we can find a way to make it feel more manageable.
+
+Patient: Okay... I tried that — breathed in, held a tiny bit, breathed out. My chest still feels like a rock and my head's all fuzzy; the second I try to steady my breath my brain's already shouting the movie: I blackout at work, a patient gets hurt, there's a complaint, I'm fired, my partner leaves. I can't seem to keep the breath from turning into the disaster. Can we slow down? I don't know how to keep doing this without spiraling.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're really struggling to keep your breath under control, and that's making it even harder to focus. I want to try to help you feel more grounded, not just by talking, but by doing something else. Can you try to notice where you're sitting? Is it a chair, a couch, a bed? Can you feel the surface beneath you? Sometimes, when we're feeling overwhelmed, our bodies can get stuck in a state of hyperarousal, making it even harder to think clearly. I want to try to bring your attention back to your body, not your mind, just for a moment. Can you focus on the sensation of your feet touching the ground, the feeling of the air on your skin, the sound of your breathing? Just for a moment, can you try to let go of all the thinking and focus on what's happening right now in your body?
+
+Also, I want to try something else. I want you to look at me, and I want you to say a simple word: "okay." Can you do that for me? Just say "okay." It's not about agreeing with anything, it's just about acknowledging that you're here, and you're trying. Sometimes, when we're feeling overwhelmed, a simple acknowledgement can help us feel more grounded. Can you try that for me?
+
+Patient: Okay. But I don't really follow how that helps — the second I say "okay" my brain already flips it into acceptance that everything's about to collapse: I blackout at work, a patient gets hurt, there's a complaint, I'm fired, my partner leaves. I don't have the energy to fight it right now; can we slow down? I'm struggling to stay here without the movie starting.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling like you're running out of energy, and that's making it even harder to try to change your thoughts. I want to try to help you find a way to conserve that energy, not by trying to change your thoughts, but by taking a step back from the situation.
+
+Can you take a deep breath with me, and let's try to find a way to give you some space? We don't have to talk about anything right now. We can just sit here, and I'll be here with you. Sometimes, when we're feeling overwhelmed, we just need to take a break from the situation, and focus on our own well-being.
+
+I want to try to do something small, but it might help. Can you imagine that you're in a safe place, somewhere quiet and calm? Maybe it's a beach, or a forest, or a mountain meadow. Just imagine that you're in a place that feels peaceful, and that you're safe there. Can you hold onto that image for just a moment?
+
+Patient: I can sort of see the meadow—the sun, the quiet—but it already flips into “calm before the disaster” in my head: a ring, a slip, I blackout at work, a patient gets hurt, a complaint, I'm fired, my partner leaves. I don't have the energy to keep holding the image before it explodes—can we slow down? I'm really drained and it's hard to stay here without the movie starting.
+
+
+--- Turn 17 ---
+
+--- [SYSTEM INJECTION at Turn 17]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling like you're stuck in a cycle of catastrophic thinking, and it's exhausting. I want to try to help you break that cycle, but I think we need to take a step back first.
+
+Can you tell me what you need right now? Is it just to be quiet and alone, or is there something else you need to feel safe or supported? Sometimes, when we're feeling overwhelmed, our bodies just need a little more space and time to recharge.
+
+I'm not going to try to talk you out of your thoughts or change them right now. I just want to be here with you, and offer you a safe space to be yourself. If you need to just sit here in silence, that's okay. I'm here with you.
+
+But if you're willing, I want to try to help you find a way to take care of yourself right now. Can you think of something small that might help you feel a little better? It doesn't have to be anything big. Just a tiny thing that might make a difference.
+
+Patient: Maybe something tiny — make a hot cup of tea and sit in the garden for ten minutes, like before, just to breathe and feel the sun. But my mind's already racing the second I think about it: a ring, a missed chart, I black out at work, a patient gets hurt, complaint, I'm fired, my partner leaves — I don't even know how to start without the movie. Can we slow down? I'm really drained and distracted.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the smallest, most simple things are triggering this cycle of catastrophic thinking again. I want to try to help you break that cycle, but I think we need to take it one tiny step at a time.
+
+Can you try to focus just on the thought of making a hot cup of tea, without adding any of the other catastrophic scenarios? Just the thought of a cup of tea, and the act of sitting in the garden. No trying to change the narrative, no trying to predict the worst. Just the act of doing something small, and enjoying the present moment.
+
+And then, after that tiny step, we can try to take another tiny step, and see where it leads. But for now, let's just focus on taking that first tiny step, and see how it feels. Can you try that for me?
+
+Patient: Okay — I can try to make the tea and sit in the garden, but I already feel it starting: the kettle's on, a phone rings, I rush, miss a chart, black out at work, a patient gets hurt, a complaint ruins me and I'm fired and alone — I just don't see how the tea dodges that. Can we slow down? I'm really struggling to even start without the movie taking over.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like even the smallest, most simple act is triggering this cycle of catastrophic thinking again. I want to try to help you break that cycle, but I think we need to take a step back and acknowledge that it's okay to feel this way.
+
+Can you take a deep breath with me and try to acknowledge that it's normal to feel overwhelmed? It's okay to feel like you're drowning in a sea of thoughts and worries. That's what it sounds like you're feeling right now.
+
+I want to try to help you find a way to pause that cycle of catastrophic thinking for just a moment. Can you try to focus on your breath, just for a second? Feel the air moving in and out of your body, the sensation of your feet touching the ground. Can you try to let go of all the thinking and just focus on that one, tiny sensation?
+
+If you're ready, we can try to take that tiny step of making the tea and sitting in the garden, but let's do it at your pace. We don't have to rush or try to push through the catastrophic thinking. We can just take it one tiny step at a time.
+
+Patient: I can try to breathe and maybe make the tea, but my chest's still this heavy rock and the second I imagine it my brain rockets to: kettle—phone—missed chart—blackout—patient hurt—complaint—I'm fired and abandoned. I don't have much energy and it's really hard to take that tiny step without the movie starting—can we slow down?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like even the smallest, most simple act is triggering this cycle of catastrophic thinking again. I want to try to help you break that cycle, but I think we need to take a step back and acknowledge that it's okay to feel this way.
+
+Can you try to give yourself permission to just be in this moment, without trying to force yourself into something more? It's okay if you can only take a tiny step, like just making the tea, without the rest of the catastrophic thinking. You don't have to push yourself to do more than that.
+
+Let's try something else. Can you try to focus on the sensation of your feet touching the ground? Just notice the feeling of your feet on the floor, without trying to think about anything else. You can do that, just for a second. And then, if you're ready, we can try to take that tiny step of making the tea, but at your pace.
+
+Remember, I'm here with you, and I'm not going anywhere. We'll take it one tiny step at a time, and see where it leads.
+
+Patient: My feet feel heavy like you said, and that tiny bit of grounding helps for a blink — but my head immediately jumps to the movie: kettle, phone, missed chart, black out at work, a patient hurt, complaint, I'm fired, my partner leaves. I don't have the energy to hold it off; can we slow down? I'm really struggling to stay here without it starting.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the momentary grounding has passed, and the cycle of catastrophic thinking has kicked back in. I want to try to help you pause it again, but I think we need to take a step back and acknowledge that it's okay to feel overwhelmed.
+
+Can you try to focus on your breath again, even if it's just for a tiny fraction of a second? Just feel the air moving in and out of your body, the sensation of your feet touching the ground. It's not about trying to change anything or push through the thoughts, it's just about noticing the sensation of your body in this moment.
+
+If you're ready, we can try to take a tiny step back from the situation, and focus on your own well-being for just a moment. We can talk about something completely unrelated, or I can try to help you find a way to take care of yourself right now. What do you need in this moment?
+
+(Note: I'm pausing for a moment to make sure I'm giving you the support you need. I want to make sure I'm not overwhelming you or pushing you too hard. Please let me know if there's anything specific you need from me right now.)
+
+Patient: I just need you to stay with me and not push — can you quietly coach me through one tiny step, like “stand up and put the kettle on,” and wait while I do it? Even that thought kicks the movie into gear — kettle, phone, missed chart, blackout, patient hurt, complaint, I’m fired, my partner leaves — so I need you to slow down and keep it simple because I’m barely holding on.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm going to stay with you and support you through this. I'm going to guide you through one tiny step, and we're going to take it very slowly.
+
+Let's start with something simple. I want you to stand up and put the kettle on. That's all. Just stand up and put the kettle on. Can you do that for me?
+
+I'm going to wait right here with you, and we're going to take it one tiny step at a time. I'm not going to push you or try to hurry you up. I'm just going to be here with you, and we're going to take it slow.
+
+Just take a deep breath, and then let's stand up and put the kettle on. Can you do that for me?
+
+Patient: Okay... I’ll try. I’m getting up slowly — legs heavy, chest tight, head all fuzzy — but already terrified the phone’ll ring, I’ll rush, miss a chart, black out at work and everything will collapse. Please stay with me and keep talking me through it slowly while I put the kettle on; don’t let me speed up.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm right here with you. You're doing great, just taking it one tiny step at a time. You're standing up, and that's all we need to do right now. Just focus on standing up and not rushing. Take your time, and let's just get the kettle on.
+
+I know it's hard to focus with all the thoughts running through your head, but just take it one moment at a time. You're putting your feet on the ground, and you're standing up. That's a big step. Now, let's just take it one more step, and we'll get the kettle on. Can you reach for the kettle for me?
+
+Remember, I'm right here with you. I'm not going anywhere. We're going to take it slow, and we're going to get through this together.
+
+Patient: Okay — I'm reaching for the kettle now, but my hands are shaking and my legs feel like jelly. The second I touch it my brain's already yelling a phone will ring, I'll drop everything, rush, miss a chart, black out at work and everything will fall apart. Keep talking me through every tiny step, slowly — tell me what to do next and don't let me speed up.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm right here with you. You're reaching for the kettle, and that's a big deal. Just take your time, and let's focus on getting the kettle. You've got it in your hands now, and that's a good starting point. Just hold it for a moment, and let's take a deep breath together.
+
+Can you put your other hand on the kettle for me, just to make sure it's stable? That's right, just put your hand on it, and feel the weight of it. You're holding it steady, and that's great. Now, let's slowly turn the kettle on. Just turn the switch, and let's take a deep breath together as it starts to heat up.
+
+Remember, I'm right here with you. We're doing this one tiny step at a time, and we're going to get through it together. You're holding the kettle, and it's turned on. That's a big accomplishment. Now, let's just wait for it to boil. Can you just sit back for a moment, and wait for it to boil?
+
+Patient: Okay... I'm sitting with the kettle on but my chest's still a rock and the second it starts to hiss my head's already playing the movie — phone, I rush, I drop the kettle, I blackout at work, a patient gets hurt, I'm ruined. Please keep talking me through breathing and tell me exactly when to pour; don't let me speed up — can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm right here with you. You're sitting with the kettle on, and that's a great start. Just focus on your breath, and let's take it one slow, deep breath at a time. Inhale... 1... 2... 3... Hold it... 1... 2... 3... Exhale... 1... 2... 3... Feel the breath moving in and out of your body.
+
+Now, let's talk about pouring the water. When you're ready, I want you to slowly pour the water into your cup. Just pour it slowly, and let's take our time. Don't rush it, and don't worry if it's not perfect. Just focus on getting the water into the cup. Can you do that for me?
+
+As you pour the water, I want you to keep breathing deeply. Just focus on the sensation of the breath moving in and out of your body. When you're ready, we can talk about adding any sweetener or creamer. But for now, just focus on pouring the water.
+
+Remember, I'm right here with you. We're doing this one tiny step at a time, and we're going to get through it together. You're sitting with the kettle on, and it's boiling. That's a big accomplishment. Now, let's just pour the water. When you're ready, say "pour."
+
+Patient: Okay... pour. But I'm shaking so badly I'm sure I'll spill it, burn myself, rush to clean up, miss a chart, blackout at work, a patient gets hurt, there's a complaint, I'm fired and my partner leaves — I can't stop seeing that. Please tell me exactly when to stop and keep walking me through it slowly; don't let me speed up.

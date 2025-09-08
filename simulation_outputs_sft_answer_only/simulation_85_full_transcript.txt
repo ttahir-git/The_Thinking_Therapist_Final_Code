@@ -1,0 +1,278 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been snapping a lot lately — now that the kids are gone the house feels hollow and I get angry over tiny things with my partner. My mind's like a fortune-telling machine that only spits out disaster: I say one stupid thing, they leave, I'm alone, I can't focus at work, I lose my job, end up sick and broke — I can see the whole awful chain like it's already happening. People tell me other outcomes are possible, but that just doesn't feel realistic to me.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the pressure of having the house empty is really amplifying your worries and fears. Can you tell me more about what happens when you say something stupid to your partner? What does it feel like in that moment, right before they leave the house?
+
+Patient: I tense up, my jaw clenches and my voice snaps — but in my head I'm already watching the movie: they shove a bag in the hall, say they've had enough, walk out, and everything unravels. In that split second before they leave it feels like time speeds up and I can't stop the dominoes — I lose focus at school, get in trouble, then my whole life collapses. I know it's probably extreme, but in those moments it just feels inevitable and I can't make the picture go away.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that split second is like a switch that flips, and suddenly all these worst-case scenarios start playing out in your mind. It's like your brain is trying to prepare you for the worst, but it's not giving you any control over it. Have you ever noticed when that's happening, you're not really thinking about what's going on in the present moment, you're just caught up in this future scenario that's already playing out in your mind?
+
+Patient: Yeah — I notice I'm completely gone, like I'm watching that movie instead of talking to them. My whole body goes tense and I blurt something before I even realize, and then the doom-story takes over — them leaving, me failing at work — and I can't shake it. When people say other things could happen, it just doesn't land; those options feel like wishful thinking, not real.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your mind is really stuck on that catastrophic scenario, and it's hard for you to consider other possibilities. It's like your brain is wired to believe that's the only outcome that matters. Have you ever tried to bring your attention back to the present moment, like taking a deep breath or noticing your physical sensations, when that doom story starts playing out?
+
+Patient: Yeah, I've tried that — I’ll take a deep breath or try to feel my feet, but it doesn't shut the movie off. Maybe it helps for a second, then that voice gets louder again: they're packing, I'm ruined, and the breath just feels pointless. I'm getting irritated because it keeps happening and nothing seems to change.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that voice is really loud and persistent, and it's hard for you to turn it down. It's not just that you're worried about what might happen, it's that you're convinced it's already going to happen, and that feeling of inevitability is really tough to shake. Can you tell me more about what it's like to feel irritated? Is it more of a general feeling of frustration, or is it like you're actually angry at the thought of that story playing out?
+
+Patient: It's kind of both — a simmering frustration about the emptiness and then a sudden, hot burst of anger the moment that movie starts playing. My jaw clenches, my hands go cold and then hot, my voice snaps before I can catch it, and the anger almost feels like it's aimed at the thought itself, like I'm furious that my brain keeps proving me right about the disaster. When you offer other possibilities it just sounds naive, like trying to stop a train with a feather.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that anger is a mix of feeling frustrated with the emptiness and the predictability of the worst-case scenario, and it's like your brain is trying to prove you right. That anger feels intense, and it's like you're almost at a loss for how to deal with it. Can you tell me more about what happens after the anger passes? Do you feel drained or exhausted, or is there a sense of relief that the storm has passed?
+
+Patient: Mostly wiped out — like someone unplugged me. There's no relief; I get ashamed and replay every awful detail, and the movie just moves on to the next disaster: them gone, me failing at work, losing everything. When you suggest other outcomes it just sounds like trying to put a bandage on a broken bone — I know that's probably not helpful, but it feels true.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and replaying the worst-case scenario are taking over, and it's hard for you to feel anything else. It's like you're stuck in a never-ending loop of catastrophizing. Can I try to shift the focus a bit? What is one thing that you value or care about deeply in your life right now? Something that gives you a sense of purpose or connection to something meaningful?
+
+Patient: I care a lot about my students — teaching is the thing that still feels like it matters. But my brain already makes the movie: I snap at a parent or get called out by an admin, complaints pile up, I lose my class, get sidelined, and then even that purpose is gone. I know it sounds like dramatic doom-saying, but I can't seem to look past it.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the fear of losing your purpose or connection to your students is so strong that it's overwhelming you. It's not just that you're worried about losing your job, it's that you're worried about losing the thing that makes you feel like you're doing something meaningful. Can you tell me more about what happens when you're with your students, when the movie doesn't play out? What is it about that time with your students that feels most alive, most connected to what matters to you?
+
+Patient: When I'm with the students it's the one time I feel useful and awake — we laugh, we dig into stuff, and for a while the house-empty thing even fades. But half the time that fortune-telling voice barges in mid-lesson: I see myself snapping at a kid, a parent complaining, admin calling me in, losing my class, and then everything else falls apart. People say that's unlikely, but to me it feels like a script that's already written and it ruins the moment every time.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like being with your students is a respite from the catastrophizing, but it's not enough to shield you from it completely. The voice of doubt and fear is always there, lurking just beneath the surface, waiting to disrupt the moment and turn it into a nightmare. It's like you're living in a state of constant hypervigilance, waiting for the other shoe to drop, and it's exhausting. Can you try to be gentle with yourself for a moment? Would it be possible to acknowledge that it's okay to feel this way, even if it's not a very optimistic or empowering place to be? Sometimes, just acknowledging our feelings can be a small step forward.
+
+Patient: I'll try to be gentle, but it feels fake — the second I tell myself it's okay the fortune-telling machine just yells louder and I get furious at myself for being so naive. I end up replaying the worst scenes and feeling ashamed, not soothed. Honestly, I'm struggling to see how that helps; can we slow down? I'm not sure where to go from here.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the more you try to be gentle with yourself, the more the catastrophizing kicks in and you feel like you're failing even more. And that shame and self-criticism are exactly what you want to avoid. It's okay to slow down and take a step back. Can we just pause for a moment and take a deep breath together? No need to do anything, just be here with me. Sometimes, just being present with ourselves can be a small act of kindness. Would you like to try that?
+
+Patient: Okay… I’ll try, but I’m skeptical — the minute I slow down the movie in my head just turns the volume up. (Breath in.) My chest’s tight, jaw clenched, shoulders up; (breath out.) Even as I breathe I can still see them grabbing a bag and walking out — it’s like the breath only buys me a second before the picture comes back.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your mind is resistant to the pause, and it's still pulling you back into the worst-case scenario. It's like the breath is just a brief respite, and then the movie is back on, louder and more vivid than ever. Can you try to notice where your attention is going as soon as you breathe out? Is it to the story, to the feeling of shame or frustration? Sometimes, just becoming aware of where our attention is going can be a small step forward. Would you like to try to bring it back to your breath, just for a moment?
+
+Patient: Okay, I’ll try to bring it back to my breath, but I’m really skeptical — the moment I focus there's a tiny calm and then the movie just blares louder. For a second my chest loosens, then my mind jumps to them zipping a bag, walking out, and I can feel my hands go cold and my voice tighten like it's already happening, so the breath just feels pointless. Can we slow down? I don’t know what to do next — it feels like we’re stuck.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like every small moment you try to hold onto is quickly snatched away, and the catastrophizing comes roaring back. It's not that the breath is pointless, it's just that it's hard to hold onto anything for long when the worst-case scenario is still playing out in your mind. I'm not going anywhere, I'm here with you. Let's just focus on that moment of calm, just for a second. Can you try to notice the sensation of your chest loosening, just a tiny bit? That's all we need to hold onto, right now.
+
+Patient: Okay — I can feel my chest loosen a hair and my shoulders drop a bit, like for half a second there's a crack in the movie. Then it's right back: them slamming the door, me fumbling at work, everything collapsing, and I get furious that the breath did nothing. Can we slow down? I don't know what to do in that second when the picture comes back so fast.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that moment of calm is just a fleeting crack in the ice, and the catastrophizing comes rushing back in a flash. It's like the door slamming shut is a reminder that we're still stuck in this cycle, and that's really tough to deal with. I'm not going to try to fix it or make it better right now. I just want to sit with you in this moment, where you feel the weight of it all. Can you just be with that feeling, without trying to change it or make it go away? Sometimes, just sitting with our emotions can be a small act of kindness.
+
+Patient: I'll try to be with it, but it mostly feels like bracing for a punch — chest tight, anger rising, shame sliding in. The minute I let myself sit there the movie just rewinds and gets louder: them walking out, me ruined, everything collapsing, and I get furious I'm even trying to be gentle. It feels pointless and I'm stuck on what to do in that split second when the picture snaps back — can we slow down? I'm not sure where to go from here.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like being in a state of constant anticipation, waiting for the worst to happen, and it's exhausting. The shame and anger are swirling together, making it hard to find a foothold. I'm not trying to help you "get through" this or find a way out, because right now, it's just about being with the feeling. Can you try to notice the sensation of your chest tightness, the anger rising, and the shame sliding in, without trying to change it or make it go away? Just observe it, like it's a physical sensation, and see if you can find a way to be with it, even if it's just for a moment. No judgment, no trying to fix it. Just being.
+
+Patient: I can feel it for a second — chest tight, jaw locked, a hot rush in my hands, like the anger's aimed at the thought itself. Then the movie blares back and I end up feeling stupid for even trying; noticing just turns into another thing I failed at. Can we slow down? I don't know what to do in that split second when the picture snaps back so fast.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trapped in this cycle of catastrophizing, and it's hard to break free. The moment you try to notice your feelings, it becomes another thing you've failed at. I'm not going to try to give you advice or fix it. I just want to sit with you in this moment, where you feel like you're failing. Can you try to be gentle with yourself, just for a second? Notice that you're trying to be with your feelings, and that it's hard. That's okay. It's okay to struggle. Let's just be with that feeling, right now, without trying to change it or make it go away.
+
+Patient: I'm trying, but the minute I try to sit with it the fortune-telling machine treats that as proof — my jaw locks and the whole movie of them leaving and my career collapsing starts up again. Can we slow down? What can I actually do in that split second before I blurt something and the rest of it feels inevitable?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like every time you try to slow down, it's like you're fueling the fire. The catastrophizing is so automatic, it's like it's waiting for you to make a move, and when you do, it just takes off. I'm not going to try to help you "stop" it or make it go away. Can you try to take a tiny step back, just a tiny step? Instead of trying to sit with the feeling, can you try to just notice it for a moment, like a physical sensation? Not judge it, not try to change it, just notice it. And can you try to do that just for a second, before it's too late and the movie starts again? What do you do in that second before you react?
+
+Patient: I tense up — jaw locks, hands go cold — and I try to catch myself by taking a breath or clamping my mouth shut. Sometimes I try to count or hold a mug to ground myself, but the fortune-telling machine's already on full blast and I blurt before the tricks kick in. Can we slow down? I don't know what else to do in that split second because the picture just feels inevitable.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to put on the brakes, but the catastrophizing is moving too fast. The physical sensations of tension and jaw locking are a sign that you're trying to hold on, but it's not enough. The counting and holding onto objects is a good start, but it's like you're trying to anchor yourself to the present moment without really being there. Can you try to focus on the sensation of your breath, rather than trying to control it? Instead of trying to "catch yourself" by taking a breath, can you try to simply notice the sensation of your breath moving in and out of your body? It's not about stopping your thoughts, it's just about being present in your body. And can you try to do that without judgment, without trying to change anything? Just be with it, right now.
+
+Patient: Okay — I'll try. I can feel the air in my nose, chest rising a little, like for a breath or two the picture blinks out, then it's right back — them stuffing a bag, slamming the door, everything collapsing. The breath feels like a weak bandage on a broken thing. Can we slow down? Tell me what to actually do in that split second before I blurt and the whole movie takes over, because my usual tricks aren't cutting it.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the brief pause is just enough to give you a glimpse of what's happening, but it's not enough to change the course. The breath is like a Band-Aid, but it's not addressing the underlying pain. I'm not going to try to give you a specific technique or trick to use, because it sounds like you're running out of options. Can I try to help you see what's happening in that split second? What do you think is happening when the picture blinks out for a moment? What do you see, hear, feel? Can you try to notice that, without trying to control it or change it? Just observe it, and see if you can learn something new about what's happening in that moment.
+
+Patient: Right before I say something I get this physical thump — mouth dry, jaw locks, my hands go cold and then hot, time narrows and the picture jerks into that movie: I can actually hear the zipper and the door slam like it's happening. I notice it's usually a look or a tiny pause from them that flips the switch, and once it starts the images run faster than I can catch. I don't know how noticing helps — it mostly makes me furious that my brain's so certain — can we slow down?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're watching a movie that's playing out in slow motion, but just as you think you're getting a handle on it, it speeds up and becomes chaotic again. The physical sensations you're describing, like the thumping in your mouth and the tightening in your jaw, are like a warning system that's trying to alert you to what's happening. The fact that you're noticing these sensations, even if they're making you feel furious, is a small step forward. Can you try to explore why these sensations are happening? What do you think your body is trying to tell you when it's experiencing this physical "thump"? Is it trying to prepare you for something, or is it just a reflex? By trying to understand what's happening physically, you might be able to gain some insight into what's happening mentally.
+
+Patient: I think it's my alarm system — my body is trying to protect me, telling me to get ahead of the loss before it happens: thump in my mouth, jaw locks, time narrows so I can yell first and "fix" it. Problem is the alarm doesn't help; it just makes me blurt and then I watch the movie where that blurt is the thing that makes them pack. I know that sounds fatalistic, but it feels like proof — can we slow down and talk about what to actually do in that split second?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is trying to protect you, but it's not working the way you want it to. The alarm system is actually making things worse, because it's causing you to react impulsively and then regret it. It's like your body is saying, "Hey, I see trouble coming! Let me sound the alarm and try to fix it!" But that's not really fixing anything, is it? It's just making you react in a way that's going to make things worse.
+
+Can we try to think about what you could do in that split second instead of trying to fix it? What if, instead of trying to yell and "fix" it, you could try to pause for just a second and think about what you're about to do? What if you could try to ask yourself, "Is this really what I want to do?" or "Is there another way to handle this situation?"
+
+It might sound simple, but sometimes just taking a tiny step back and thinking about what you're about to do can make all the difference. It's not about fixing the problem, it's just about being more aware of what you're doing and how it's going to affect the situation. Can we try to think about that?
+
+Patient: I have tried that — in the split second I do think, "Is this what I want?" — but the alarm's already screaming and the movie is playing: them stuffing a bag, walking out, and my question just becomes another line in the script so I blurt. It feels ridiculous to believe a question will stop what's already happening; it's like waving at a hurricane. Can we slow down? Tell me something concrete I can do in that second that won't just feel like wishful thinking.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to pause a runaway train, and it's not working. The alarm is too loud, and the movie is too scripted. It's frustrating when you feel like you're trying to do something, but it's not working.
+
+Can I try to suggest something that might be more concrete? Instead of trying to ask yourself a question, what if you could try to make a tiny, small action? Like, what if you could just take a tiny breath in, or make a tiny movement with your mouth? It's not about changing the outcome, it's just about creating a tiny gap between what's happening and what's about to happen.
+
+For example, you could try to make a tiny, almost imperceptible movement with your lips. It's like a tiny, tiny twitch. It's not about saying anything, it's just about creating a tiny pause. Can you try that? Just a tiny, small movement with your lips. See if you can do that.
+
+Patient: I tried it — I gave my lips a tiny twitch. For a split second it felt absurd but it bought maybe a hair more time, then the movie just roared back: zipper, slam, me ruined, and my jaw locked anyway. I get furious because it feels useless, like waving at a hurricane. Can we slow down? Tell me another concrete thing I can actually do in that split second that won't just be a band-aid.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to do something, but it's not enough. The tiny twitch didn't stop the movie, and it's hard to feel like it was even worth trying.
+
+Can I try to suggest something else? Instead of trying to make a tiny movement, what if you could try to focus on a tiny sensation? Like, what if you could try to notice the sensation of your feet touching the ground? It sounds silly, but it's almost like a tiny anchor. You could try to focus on the sensation of your feet, the weight of your body, the sensation of the air moving in and out of your body. It's not about changing what's happening, it's just about creating a tiny connection to the present moment.
+
+For example, you could try to notice the sensation of your feet on the floor right now. Feel the weight of your body, the pressure of your feet on the ground. Can you try that? Just focus on that sensation, and see if you can create a tiny connection to what's happening around you.
+
+Patient: I tried that — felt the weight in my feet for a second, a little anchor, and it did blink the picture out for maybe a breath. Then the movie roared back: them stuffing a bag, slamming the door, me ruined — and I get furious that a foot-sensation is supposed to stop that. Can we slow down? Give me something concrete I can actually do in that split second that doesn't just feel like another useless trick.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to do something, but it's not working. The tiny sensation in your feet helped for a second, but it's not enough.
+
+Can I try to suggest something else? Instead of trying to focus on a sensation, what if you could try to look for a small pause in the movie itself? Like, what if you could try to notice the moment when the zipper starts to go in or when the door handle is in the "slamming" position? It's a tiny moment, but it might be enough to create a tiny gap between what's happening and what's about to happen.
+
+For example, you could try to look for the moment when the zipper starts to go in. Is it at the very beginning of the sound, or is it when the zipper is halfway in? Can you try to notice that moment, and see if it helps you create a tiny pause? It's a small thing, but it might be enough to make a difference.
+
+Patient: I tried watching for that tiny zipper moment — it gives a hair more time, like a blink, then the movie just kicks into overdrive: I hear the zipper, the slam, them walking out and I'm already ruined. It feels like trying to catch a bullet with my bare hands; the pause is useless because the fortune-telling machine just fills it right back in. Can we slow down? I need something that actually works in that split second — not another tiny trick that just becomes part of the script.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to do something, but it's not working. The tiny pause doesn't last, and the movie just keeps going. It's frustrating when you feel like you're trying to catch something, but it's slipping right through your fingers.
+
+Can I try to ask you something? Are you trying to change the outcome of the movie, or are you trying to change the way you react to it? Sometimes, when we're feeling overwhelmed, it's not about changing the story, it's about changing how we're telling it. Can you try to see if there's a way to break the script, just for a moment? Not to change the story, but to change how you're living it. Just a tiny moment of freedom, where you can be in control instead of just reacting to the script. Would that be enough to give you a different perspective?
+
+Patient: Honestly, I want to change the outcome — I keep thinking if I could stop that shove or that complaint, the whole collapse wouldn't happen. But trying to change my reaction feels pointless because the fortune-telling machine just fills any pause with the same ending, so even new reactions look like part of the script. Can we slow down? I'm not sure which to try and it's making me furious.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a way to escape the script, but it's not working. The fortune-telling machine is just too good at predicting your reactions. It's understandable that you're feeling furious and frustrated.
+
+Can I try to help you see things in a different way? Instead of trying to change your reaction or the outcome, what if we try to look at the fortune-telling machine itself? What if we try to understand how it's working and what it needs to be "stumped"? Sometimes, when we're trying to change something, it's helpful to look at the system that's creating the problem.
+
+Let's take a step back and try to understand the fortune-telling machine. What makes it so good at predicting your reactions? Is it something about the way you think, the way you feel, or the way you behave? If we can understand how it's working, maybe we can find a way to make it less effective. But instead of trying to change your reaction or the outcome, we're trying to change the machine itself. Would that be a different kind of challenge?
+
+Patient: I guess the machine is fed by a few things: the empty house makes every little thing feel huge, old fears of being abandoned, my need to feel in control at work, and that nasty shame-loop that whispers “see, you were right.” It grabs tiny cues — a look, a pause, a clipped tone — and instantly runs the whole disaster movie until my body follows and I blurt. Honestly, talking about the machine feels like shining a flashlight into a storm — it usually just makes me angrier and more convinced the ending is inevitable. Can we slow down? I'm already bracing for the next round of ideas that’ll feel like wishful thinking.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the machine is a complex system that's fueled by a mix of emotions and thoughts. It's like a snowball rolling down a hill, gathering speed and size as it goes, and it's hard to stop it once it's started.
+
+I can see why talking about the machine might feel like shining a flashlight into a storm - it can be overwhelming and frustrating. But I want to try to help you see things a little differently. Instead of trying to change the machine or the system, what if we try to look at the shame-loop that's driving it? What if we try to understand where that shame is coming from and how it's feeding the machine?
+
+It might seem like a small thing, but sometimes when we're trying to change a big system, it's helpful to start with the smallest part. In this case, the shame-loop is a tiny part of the machine, but it's a crucial one. If we can understand and address that, it might help us make some progress. Would you be willing to try to look at that shame-loop with me, even if it feels scary or uncomfortable?
+
+Patient: I guess the shame comes from a lifetime of feeling “not enough” — parents who brushed off my feelings, a few early mistakes that everyone remembered, and every snide comment from colleagues that piled up into this idea I’m a fraud. The fortune-telling machine eats those memories and turns them into proof: one slip, one glare, and it’s already cutting my things into boxes. Naming it helps a little, but mostly it just feels like more fuel for the movie — like I’ve handed it another reason to be right. Can we slow down? I'm not sure how peeling this apart actually stops the ending.

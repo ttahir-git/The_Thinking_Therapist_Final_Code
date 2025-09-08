@@ -1,0 +1,264 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hi, I'm a grad student in my late twenties and lately I've been stuck intellectualizing everything — turning my feelings about this adjustment disorder and a recent health scare into facts and timelines so I don't actually feel them. I guess I do it to numb the discomfort, but it's starting to feel unhelpful and exhausting. I don't know, I'm worried it's keeping me from actually dealing with things.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're noticing that intellectualizing your emotions might be providing a temporary distraction, but at a cost. Can you tell me more about what it would be like to take a step back from trying to understand everything about your adjustment disorder and that health scare, and instead focus on how it's affecting your daily life?
+
+Patient: I guess if I actually stepped back instead of turning everything into a case study, I'd notice I'm more tired all the time and my attention is just… gone in lectures, so I procrastinate and fall behind. I don't know, I also get jumpy about health stuff and end up cancelling plans or avoiding friends because it's easier than talking about it. It's really uncomfortable to say that out loud, so sorry if I'm vague — can we maybe... talk about how to even start noticing these things without overthinking them?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It takes a lot of courage to acknowledge those feelings. It sounds like you're currently using intellectualizing as a way to protect yourself from the discomfort of uncertainty and anxiety. Before we explore that further, I want to acknowledge that your vulnerability is really helpful in this process. Can you tell me more about what happens when you notice that your attention is "gone" in lectures or when you feel jumpy about health stuff? What's the sensation in your body or the thoughts that come up when you feel like you're zoning out?
+
+Patient: I don't know... when it happens my chest gets tight and my head goes kind of fuzzy, like I'm watching myself from the outside. My brain flips into lists and timelines—symptoms, probabilities, what-if scenarios—so I'm analyzing instead of actually feeling, and then I start planning excuses to skip things. I guess it leaves me feeling detached and guilty, but talking about it makes me uneasy; can we focus on small, concrete ways to notice it in the moment?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like when you feel detached and fuzzy, your mind starts to generate a sense of control by creating lists and timelines. Let's try something small. When you feel that sensation of your chest getting tight and your head going fuzzy, and you start noticing all those thoughts, can you gently say to yourself, "Notice, just this moment, without judgment," and then pause? What happens when you do that?
+
+Patient: I tried that once—saying "Notice, just this moment..."—and at first nothing really changed, I just noticed the thought of saying it and then my head filled up with timelines again. Sometimes it eases my chest for a second, but mostly I get annoyed at myself for not doing it "right" and then I start overthinking whether I'm actually doing it. I don't know, I feel stuck—can we try something even smaller? Like, how long should I pause before my brain jumps back to lists?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be frustrating when you're trying to develop a new habit, and your mind keeps hijacking it. Let's try a tiny experiment: Can you start with just a 3-second pause before your mind starts generating lists and timelines? Just take a deep breath, and when you feel the thoughts starting to come up, pause for 3 seconds before responding. Can you try that for just one more time?
+
+Patient: I tried it just now—I took a breath and held the thought for maybe three seconds, and for a second my chest loosened, but then my brain immediately started critiquing whether I did it "right" and went back to timelines. I guess the pause itself becomes another thing to analyze, which is... frustrating. I don't know, can we try something even smaller—like a one-second inhale or naming one thing I can see—because the three seconds feels like another checklist I fail at.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the pause itself has become a source of self-criticism. Let's try something even smaller. Can you simply bring your attention to your breath, just notice the sensation of the air moving in and out of your body, without trying to control it or change it in any way? No thinking, no analyzing, just notice the sensation of the breath.
+
+Patient: I tried that—I could feel the air at the tip of my nose and my chest rising a bit, and for a second it loosened. But then my brain started timing breaths and judging depth, like "too shallow, too fast," and it just turned into another thing to get right. I guess it helped a tiny bit, but I'm already worrying I'm doing it wrong and then I get tense again. I don't know—can you tell me a way to notice the breath that won't just become a checklist? Or maybe we could try something else, like naming one thing I can see right now?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your brain is good at finding ways to critique and analyze, it's like a great detective. Let's try something more concrete. Can you name one object you see right in front of you, something simple, like a book or a pen?
+
+Patient: I guess a dented stainless steel water bottle on my desk. Saying it out loud actually loosened my chest a little, but then I started worrying if that was the "right" thing to notice. I don't know—does that count?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Naming the object did seem to help a bit. Notice how your body is feeling now, and what's happening in your mind. Is there still a sense of tension or worry?
+
+Patient: I guess my chest feels a little less tight, but there's still this low-level pressure and my head's already listing ways I did it wrong. I don't know, it feels like my brain goes on autopilot critique mode—I'm nervous about doing the "right" thing. Can we try naming one sound around me or something else really simple?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try something even simpler. Can you name the sound you're hearing right now?
+
+Patient: I guess I can hear the low hum of my laptop fan. Saying it out loud loosened my chest a bit, but now I'm already nitpicking whether that's a useful thing to notice. I don't know—can we keep doing a few more tiny ones?
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is always looking for the next thing to analyze. Let's try something tactile. Can you notice the sensation of your feet on the ground or the chair beneath you?
+
+Patient: I guess I can feel my feet on the floor—kind of heavy and dull, like they're grounding me a little. The chair's firm under my hips and that actually takes less thinking than the breath stuff, but it's... a lot to keep doing. I don't know, can we keep doing a couple more tiny ones?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you've found a sense of grounding in your physical sensations. Let's try something a bit more visual. Can you notice the color of the wall or the color of your shirt?
+
+Patient: I guess the wall's kind of pale gray and my shirt's navy. Saying it out loud eased my chest a little, but this is starting to feel... wearing, like it's a lot to keep doing. I don't know, can we slow down a bit?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's normal to feel like it's getting exhausting. Let's slow down and acknowledge the effort you've been putting in. Take a deep breath and notice that you've been willing to explore and try new things with me, even when it's uncomfortable. That takes a lot of courage.
+
+Patient: I guess... I can feel my chest loosen a little, but my words are getting kind of flat and my head's foggy. I don't know — it's getting harder to keep doing these little things; can we slow down and just... sit with one thing for a bit?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be hard to sustain small steps. Let's just sit with the sensation of your chest loosening, and the pale gray wall, and the navy shirt, for a bit. No trying to do anything, just noticing.
+
+Patient: I guess I'll try to sit with it. My chest feels a bit looser, the wall looks flat and pale, and my shirt feels kind of heavy on my shoulder, but my head's foggy and my brain keeps nudging me to make this into a checklist. I don't know — can we just stay with those sensations for a little longer?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's just sit with those sensations, without judgment. No trying to change them, no trying to make sense of them. Just being with them, for a moment.
+
+Patient: I'm not sure I follow — I can feel the chest loosen and the wall and shirt, but when you say "don't make sense of it," my brain immediately wants to figure out why it's resisting. I don't know how to just be with it without turning it into another thing to fix.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be hard to let go of the urge to analyze and understand. Instead, I want to ask you to simply be with the sensation of your chest looseness, the wall, and the shirt, without trying to figure out why. Can you try to just notice them, without judgment, without trying to understand?
+
+Patient: I can try, but I don't know how to not make it into something to fix—my brain already has a running list of reasons it's resisting. I guess if we just keep focusing on the chest loosening for a bit, I can try to notice it without explaining it; my words feel flat though. Can we... just sit with that one thing for a minute and I'll say if anything changes?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's just sit with the sensation of your chest loosening for a minute. When you're ready, you can tell me if anything changes, or if you'd like to continue exploring.
+
+Patient: I guess I'll try to keep sitting with it. My chest feels a tiny bit looser, but my head's still fuzzy and my words are flat — I don't know if that's actually a change or just me noticing less. Can we just stay with this quietly for a while?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's just sit with it quietly for a while.
+
+Patient: I don't know — my chest just tightened again and my mind's racing with lists and what-ifs, so I can't really stay with the looseness. I'm getting jumpy and my attention keeps snapping to other things, and it's hard to sit quietly. I guess... can we do a very quick grounding thing instead? Like name one thing I can feel right now?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try something simple. Can you name one thing you can see right in front of you?
+
+Patient: I guess the corner of my laptop screen — there's a tiny crack. I don't know, my chest just tightened and my mind's already sprinting off, so I'm kind of jumpy and distracted.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're having trouble staying grounded. Let's try something even smaller. Can you notice the sensation of your feet touching the floor?
+
+Patient: I guess my feet feel flat and kind of heavy on the floor, like dull pressure under my heels. It loosens my chest a tiny bit, but my head's already racing with lists and what-ifs. I don't know—can we try something even smaller, or just stay with this one thing for a bit?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The pressure under your heels seems to be helping. Let's just stay with that sensation for a bit. Can you focus on the dull pressure, without trying to change it or analyze it?
+
+Patient: I guess I can feel the dull pressure under my heels—it's grounding for a second and my chest eases a bit. But my head immediately starts listing things and worrying if I'm doing it "right," so it's hard to stay with just that. I don't know, can we... keep focusing on it for a little longer?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is already looking for the next thing to worry about. Let's try to just stay with the dull pressure under your heels, without judgment, for just a few more breaths.
+
+Patient: Okay... I can try a few breaths. The dull pressure under my heels is there and my chest eases a bit, but my head's already making lists and getting foggy. I don't know — it's hard to keep from critiquing the breaths. Can we just stay slow for a minute?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's just slow down together.
+
+Patient: Okay... I'll try to slow down. I guess my breaths are a bit deeper and my chest eases a little, but my head's still foggy and it's already starting to make lists about tomorrow. I don't know—when it snaps into that mode, what can I actually do in the moment? Or can we just... stay here a bit longer?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're aware of when your head starts to get foggy and list-making. Can you try to acknowledge that feeling without judgment, and then simply be with the sensation of your breath, without trying to control it or change it?
+
+Patient: I can try... I guess I notice the breath going in and out, but it just turns into counting and judging—“too shallow,” “too fast”—and then my chest tenses up. I don't know, it's hard to just be with it; can we do that tiny grounding—like the pressure under my heels—again instead?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be hard to stay with the breath. Let's go back to the dull pressure under your heels. See if that's something you can simply notice, without trying to change it or analyze it.
+
+Patient: I guess I can feel the dull pressure under my heels — it helps a little and my chest loosens. But my head's already starting to critique and make lists, and I don't know how to shut that off. Can we stay with this a bit longer, or could you give me one tiny cue to bring me back when I start analyzing?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's stay with the dull pressure under your heels for a bit longer. If you start to feel your mind starting to critique or list, just take a gentle pause and notice the sensation of your feet touching the floor.
+
+Patient: Okay... I guess I'll try that. My chest's already tightening and my head's racing, so I'm worried I'll forget or turn it into another checklist. I don't know—can we pick a really simple cue I can use (like you say "feet" or I say "here") so it's not another thing to mess up?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's choose a simple cue. What about saying "here" whenever you feel yourself starting to get caught up in analysis? Can you commit to saying "here" when you need a gentle reminder to come back to the physical sensation of your feet touching the floor?
+
+Patient: I guess I can try to say "here" when I feel my mind start to spin. I don't know—I'm already worried I'll turn it into another thing to get wrong and then beat myself up about it. Could you remind me a couple times in session if I slip? I'm kind of worn out just thinking about having to remember it.

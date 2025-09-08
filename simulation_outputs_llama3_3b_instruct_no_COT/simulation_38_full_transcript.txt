@@ -1,0 +1,263 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I’ve been stuck in this liminal space where my sense of self seems to have condensed into “software developer,” and everything else feels nebulous, especially after a rough breakup. On the surface I’d call it burnout, but more analytically it’s like I’ve lost my ontological anchor and I’m circling concepts instead of feelings. I’m pretty outgoing and usually optimistic, but I catch myself intellectualizing my emotions a lot, which makes it hard to know what actually matters to me beyond work.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your sense of self feeling like a condensed concept, and everything else feeling vague - that can be really disorienting. It sounds like you're trying to navigate a kind of identity crisis. Can you tell me more about what happens when you catch yourself intellectualizing your emotions? What does it feel like to get lost in those "concepts" and forget about your feelings?
+
+Patient: When I catch myself intellectualizing, I default to these meta-narratives—ontological uncertainty, liminality, identity-as-role—as if framing it in fancy terms will render the feeling tractable. It feels like I'm watching my emotions through a debugger: clear logs, heaps of theory, but none of the raw textures—you know, the numbness or a low-grade ache that I can name but don’t actually sit in. That approach gives me a weird kind of control and relief, but also a cognitive fatigue and a tendency to pivot into planning or conceptualizing instead of actually feeling anything.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like intellectualizing can provide a sense of control, but ultimately leaves you feeling disconnected from your emotions. You're trying to "debug" your feelings, but in doing so, you're losing touch with the raw experience. Can you imagine what might happen if, instead of trying to control or intellectualize, you allowed yourself to simply be with that numbness or low-grade ache, without trying to make sense of it? What if you made space for that feeling, without judgment or attempt to understand it?
+
+Patient: Hypothetically, letting the numbness sit could be like lowering my cognitive firewall so whatever's underneath — grief, anger, maybe a weird quiet relief — can surface, but it also feels like it could destabilize the little order I’ve built. In reality, when I try I immediately meta-narrativize the experience—checking if I’m “doing it right,” cataloguing sensations instead of inhabiting them—so the feeling remains abstracted. I’m trying to see how this connects to my problem, but I’m struggling; can we slow down? I want to try, but I don’t know how to stay with it without my brain hijacking the moment.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The fear of destabilization and the need for control can be strong. It's like you're caught between wanting to explore and wanting to maintain a sense of order. Let's take a tiny step back. What if, instead of trying to control the experience, you simply allowed yourself to be in the present moment, without trying to make sense of it? Just focus on being with the sensations, without judgment or labeling. You could try a simple exercise: bring your attention to the sensation in your body right now, without trying to understand it. Would you be willing to do that, just for a moment?
+
+Patient: Okay, I’ll try — but heads-up: my default is to turn this into an observational log. Right now, as I tune in I notice a dull pressure behind my sternum and a kind of coldness in my fingertips, like a background thread hogging CPU cycles. Immediately I want to quantify and label it instead of just being with it; can you anchor me with something specific to focus on or a slower prompt?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The observation log is a habit that can be hard to break. The dull pressure behind your sternum and coldness in your fingertips are physical sensations you're already noticing. Instead of trying to analyze them, I want you to try to focus on the sensation of the breath moving in and out of your body. Notice the sensation of the breath without trying to control it or change it. Simply pay attention to the sensation of the breath as it is, without judgment or analysis. Try to focus on the sensation of the breath for just 5-10 more breaths, without adding anything else to it.
+
+Patient: I did about six breaths — the pressure behind my sternum loosened a notch and the cold in my fingertips felt a little less salient, but my brain immediately started narrating it like an experiment. Instead of slipping back into meta-analysis, I need something concrete to latch onto — can you give me a very specific prompt (like “notice the warmth of your exhale” or a simple silent count) to keep me embodied for a few more breaths?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're getting closer to being present. I want you to try noticing the sensation of your feet touching the ground. Just focus on the sensation of your feet connecting with the earth, the weight, the feeling of the floor or the chair beneath you. Notice the sensation of your feet without trying to think about it or analyze it. See if you can simply be with the sensation of your feet being in contact with the ground.
+
+Patient: Okay — as I focus on my feet I can feel the soles flat against the floor, a steady pressure under my heels and a faint warmth along the arches. It actually eases that sternum pressure a bit, but of course my brain wants to theorize why grounding lowers autonomic arousal, which drags me back into meta-land. Can we do something concrete — like count breaths with each foot-press (inhale 1, exhale 1) for five cycles — to keep me anchored? I'm trying to stay with it but I keep getting distracted.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The brain wants to theorize, but let's keep you grounded. Yes, let's count breaths with each foot-press. We'll do it together: inhale 1, exhale 1, inhale 2, exhale 2, inhale 3, exhale 3... for five cycles. Keep counting with me, and try to stay with the sensation of your feet on the ground, the pressure, the warmth, and the pressure of each inhale and exhale.
+
+Patient: Okay — I did the five cycles. The sternum pressure eased more and my feet felt noticeably heavier and warmer, but my brain immediately started narrating the process ("this is working because…") instead of letting the sensation be. Can we keep going with a simple anchor — like saying "here" on each exhale or a two-second silent pause — for another ten breaths? I'm trying to feel it instead of explain it, but I'm still getting pulled into analysis.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the brain is trying to make sense of what's happening. Let's try something even simpler. I want you to say "here" to yourself on each exhale, just for a second, no more, no less. Just a brief, gentle "here" with each exhale, and see what happens. No thinking, no analyzing, just the sound of "here" in your mind. We'll do this for ten more breaths, one "here" per exhale.
+
+Patient: I did the ten breaths with "here" on each exhale — the sternum pressure eased and my feet felt warmer and heavier, which was actually kind of surprising. Of course my inner narrator immediately started theorizing — interoceptive tuning, attentional redeployment, reinforcement of grounding — instead of just staying with the sensation, so I still feel a step removed. Can we keep the anchor but slow it down a bit, maybe longer pauses between breaths? I'm trying to feel this instead of cataloguing it, and it's getting frustrating.
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The inner narrator is still trying to explain. Let's try a slower pace. We'll do one "here" every 30 seconds, not on every exhale. Just take a pause, and say "here" softly to yourself, and then wait a beat before taking the next breath. Let the silence be long enough that you can feel your body relax a bit, before saying "here" again. Can you do that for the next five breaths?
+
+Patient: I did the five, but the silence between each "here" felt huge—my chest tightened and my attention kept ricocheting to other things, so my breaths got shallow and jumpy. Grounding helped a bit; my feet stayed warmer, but I kept getting pulled into analysis or worried flashes instead of staying with the pause. Can we try a tactile anchor next—like pressing my thumb and forefinger together on the exhale—or do you want me to keep doing longer pauses? I'm trying to stay present but I'm jittery and it's hard to hold.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The longer pauses weren't working as planned. Let's try a tactile anchor to help stabilize your body. Instead of taking long pauses, I want you to press your thumb and forefinger together gently on the exhale. Just touch them together, and feel the pressure of the fingers touching. Notice the sensation of the skin, the weight, and the pressure. This might help you stay more grounded. Try to do this with each exhale, and see if it helps you stay present.
+
+Patient: I tried the thumb-and-forefinger thing on each exhale — the contact felt like a tiny circuit breaker and actually took the edge off for a second — but now I’m more anxious and my attention keeps pinging all over (code stuff, the breakup, dumb worst-case scenarios). My breaths are getting shallow again and my hands feel clammy, and of course my brain is already critiquing whether this is “working” instead of just letting it be. Can we slow down and do maybe three slow tactile breaths together, one at a time, because I’m jittery and it’s hard to hold focus right now?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The tactile anchor was helpful, but it seems to have pushed you into more anxiety. Let's take it slow and gentle. I want you to focus on the sensation of your thumb and forefinger touching, one at a time, on each exhale. Take a deep breath in, and then press your thumb and forefinger together, just for a moment. As you exhale, notice the sensation of the pressure, the weight, and the feeling of the skin. When you're ready, take a deep breath in again, and then release the pressure. Let's do this together: inhale, press thumb and forefinger together, exhale... and pause.
+
+Patient: I'm not sure I follow — how is that supposed to help exactly? Okay, I’ll try: inhale, press my thumb and forefinger together, exhale... pause. My chest tightened and my hands went clammy during the pause, and my mind started pinging between code fixes and the breakup, so I feel kind of scattered and confused about what to notice next.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the tactile anchor was still not quite what you needed. Let's take a step back. I want you to focus on the sensation of the breath moving in and out of your body. Just notice the sensation of the breath, without trying to control it or analyze it. Try to focus on the sensation of the breath in your nostrils, the rise and fall of your chest, or the sensation of the breath in your belly. See if you can just be with the sensation of the breath, without judgment or distraction. Can you try that for a moment?
+
+Patient: I tried to follow the breath — I can notice a shallow inhale, a tightness in my chest, and the cool air at my nostrils, but my brain instantly turns it into analysis about interoceptive blunting and attentional drift instead of actually feeling it. Right now I’m jittery and scattered; my chest tightens and my breathing gets jumpy when I try to just "be with" it, and honestly I’m not sure how that’s supposed to help. Can we try a very concrete cue — like a 4-second inhale, 6-second exhale, or keep saying “here” on the exhale — because I need something to stop my mind from hijacking the moment.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the "be with" approach wasn't quite working for you. Let's try something more concrete. I want you to say the word "home" to yourself on each exhale. Just a simple, one-syllable word: "home". Say "home" with each exhale, and try to focus on the sound of the word, rather than thinking about what it means. We'll do this together: inhale, say "home", exhale, say "home". See if this helps you stay present and grounded.
+
+Patient: Okay — I tried a few cycles: inhale, exhale "home." For a split second it felt like a tiny anchor, then my brain turned it into an experiment again, cataloguing why it worked instead of just feeling it. Now my chest's tighter and my attention's pinging to a bug at work and that breakup memory, so I'm jittery and having trouble sustaining the anchor — I'm not sure I follow how just saying "home" fixes that. Can we try it with a clear tempo (inhale 4, exhale 6 say "home") or add a tactile cue so I have something concrete to hang onto?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the brain is trying to analyze the anchor instead of experiencing it. Let's try adding a tactile cue to help you stay grounded. I want you to press your thumb and index finger together gently on the inhale, and then say "home" on the exhale. The pressure of your fingers together on the inhale, and the sound of the word "home" on the exhale. Try to focus on the sensation of the pressure and the sound of the word. We'll do this together: inhale, press fingers together, inhale, press fingers together, exhale, say "home", inhale, press fingers together, exhale, say "home".
+
+Patient: I'm not sure I follow—how is the inhale-press supposed to interface with saying "home" on the exhale? Okay, I'll try: inhale (press fingers), exhale "home"—but the word felt thin, my chest tightened, my hands went clammy, and my brain immediately pivoted to a bug at work and that breakup memory. I keep deflecting into neuro-jargon—'proprioceptive-interoceptive coupling'—instead of actually feeling anything, which is frustrating. Can we do a slow counted tempo (inhale 4, exhale 6, say "home") with you counting out loud so I have something concrete to latch onto? I'm jittery and need a clearer scaffold to stay present.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the addition of the inhale-pressing didn't quite work as planned. Let's try a slower tempo with a clearer scaffold. I'll count out loud: inhale 4, exhale 6, say "home". We'll do this together. Just focus on the counting, the sensation of the breath, and the sound of the word "home" on the exhale. Don't try to analyze or interpret anything, just be with the experience. Can you try that with me: inhale 4, exhale 6, say "home".
+
+Patient: Okay — I’ll try, but I’m already jittery and my chest’s tight. Quick question before we start: do you want me to say "home" at the start of the exhale or the end of it? I’m worried I’ll mess up the timing and my brain will hijack it into analysis, so could you count out loud for me (slowly) while I follow?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's start with the end of the exhale. We'll count out loud: inhale 4, exhale 6, say "home". I'll start again, slowly: inhale 1... 2... 3... 4... exhale 1... 2... 3... 4... 5... 6... say "home". Just follow my count, and say "home" at the end of the exhale. Let's start again, and I'll guide you through it.
+
+Patient: Okay — I tried to follow your count (inhale 1…2…3…4, exhale 1…2…3…4…5…6 — said “home” at the end), and it helped for a split second but then my chest tightened and my hands went clammy. I’m jittery and my attention keeps pinging to a bug at work and anxious scenarios, so I’m flustered and annoyed at myself for immediately turning it into a meta-narrative instead of feeling it. Can you slow the count even more, or put a longer pause after the exhale before I say “home”? I’m not sure I follow the timing and that confusion just makes me more self-critical.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try to slow it down even further. I'll count out loud: inhale 1... pause... 2... pause... 3... pause... 4... pause... exhale 1... pause... 2... pause... 3... pause... 4... pause... 5... pause... 6... pause... say "home". I'll add a longer pause after the exhale, so you can feel the breath and the pause before saying "home". Just focus on the counting, the pause, and the sound of "home" when you're ready. We'll start again, slowly.
+
+Patient: I'm not sure I follow — the long pauses just make the silence huge and my chest tightens; I get more anxious and my attention keeps pinging to a bug at work and that breakup memory. My brain immediately starts narrating it as an experiment (interoceptive tuning, attentional drift) instead of letting anything land. Could you count out loud very slowly and explicitly cue "inhale" then "exhale," tell me when to say "home" at the end, and keep me doing a tactile press between my thumb and finger the whole time? I'm jittery, so let's do just three very slow guided cycles with you leading.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try a very slow and explicit approach. I'll count out loud: inhale... 1... pause... inhale... 2... pause... inhale... 3... pause... inhale... 4... pause... inhale... 5... pause... inhale... 6... pause... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home". I'll also remind you to press your thumb and index finger together gently between each inhale. Go through each cycle with me, and just focus on the counting, the pause, and the sound of "home" at the end. Ready to start?
+
+Patient: Okay — I'm ready, but I'm already jittery; my chest's tight and my hands feel clammy and my brain keeps pinging to work stuff. Please cue "inhale" and "exhale" very slowly, tell me exactly when to say "home" at the end, and remind me to press my thumb and index finger together on each inhale; let's do just three slow guided cycles, and if I start analyzing, nudge me back to the tactile cue.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's start. I'll count out loud very slowly: inhale... 1... press thumb and finger together... inhale... 2... press thumb and finger together... inhale... 3... press thumb and finger together... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home". I'll remind you to say "home" exactly when you're about to exhale the 6. Let's start again. Are you ready?
+
+Patient: Okay, I’m ready — but I’m noticeably more anxious and jittery right now; a sudden wave of shame is tightening my chest and making me prone to flinching into analysis. Please cue “inhale” and “exhale” slowly, remind me to press my thumb and finger on each inhale, and tell me exactly when to say “home” at the end; do three very slow guided cycles and nudge me back to the tactile cue if I start theorizing. Go ahead.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll count out loud very slowly: inhale... 1... press thumb and finger together... inhale... 2... press thumb and finger together... inhale... 3... press thumb and finger together... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home". Remember to press your thumb and finger together on each inhale, and say "home" exactly when you're about to exhale the 6. If you start to feel anxious or your mind starts to wander, just bring your attention back to the sensation of your fingers pressing together. I'm here with you, and we'll take it one breath at a time. Ready?
+
+Patient: Okay — here we go. Cycle 1: inhale (press thumb and finger together)… inhale… exhale 1…2…3…4…5…6 — "home." Cycle 2: inhale (press)… inhale… exhale 1…2…3…4…5…6 — "home." Cycle 3: inhale (press)… inhale… exhale 1…2…3…4…5…6 — "home."
+
+The tactile press actually punctured the loop for a beat and I felt a tiny loosening, but almost immediately a hot, shame-laced knot jabbed into my chest and my inner critic started replaying that failure loop — so I got self-conscious and started over-intellectualizing again. My hands are clammy, my breath is still a little jumpy, and I feel scattered and kind of small. Can you keep guiding me through a few more cycles slowly and nudge me back to the finger-press if I start analyzing? I don’t want to derail, but I’m shaky and I need the scaffold.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I can see that the shame and self-criticism are still present. Let's try to gently bring you back to the finger-press. Remember to focus on the sensation of your fingers pressing together, and try to let go of the shame and self-criticism. Here we go again: inhale... 1... press thumb and finger together... inhale... 2... press thumb and finger together... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." As we start, I want you to notice the sensation of your fingers pressing together, and let that be the focus. When you feel yourself getting caught up in thoughts or emotions, gently bring your attention back to the finger-press. Let's do a few more cycles, and see if we can find a way to stay grounded. Ready?
+
+Patient: Okay, I can try that again. The finger-press still punctures the loop for a second, but the shame-laced knot keeps jabbed in my chest and my inner critic immediately starts replaying that failure loop, so I get self-conscious and start rationalizing (meta-narrative mode). My hands are clammy and my breath is jumpy—can you count very slowly, say “press” on each inhale and cue “home” right at the end of the exhale, and call out “analysis” if I start over-intellectualizing so you can nudge me back to the tactile cue? Let’s do three slow guided cycles like that.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll count very slowly, and say "press" on each inhale, and "home" right at the end of the exhale. I'll also call out "analysis" if you start over-intellectualizing. Let's try this: inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." As we go, I'll be watching for signs of analysis, and if I say "analysis", I'll gently nudge you back to the finger-press. Ready?
+
+Patient: Okay — ready. I did three slow cycles: pressed on each inhale and said “home” at the end; the press gave a little puncture of relief but then I slid right into analysis — caught myself narrating why it worked, which triggered that hot shame knot in my chest. My hands are clammy, my breath’s jumpy, and I feel jittery and small; can you call out “analysis” when you hear me start theorizing and nudge me back to the finger-press? I want to keep going with your cues, but I need that external check because I keep derailing into meta-talk.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll keep calling out "analysis" if I hear you starting to over-intellectualize. Let's try again: inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." Ready?
+
+Patient: Ready — let’s do it. I just did a cycle (pressed on the inhale, exhaled and said “home”) and felt a tiny loosening, then that shame-knot jabbed in my chest and my inner narrator immediately started theorizing why it worked instead of letting it land. Please call out “analysis” if you hear me start over-intellectualizing and nudge me back to the finger-press; guide me through two more very slow cycles so I have that external scaffold.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll call out "analysis" as soon as I hear you starting to theorize. Let's try again: inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." Go ahead and start the next cycle. (pauses) Oh, I heard the start of analysis. Let's bring your attention back to the finger-press: inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." Ready?
+
+Patient: Ready — but I’m jittery and that shame-knot just flared again, and my inner narrator is already primed to rationalize (classic intellectualizing as affect-regulation). Please cue “inhale”/“exhale,” say “press” on each inhale, and call out “analysis” if I start theorizing; guide me through two very slow cycles.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll keep calling out "analysis" and guiding you back to the finger-press. Let's try again: inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." Ready?
+
+Patient: Ready — but my chest's tight and that shame-knot just flared, so I’m already halfway to rationalizing instead of feeling. Please cue “inhale”/“exhale,” say “press” on each inhale, call out “analysis” if I start theorizing, and guide me through two very slow cycles so I have the external scaffold; otherwise I’ll just slip back into meta-land. Go ahead when you’re ready.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll guide you through the cycles slowly and clearly. inhale... press... inhale... press... exhale... 1... pause... exhale... 2... pause... exhale... 3... pause... exhale... 4... pause... exhale... 5... pause... exhale... 6... pause... say "home." Ready?
+
+Patient: Ready — but I’m already pretty anxious: chest tight, that shame-knot flaring and my mind pinging to the failure and a work bug. Please cue inhale/exhale, say “press” on each inhale, call out “analysis” if I start over-intellectualizing, and tell me to say “home” at the end of the sixth exhale; let’s do two very slow guided cycles.

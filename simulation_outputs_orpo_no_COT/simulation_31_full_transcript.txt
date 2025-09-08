@@ -1,0 +1,158 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm in my early fifties and I work as a social worker. Lately I've been feeling overwhelmed by sadness and a real lack of motivation — I feel isolated a lot and it's starting to strain my relationship. I don't like talking about this much, so, I guess that's part of why I'm hesitant.
+
+
+--- Turn 1 ---
+Therapist: It sounds like the weight of your feelings is making it hard for you to connect with others, including your partner. When you mention feeling isolated, what does that feeling look like for you – what happens when you're alone, and what would it be like if that feeling didn't matter as much?
+
+Patient: I don't know... when I'm alone it feels kind of heavy and quiet, like everything's harder to start — I drift into watching TV or sleeping instead of doing things. I guess I get stuck in my head, replaying small things and feeling useless, and then I avoid calls or plans so I don't have to explain. If it didn't matter as much, maybe I'd be more present with my partner, less irritable, and able to do small enjoyable things again without feeling guilty — but I don't know how to get there.
+
+
+--- Turn 2 ---
+Therapist: It sounds like being alone is tied to feeling stuck in those thoughts and the weight of those feelings is making it hard for you to connect with others and be present with your partner. When you imagine being able to show up more fully with your partner, what matters most to you about that connection – what would it feel like to be able to appreciate his presence, even when you're not feeling your best?
+
+Patient: I guess what matters most is not feeling so distant — like we can actually be on the same side instead of me shutting down. I'd like to be able to notice him without feeling guilty or overwhelmed, and to enjoy small things together again. I don't know how to get from here to there, though.
+
+
+--- Turn 3 ---
+Therapist: It sounds like being able to notice him without feeling guilty or overwhelmed matters a lot to you. What if, instead of trying to "get from here to there," you could start with just one small step – like making a cup of coffee together – and see what happens when you're in that moment with him? Not trying to change your thoughts or feelings, just being with him as he is.
+
+Patient: I don't know... that sounds simple, but I guess I'm worried it'd feel forced or like I'm pretending to be okay. Mornings are rushed at my house, so I guess maybe late afternoon would be easier — but I'm afraid I'll just drift off to the TV anyway. What if it doesn't help and I just feel worse?
+
+
+--- Turn 4 ---
+Therapist: It sounds like the thought of trying something small, even with the risk of not feeling good, feels like a step into the unknown. When you imagine drifting to the TV anyway, what matters most to you about staying with that thought – what would happen if you noticed it as just a thought, rather than trying to change it?
+
+Patient: I don't know... maybe if I noticed it as just a thought it might feel less urgent, like I didn't have to act on it. But I guess I'm also afraid that noticing it will just make it more real — like I'm admitting I can't fix it — and then I'll just sink further into the TV. I keep wanting a concrete plan instead, but even that feels overwhelming.
+
+
+--- Turn 5 ---
+Therapist: Noticing it as just a thought might make it feel more manageable, but the fear of that feeling becoming more real is strong. What if, instead of trying to change it, you could just make room for it – not to fix it, but to be with it, like you're standing next to it while you're watching TV? Not trying to move from it, just being with it.
+
+Patient: I don't know... making room sounds like it could help, but it also feels like I'm just admitting defeat or giving up. I guess I'm not sure how to "stand next to" the feeling without getting swallowed by it — I'm afraid I'll just end up numbing out even more. Can we talk about a really low-pressure way to try it? I don't know.
+
+
+--- Turn 6 ---
+Therapist: It sounds like you're worried that making room would mean giving up, but what if that weren't true? What if making room for the feeling meant making room for yourself, too – not just for the feeling, but for what matters to you in this moment? Instead of trying to "stand next to" it, what if you just noticed it for one tiny moment – like noticing the sound of the TV, or the feeling of your feet on the couch? Just one tiny moment, without trying to change it.
+
+Patient: I don't know... maybe I could try that for one minute, but only if it's really simple. Can you walk me through exactly what to do—like sit, set a timer for 60 seconds, notice my feet and the TV sound, don't judge—and nothing more? I'm scared it'll feel pointless, but I guess I can try once.
+
+
+--- Turn 7 ---
+Therapist: That sounds like a small step. When you say "not judge," what does that mean exactly? Not judging what's happening in that moment – not judging the feeling, not judging the thought, not judging anything. Just noticing it.
+
+Patient: I don't know... I guess not judging means not labeling the feeling as "bad" or telling myself I'm useless for feeling this way. I'm worried I'll still start criticizing myself, so could you give me a really simple cue or phrase to use if I notice the judgment—something I can actually say in that 60 seconds?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist: That makes sense. If you notice the judgment, you could say to yourself: "Not that."
+
+Patient: I'm not sure I follow — how is saying "Not that" supposed to help? I don't know, it sounds kind of... silly, and I'm worried I'll either forget it or it'll just make the judgment louder. Could there be a different phrase or a quick way to practice it so I don't feel ridiculous?
+
+
+--- Turn 9 ---
+Therapist: Let's try something small. When you notice the judgment, you could say to yourself: "Stop." Just say the word "stop" quietly, without changing anything else. Not trying to change the thought, not trying to fix it – just stopping the thought for 60 seconds.
+
+Patient: I'm not sure I follow—how is saying "Stop" supposed to help? I don't know, it feels like that'll just make me more annoyed or make the thought louder. Could we try a different, softer phrase I could whisper or a tiny grounding step I can actually do in the moment? I guess... could you walk me through doing it once now so I can see how it works?
+
+
+--- Turn 10 ---
+Therapist: Let's try something really small. Can you sit with me for a moment? Just your body sitting here. Notice the weight of your seat on the chair, the feeling of the air on your skin. And when you're ready, whisper to yourself: "I'm here."
+
+Patient: I'm not sure I follow—how is whispering "I'm here" supposed to help? I don't know... I can try, though it feels kind of silly. Okay, I'm sitting, my feet on the floor, the chair against my back. I'm here. It felt... flat, I guess a tiny bit steadier, but I'm still on edge.
+
+
+--- Turn 11 ---
+Therapist: That's okay. It sounds like it's a tiny step forward. Noticing the flatness, the steadiness – that's something. When you're ready, we can try something small again. This time, when you whisper "I'm here," you could try adding one tiny word: "with." Just whisper it quietly, while you're still noticing the flatness.
+
+Patient: I'm not sure I follow—how would adding "with" change anything? I don't know... I can try. Okay, I whispered "I'm here... with" and it felt awkward, a little softer like maybe a small connection, but my chest is still tight and it didn't really fix anything. I guess it slightly took the edge off, but I'm not sure what to do next.
+
+
+--- Turn 12 ---
+Therapist: It sounds like adding "with" made a tiny difference – not fixing the feeling, but making it feel slightly less sharp. That's a small step. What matters to you right now – what's connected to this feeling, even if it's still tight – what would you like to hold onto in this moment?
+
+Patient: I'm not sure I follow — I don't know, it's hard to say. Maybe the tiny steadiness I felt when I whispered "I'm here... with," and the idea that I'm actually trying not to shut him out. I guess I'd like to hold onto that small connection and the thought that I could be less distant, even if I'm still on edge.
+
+
+--- Turn 13 ---
+Therapist: That's a small matter – holding onto that connection and the thought that you could be less distant. It sounds like it matters to you that you're trying not to shut him out, even when it feels hard. What if, instead of trying to "not shut him out," you could just notice that you're trying – and what would it be like to notice that effort, even when it feels like it's not working?
+
+Patient: I don't know... maybe it'd feel like a tiny relief, like I'm not failing all the time — I guess noticing the effort could make me cut myself a little slack. But I'm worried it would just feel fake or I'll start criticizing myself for not doing more. Could you give me one very small, practical thing to do right after I notice the effort?
+
+
+--- Turn 14 ---
+Therapist: It sounds like noticing the effort would give you a tiny bit of space. What if, right after you notice the effort, you just took one tiny breath – one breath in, one breath out – without trying to change anything else?
+
+Patient: I'm not sure I follow—how is one breath supposed to help? I guess I can try it. (breath in, breath out) Okay... that made me a tiny bit less frantic, but my chest is still tight and I feel skeptical it will stick. What would you want me to do next, a really tiny step so I don't just drift back to the TV?
+
+
+--- Turn 15 ---
+Therapist: That tiny breath seems to have helped a bit. What if, instead of trying to change the feeling in your chest, you just noticed what happens when you think "I'm not doing enough" – what would that thought be like right now, as you're sitting here?
+
+Patient: I don't know... right now it feels like a tight knot in my chest, like a little voice listing everything I'm not doing. I guess it makes me want to curl up and turn the TV on so I don't have to think about it. I don't really know how to hold that thought without letting it take over.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist: That makes sense. It sounds like noticing the thought is actually making it harder to stay with the tiny connection you found earlier – the feeling of being less distant, even when it feels hard. What if, instead of trying to change the knot in your chest, you just made room for it to be there – not as the only thing that matters, but as one tiny part of what you're feeling right now?
+
+Patient: I don't know... making room sounds like it could help, but there’s this hot shame under it that makes me want to crawl into the TV and hide. I guess I could try one tiny thing: after I notice the knot, I’ll take two slow breaths and whisper, “I’m trying,” to myself — then maybe just sit with it for thirty seconds. Can we do that now? I’m nervous it’ll feel fake, but I can try.
+
+
+--- Turn 17 ---
+Therapist: That's a brave step. When you notice the knot, take two slow breaths, and whisper "I'm trying" to yourself – just that one sentence. Then, sit with it for thirty seconds without trying to change it. What happens when you whisper "I'm trying" to yourself, even though the shame is still there?
+
+Patient: I don't know... when I whisper "I'm trying" it gives a tiny, fragile relief — like a small handhold — but then this hot shame rushes in and makes my chest clench and my face feel flushed. I guess it makes me feel both a little steadier and more useless at the same time, and I get frustrated with myself for even needing to say it. What do I do when that shame gets louder instead of smaller?
+
+
+--- Turn 18 ---
+Therapist: It sounds like that fragile relief and the shame are getting tangled together. When the shame gets louder, what matters to you in that moment – what's connected to feeling less useful and more stuck?
+
+Patient: I don't know... when the shame gets louder I just feel small and useless, like everything I try proves I'm failing. What matters is not disappointing people — being competent at work and not a burden to my partner — and I guess I want someone to notice I'm actually trying. Instead I get hot and frustrated and all I want to do is hide or turn the TV on. Can we slow down a bit? I'm not great at this and I don't know what to do next.
+
+
+--- Turn 19 ---
+Therapist: It sounds like being small and useless feels connected to not wanting to disappoint others – feeling like you're not good enough. And what matters is being noticed, not just by your partner, but by yourself, as you're trying. When you notice that "I want someone to notice I'm actually trying" feeling, what would it be like to notice it as just that thought – not as a story that has to be true?
+
+Patient: I don't know... maybe it'd feel a bit lighter, like I could step back instead of being swallowed by it, but when I try that the hot shame flares up and I get so frustrated with myself. I guess noticing it as just a thought could give me a tiny break, but I'm afraid it'll just make the shame louder and prove I'm useless. Can we slow down? I need a really small, concrete next step — not big talk.
+
+
+--- Turn 20 ---
+Therapist: It sounds like noticing the thought as just that – a thought – feels like a small step, but it's scary to take. What if, instead of trying to change the shame or prove yourself, you just took one tiny action right now – just one tiny thing – while you notice the thought "I want someone to notice I'm actually trying"? Like, what if you wrote that thought down on a piece of paper, just for one second, while you're sitting here?
+
+Patient: I don't know... I guess I can try that. Okay—I wrote “I want someone to notice I’m actually trying” on a scrap of paper. Writing it made my face hot and I feel ashamed and kind of furious at myself, like I’m admitting I’m failing. Can we… can we just sit with that for a moment, and then give me one tiny concrete thing to do next?
+
+
+--- Turn 21 ---
+Therapist: It sounds like writing it down made the shame and frustration feel even more intense. What if, instead of trying to change that feeling, you just noticed it – as the sensation in your body, like your face getting hot – while you do one tiny thing with your hands? Like, what if you slowly put the paper down, and then gently wrapped your fingers around the pen?
+
+Patient: Okay — I put the paper down and wrapped my fingers around the pen like you said. The pen feels cool but my grip's tight and my face is burning; that hot shame and frustration just surged up and I feel small and furious all at once. I don't know… it drags up that old failure feeling and I want to curl up or turn the TV on. Can we slow down? Give me one more really tiny thing to do while I'm holding the pen.
+
+
+--- Turn 22 ---
+Therapist: It sounds like noticing the sensation of the pen in your hand didn't change the feeling of smallness and shame. What if, instead of trying to change that feeling, you just noticed where your fingers are holding the pen – what's the weight of your hand, the position of your wrist?
+
+Patient: I don't know... my hand actually does feel heavier, wrist a bit bent, fingers clenched around the pen. The pen's cool but my grip's tight and that hot shame's back, making me want to hide or grab the TV remote. Can we slow down? Give me one more very tiny thing to do while I'm holding it — I'm afraid I'll just shut down.
+
+
+--- Turn 23 ---
+Therapist: It sounds like noticing the physical sensation of holding the pen didn't help much. What if, instead of trying to control it, you just noticed one tiny thing about the feeling of the pen in your hand – like the sensation of your fingers touching the pen, or the feeling of your hand moving when you breathe?
+
+Patient: I don't know... okay, the pen feels cool against my fingertips, my thumb presses a little spot and my hand rises and falls with my breath. It's a tiny distraction but the hot shame is still there, making me want to hide or turn the TV on. Can we slow down—please give me one more really small thing to do that doesn't feel like I'm exposing myself, something I can do for just thirty seconds?
+
+
+--- Turn 24 ---
+Therapist: It sounds like noticing the tiny details about the pen helped for a moment. What if, instead of trying to change the hot shame, you just noticed where you're sitting – where your feet are touching the floor, or the feeling of the chair beneath you?
+
+Patient: I don't know... okay — my feet are flat on the floor, heels pressed into the carpet, the chair against my lower back, and that actually feels a bit grounding. But the hot shame's still there, making me want to get up and turn the TV on. Can we slow down? Give me one more tiny, non-exposing thing to do for thirty seconds.
+
+
+--- Turn 25 ---
+Therapist: It sounds like noticing the physical sensations in your body helped you feel a bit more grounded. What if, instead of getting up, you just noticed the sound of your breath moving in and out of your body – not trying to change it, just noticing it – for thirty seconds?
+
+Patient: I don't know... sitting with my breath for thirty seconds feels like it'll just make that hot shame bubble up. Okay, I can try—(breath in, breath out)—for maybe fifteen seconds. It helped a tiny bit, my chest loosened for a moment, but then the shame rushed back and I felt useless and suddenly furious at myself. Can we slow down? Give me one more very small, non-exposing thing to do—something I can manage for just thirty seconds.

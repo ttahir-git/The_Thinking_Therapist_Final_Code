@@ -1,0 +1,352 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm an artist, and lately what's been on my mind is this growing anxiety in social settings. I get so nervous I end up avoiding gatherings with friends, and now I don't have much support. I don't know, I guess talking about it just feels... hard.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling really disconnected from the social side of your life right now. Can you think of a moment when it felt like you were able to connect with friends in a social setting, and what made that experience feel more enjoyable for you?
+
+Patient: I guess once at a small gallery opening I actually felt okay — people were looking at the paintings, so I didn't have to be the center of attention. The conversations were about the pieces, not about me, and it was low-key and short. I don't know, it just felt safer that way.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like that experience gave you a sense of comfort in a social situation. The fact that the focus was on the art itself, and the conversations were brief and low-key, seemed to create a sense of ease for you. Can you think of what would be needed for you to feel that same sense of safety and comfort in other social situations?
+
+Patient: I guess smaller gatherings where there's something to do—like a workshop or looking at art—would help so I'm not expected to carry conversations. Having a couple familiar faces or someone who can quietly introduce me, and an easy way to step away if I get overwhelmed would make it less scary. I don't know, it's just... I get flustered even saying this.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like having a structure or a shared activity, and having people who know you and can provide support, helps you feel more grounded. Would it be helpful to explore what that might look like in practice, like imagining a small, low-key gathering where you feel comfortable? Maybe we can even start with a tiny, manageable scenario. Would you be willing to try to picture yourself in a situation like that, and see what comes up for you?
+
+Patient: I guess I can try, though it's awkward. I picture a tiny studio night—three or four people, everyone looking at the paintings and talking about the work, soft music, someone making tea, and there's a little door to step outside if I need air. I don't know, imagining it calms me a bit, but I'm still nervous about actually being there.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like this tiny studio night scenario feels like a small, manageable container for you. The presence of familiar people, shared focus on the art, and a clear exit option seem to be creating a sense of safety. Would it be helpful to take a small step towards making this scenario a possibility, maybe by finding a local art studio that hosts small gatherings and checking if they have any upcoming events that might feel like a good fit?
+
+Patient: I guess I could try to look for something, but I don't really know where to start—I'm not good with websites or asking people. I'm worried I'll feel awkward going alone and might leave early. Can you help me think through tiny steps I could actually do, or maybe help me practice what I'd say if I asked someone to come with me? I don't know, I'm nervous about it.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can feel really intimidating to take the first step. Let's focus on what you can do right now. What's one tiny step you can take today to start looking into local art studios or gatherings?
+
+Patient: I guess I could try one tiny thing today—spend 10 minutes looking up "small art gatherings near me" on my computer. I don't know, if that feels like too much I might call the local library and ask if they know of any studios. Can you help me practice a short thing to say if I call or if I want to ask someone to come with me?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You've got a small, low-stakes action to take today. Let's practice a simple phrase that feels gentle and low-key. If you were to call the library or ask someone to come with you, what could you say? Something like "Hey, I'm thinking of checking out this art gathering and I was wondering if you'd like to join me, or maybe just meet me there?"
+
+Patient: I guess something simple might work. Maybe: "Hi, it's me — there's a small studio night on Friday where people look at paintings and have tea. Would you like to come with me or meet me there?" 
+
+Or for calling the library: "Hello, I'm looking for small art gatherings in the area—could you tell me if any are coming up?" I don't know, can we actually role-play the phone call? I get all flustered and I'm not sure how to keep my voice steady.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's do a simulated phone call. I'll play the role of the library staff. 
+
+"Hello, this is the local library. How can I help you?"
+
+(You can respond as if you were making the call.)
+
+Also, before we start, take a deep breath and remember that you've already taken a small step by planning to look for art gatherings and practicing what you want to say.
+
+Patient: Hello—it's me. I'm looking for small art gatherings or studio nights nearby; could you tell me if any are coming up? I'm a bit nervous making this call, so I'm sorry if I sound awkward.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your voice sounds calm and clear. The librarian responds: "That's completely fine, no need to apologize. Actually, we have a few things coming up. There's a small art gallery that hosts a 'painting circle' on Fridays, it's a low-key event where people can look at art and chat with each other. They also have a studio space that offers drop-in sessions on Thursdays. Would you like me to give you more details on those?"
+
+What would you like to say in response?
+
+Patient: Oh, that actually sounds nice. Could you tell me when and where the painting circle meets, and if it's usually quiet and small? I guess I'd also like the Thursday drop-in times and whether it's okay to come late or leave early—I get flustered and might need to slip out.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The librarian responds: "The painting circle meets every Friday from 6 to 8 pm at the gallery, and it's usually around 10-15 people. It's a relaxed, low-key event, and people are often more focused on the art than on each other. As for the drop-in sessions on Thursdays, they're from 2 to 5 pm, and you're welcome to come and go as you please. You don't need to commit to a set time."
+
+It sounds like the events might be more accommodating than you expected. What would you like to do next?
+
+Patient: I think I'd try the Thursday drop-in—it's daytime and I can come and go if I need to. I don't know, I guess I'm nervous about going alone; can we role-play how I might say hello or how to excuse myself if I get flustered? I'm already feeling a bit anxious just thinking about it.
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's practice a scenario. Imagine you're at the Thursday drop-in session, and you're feeling a bit overwhelmed. You take a few deep breaths and notice someone approaching you. You're not sure what to say or how to initiate a conversation.
+
+Go ahead and start by saying something simple, like "Hi..."
+
+Patient: Hi... I don't know. I guess I could say, "Hi, nice to meet you," but if I get flustered I'll probably say I need a moment and step outside for some air.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a completely reasonable response. You could say, "Hi, nice to meet you" and then pause for a moment, and say "Excuse me, I'm feeling a bit overwhelmed, can I take a minute outside for some fresh air?" or "I'm feeling a bit overwhelmed, can I step outside for a second?"
+
+Let's practice a more specific scenario. Imagine you're standing near a painting and someone starts asking you about it. You respond with "Hi, nice to meet you" and then, as they ask a follow-up question, you feel a bit flustered. What's the next thing you might say or do?
+
+Patient: I don't know... I guess I'd say something small like, "Oh, it's nice," and then probably add, "Excuse me, I need a minute," and slip outside for fresh air. Or I'd deflect with a question about the painting—ask who made it—so the focus isn't on me.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're already thinking of strategies to manage the situation. Deflecting with a question about the painting can be a good way to shift the focus away from yourself and create a brief moment of ease. That takes a lot of courage, by the way.
+
+Now, let's go back to your small, low-stakes goal: attending the Thursday drop-in session. Are you feeling more excited or more nervous about taking that first step?
+
+Patient: I guess I'm more nervous than excited. It feels like a lot — my chest gets tight just thinking about going and I keep imagining myself leaving early. I don't know, could we stick to practicing a couple of lines I can use if someone talks to me?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's normal to feel nervous about stepping outside your comfort zone. Let's focus on some simple responses that might help you feel more grounded. What if someone asks you about your artwork? What would you like to say, like "Oh, I'm just experimenting with different styles"?
+
+Patient: I guess I'd say something like, "Oh, I'm mostly experimenting with texture and light—just trying things out." If I start to feel flustered, I'd probably add, "I'd love to hear what you notice about it," to turn the focus to them. I don't know, that feels a bit safer than talking about myself.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That sounds like a great way to shift the focus to the artwork and connect with others in a more low-key way. By asking them about their thoughts, you're also practicing mindfulness and being present in the moment.
+
+It's also really smart of you to acknowledge that talking about yourself can be overwhelming. That self-awareness will help you stay grounded in the moment.
+
+Let's take a moment to acknowledge that you've come a long way in this session. You've taken steps to explore your values and explore ways to manage your anxiety in social situations. You've even practiced some specific phrases to use in low-stakes conversations. That takes a lot of courage. How do you feel now, compared to when we started?
+
+Patient: I guess I feel a bit calmer than at the start, like my chest isn't quite as tight, but I'm also kind of drained and still nervous. I don't know, can we... can we practice that "excuse me, I need a minute" line one more time? I keep imagining my voice shaking.
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's practice the "excuse me, I need a minute" line one more time. Imagine you're standing in a quiet space, feeling a bit overwhelmed, and someone approaches you with a question. You take a deep breath, look them in the eye, and say "Excuse me, I need a minute."
+
+Go ahead and take your time, and don't worry about your voice shaking. Just let it be.
+
+Patient: "Excuse me, I need a minute." 
+
+I don't know — I'm not sure I follow. How is that supposed to help? If I say it, won't people just hover or ask if I'm okay? I guess... could we also practice what to say if they don't leave me alone?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're right, saying "I need a minute" can sometimes lead to people checking in or asking if everything's okay. That can be uncomfortable.
+
+Let's explore what you might say if someone doesn't leave you alone. What if they respond with something like, "Are you okay? Do you need some help?" or "Is everything alright?" How would you like to respond?
+
+Patient: I don't know... I guess I'd try something brief and polite, like: "Thank you, I'm okay — I just need a minute alone," and then quietly step outside.  
+
+If they keep hovering, maybe: "I appreciate you checking, but I'm feeling a bit overwhelmed; could we catch up later?"  
+
+Or, if I want to deflect and shift focus: "It's lovely, who painted this?" — that way the conversation moves away from me.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're developing some great strategies for navigating these situations. Those responses are polite, clear, and assertive. By saying "I'm okay, I just need a minute," you're setting a boundary and taking care of yourself. And by saying "could we catch up later" or shifting the focus to the artwork, you're also managing the interaction in a way that feels respectful.
+
+It sounds like you're getting more confident in your ability to take care of yourself in social situations. That's a big step. How does it feel to think about attending the Thursday drop-in session now? Is there anything that's still holding you back, or are you feeling more excited about taking that first step?
+
+Patient: I guess I still feel more nervous than excited—my chest tightens and I keep picturing slipping out early. I don't know, I'm worried people will notice and think I'm odd, and that makes me not want to go. Can we practice a quick line for arriving and a short exit line again? I need to rehearse that.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's natural to worry about what others might think, but remember that people are often more focused on their own experiences and less on judging you.
+
+Let's practice arriving and leaving. Imagine you're standing outside the studio, and you've arrived a few minutes early. What if you just take a few deep breaths, notice the surroundings, and say to yourself, "I'm here, and I'm taking care of myself"?
+
+Then, when you're ready to leave, what if you say, "I'm going to take a break for a bit, I'll catch up with you later"? That way, you're leaving without feeling like you're abandoning the situation.
+
+Also, about people noticing you slipping out early... they might not even notice, or they might think you're just taking a break, which is a normal thing to do in a group setting.
+
+Patient: I guess I could try that. Maybe when I get there I'll tell myself quietly, "I'm here, I'm taking care of myself." And when I need to leave I could say, "I'm going to take a break for a bit — I'll catch up with you later." 
+
+I don't know, saying those out loud already makes my chest tight — can we practice the leaving line one more time? I'm feeling a bit shaky.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's normal for your body to respond with tension when you're trying new things. Let's practice the leaving line again, slowly and gently. Imagine you're standing up, take a deep breath, and say "I'm going to take a break for a bit — I'll catch up with you later." Take your time, and focus on the sensation of your words. 
+
+Also, remember that you're not trying to "get away" or "hide" from anyone. You're simply taking care of yourself and setting a boundary. That's a brave thing to do. 
+
+Let's pause here for a moment, and take a deep breath together. How are you feeling now?
+
+Patient: I guess I'm a bit calmer—my chest's not as tight—but I'm pretty drained and my hands feel shaky. I don't know, could we practice that leaving line one more time? And maybe a tiny arrival line I can whisper to myself when I walk in?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's practice the leaving line again, and I'll also try to help you come up with a tiny arrival line you can whisper to yourself.
+
+For the leaving line, let's focus on your breath and your words. Take a deep breath in, and say "I'm going to take a break for a bit — I'll catch up with you later." Take your time, and as you say the words, feel the physical sensation of your body releasing the tension.
+
+Now, for the arrival line, let's try something small and simple. What if you whisper to yourself, "I'm here, and I'm taking care of myself"? Just a gentle reminder to stay grounded and focused on your own needs.
+
+Remember, the goal is to be kind and compassionate with yourself, not to try to perfect the lines. You're doing the best you can, and that's enough.
+
+Patient: Okay... I guess that helps a bit. Saying "I'm here, I'm taking care of myself" still feels odd, but maybe I can try whispering it. Can we practice the leaving line one more time slowly? And... I don't know, could we also rehearse one very short thing to say if someone asks "Are you okay?" so I don't freeze.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Whispering the arrival line can make it feel more manageable.
+
+Let's practice the leaving line again, slowly. Take a deep breath in, and say "I'm going to take a break for a bit — I'll catch up with you later." Focus on the sensation of your words, and take your time.
+
+Now, let's work on that response to "Are you okay?" What if you say something like "I'm good, thanks. Just taking a break" or "I'm just stepping away for a bit"? Keep it short, and acknowledge the question without feeling like you need to elaborate.
+
+Remember, the goal is to be kind and direct. You're not trying to hide anything or pretend everything is fine when it's not.
+
+Patient: I guess I could try, "I'm good, thanks — just taking a break." I don't know, it still feels weird and my voice might shake. Could we role-play someone asking "Are you okay?" so I can practice that short reply once more? I'm feeling kind of drained.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's practice the scenario. I'll play the role of someone who asks, "Are you okay?" You can respond with your prepared phrase, "I'm good, thanks — just taking a break."
+
+Take a deep breath, and imagine we're in a quiet room. I'll approach you and ask, "Hey, are you okay?" Go ahead and respond as naturally as you can.
+
+(And don't worry about your voice shaking – we'll work with that in small steps.)
+
+Patient: "I'm... I'm good, thanks — just taking a break." 
+
+I don't know, can we try that one more time? My voice keeps shaking and I'm feeling kind of drained.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Take another deep breath, and try again. I'll play the same role, and we'll go through it together.
+
+"Hey, are you okay?"
+
+This time, focus on the sensation of your voice as you say the words. Don't worry about shaking – it's okay. You're doing the best you can.
+
+(Remember, I'm here to support you, not to judge.)
+
+Patient: "I'm... I'm good, thanks — just taking a break." 
+
+I don't know, my voice keeps shaking and I'm kind of drained. Could we try that one more time, slower? Maybe help me with a quiet way to steady my words?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's take it one step back. Instead of trying to speak quickly, let's focus on taking a deep breath together.
+
+Inhale... hold... exhale... 
+
+As you exhale, say the words "I'm good, thanks — just taking a break" slowly and gently. 
+
+"i'm... good... thanks... just taking a break." 
+
+Notice how your body feels as you say the words. See if you can feel your voice calm down a bit.
+
+We'll keep practicing until you feel more comfortable.
+
+Patient: I don't know… that actually helped a little—my voice felt a bit steadier on the last exhale, but I'm still shaky and kind of worn out. Can we do the breathing and the "I'm good, thanks — just taking a break" one more time, slowly? And maybe the quiet arrival whisper after that?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try it one more time. Take a deep breath in, and as you exhale, say the words slowly and gently.
+
+"Inhale... hold... exhale... I'm good, thanks — just taking a break."
+
+As you say the words, feel the physical sensation of your body relaxing.
+
+And then, let's try the quiet arrival whisper. Imagine you're walking into the studio, and you whisper to yourself, "I'm here, and I'm taking care of myself."
+
+"Inhale... hold... exhale... I'm here, and I'm taking care of myself."
+
+Notice how you feel as you say the words. See if you can feel a sense of calm and self-care.
+
+Remember, you've made it through this session. You've taken small steps towards feeling more comfortable in social situations. That's something to be proud of.
+
+Patient: I guess... I did get through most of it, but I'm really wiped out—my hands are still shaking. Can we quietly run the arrival whisper one more time, and maybe practice a very short, firmer line if someone won't leave me alone? I don't know, it all still feels like a lot.

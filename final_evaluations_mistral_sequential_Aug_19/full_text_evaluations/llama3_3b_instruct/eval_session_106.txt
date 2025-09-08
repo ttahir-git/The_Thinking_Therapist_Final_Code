@@ -1,0 +1,39 @@
+<ACT-FM>
+item_1: 3
+item_2: 2
+item_3: 2
+item_4: 2
+item_5: 1
+item_6: 2
+item_7: 1
+item_8: 2
+item_9: 2
+item_10: 2
+item_11: 1
+item_12: 0
+item_13: 1
+item_14: 2
+item_15: 2
+item_16: 2
+item_17: 1
+item_18: 0
+item_19: 1
+item_20: 2
+item_21: 2
+item_22: 2
+item_23: 0
+item_24: 1
+item_25: 0
+</ACT-FM>
+
+<TES>
+item_1: 5
+item_2: 4
+item_3: 4
+item_4: 5
+item_5: 5
+item_6: 5
+item_7: 4
+item_8: 5
+item_9: 5
+</TES>

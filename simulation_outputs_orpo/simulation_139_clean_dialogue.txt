@@ -1,0 +1,120 @@
+Patient: I've been worrying a lot about my performance at work as a data scientist, and it's gotten to the point where I just put things off until the last minute. I don't know, I guess it's wearing me down and I feel pretty alone with it.
+
+Therapist: What's the smallest thing you've been putting off at work that's causing you the most stress, and when you finally get to it, what's the one thing you hope will happen (beyond just completing the task)?
+
+Patient: It's a tiny thing—a pull request with a couple of review comments asking me to clarify a function and add a small test—that I keep putting off. I don't know, I guess when I finally do it I want them to see I'm still competent and that I'm not... slipping, I suppose.
+
+Therapist: When you imagine not putting off that pull request, what's one thing you value more about working on that code, like getting feedback from your team or making it more efficient?
+
+Patient: I don't know... I guess I value the little reassurance that I'm still capable and that my teammates trust my judgment. It would be nice if doing it led to a bit of connection, or at least a sign I'm not falling behind.
+
+Therapist: So the reassurance from your teammates is important to you, but when you think about how that pull request might make you feel, what's one small step you could take right now to make space for that reassurance, even if it feels uncomfortable?
+
+Patient: I don't know... I guess I could set a timer for 15 minutes and just do the smallest thing—write that one test or update the function docstring—and push the change with a short note asking for a quick review. It feels awkward to put it out there, but maybe a simple reply would give me that little bit of reassurance.
+
+Therapist: Let's make that 15-minute timer a concrete commitment. When you set it, what's one thing you'll do right at the start of that timer, just to make sure you show up for yourself?
+
+Patient: I don't know... I guess when the timer starts I'll close my email and mute notifications, open the repo, and just write that one tiny test or update the docstring — literally one small commit. I'll tell myself it's only 15 minutes so I don't get stuck thinking about everything else.
+
+Therapist: As you start writing that test or updating the docstring, what's one thought that might come up that says "I'm stuck" or "I don't want to do this"? Can you pause for a breath and say to that thought, "That's a thought, not the truth"?
+
+Patient: I don't know... I guess the thought would be, "I'll mess this up and they'll think I'm slipping."  
+Okay — "That's a thought, not the truth." It still feels awkward and my stomach tightens, but I can try to keep going.
+
+Therapist: As you write that test or update the docstring, what's one tiny thing you could do right now to make space for the "I'll mess this up" thought, without having to act on it?
+
+Patient: I don't know... I guess I could write the thought down on a sticky note or a quick line in my editor (like “worry: I'll mess this up”) and set it aside so it's not buzzing in my head. Or take three slow breaths and quietly remind myself it's just a thought and I don't have to act on it — it still feels awkward, though.
+
+Therapist: Instead of writing that thought on a sticky note, what if you took three slow breaths right now, just for yourself, and said "I'm having the thought 'I'll mess this up' — that's okay, I can let it go" before you write the test or update the docstring?
+
+Patient: I don't know... I guess I can try that. Okay, I'm taking three slow breaths now — in, out; in, out; in, out. It feels a bit awkward, but my shoulders are a little less tight, so I can try to write that one tiny test.
+
+Therapist: Now that you've taken those three slow breaths, what's the one small thing you'll do next to make space for writing that test, like opening your editor or putting your mouse away?
+
+Patient: I don't know... I guess I'll open the editor, go to that test file, and just write a tiny skeleton test — maybe one simple assert — then save it. My stomach's still tight, but doing something that small feels doable.
+
+Therapist: That's a tiny but tangible step towards making space for the task. What's one thing you value about working on that code now that you've written that skeleton test — like getting feedback from your team or making it more efficient?
+
+Patient: I don't know... I guess I value the little reassurance that I'm still competent and that my teammates see I'm trying. It also feels good — in a quiet way — to keep things tidy so I don't leave problems for later.
+
+Therapist: As you save that test and close the file, what's one small commitment you can make to yourself to keep moving forward on that task tomorrow, so you can keep that tidiness and competence in mind?
+
+Patient: I don't know... I guess I can commit to blocking 15 minutes tomorrow morning right after I make coffee to finish the remaining review comments and push the PR. It still feels awkward to plan it out loud, but I'll put a calendar reminder that says "one tiny step" so it's easier to actually show up.
+
+Therapist: That's a great commitment to make! It takes courage to plan it out loud, especially when it feels awkward. What would you say to yourself tomorrow morning when you block that time in your calendar to say "yes" to that tiny step?
+
+Patient: I don't know... I guess I'd tell myself, "It's just fifteen minutes — do one tiny thing and that's enough. You don't have to prove anything, just show up." I'll probably add, "Even if it feels awkward, doing a small thing is still progress," but... I don't know if I can stick to it.
+
+Therapist: That's a great mantra to remember. It's not about sticking to it perfectly; it's about creating a new pattern of showing up to small steps, even when they feel awkward. What's one thing you can commit to doing this week, not just tomorrow, that will help you build that pattern?
+
+Patient: I don't know... I guess I can commit to scheduling three 15-minute slots this week—each morning after coffee—to tackle one tiny review comment and send a short update to the team. It feels awkward to say out loud and I don't know if I'll stick to it, but that's what I can try.
+
+Therapist: That's a great commitment to make. By scheduling three 15-minute slots, you're creating a concrete plan to make progress on the task. Since you mentioned it feels awkward to say out loud, let's make a tiny adjustment to help you remember it: instead of saying "I'll try to stick to it," what if you say "I'll show up to these tiny steps" when you schedule them?
+
+Patient: I don't know... I guess I'll say "I'll show up to these tiny steps" when I put those slots in my calendar. It still feels awkward to say out loud, but maybe that wording will make it less easy to back out.
+
+Therapist: You're getting closer to making it a habit. Remember, it's okay if it still feels awkward - that's what we're working on. The goal is to create a new pattern of behavior, not to make it feel effortless right away. What's one thing you're going to do this week to celebrate when you do show up to those tiny steps, like taking a deep breath or acknowledging a small win?
+
+Patient: I don't know... I guess I'll make a cup of tea and write a one-line note in a little "wins" file saying "one tiny step done," then take a slow breath and actually notice it. It feels awkward to celebrate, but maybe that small pause will help me feel like it mattered.
+
+Therapist: That's a beautiful way to celebrate the tiny step. By acknowledging the small win and taking a slow breath, you're creating space to notice the value of that tiny step. That's where the magic happens - from noticing the small win to feeling like it matters. You're not celebrating the task itself, but the fact that you showed up to it. That's a powerful act of self-compassion.
+
+Patient: I don't know... I guess that sounds nice, but right now my mind's racing and my stomach's tight, so it feels hard to actually notice a win. I feel a bit distracted and I don't want to fumble this—can we try a really simple grounding step or a one-line reminder I can put in my calendar to help me actually pause and notice when I do the tiny step?
+
+Therapist: It's normal for the mind to be racing when you're trying something new. A simple grounding step can help you stay present. How about this: whenever you feel like you're about to get caught up in thoughts or anxiety, you can just say to yourself, "5-4-3" - notice 5 things you see, 4 things you touch, and 3 things you hear in this moment? It's a tiny anchor to bring you back to your body.
+
+Or, if that feels too complicated, we can try a one-line reminder: "Breathe in, pause, breathe out" - just that one phrase, written down in your calendar, to remind you to pause when you do the tiny step?
+
+Patient: I don't know... I guess the one-line reminder feels easier — I'll put "Breathe in, pause, breathe out" in the calendar. I feel a bit... ashamed that I need something so simple, but my head's racing and my stomach's tight, so maybe this'll help me actually pause when it matters.
+
+Therapist: It's completely normal to feel a bit ashamed about needing something simple when your mind is racing. But here's the thing: you're not being ashamed of needing help; you're being brave by acknowledging what you need and taking small steps to get it. That's actually a huge act of self-compassion.
+
+Remember, the goal isn't to be ashamed of needing something simple; it's to show up to yourself with kindness and care when you need it most. And that's exactly what that one-line reminder is for: to give you permission to pause, breathe, and be present when you need it.
+
+Patient: I don't know... I guess I appreciate that, but I still feel ashamed — like I'm failing, and my mind's racing and stuck on things I messed up before, so noticing a win feels impossible. Can you help me make an ultra-simple calendar reminder I can actually read when I'm panicking? Maybe one line I can follow, like "Breathe in, pause, breathe out — do one tiny thing," because I'm afraid I'll fumble if it's any more than that.
+
+Therapist: When you're feeling stuck and ashamed, it's like your mind is screaming "you can't do this!" But I want you to know that you're not failing. You're just struggling, and that's okay. And I'm here to help you create a reminder that's so simple, you can't mess it up.
+
+Here's a one-line calendar reminder that's just three words: "Breathe. Pause. Act." That's it. No fuss, no muss. When you're panicking, just read those three words and take one tiny step.
+
+Patient: I don't know... I guess that could work, but I'm ashamed it has to be that simple — it makes me feel like I'm failing. My chest's tight and my head's already racing, so I'm worried even three words won't stop me from freezing. Could it be "Breathe. Do one tiny thing."? I don't know if I'll remember it, but I'll put that in my calendar and see.
+
+Therapist: It's like your mind is trying to make the reminder too complicated, even though it's the simplest thing that could help. But here's the thing: you don't have to remember it as a grand gesture. You just need to remember to take one tiny step. And that's exactly what the revised reminder says: "Breathe. Do one tiny thing." It's a tiny anchor to help you get moving, not a reminder of your worth or your failures. Just try it, and see if it makes a difference.
+
+Patient: I don't know... I guess I'll try to use it, but my chest's tight and my head's racing — it feels shameful that I can't just get on with it. Could you give me a super-short script or two-line prompt I can actually read when I'm frozen? I think that's what I'd actually use.
+
+Therapist: When you're frozen with shame, the goal isn't to tackle the shame itself, but to create a tiny gap between the shame and the action. Here's a super-short script you can use:
+
+**Script 1:** "Just breathe. Next."
+**Script 2:** "One tiny step. Now."
+
+Choose one, write it down, and put it in your calendar. When you're frozen, just read those words and take one tiny step. Don't worry about the shame; just focus on the tiny step.
+
+Patient: I don't know... I guess I'll try "One tiny step. Now." But my brain's already replaying past mistakes and my chest's tight, so I'm worried I'll just freeze. Could we try it once together — say the line with me, and then I'll try one tiny thing right after?
+
+Therapist: Let's do it together. I'll say the line with you, and then you'll try one tiny thing. Ready?
+
+"One tiny step. Now."
+
+Say it with me: "One tiny step. Now."
+
+Patient: I don't know... okay. One tiny step. Now. I'm going to open the editor and add one simple assert to that test file — just one line — even though my chest's tight and I feel kind of ashamed like I'm failing. Can you stay with me while I do it?
+
+Therapist: I'll stay with you. You're taking one tiny step. Just open the editor and type that line. I'll be right here with you, not judging, just supporting you. Go ahead, type that line.
+
+Patient: I don't know... I typed that one assert and saved it, but my hands were shaking and my chest's tight and I kept thinking they'll see I'm slipping. I pushed the commit but then froze at the PR message box, feeling ashamed and frustrated like this tiny thing turned into proof I can't do it anymore. I guess... can you stay with me while I actually push the PR and type a short note? I might need a very simple line to copy so I don't overthink it.
+
+Therapist: You're taking another tiny step. You've already typed that assert and saved it. Now, you just need to push the PR. I'm right here with you. Take a deep breath and let's get through this. You can do this. Just type the PR message. I'll help you stay simple. Here's a line you can copy and paste: "Just submitted a small update to the test."
+
+Patient: I don't know... I guess I can paste that, but my stomach's still tight and it feels embarrassing. Could we make it even shorter — like "Small test update — ready for review"? Can you stay with me while I hit "Create Pull Request" and just remind me to breathe and that this is okay?
+
+Therapist: You're almost there. You've got the PR message ready. Just paste that line and hit "Create Pull Request". I'll be right here with you. When you click "Create", I'll remind you to take a deep breath and remember that this tiny step is okay. It's just a small update to a test. You're doing this. You're showing up to yourself and taking care of this tiny task. Go ahead, click "Create Pull Request".
+
+Patient: I don't know... okay, I'm going to click "Create Pull Request" now.  
+
+I clicked it, but my hands are still shaking and my chest's tight — I keep thinking they'll see I'm slipping. Can you just remind me to breathe with me once? I feel like I'm about to freeze again.
+
+Therapist: Inhale... exhale... just breathe in and out for a moment. As you exhale, repeat after me: "I am taking care of this task. I am doing my best. I am worthy of kindness and compassion." Now, take one more deep breath... and remember that this tiny step is done.
+
+Patient: I don't know... I breathed with you and it helped a little — my hands aren't as shaky, but my chest's still tight and that old shame is nagging that I'm failing.  
+I guess I could use one more tiny anchor — something super simple like name one color I see and feel my feet on the floor. Can you stay with me while I do that? I don't want to fumble.

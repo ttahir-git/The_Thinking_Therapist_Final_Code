@@ -1,0 +1,273 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Hi — I've been ruminating a lot about this persistent sense of stasis since my breakup and the burnout at work. It feels like my identity has compressed into the single variable of "software developer," and I've been trying to analytically map out other axes of meaning but keep getting stuck in abstractions. I know I intellectualize my feelings a lot, but basically I'm directionless and unsure what actually matters to me beyond my job.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+Patient expresses feeling stuck, unsure of their identity beyond their job, and unsure of how to break free from ruminating and intellectualizing. Core emotion is likely anxiety or uncertainty. Goal: Explore the nature of their intellectualization to understand the root of their directionlessness.
+
+Therapist Answer:
+Can you elaborate on what you mean by "analytically mapping out other axes of meaning"? What do you hope to gain by doing this, and how does it feel when you get stuck in abstractions?
+
+Patient: Mostly I mean I try to formalize this into a model—listing values, hobbies, identities, and weighting them like features in a vector—to see what combination might produce a livable sense of self beyond 'engineer'. I'm hoping that by quantifying and organizing it I can regain some agency and resilience, so a relationship ending or a rough quarter at work doesn't utterly deflate me. But when I get stuck in abstractions it feels like semantic paralysis: lots of elegant frameworks, no gut-level pull, and this weird buffering state where I'm both relieved I'm being "rational" and frustrated/quietly anxious that I'm avoiding actually feeling anything.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+Patient is trying to create a structured approach to explore their identity and values beyond their job, but getting stuck in intellectualization and feeling a sense of semantic paralysis. The underlying theme appears to be the struggle to balance analytical thinking with emotional experience. Goal: Pivot to explore the tension between rationality and emotional experience, and create space for a more embodied exploration of values.
+
+Therapist Answer:
+Can you describe what happens in that "buffering state" when you feel like you're avoiding emotions? What's the sensation like when you're in that state, and how does it relate to the relief of being "rational"?
+
+Patient: It's like my affect gets dialed down to a monotone—there's this cognitive fog, a mild chest tightness, and my inner narrative shifts into meta-mode: cataloguing, hypothesizing, and systematizing instead of actually experiencing. Being "rational" functions as a regulation strategy; it gives a pseudo-sense of control and predictability, so the sudden spikes of vulnerability after the breakup or at work feel less catastrophic. But that safety is thin—alongside the relief there's this low-grade irritation and anxiousness that I'm dodging real contact with what hurts, which just fuels more analysis. I don't know exactly how to breach that loop without feeling exposed—does that make sense, or am I just over-intellectualizing it again?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+Patient is describing a dynamic of emotional regulation and avoidance, where intellectualization serves as a coping mechanism to reduce anxiety. The core emotion appears to be anxiety, but also a sense of avoidance and fear of emotional exposure. Goal: Introduce willingness as an alternative to struggle, acknowledging the patient's desire for safety while also recognizing the costs of prolonged avoidance.
+
+Therapist Answer:
+It sounds like you're acknowledging the importance of safety, but also recognizing that it comes with a cost. Would you be willing to explore what would happen if you didn't prioritize "rational control" in these situations, but instead made space for a more embodied experience of emotions? What's the worst that could happen if you allowed yourself to feel the vulnerability, even if it feels uncomfortable?
+
+Patient: If I let myself be vulnerable, the worst-case I imagine is an uncontained emotional cascade—crying at work, being unable to focus on code, my competence-feeling imploding, and people pulling away because they don't know how to handle it. There's this narrative that I'll be seen as weak or unprofessional, or that I'll lose the identity scaffold I've been clinging to, and that prospect feels genuinely terrifying. I can hear the rational part of me labeling that as catastrophizing, but another part is genuinely terrified of the uncertainty and of not being able to 'fix' it quickly. I'm parsing this instead of just saying "I'm scared," which is probably my avoidance—do those catastrophes sound realistic to you, or am I protecting myself with a melodramatic inner script?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+Patient is struggling with a narrative of catastrophic failure and loss of identity, which is driving avoidance. The fear of being seen as vulnerable and losing professional identity is deeply entrenched. Goal: Introduce a more nuanced understanding of the patient's catastrophizing and help them explore the possibility of redefining what it means to be strong and professional.
+
+Therapist Answer:
+It sounds like you're recognizing that your inner script is quite dramatic, but you're also scared. Can you imagine if instead of catastrophizing, you simply acknowledged your fear with yourself, without judgment, and said, "I'm scared, and that's okay"? What would it be like to have a conversation with that scared part of yourself, and what might come up in that conversation?
+
+Patient: I can picture that conversation fairly clearly: the scared part would rattle off worst-case narratives—“you’ll be seen as incompetent, you’ll lose people, you’ll feel hollow”—and my immediate reflex is to counter with metacognitive distancing, statistics, and solution schemas. Underneath that rhetoric the scared voice is much smaller and simpler: “I’m lonely, I don’t know who I am without this job,” and imagining that actually spoken aloud gives me a tight chest and this weird queasy heat, which is why I default to analysis. I can imagine trying to reply with something like, “I hear you, you’re scared and that’s OK,” but even rehearsing that feels exposed and performative. I don’t really know how to stay with that feeling without pivoting to problem-solving—how would I practice holding the scared part without immediately trying to fix it?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+Patient has a clear understanding of their inner narrative and its relationship to their fear of vulnerability. They're now seeking to explore the possibility of staying with the scared part without immediately trying to fix it. Goal: Introduce the concept of "radical acceptance" and practice defusion to help the patient hold the difficult emotions without trying to change or problem-solve.
+
+Therapist Answer:
+Let's try an experiment: when you're in that conversation with your scared part, instead of trying to fix it or move on, can you simply observe it with kindness and curiosity, like you would a stranger's fear? Notice the sensation of your chest, the queasiness, without judgment – just witness it, as if you're watching a scene unfold. Would you be willing to just be with that feeling, without trying to change it, for just 30 seconds, 1 minute, or 5 minutes?
+
+Patient: Okay—I'll try for one minute. Even saying that makes my chest tighten and my brain immediately wants to inventory feelings; I'm already picturing a checklist. If you count me down or give a prompt, I'll try to notice the tightness, the queasy heat, and the thoughts without trying to fix them.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+Patient is struggling with defusion and noticing their thoughts as thoughts, rather than identifying with them. The core emotion remains anxiety, but the goal is to help the patient cultivate a sense of detachment and acceptance. Goal: Introduce mindfulness of the breath as a anchor to ground the patient in the present moment.
+
+Therapist Answer:
+Let's bring in a small mindfulness exercise to help you anchor in the present moment. Can you bring your attention to your breath, feeling the sensation of the breath moving in and out of your body, without trying to control it or change it? Just observe the sensation of each breath, without judgment, and see if that brings you a sense of calm or grounding.
+
+Patient: Okay — I tried that. At first my chest was tight and my breaths were shallow, like my body was bracing; after a few inhales it loosened a touch and my exhales felt a little longer. My mind immediately started cataloguing sensations and turning them into a checklist, and images of code reviews and the breakup kept flickering in, which made me anxious about getting “it” right. Noticing the breath without doing anything felt oddly vulnerable but also a tiny bit stabilizing — can we do another minute with a little guidance? I'm worried I'll just slip back into analysis.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+Patient has had a small success with mindfulness of the breath, but still struggles with defusion and the tendency to intellectualize their experience. The goal is to maintain the anchor of the breath while introducing a new anchor to help them stay present. Goal: Introduce a new anchor to help the patient disengage from thoughts and focus on the present moment.
+
+Therapist Answer:
+Let's add a physical anchor to help you stay grounded. I'd like you to place one hand on your heart and the other on your belly. Bring your attention to the sensation of your hand on your heart, feeling the weight of your hand, the sensation of your fingers, and the movement of your chest. Then, bring your attention to the sensation of your hand on your belly, feeling the weight of your hand, the sensation of your fingers, and the movement of your abdomen. Just notice the sensations, without trying to change them, and see if that helps you stay present and disengage from thoughts.
+
+Patient: My right hand on my chest felt warm and a little heavy, and my left on my belly moved a bit with each breath — that tiny movement was oddly reassuring. At the same time my brain immediately started labeling everything (weight, temperature, amplitude) instead of just feeling it, so there’s a mix of a little grounding and an urge to evaluate whether I’m doing it “right.” I did notice the tightness ease a touch and the exhales lengthen, which felt good, but I'm worried I'll slide back into analysis—can we do another minute with you guiding me?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+Patient has successfully anchored themselves with the physical sensations, but still struggles with defusion and evaluation. The goal is to help the patient maintain the anchor while further developing a sense of acceptance and letting go of evaluation. Goal: Introduce a gentle invitation to acknowledge and accept the imperfections of the experience.
+
+Therapist Answer:
+Let's try to soften the invitation to notice your experience. Instead of trying to get everything just right, let's say "Okay, it's okay if I don't have a perfectly stable or calm feeling. It's okay if I'm still thinking, if I'm still feeling anxious, if I'm still getting distracted. Can I just be with whatever is here, in this moment, without judgment, just as it is?"
+
+Patient: I'm not sure I follow—how is that supposed to help? Saying "it's okay if I'm still thinking" just sounds like another rule to follow, and my brain immediately tries to turn it into a checklist of whether I'm doing acceptance correctly. I can try to "be with whatever's here," but already I notice the chest tightness and that queasy heat and the narration—I'm annoyed that I'm narrating instead of feeling. Can you give a concrete example of what staying with it looks like when it isn't just another cognitive maneuver?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+Patient is struggling to see how the previous invitation could be helpful, and instead, is focusing on the familiar narrative pattern of analysis. The goal is to provide a concrete example of acceptance that isn't just a mental exercise. Goal: Introduce a concrete example of acceptance that isn't just a thought, but a physical sensation.
+
+Therapist Answer:
+Let's try a simple exercise. As you continue to breathe, I'd like you to bring your attention to your left hand on your belly. Notice the sensation of your hand on your belly, the movement of your abdomen, the sensation of your fingers on the blanket or chair, just as it is, without trying to change it. Don't try to make it perfect, don't try to relax it, just notice it exactly as it is. Can you stay with the sensation of your left hand on your belly, without judgment, for just 30 seconds?
+
+Patient: Okay — I'll try to do the 30 seconds, though I'm not sure I follow how this is any different from the last prompt; it still feels like a procedural thing my brain can critique. Right now my left hand feels warm and a little heavy on my belly, I notice the tiny rise and fall, and underneath that there's the same chest tightness and this queasy heat; my mind keeps doing play-by-play labeling and wondering if I'm "doing it right." Could you count me down or set a simple timer, and then I'll report what actually registers for me after?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+Patient is starting to feel like they're stuck in a pattern of analysis, and that the exercise is becoming too procedural. The goal is to create a sense of unpredictability and surprise, to shake off the mental script. Goal: Introduce an element of surprise to break the cycle of analysis.
+
+Therapist Answer:
+I'm not going to give you a countdown or a timer. Instead, I'd like you to just notice the sensations, exactly as they are, without trying to change them or evaluate them. I'll pause for a moment, and then I'll make a simple comment that might throw you off the track. Then, I want you to just notice what comes up for you, without trying to think about it or analyze it. Ready? Here it goes: "Your eyes are blue."
+
+Patient: I'm not sure I follow—how is "Your eyes are blue" supposed to help? That comment kind of pulls the rug out from under my checklist and makes me self-conscious, which immediately triggers analysis-thinking: Is this an observation, a test, or just a random anchor?
+
+If I try to notice without doing that, what shows up physically is the same chest tightness and queasy heat, my left hand warm on my belly, and a little flutter in my throat. Emotionally it's weirdly off-putting and also a tiny bit flattered, which I then distrust and turn into a theory about why I feel that. I tried to stay with it, but my brain kept narrating—can we try another prompt and I'll keep focusing on the sensations without spinning into explanations?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+Patient is correct that the previous prompt was too self-referential and led to analysis. The goal is to create a sense of unpredictability and surprise, and to help the patient develop a greater sense of awareness of their bodily sensations. Goal: Introduce a new anchor that is not self-referential, and encourage the patient to focus on the sensations without getting caught up in explanations.
+
+Therapist Answer:
+Let's try a different approach. I'd like you to bring to your attention the sensation of the air moving in and out of your nostrils. Just notice the sensation of the air entering and leaving your body, without trying to think about it, analyze it, or explain it. Don't try to do anything with it, just simply observe it. Can you focus on the sensation of your nostrils without getting caught up in thoughts or explanations?
+
+Patient: I'm not sure I follow—how is focusing on my nostrils meaningfully different from the other anchors, but I'll try. I noticed a cool, slightly ticklish inhale and a warmer exhale, a faint pressure at the top of my nasal passages, and underneath that the same chest tightness and queasy heat; my mind still kept translating sensations into labels, which feels like emotional avoidance. Can we do a short guided version where you prompt me every 15–20 seconds so I don't just slip into analysis?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+Patient is having trouble differentiating between various anchors and is still engaging in mental translation. The goal is to provide a clear and concise prompt that encourages a brief pause and prevents mental slipping back into analysis. Goal: Create a simple, timely prompt that helps the patient stay with the sensations.
+
+Therapist Answer:
+Let's try a guided exercise. I'll prompt you every 15-20 seconds. Here's your first prompt: "Notice the sensation of your feet on the ground." Just notice it, without thinking about it, without trying to explain it.
+
+Patient: Okay—my feet feel solid on the floor; I notice pressure under my heels and the balls of my feet, a faint coolness by my toes. At the same time my brain is already racing—listing things I should've done this morning, rehearsing potential code-review critiques—so there's this jittery buzz and a tighter chest that keeps pulling me out of the sensation. I can try to stay with it if you prompt me again in 15–20 seconds.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+Patient is having trouble staying with the anchor due to mental rumination and distraction. The goal is to create a sense of temporal boundaries and encourage the patient to stay with the sensations without getting caught up in thoughts. Goal: Introduce a temporal anchor to help the patient stay with the present moment.
+
+Therapist Answer:
+Here's your next prompt: "I'm going to pause for 5 seconds before I prompt you again. During that time, can you simply stay with the sensations in your feet, without thinking about them, without trying to analyze them, without doing anything with them? Just be with what's happening right now."
+
+Patient: I'm not sure I follow how a five-second pause is meaningfully different, but I'll try. In that short silence I could feel the pressure under my heels and a coolness by my toes, but my chest tightened and my thoughts sprinted—lists, missed tasks, a knot of dread—so it was hard to stay with just the feet. I can keep doing this if you prompt me every 15–20 seconds; I need that scaffolding because my brain keeps hijacking the moment.
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+Patient is recognizing the need for a clear temporal anchor to stay with the sensations, but still struggles with mental hijacking. The goal is to create a clear boundary and provide a sense of structure to help the patient stay with the present moment. Goal: Introduce a clear temporal marker to create a sense of separation between the prompt and the patient's thoughts.
+
+Therapist Answer:
+Let's try a different approach. Instead of a pause, I'll give you a clear signal to help you transition back to the sensations in your feet. When I say "Ground", I want you to gently bring your attention back to the sensations in your feet, without trying to think about them. When you're ready, you can come back to our conversation. Got it?
+
+Patient: I'm not sure I follow—how is a single cue like "Ground" supposed to anchor me when my chest's already tight and my mind's sprinting? I can try it, but it might feel performative unless you repeat it or pair it with a very brief concrete instruction (like "feel the pressure under your heels now").
+
+
+--- Turn 15 ---
+Therapist Thinking:
+Patient is correct that a single cue might not be enough to anchor them in the moment, especially with a tight and racing body. The goal is to provide a clear and concrete instruction that helps the patient refocus on the sensations without feeling like they're performing or manipulating their experience. Goal: Provide a clear and brief concrete instruction to help the patient refocus.
+
+Therapist Answer:
+Let's try a revised approach. When I say "Notice", I want you to gently bring your attention to the sensation of your feet on the ground, without trying to think about them, without trying to analyze them. Try to simply notice the sensation of your feet on the ground, without adding anything to it. Let's start again, and I'll give you the cue "Notice".
+
+Patient: Okay — I'm ready, but I'm not sure I follow how the single cue helps; my chest's tight and my mind's already sprinting through a backlog of tasks. Say "Notice" and I'll try to bring attention to my feet, though I might need you to repeat it a couple times so I don't slip into analysis.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+Patient is correct that a single cue might not be enough, and that repetition might be needed to help them stay focused. The goal is to create a clear and repetitive process to help the patient refocus on the sensations without getting caught up in thoughts. Goal: Repeat the cue multiple times to create a clear boundary and help the patient stay with the sensations.
+
+Therapist Answer:
+"Notice". Take a deep breath and bring your attention to the sensation of your feet on the ground. Just notice, without trying to think about them, without trying to analyze them, without doing anything with them. "Notice". Take another breath and bring your attention back to the sensation of your feet. "Notice".
+
+Patient: I'm not sure I follow—how is "Notice" supposed to help? It sounds good as a concept, but when you say it my chest tightens and my brain immediately flips to a to‑do list and anxious scenarios, so I can feel my feet and also be narrating why I'm not feeling them. I can try again, but I need you to repeat the cue more often and give a really concrete micro-instruction (like "Notice — breathe in for 4, out for 6") or I'll just keep narrating and analyzing instead of actually staying with it.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+Patient is struggling to see the value in the "Notice" cue, and is getting caught up in analysis and self-narration. The goal is to provide a concrete and repetitive micro-instruction that helps the patient stay focused on the sensations without getting caught up in thoughts. Goal: Introduce a specific and structured breathing exercise to help the patient anchor in the present moment.
+
+Therapist Answer:
+"Notice - breathe in for 4, out for 6. Breathe in for 4... and then out for 6. Notice the sensation of your feet on the ground. Breathe in for 4... and then out for 6. Notice the sensation of your feet on the ground." Repeat after me: "Notice the sensation of your feet on the ground."
+
+Patient: "Notice the sensation of your feet on the ground."
+
+Okay—I breathed in for 4 and out for 6 like you said; I can feel pressure under my heels and a coolness near my toes, but my chest tightened and my brain immediately sprinted into a backlog of code tasks and potential social faux pas. I'm not sure I follow how repeating that phrase is supposed to interrupt the meta-narration—it feels like telling a compiler to stop compiling itself. I can keep doing it if you cue me more often, or if you let me say the intrusive thoughts out loud as they come so they don't pile up under my ribs.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+Patient is recognizing that the phrase "Notice the sensation of your feet on the ground" is not enough to interrupt the meta-narration, and that the repetition might be causing more mental busyness. The goal is to create a safe space for the patient to express their thoughts and emotions without judgment, and to help them develop a sense of curiosity and openness towards their experiences. Goal: Allow the patient to express their thoughts and emotions aloud, without judgment or evaluation.
+
+Therapist Answer:
+I'd like you to speak your thoughts out loud, just as they come, without trying to evaluate or analyze them. You can say them to me, and I'll simply listen without judgment. If you need to, you can say "interrupted" or "held up" when you feel yourself getting caught up in thoughts, and we can start again. Let's try this: what's the first thought that comes up for you, and can you express it out loud?
+
+Patient: "Did I just miss that PR comment?" — and then it escalates into, "If they flag it I'll look incompetent, which feeds into this broader narrative of being reduced to my job, which then links back to the breakup and my whole identity collapsing," and now I'm already spinning a theory instead of sitting with the tightness in my chest. Interrupted.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+Patient has successfully expressed their thoughts and emotions aloud, and is now getting caught up in the narrative and theoretical thinking. The goal is to gently bring the patient back to the present moment and the sensations in their body. Goal: Use a gentle and non-judgmental tone to help the patient come back to the physical sensations and defuse the narrative.
+
+Therapist Answer:
+I'm glad you're willing to express yourself. It sounds like you're having a lot on your mind, and that's okay. Can you take a deep breath with me and focus on the physical sensation of your feet on the ground? Just notice the pressure under your heels and the coolness near your toes, without thinking about anything else. Let's start again.
+
+Patient: I'm not sure I fully follow how focusing on my feet fixes anything, but I did it—took a deep breath and felt the pressure under my heels and a coolness by my toes, and my chest is still tight. As soon as I try to stay with that, my mind shoots off to the PR comment and this whole narrative about competence and the breakup, so I end up narrating instead of actually feeling it. Interrupted — can we try it again with you cueing every 10 seconds? I need the scaffolding or I just keep spiraling into analysis.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+Patient is recognizing that focusing on the feet might not be enough to interrupt the narrative, and that scaffolding is needed to help them stay with the sensations. The goal is to provide a consistent and gentle reminder to help the patient stay in the present moment. Goal: Continue to use the scaffolding to help the patient stay with the sensations, and gradually reduce the frequency of cues.
+
+Therapist Answer:
+Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground.
+
+Patient: Okay — I did the 4/6 breaths with your "Notice" prompts. I could feel the pressure under my heels and a coolness by my toes, and the exhales lengthened a bit so my chest loosened marginally, but the queasy heat stayed and my mind kept generating meta‑narratives about the PR and my identity collapsing. I'm frustrated and a little embarrassed that I can't just "be" with this; I keep converting sensations into theories. Can you keep cueing me every ~10 seconds and tell me to say "held" when I get stuck, because I really need that micro‑scaffolding or I just drift back into analysis.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+Patient is recognizing their tendency to convert sensations into theories and is feeling frustrated and embarrassed about it. The goal is to continue using the scaffolding to help the patient stay with the sensations, and to create a sense of accountability for staying in the present moment. Goal: Continue to provide micro-scaffolding and remind the patient to say "held" when they get stuck, to help them develop a sense of control and agency over their experience.
+
+Therapist Answer:
+Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Say "held". Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Say "held". Notice - breathe in for 4, out for 6. Notice the sensation of your feet on the ground. Say "held".
+
+Patient: Held. Held. Held.
+
+I did the 4/6 breaths with your prompts — pressure under my heels, coolness by my toes, exhales a bit longer, chest marginally looser — but the queasy heat stuck around and my mind kept spinning PR/competence/breakup narratives. Saying "held" helps a tiny bit to notice the hijack, but I'm still defaulting to analysis; can you keep cueing at that pace and maybe shorten the intervals, or give a very concrete next micro-prompt so I don't just narrate myself into oblivion?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+Patient is having some success with the micro-scaffolding, but still struggling with analysis and narrative. The goal is to create a sense of control and agency over the experience, and to reduce the frequency of cues to give the patient more space to develop their own awareness. Goal: Introduce a more concrete and experiential prompt to help the patient shift from analysis to direct experience.
+
+Therapist Answer:
+Notice - breathe in for 2, out for 3. Notice the sensation of the air moving in and out of your nostrils. Notice - breathe in for 2, out for 3. Notice the sensation of the air moving in and out of your nostrils. Say "held". Notice - breathe in for 2, out for 3. Notice the sensation of your feet on the ground. Say "held".
+
+Patient: Held. Held.
+
+I did the 2/3 breaths and noticed the cool inhale at my nostrils and the pressure under my heels, but my chest tightened and a jittery cascade of task-thoughts ramped up—it's like the breathing grounds me a bit but also makes the anxious noise louder. I'm not sure I follow how this is supposed to interrupt the narrative loop; saying "held" helps me notice the hijack but doesn't stop the analysis, so can you keep cueing me every 8–10 seconds or give a very specific micro-instruction I can follow?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+Patient is recognizing that the breathing exercise is not enough to interrupt the narrative loop, and that they need a more concrete and direct approach. The goal is to create a sense of specificity and clarity to help the patient stay in the present moment. Goal: Introduce a specific micro-instruction to help the patient focus on the physical sensations without getting caught up in analysis.
+
+Therapist Answer:
+Notice - touch your left hand to your left thigh. Notice the sensation of your hand touching your thigh. Notice - touch your left hand to your left thigh. Notice the sensation of your hand touching your thigh. Say "held". Notice - notice the sensation of your left hand touching your thigh. Say "held".
+
+Patient: Held.
+
+My left hand feels warm and a little heavy on my thigh, I notice the fabric texture and a tiny micro-movement with each breath. At the same time my chest tightens and the queasy heat is still there, and my mind immediately slips into meta-mode—cataloguing temperature, theorizing about interoceptive avoidance—instead of just being with it. I'm not sure I follow how this is meaningfully different from the other anchors; can you keep cueing every ~8 seconds or give a very concrete next micro-prompt so I don't just narrate myself into analysis?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+Patient is having some success with the physical anchors, but still slipping into meta-mode. The goal is to create a sense of specificity and directness to help the patient stay with the sensations without getting caught up in analysis. Goal: Introduce a concrete micro-prompt that engages the senses and encourages a more embodied experience.
+
+Therapist Answer:
+Notice the sensation of your feet on the floor. Notice the weight and pressure of your body on the floor. Notice the sensation of the air moving in and out of your nostrils. Say "held". Notice the sensation of your hands on the floor. Notice the sensation of your hands touching the floor. Say "held".
+
+Patient: Held.
+
+My feet feel heavy into the floor—pressure under the heels, a coolness near the toes; the air in my nostrils is cool on the inhale, warmer on the exhale; my hands on the floor register fabric texture and a slight micro‑movement with each breath. At the same time my chest is tighter and there's this queasy heat and my mind is sprinting—PRs, deadlines, that old competence narrative—so I'm more jittery and distracted than before. Saying "held" flags the hijack but doesn't stop the meta‑narration; can you keep cueing every ~8 seconds or give one very concrete micro‑task I can follow so I don't just turn this into another analysis?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+Patient is having some success with the anchors, but still struggling to stay with the sensations and avoid meta-mode. The goal is to create a sense of directness and action to help the patient engage with their bodily sensations in a more experiential way. Goal: Introduce a concrete micro-task that requires physical action to help the patient stay in the present moment.
+
+Therapist Answer:
+Slowly lift your left hand off the floor. Notice the sensation of your hand leaving the floor. Hold your hand suspended in mid-air for a count of 4. Notice the sensation of your hand in mid-air. Slowly lower your hand back down to the floor. Notice the sensation of your hand touching the floor again. Say "held".
+
+Patient: I did it — slowly lifted my left hand and felt a subtle lightness, a little muscle tension in the wrist, and a faint tingling where my fingers left the fabric; holding it suspended felt oddly exposing, like a small test. Lowering it back down, I felt the contact return and the same chest tightness and queasy heat undercutting everything, while my mind kept riffing on PRs and deadlines. Held. Can we keep going with another very concrete micro-prompt? I need the scaffolding every few seconds or I just slip into analysis.

@@ -1,0 +1,519 @@
+Patient: I'm a data scientist in my early fifties, and lately I've been using mindfulness and meditation almost like an anesthetic to smooth out the jaggedness of grief — it feels like signal smoothing in a time series, but I'm worried it's just masking important variance instead of modeling it. I have this habit of intellectualizing things; it's easier to narrate mechanisms and frameworks than to actually sit with the sadness. With the financial stress piled on, I keep getting distracted by new techniques and apps instead of facing whatever the grief is trying to tell me.
+
+Therapist: It sounds like you're noticing a tension between using mindfulness as a coping mechanism to manage your grief and wanting to truly engage with it. When you mention "signal smoothing" in your work, I sense that there's a sense of disconnection between what matters to you as a data scientist and what's happening in your life right now. 
+
+Can you tell me what happens when you notice that sadness showing up while you're trying to focus on your work – or when you're using mindfulness to distract yourself – and it feels like that's what matters most to you?
+
+Patient: When sadness crops up at work it shows up like an anomalous spike in a time series I feel compelled to smooth — so I reach for breathing exercises, a guided meditation, or a new app feature as if I'm applying a low-pass filter. Behaviorally I either hyperfocus on a trivial coding problem or I fritter away time sampling techniques and tools; a ten-minute meditation can elongate into a half-hour of avoidance. Physically there's a tightness in my chest and a kind of low-energy fog, but I usually translate that into meta-language about avoidance, construct validity, or habit formation instead of saying "I'm sad." Then I get self-critical and anxious — worried that if I stop numbing I won't be able to hold the day together, which just pushes me back into the same cycle.
+
+Therapist: It sounds like you're noticing that when you feel that spike in sadness while working, your mind is trying to smooth it out by applying a filter – whether that's with breathing exercises, meditation, or distractions. And when you do notice that, you start to notice the physical sensations in your chest and the low-energy fog, but instead of connecting with those sensations, you translate them into stories about avoidance or habit formation. 
+
+Then, when you get caught up in those thoughts, you feel anxious and worried that if you stop numbing, you won't be able to cope. That sounds like a really tough place to be. 
+
+Can I ask, what would it be like if, for just one moment, you didn't try to smooth out the spike in sadness – if you just allowed it to be there, without trying to change it or fix it?
+
+Patient: I guess it'd be like leaving the high-frequency component in a signal — sharp, a bit ragged, and probably destabilizing to my workflow. Physically I'd notice the chest tightness and maybe some tears, and cognitively I'd get scattered and anxious, afraid I wouldn't be able to hold the day together. Intellectually I can argue that letting it surface would give me a useful error signal about unresolved loss, but even saying that is my usual dodge — I turn the sadness into data so I don't actually have to feel it, which feels both unsafe and oddly necessary.
+
+Therapist: It sounds like you're noticing that when you try to smooth out the spike in sadness, you're actually leaving the high-frequency component – the sharp, ragged feeling – behind. And that's what matters most to you right now: being able to feel that feeling, even if it's destabilizing to your workflow.
+
+It's interesting that you mention turning the sadness into data – that's a really clever way of avoiding the emotional pain, but also one that feels necessary to you. And yet, that's exactly what's making it feel unsafe. 
+
+What if, instead of trying to smooth out the spike, you could try to make room for it – not to fix it, but just to be with it? Not to change it, but to notice it as it is. Would that be possible for you, even if it meant feeling the tears and the anxiety?
+
+Patient: Intellectually, sure — I can model the idea of "making room" as letting the residuals carry information instead of being smoothed away. Practically, though, when I actually try I get that tightness in my chest, a spike of anticipatory anxiety about not being able to hold the day together, and my reflex is to open an app or dive into a minor coding task to avoid it. I want to try a very small experiment — like one minute of just noticing the sensations — but I'm afraid I'll spiral; could you guide me through a tiny, concrete step I could actually manage right now?
+
+Therapist: It sounds like you're noticing that when you try to make room for the spike in sadness, your body is responding with tightness and anxiety. And when that happens, your reflex is to distract yourself.
+
+Here's a tiny, concrete step you could try right now: as soon as you notice the tightness in your chest, without trying to change it or fix it, you could say to yourself: "I notice this tightness in my chest." That's it – just notice it as a sensation, without trying to add anything to it.
+
+Then, when you're ready, you could pause for just one breath – not to change anything, but just to notice that one breath. That's all you need to do – one breath. Would you be willing to try that with me right now?
+
+Patient: Okay — I'll try. I notice a tightness in my chest, like a pressure behind the sternum and a low, pinprick ache near my eyes; I can say to myself, "I notice this tightness." I'm taking one breath now — it's shallow, and there's a little sting as if something wants to break; I'm anxious that if I linger I'll lose my composure at work, but I can stay with this for another breath if you want.
+
+Therapist: It sounds like you're noticing the tightness in your chest and the pinprick ache near your eyes – that's a really small step to take. And when you said "I notice this tightness," you didn't try to change it or fix it – you just acknowledged it as a sensation.
+
+Now, with that one breath, you're still anxious about losing your composure at work. But instead of trying to push that thought away, you could notice it as it is – like a thought that's showing up, without trying to control it. You could say to yourself: "That anxious thought is here – it wants me to lose my composure." 
+
+What would happen if you just noticed that thought, without trying to change it – just for another breath?
+
+Patient: Okay — I notice the thought: "I’ll lose my composure," and I even describe it to myself like a prediction algorithm flagging risk so I don't have to feel the fear. Physically the tightness ramps up and my eyes sting, but I can stay with it for another breath — it's heavy, and I'm nervous it will leak into the rest of my day. Can we do one more tiny breath together, and maybe a very quick cue for coming back to work after so I don't spiral?
+
+Therapist: It sounds like you're noticing the thought "I'll lose my composure" as a prediction algorithm, trying to protect yourself from the fear. And with that thought, the physical sensations are getting worse – the tightness and the sting in your eyes.
+
+Just notice that – that's what matters. 
+
+When you're ready, for just one more tiny breath, you could say to yourself: "I'm here, with this tightness." And when you're done with that breath, you could say to yourself: "Okay, I can go back to work now." 
+
+That's your cue to come back to work – just one tiny step.
+
+Patient: I did it — one breath, said to myself “I’m here with this tightness,” and it felt...less like an anomaly to be removed; the chest loosened a little and a couple of tears came. Still, that predictive thought ("I'll lose my composure") is loud and I find myself immediately reframing it into risk metrics instead of just being sad. Could you give me a very short fallback — like a 20–30 second script or two-step anchor I can use at my desk if this spikes again that won't morph into a half-hour avoidance ritual? I'm willing to try, but I'm nervous I'll default to sampling another app or diving into a trivial bug.
+
+Therapist: Congratulations on noticing the tightness and being willing to stay with it.
+
+Here's a short fallback script you can use when that predictive thought shows up again:
+
+**Script 1: "One breath, one step"**
+
+When you notice the thought "I'll lose my composure," take one deep breath in through your nose, and as you exhale, say to yourself: "One breath, one step." That's it – just one step toward the task at hand.
+
+**Script 2: "Notice, pause, breathe"**
+
+When the thought shows up, notice it exactly as you do now – without trying to change it. Then, pause for just 2-3 seconds, and breathe in through your nose. When you're ready, say to yourself: "I'm noticing this thought, and I'll breathe with it."
+
+Patient: I just tried "One breath, one step" — it did soften the tightness a notch and a tear snuck out, but my brain's already scheming to turn it into an elaborate micro-routine (classic debounce behavior). 
+
+Can we operationalize a single 20–30 second anchor that's literally two things: 1) one measured inhale + the phrase "one breath" on the exhale, and 2) an immediate, specific 10–15 second work action that forces context-switch back to the task (e.g., open my current script and type a single line: "resume" or add one TODO)? That way it's bounded and less likely to metastasize into a half-hour avoidance ritual. 
+
+Does that seem workable, or can you tweak it into an even tighter cue? I feel nervous about defaulting to distraction, so I'd like something very concrete.
+
+Therapist: It sounds like your brain is still trying to control the situation, even after taking a small step.
+
+I love the idea of creating a tight anchor that's two things: a measured breath and a specific work action. Here's a revised anchor that's even more concrete:
+
+**Anchor: "5-1-5"**
+
+When you notice the tightness and the thought "I'll lose my composure," take one deep breath in through your nose (count to 5). As you exhale, say to yourself: "One breath." 
+
+Immediately, without thinking, type one word on your screen: "resume" or add one TODO to your task list (count to 5 while you type). That's it – just one small action to get you back to work.
+
+This anchor is tight because it:
+
+* Requires a specific, measurable action (5-1-5 breaths)
+* Immediately switches you to the task at hand
+* Limits the mental space for the thought to expand
+
+What do you think? Is this anchor workable for you?
+
+Patient: Yeah — I think the anchor is promising; I like that it’s bounded and has a clear immediate behavior to interrupt the loop. Right now I'm feeling jittery and distracted — the idea of counting to five already feels like five seconds for my brain to spin up worst-case scenarios, so could we tighten it to something like 3-1-3 (inhale 3, say “one breath,” then a 3-second typed action)? Also make the typing action literally one keystroke (like typing a period or hitting Enter after “resume”) so it can’t balloon into a micro-routine. Does that tweak seem reasonable?
+
+Therapist: It sounds like the extra time for the 5-1-5 anchor is making it harder for you to stay present.
+
+I think the 3-1-3 tweak is a great idea – it reduces the time for the mental spinning up and makes the anchor more immediate. And making the typing action literally one keystroke is a great way to prevent it from ballooning into a micro-routine.
+
+Here's the revised anchor:
+
+**Anchor: "3-1-3"**
+
+When you notice the tightness and the thought "I'll lose my composure," take one deep breath in through your nose (count to 3). As you exhale, say to yourself: "One breath." 
+
+Immediately, type one keystroke: a period (.) or Enter.
+
+That's it – just one small action to get you back to work.
+
+What do you think? Does this revised anchor feel more manageable for you?
+
+Patient: Yes — 3-1-3 feels more doable; the shorter window should attenuate that amplification loop my brain loves to run, and a single keystroke makes ritualization much less likely. I'm actually pretty jittery and my chest is tight right now, so I'm worried it could still tip into rumination. Can we try one guided 3-1-3 right now, just a single rehearsal so I have the exact micro-script to use at my desk?
+
+Therapist: It sounds like you're ready to practice the anchor in a low-stakes way.
+
+Here's a guided rehearsal of the 3-1-3 anchor:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+Now, immediately type **just one keystroke**:
+
+* A period (.)
+* Enter
+
+That's it. Just one small action to anchor you back to the task.
+
+Remember, this is just a rehearsal – you don't have to do anything except focus on the sensations and the action.
+
+Patient: Okay — I did it: inhaled 1-2-3, exhaled, said "one breath," and hit a period. My chest loosened a little and the urge to scramble for an app was clipped, but I'm still pretty anxious and jittery — my mind's already running risk-checks like a background job. A tear snuck out, and while the anchor helps stop the spiral it doesn't make the unease disappear. Could we add a one-sentence resumption cue I can say to myself right after the keystroke so I'm less likely to stall or ruminate?
+
+Therapist: It sounds like the anchor helped interrupt the spiral, but the anxiety is still there.
+
+Adding a one-sentence resumption cue can help you move forward more smoothly. Here's an idea:
+
+**After the keystroke, say to yourself:**
+
+"Okay, task. Next line."
+
+This cue acknowledges the task, reminds you to keep moving forward, and helps you refocus on the work at hand.
+
+So, when you hit the period, try saying:
+
+"Okay, task. Next line."
+
+See how that feels.
+
+Patient: I tried it — did the inhale, said “one breath,” hit a period, then said “Okay, task. Next line.” It did blunt the spiral a bit and my chest eased a notch (and yeah, a tear leaked), but I'm still jittery and my brain's racing through worst-case scenarios like a daemon process; it's hard to actually settle into the next line. 
+
+Could we tighten the resumption cue to force immediate micro-behavior — like saying the cue while my cursor is already on the next line so I have to type one character right away — or can we run one more quick rehearsal now so I have the exact choreography to use at my desk?
+
+Therapist: It sounds like the anchor is helping, but the worst-case thinking is still there.
+
+Tightening the resumption cue to force immediate micro-behavior is a great idea. Here's an idea:
+
+**Say the cue while your cursor is already on the next line**:
+
+When you hit the period, try saying:
+
+"Next."
+
+This way, you have to type just one character (the "n") right away, which helps anchor you to the task.
+
+Let's run one more quick rehearsal:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+Type just one character (the "n").
+
+See how that feels?
+
+Patient: I ran it: inhaled 1-2-3, said “one breath,” hit a period, said “Next” and typed an “n” — chest loosened a hair, a tear leaked, but now I’m jitterier and my mind’s already spinning worst-case scenarios like a background daemon, plus a sharp urge to check something on my phone. The choreography helped clip the spiral but didn’t get me to actually settle into the line — I still felt like I was waiting for the alarm to go off. Can we tighten it so the physical action is absolutely minimal (e.g., hit Enter instead of typing “n”), and do one more quick rehearsal so I have the exact micro-routine burned in?
+
+Therapist: It sounds like the choreography helped interrupt the spiral, but you're still struggling to settle into the task.
+
+Let's make the physical action even more minimal. Here's an idea:
+
+**Hit Enter instead of typing an "n".**
+
+When you hit the period, try saying:
+
+"Next."
+
+Hit Enter right away.
+
+Let's run one more quick rehearsal:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+Hit Enter.
+
+See how that feels?
+
+Patient: I ran it: inhaled 1-2-3, said “one breath,” hit the period, said “Next,” and hit Enter. The chest eased a hair and a tear leaked, but I’m markedly jittery — attention pinging to my phone and worst-case scenarios already spinning like a background daemon process. 
+
+Can we tweak it to include a single tactile micro-anchor (press palm to desk for one second) immediately after Enter, plus a two-word verbal cue (“Start line”) as I do it? If that seems doable, can we do one quick rehearsal of that exact choreography so I have it nailed.
+
+Therapist: It sounds like you're getting close to making the transition to the task.
+
+Let's add a single tactile micro-anchor to help you anchor to the physical sensation of pressing your palm to the desk. Here's the idea:
+
+**Immediately after hitting Enter, press your palm to the desk for one second.**
+
+As you do this, say to yourself:
+
+"Start line."
+
+This way, you have a clear physical action (pressing your palm) and a verbal cue (starting the line) to help you move forward.
+
+Let's run one quick rehearsal of the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Hit Enter.**
+
+**Immediately after hitting Enter, press your palm to the desk for one second.**
+
+Say to yourself:
+
+"Start line."
+
+Press your palm to the desk for one second.
+
+See how that feels?
+
+Patient: I ran the full choreography — inhale 1-2-3, “one breath,” period, “Next,” Enter, palm to the desk, “Start line” — and it clipped the immediate spiral but didn’t settle me into the work; my attention still pinged away and a flush of shame and frustration came up, like I’d failed at even doing a tiny, bounded coping move. I’m being a little analytic about it (of course) — it feels like a failed experiment in stability, which only amplifies the anxiety and makes me want to escape into a micro-routine. Can we try one more rehearsal that tweaks the timing so the palm-press is even briefer and the verbal cue is whispered in my head instead of spoken, or would you suggest another micro-adjustment to make it feel less performative and more grounding?
+
+Therapist: It sounds like you're really close to making the transition to the task, but the feeling of failure and anxiety is still holding you back.
+
+Let's try to tweak the timing of the palm-press to make it even briefer. Here's an idea:
+
+**Immediately after hitting Enter, press your palm to the desk for just 0.5 seconds.**
+
+As for the verbal cue, instead of saying "Start line" out loud, try whispering it to yourself in your head:
+
+**"Start"**
+
+This way, you're not drawing attention to the action, and the word "Start" becomes more of a gentle nudge to move forward.
+
+Let's run one quick rehearsal of the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Hit Enter.**
+
+**Immediately after hitting Enter, press your palm to the desk for just 0.5 seconds.**
+
+Whisper to yourself:
+
+"Start"
+
+See how that feels?
+
+Patient: I ran it exactly — inhale 1-2-3, “one breath,” period, “Next,” Enter, palm 0.5s, whisper “Start” — and it clipped the spiral but didn’t land me into the line; chest eased a hair, a tear leaked, and then this hot shame/failure spike came up like a background daemon yelling “you couldn’t even do the tiny thing.” My attention is jittering and I’m anxious that each tweak is just another failed experiment, so I’d like to try one more micro-adjustment: make the tactile anchor even smaller (press the pad of your thumb to the underside of the desk for 0.25s) and keep the verbal cue entirely internal — no whisper — then immediately hit Enter again. Can we rehearse that exact choreography once, right now?
+
+Therapist: It sounds like you're really close to making the transition to the task, and the shame and failure spike is really holding you back.
+
+Let's try to make the tactile anchor even smaller and keep the verbal cue internal. Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Press the pad of your thumb to the underside of the desk for 0.25 seconds.**
+
+**Hit Enter.**
+
+**Immediately after hitting Enter, press the pad of your thumb to the underside of the desk for 0.25 seconds.**
+
+Hit Enter again.
+
+See how that feels?
+
+Patient: I did it exactly — inhale 1-2-3, “one breath,” period, “Next,” pad of thumb 0.25s, Enter, pad again 0.25s, Enter — chest eased a hair and a tear leaked, but then a hot spike of shame and frustration flared, like my brain's telling me I’ve already failed at this tiny experiment, and my attention is still pinging to my phone. It felt simultaneously like a small stabilizing probe and a failed convergence — I’m annoyed with myself and jittery, and I’d like another micro-adjustment: instead of the second Enter, what if I press my thumb 0.5s while internally counting “one” and then press Enter once, so the tactile hold demands a smidge more commitment but stays minimal? Can we rehearse that exact tweak once so I have the choreography nailed?
+
+Therapist: It sounds like you're really close to making the transition to the task, and the shame and frustration spike is still holding you back.
+
+Let's try to make the tweak you mentioned: instead of the second Enter, what if you press your thumb 0.5s while internally counting "one" and then press Enter once? Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Press the pad of your thumb to the underside of the desk for 0.25 seconds.**
+
+**Internally count "one" as you hold the thumb.**
+
+**Press Enter.**
+
+See how that feels?
+
+Patient: I ran it—inhale 1-2-3, “one breath,” period, “Next,” pad 0.25s holding “one” internally, Enter. It clipped the spiral a bit—chest eased, a tear leaked—but then a hot shame spike hit like a failed convergence and my attention's pinging to my phone; my energy feels very flat. Can you give me a one-line, two-word micro-script I can use silently right after the Enter to anchor me and quiet the shame without turning it into another experiment?
+
+Therapist: **"This step."**
+
+Patient: Okay — "This step." That feels small enough to not snowball. My chest's tight and there's that annoyed, hot shame about failing at tiny things, but I'll try it — do you want me to run one quick rehearsal now?
+
+Therapist: I'd like you to run the rehearsal one more time, with the new micro-script. Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Press the pad of your thumb to the underside of the desk for 0.25 seconds.**
+
+**Internally count "one" as you hold the thumb.**
+
+**Press Enter.**
+
+**Silently say to yourself: "This step."**
+
+See how that feels?
+
+Patient: I ran it exactly — inhale 1-2-3, “one breath,” period, “Next,” thumb 0.25s holding “one,” Enter, silently “This step.” The chest eased a hair and a tear leaked, but right after there was that hot, stupid spike of shame like I’d botched even the tiny thing, and my attention's jittering to my phone. The micro-script helps blunt the spiral but doesn’t land me into steady work; it feels like a useful probe that I’m simultaneously proud of and annoyed I had to deploy. Can we try one more tiny tweak (make the thumb hold 0.4s and add a single slow exhale after Enter) and rehearse it once so I have the choreography nailed?
+
+Therapist: It sounds like you're getting closer to making the transition to the task, and the micro-script is helping to stabilize your attention.
+
+Let's try the tweak you mentioned: make the thumb hold 0.4s and add a single slow exhale after Enter. Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Press the pad of your thumb to the underside of the desk for 0.4 seconds.**
+
+**Internally count "one" as you hold the thumb.**
+
+**Press Enter.**
+
+**Silently say to yourself: "This step."**
+
+**Slowly exhale out of your mouth.**
+
+See how that feels?
+
+Patient: I ran it exactly — inhale 1-2-3, “one breath,” period, “Next,” thumb 0.4s hold, one, Enter, silently “This step,” slow exhale — chest eased a hair and a tear leaked. Then that hot, stupid shame flare spiked like a failed convergence and my attention kept pinging away; I’m low on energy so even this micro-protocol feels effortful. Can we try one tiny tweak — shorten the thumb to 0.3s and make the final exhale internal (so no deliberate audible breath) — and rehearse that once more?
+
+Therapist: It sounds like you're really close to making the transition to the task, and the shame flare is still holding you back.
+
+Let's try the tweak you mentioned: shorten the thumb to 0.3s and make the final exhale internal. Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Say to yourself while your cursor is on the next line:**
+
+"Next."
+
+**Press the pad of your thumb to the underside of the desk for 0.3 seconds.**
+
+**Internally count "one" as you hold the thumb.**
+
+**Press Enter.**
+
+**Silently say to yourself: "This step."**
+
+**Let the breath out quietly, without making a sound.**
+
+See how that feels?
+
+Patient: I ran it — the 0.3s thumb and quiet exhale felt less performative; chest eased a hair and a tear leaked, but then that hot shame spike flared and my attention pinged away — I'm pretty flat and low-energy right now. It interrupts the spiral but doesn't land me in the work; it feels like an experiment that's still underfitting the problem. Can we try one more ultra-minimal tweak: after Enter, tap the pad of my thumb 0.2s and immediately type a single character (no internal counting), and give me a one-line silent micro-script to use right then to quiet the shame so I can actually start typing?
+
+Therapist: It sounds like you're getting close to making the transition to the task, but the shame spike is still holding you back.
+
+Let's try the tweak you mentioned: after Enter, tap the pad of your thumb 0.2s and immediately type a single character. Here's the exact choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "One breath."**
+
+**Hit the period.**
+
+**Press the pad of your thumb to the underside of the desk for 0.2 seconds.**
+
+**Type a single space.**
+
+**Silently say to yourself: "I am."**
+
+See how that feels?
+
+Patient: I ran it exactly — thumb tap 0.2s, space, silently “I am.” The chest loosened a hair and a tear leaked, but then that hot shame spike hit hard and my attention pinged to my phone; “I am” felt oddly exposed and triggered a critical inner narration instead of calming it. I’m pretty wiped, so can you give me one alternative one-line silent micro-script that’s grounding but not performative (and maybe a single ultra-minimal tweak) so I actually start typing?
+
+Therapist: It sounds like the "I am" script felt triggering, which is understandable given the shame spike.
+
+Let's try an alternative one-line silent micro-script that's grounding but not performative. Here's an idea:
+
+**Silently say to yourself: "This is my body."**
+
+This script focuses on your physical presence, rather than trying to change your thoughts or emotions. It's a simple, concrete statement that can help you anchor to the present moment.
+
+As for the ultra-minimal tweak, let's try this: instead of typing a single space after the thumb tap, try typing just one letter – like the letter "e". This tiny action can help you build momentum and get started with typing.
+
+Patient: Okay — that "This is my body" line sounds less performative, more concrete, and it feels like it might avoid triggering the inner critic the way "I am" did. I'm pretty wiped and my chest is still tight, so I'm worried it'll just become another clever technique I overthink, but I'm willing to try the micro-routine with the single "e" keystroke. Can we run one very brief rehearsal of exactly that choreography now?
+
+Therapist: Let's do a very brief rehearsal of the micro-routine:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself: "This is my body."**
+
+**Press the pad of your thumb to the underside of the desk for 0.2 seconds.**
+
+**Type the letter "e".**
+
+See how that feels?
+
+Patient: I did it — inhale 1-2-3, thought “This is my body,” pad of thumb 0.2s, typed “e.” It nudged the chest to ease a hair and a tear leaked, but then that hot shame/failure spike came up and my attention pinged to my phone; I feel flat and a bit wiped out. 
+
+It felt less performative, which I liked, but my inner critic is already narrating this as another failed trial. Can we tweak it so the phrase is entirely internal (no whisper) and the keystroke is Enter instead of a letter, then run one quick rehearsal of that exact choreography?
+
+Therapist: It sounds like you're noticing that the internal phrase is triggering your inner critic again.
+
+Let's tweak the micro-routine to make it even more internal. Instead of saying "This is my body" out loud, try saying it silently to yourself. And instead of typing a letter, let's press Enter instead.
+
+Here's the revised choreography:
+
+**Take a deep breath in through your nose...**
+
+(count to 3)
+...and exhale slowly out of your mouth.
+
+**Say to yourself silently: "This is my body."**
+
+**Press the pad of your thumb to the underside of the desk for 0.2 seconds.**
+
+**Press Enter.**
+
+See how that feels?
+
+Patient: I ran it — inhale 1-2-3, silently “This is my body,” thumb 0.2s, Enter. Chest eased a hair and a tear leaked, then that hot shame spike hit and my attention pinged to my phone; everything feels flat and it’s a real effort to stay here. Could we try one tiny tweak — a single-word internal anchor to quiet the shame (not “I am” or anything performative) and rehearse that once?

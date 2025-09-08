@@ -1,0 +1,370 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been feeling stuck and directionless lately—like my job as a manager is the only thing that defines me. If I try to change or explore other interests, my brain immediately predicts I'll underperform, get fired, the move will look like a huge mistake, I'll lose connections, and end up back where I started or worse. I know it sounds extreme, but I can't stop picturing that whole chain of disasters — it's like I'm a fortune-telling machine that only forecasts failure.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that fortune-telling machine of yours has been running quite a show lately. Can you tell me more about what happens when you start to imagine exploring other interests or changing your job? What is it about those thoughts that feels so foreboding?
+
+Patient: As soon as I even think about trying something new, my head jumps straight to the worst-case: I’ll start underperforming because I’m distracted, my boss will notice and demote or fire me, then the move will look stupid, I’ll lose professional credibility, people will stop taking me seriously, I won’t find another role, my savings vanish, and I end up back at square one or worse. It feels like a domino run that I can see in perfect detail, and once it starts playing I can’t stop watching it. Part of it is that my job is the only thing that feels concrete about me, so losing that feels like losing myself, and uncertainty terrifies me. I know rationally that other outcomes are possible, but they just don’t feel realistic — they feel like wishful thinking.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like that worst-case scenario has become an incredibly vivid and all-consuming mental picture for you. It's as if your brain is running a constant simulation of this potential disaster, and it's making it hard for you to imagine a different future. Can you think of a moment when you might have started to fantasize about this chain of events? Was it triggered by something specific, or has it been building over time?
+
+Patient: I think it kicked off with the move — everything felt fragile, and then I missed one deadline and my brain turned that into a full-blown catastrophe. Since then, any small sign — a terse email, a delayed reply from my boss, someone else getting praise — immediately becomes proof that the whole domino run will happen. I know that sounds paranoid, but once that image starts, I can't shake the feeling that it's only a matter of time.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the stress of the move and the missed deadline have created a perfect storm for your mind to spiral out of control. It's like your brain is constantly on the lookout for any excuse to validate that worst-case scenario, and it's making it hard for you to see anything else. Have you ever noticed that your thoughts are especially vivid or detailed when you're feeling anxious or stressed? Does that make it feel more real, or like it's just an exaggeration?
+
+Patient: Yeah — when I'm anxious it's like a movie in my head: every step of the failure sequence plays out with exact details, like timelines and people's reactions. It doesn't feel like an exaggeration; it feels like I'm watching what will definitely happen. That certainty freezes me — considering other outcomes just feels naive or unrealistic.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's as if your mind has created this incredibly detailed and realistic simulation of a potential failure, and it's become a self-fulfilling prophecy. The more you think about it, the more real it feels, and the more certain you become that it will happen. It's like your brain is trying to prepare you for the worst, but it's also making it hard for you to imagine a different future. Have you ever noticed that when you're feeling really stuck or uncertain, it's hard to think about anything else? Does it feel like you're just drifting along, waiting for this worst-case scenario to unfold?
+
+Patient: Yes — it's basically nonstop. It feels like I'm on autopilot, doing the minimum so nothing draws attention, just waiting for the first domino to fall; that makes everything bland and pointless. I try to be practical and make contingency plans, but those plans just end up fueling the disaster story — like I'm collecting evidence. I'm tired of it, and part of me doubts talking will help because the predictions feel inevitable.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're stuck in a never-ending cycle of anxiety, where every action you take just feels like a way to avoid getting caught up in the worst-case scenario. And even when you try to prepare for it, it just ends up making things worse. It's exhausting, both mentally and emotionally. It's like you're walking on eggshells, waiting for the other shoe to drop. Sometimes I wonder if it's possible to break this cycle, or if it's just a part of who you are right now. Can you tell me more about what you hope might happen if talking about this helped? Would it be enough to change your situation, or would it just be a temporary distraction?
+
+Patient: I guess I want talking to do two things: help me feel less alone with this and give me concrete, small steps to try so I don't just spiral. But I'm skeptical — my brain says any relief will be short-lived: a few calm days, then one missed cue and the whole disaster movie kicks back in and I'm worse off. Still, part of me wants to try, even though I can already picture how this will probably fall apart.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're hoping that talking about this might bring a sense of connection and help you feel more grounded, but your brain is also warning you that it's unlikely to make a lasting difference. That's a pretty tough spot to be in. It's like you're stuck between two competing hopes: the hope that talking might help, and the hope that it won't make things worse. Can you tell me more about what's holding you back from trying to make a change, even if it's just a small one? Is it fear of failure, or is it something else entirely?
+
+Patient: It's not just fear of failure — it's this locked-in certainty that any small change will start that domino run: I'll get distracted, underperform, get fired, the move will look like a mistake, people will stop taking me seriously, my savings disappear, and I'm worse off. My sense of self is so tangled with being the manager that risking the job feels like risking me, so I either do the bare minimum or obsessively make contingency plans that just become more "proof." I'm tired and skeptical that talking will stick because I can already see how attempts will fail, but I still want small, practical steps even if my brain says they'll blow up.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like this certainty has become a kind of anchor for you, holding you back from even considering making a change. It's like you're trapped in a cycle of fear and self-doubt, where any small step towards change feels like it might trigger the worst-case scenario. And on top of that, your sense of identity is so tied up with being a manager that the idea of risking your job feels like risking yourself.
+
+I want to try something with you. Can you think of a small, tiny thing that you could do right now, just to take a tiny step towards changing your situation? Something so small that it feels almost ridiculous, but might be enough to give you a glimmer of hope? It could be as simple as taking a different route to work, or trying a new coffee shop. Just something to get you started.
+
+Patient: Okay—maybe something tiny: send one short, neutral message to a colleague asking a quick question so it feels almost meaningless. But the moment I picture it, I see them rolling their eyes, my boss gets an alert, assumes I'm floundering, starts micromanaging, then demotion, the move looks like a mistake, savings drain—the whole domino chain plays out. I know that sounds extreme, but any other outcome just feels naive and unrealistic to me.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a tiny crack in the wall, just a tiny opening to let in a little bit of hope. And it's not that you don't think it's extreme - it's just that your mind has created this elaborate scenario where even the smallest action feels like it might trigger the worst-case scenario.
+
+Can I try to help you see it a bit differently? Instead of focusing on the worst-case scenario, can you try to imagine what might happen if that small message to your colleague goes okay? If they respond neutrally, and your boss doesn't get an alert, and you don't get demoted... can you think of any other possible outcomes? It's not about changing the outcome entirely, but just trying to see if there's any other possibility at all.
+
+It's also worth noting that even if you do imagine all the worst-case scenarios, it's not like you're actually going to send that message. You're just exploring the possibility in your own mind. And who knows, maybe this tiny exploration is enough to make a difference, even if it doesn't change the outcome.
+
+Patient: I can't really buy that — picturing a neutral reply feels like wishful thinking; my head immediately edits it into "neutral reply but boss notices, assumes incompetence, starts micromanaging," and the whole domino run kicks off. Even if the message actually goes fine, my brain fast-forwards to the demotion and people losing respect, so "okay" just feels like the quiet before the storm. I'm trying to entertain the idea, but it's hard — can we slow down? I'm feeling overwhelmed and skeptical that this will change anything.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your mind is constantly on high alert, waiting for the other shoe to drop, and even a brief moment of calm is quickly turned into a worst-case scenario.
+
+Let's take a step back then. Can we focus just on the small message to your colleague, without any of the hypothetical scenarios or worst-case outcomes? Just the act of sending a message, and maybe getting a response that's not entirely negative.
+
+We can do this in a way that feels safe and low-stakes. No pressure, no expectations. Just a tiny experiment to see how it goes. Can you agree to that?
+
+Patient: I can't just agree to that — the second I picture sending a message my head fast-forwards to demotion and everything collapsing. But maybe I can try a really safe version: can we draft one ultra-neutral line together here, rehearse it, and not send anything unless I actually feel able to? I'm feeling overwhelmed, so can we slow down and do it step-by-step?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your mind is still on high alert, even when we talk about just drafting a message. But I think that's a good starting point - taking it slow and low-stakes. Let's focus on rehearsing the message, just the message, and see how it feels.
+
+Can you think of a very neutral topic or question that you could ask your colleague? Something that wouldn't be too personal or sensitive? Maybe something like "Hi, how's your weekend going?" or "I was wondering if you've tried that new coffee shop downtown." Just a simple, straightforward question.
+
+We can take it one step at a time. We can draft that message together, line by line, and see how it feels. And if you ever feel uncomfortable or unsure, we can stop right there. No pressure, no expectations. Just a way to start, if you'd like.
+
+Patient: Okay—maybe something ultra-neutral: "Hey Sam, quick question: do you have the meeting notes from yesterday?" But the second I picture sending it I see them thinking I'm incompetent, my boss gets an alert, starts micromanaging, it snowballs into demotion, people stop taking me seriously, and everything collapses. I'm feeling overwhelmed—can we go line-by-line and just sit with each sentence before moving on?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your mind is still racing with worst-case scenarios, even when we're just rehearsing a simple message. Let's take it one line at a time, then.
+
+Let's start with the first line: "Hey Sam, quick question: do you have the meeting notes from yesterday?" Can you just say that out loud to yourself, without thinking about it too much? No judgment, no expectations. Just the sentence.
+
+Take your time. Say it again if you need to. We're not sending this message yet, we're just exploring it. How does it feel to say that out loud?
+
+Patient: I said it out loud, and on the surface it felt totally mundane — but my brain immediately ran the whole movie: Sam rolls his eyes, my boss notices, starts micromanaging, I get demoted, the move looks like a mistake, and everything collapses. I'm feeling really overwhelmed by how fast my head jumps there — can we slow down and just sit with this one line a bit longer?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is already writing the script, even before we've sent the message. Let's just sit with this line for a bit longer, and try to understand what's going on.
+
+Can you tell me more about what's happening in that instant, when you say the line out loud? What is it about that moment that feels so intense, like your brain is already predicting the worst?
+
+Take a deep breath, and try to break it down. What's happening in your body? What are your thoughts? Are there any emotions that are standing out? We're just trying to understand this one line, and see if we can find a way to slow it down.
+
+Patient: My chest tightens and my throat goes dry — my hands clench and I feel hot and small, like I want to disappear. The second I say the line my brain spits out the whole disaster movie: Sam's eye-roll, my boss noticing, micromanaging, demotion — it's instant and vivid. Shame hits hard — I feel stupid and exposed, and furious with myself for getting hooked every time; it's exhausting and makes me want to step back. I'm feeling overwhelmed — can we slow down and stay with this one piece a bit longer?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is reacting to the anticipation of that worst-case scenario, and it's creating a sense of physical tension. It's like your brain is on high alert, and your body is responding to that alertness.
+
+Can you try to stay with that physical sensation, and see if you can find any patterns or triggers? For example, where do you feel the tightening in your chest? Is it in your throat, your lungs, or your shoulders? Where do you feel the heat? Is it a spreading warmth, or a specific spot?
+
+Also, try to notice the emotions that are coming up. You mentioned shame, and that's a big one. What does it feel like to be feeling shame? Is it a sharp pain, a dull ache, or a heavy weight? How does it affect your body? Can you feel your chest tightening more, your hands clenching more, when you're feeling shame?
+
+We're not trying to change or fix anything, we're just trying to understand what's happening in this moment. We're just trying to stay with this one piece of the puzzle, and see if we can find any clues.
+
+Patient: Okay — when I try to stay with it the tightening sits right under my sternum and up in my throat, like I can’t take a full breath; my shoulders bunch and my hands clench. Heat rushes to my face and there’s this dull, heavy shame — a weight that makes me feel small and exposed and immediately proves I’m failing in my own head. I get furious at myself for getting hooked by the disaster movie every time, but I’m not sure I follow how just noticing this is supposed to help — how does paying attention stop the domino run? I’m feeling overwhelmed; can we slow down and keep staying with this one piece?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to understand the physical sensations, and how they relate to the emotions, but you're not sure how to connect the dots. That's a great place to start.
+
+Notice how you're using the phrase "disaster movie" - it's like you're already labeling it as a predictable, negative scenario. But what if we try to change that label? What if we start to see it as just a thought, a mental story that you're telling yourself?
+
+When you say "disaster movie", your brain is already predicting a negative outcome, and that's what's creating the physical tension, the shame, the anger. But what if we try to slow down that process? What if we focus on just the thought, without judgment or label?
+
+It's like you're trying to catch a wave, but instead of trying to change the wave itself, you're trying to change the way you're thinking about it. You're trying to notice the wave, and see it for what it is, without getting caught up in it.
+
+Can you try to stay with that one thought, without judgment or label? Just notice it, and see how it feels? We're not trying to change it, we're just trying to understand it.
+
+Patient: I'm not sure I follow — when I try to "just notice" the thought, shame flares and my brain immediately cuts to the disaster movie: Sam rolls his eyes, boss notices, micromanage, demotion, everything collapses. I can feel the tightness under my sternum and my hands clench, and instead of helping, "just noticing" pulls me straight into that script. I'm overwhelmed and frustrated — can we slow even more, like just name the first line my mind says before it fast-forwards?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to "just notice" the thought is actually triggering it, instead of calming it down.
+
+Let's try to take it even further back. When you say "I'm not sure I follow", that's the first line your mind says. Can you just name that line, without judgment or thinking about it too much? It's just "I'm not sure I follow". Can you say that out loud to yourself, just for a moment?
+
+We're not trying to change anything, we're just trying to understand what's happening in this moment. By naming that line, we might be able to see it for what it is, and maybe even find a way to slow it down.
+
+Patient: I said it out loud: “I’m not sure I follow.” The second it left my mouth my sternum tightened, my hands clenched, heat flooded my face and shame hit like a wall — and then, like clockwork, the disaster movie spat out the next scenes. I’m honestly confused about how naming it helps; can we slow way down and maybe have me name the very first image that pops up after that line?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like naming the line "I'm not sure I follow" actually triggered the chain reaction of thoughts and feelings. Let's take a step back even further.
+
+When you say "the disaster movie spat out the next scenes", what's the first image that pops up in your mind? Is it a specific person, a place, a situation? Can you name that image, no matter how small or insignificant it might seem?
+
+We're not trying to analyze or make sense of it yet, we just want to see what shows up. By naming the first image, we might be able to understand what's driving the chain reaction of thoughts and feelings. It's a tiny step, but sometimes it's the smallest step that can help us make progress.
+
+Patient: The first image is my boss in a meeting, eyebrow raised, tapping the table and staring at me while everyone else looks annoyed — my face goes hot and I can already hear the judgment: micromanage, demotion, everything collapsing. It feels exactly like that embarrassing, exposed moment and shame floods me, and I get furious at myself for getting pulled into the whole story so fast. I'm really overwhelmed — can we slow down and just sit with that one image a bit longer?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that image is already triggering a strong emotional response in you. Can you just sit with that image for a moment, without trying to analyze it or change it? Just notice how it's making you feel, without judgment.
+
+Take a deep breath, and try to notice the physical sensations in your body. How is your face feeling? Is your heart racing? Are your muscles tense? Can you feel any changes in your breathing?
+
+We're not trying to change anything, we're just trying to understand what's happening in this moment. By sitting with the image, we might be able to gain some insight into what's driving your emotions and thoughts.
+
+Also, I want to try something different. Can you try to look at that image without judgment? Can you try to see it as just a neutral image, without the emotional charge that comes with it? It's a bit of a weird request, but sometimes it can help us see things in a new light.
+
+Patient: I'm not sure how looking at it "neutrally" helps — my brain refuses to play along. Trying anyway: it's just him in a gray suit, elbow on the table, tapping once, eyebrow up, fluorescent light above. The moment I hold that image it snaps into motion — everyone turns, I flush, he frowns, then micromanaging, demotion, savings gone. I'm feeling really overwhelmed; can we slow down and just stay with that single visual detail for a bit?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is already anticipating the emotional response, and it's not interested in trying to see the image neutrally. That's okay, let's just focus on the visual detail then.
+
+Can you try to focus just on the image of your boss in the gray suit, tapping his elbow on the table, with his eyebrow up and the fluorescent light above? Try to notice the smallest details, like the texture of the suit, the shape of his hand, the angle of his elbow.
+
+Don't try to think about what's happening next, or how you're feeling about it. Just try to hold the image in your mind, without judgment. We can come back to the emotions and thoughts later, if you'd like.
+
+Take a deep breath, and try to stay with that image for just a moment longer. Can you do that?
+
+Patient: I tried, but the moment I focus on the suit the whole scene revs up — my chest tightens under my sternum, my face goes hot, my hands clench, and shame hits like a wall while the disaster movie kicks in. I don't see how holding the image helps; can we slow way down — like just name one tiny neutral detail (the cuff button) and stay there, or have me watch my breath for a bit instead?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is already primed to respond to the image, and holding it doesn't help. Let's try something else.
+
+Can you focus on your breath for a moment? Just watch it move in and out of your body, without trying to think about anything else. It's a simple, neutral thing to focus on, and it might help calm your body and mind.
+
+We can stay with your breath for as long as you need, or whenever you feel ready to move on. No pressure, no expectations. Just the sensation of your breath moving in and out of your body.
+
+Patient: I'm honestly confused — I don't see how just watching my breath will stop the movie. When I try, my breathing goes shallow — tight under my sternum, throat clamps, hands clench — and that old shame flares so fast that instead of calming it just gives my brain more time to fast-forward the worst-case: boss frowns, micromanage, demotion, everything collapses. I can try if you guide me more slowly (count me in, tell me when to inhale/exhale), but I'm feeling overwhelmed — can we slow way down?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to pause a fast-forwarding movie is impossible, and even trying to watch your breath is triggering the same response.
+
+Let's try something even more simple. I want you to focus on the sensation of your feet touching the ground. Yes, your feet. Can you feel the weight of your body distributed evenly on both feet? The sensation of the floor beneath you? No pressure, no expectations. Just the sensation of your feet touching the ground.
+
+We can start with just one breath, and I'll guide you through it. When you're ready, inhale deeply, and then exhale slowly. Let's try that one breath, just one breath. Can you do that for me?
+
+Patient: Okay — I'll try one breath. Inhale now... I feel a tiny bit of weight in my feet, but my sternum's still tight and my throat clamps. Exhale... and of course as I breathe out my brain already jumps to the boss in the gray suit frowning, everyone turning, micromanaging, then demotion and everything collapsing. I'm really overwhelmed — can we slow down and do it again with you counting me through each inhale and exhale?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is already wired to respond to the triggers, and even trying to breathe slowly is no match.
+
+Let's try again, but this time, I'll count you through each breath, and we'll go really slow. Just focus on the sensation of your feet touching the ground, and let's ignore everything else.
+
+Ready? Inhale... 1... 2... 3... 4... 5... You've inhaled. Now, exhale... 1... 2... 3... 4... 5... You've exhaled.
+
+Take a moment to notice how your feet feel. Just notice the sensation. Don't try to think about anything else. We're just going to stay here, with your feet on the ground, and breathe slowly.
+
+Are you ready to try again? Inhale... 1... 2... 3... 4... 5...
+
+Patient: I inhaled to five, but I'm honestly confused — I don't follow how this helps; my sternum's tight, I'm ashamed and furious at myself, and as I try to exhale my brain's already replaying the boss frowning and the demotion. I'm feeling really overwhelmed and skeptical this will change anything. Can you slow way down and guide me through another slow inhale and exhale, counting each step so I can actually follow?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to breathe slowly is no match for the triggers in your mind.
+
+Let's take it even slower. I want you to focus just on the sensation of your breath moving in and out of your body. Don't try to think about anything else. Just the sensation.
+
+Inhale... 1... I want you to take one slow breath in. Just one. 1. Don't try to breathe deeply or hold your breath. Just one slow, gentle breath in. 1.
+
+( pause )
+
+Now, exhale... 1... I want you to take one slow breath out. Just one. 1. Don't try to breathe deeply or hold your breath. Just one slow, gentle breath out. 1.
+
+( pause )
+
+Let's do it again. Inhale... 1... Take one slow breath in. Just one. 1.
+
+( pause )
+
+Now, exhale... 1... Take one slow breath out. Just one. 1.
+
+( pause )
+
+We'll keep going like this, slowly and quietly. Just focus on your breath, and let's see if we can find a way to calm your body and mind.
+
+Patient: I did the breaths with your counting, but the tightness under my sternum won't ease — shame and that hot, embarrassed feeling rush back and my head still fast-forwards to the boss frowning and the demotion. It helps a hair — my feet feel a bit steadier — but the disaster movie revs up as soon as I try to relax. I'm really overwhelmed and skeptical this will change anything; can we slow way down and try something else, like you guiding me through naming one neutral thing in the room while you keep counting?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like no matter how slow we go, the triggers in your mind are always one step ahead.
+
+Let's try something else. I want you to focus on naming one neutral thing in the room. Just one thing. I'll count you through it, and we'll go at your pace.
+
+Can you see the chair in front of you? Take a moment to notice it. What is it made of? Is it a specific color? Let's focus on that chair. Take a deep breath and say the first thing that comes to mind about the chair. I'll count you through it.
+
+1... You see the chair. That's a good start. What is it made of? Is it...?
+
+Patient: It's a gray plastic chair with metal legs, scuffed on the right arm — but the second I look at it that shame floods back and my chest tightens. I'm honestly confused — I don't follow how naming the chair helps, because my brain already edits it into: I'm distracted, boss notices, assumes I'm failing, micromanages, demotion, savings gone. I'm feeling overwhelmed and frustrated; can we slow way down and just stay with the chair for a while without leaping to the next scene?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like no matter how simple the task, your brain is always looking for a way to spiral out of control.
+
+Let's try to stay with the chair, just the chair, for a moment. I want you to focus on the fact that it's a gray plastic chair with metal legs, scuffed on the right arm. Don't think about the boss or the work or anything else. Just the chair.
+
+Take a deep breath and look at the chair again. Can you see the scuff on the arm? Is it a small scratch or a larger chip? Let's try to focus on that scuff for a moment. Can you notice the texture of the plastic? Is it smooth or rough?
+
+I want you to stay with the chair, just the chair, for as long as you need. Don't worry about anything else. We'll take it one small step at a time, and see if we can find a way to calm your mind and body.
+
+Patient: Okay — the scuff is a small whitish scrape on the right arm, rough to the touch, like the plastic’s slightly torn. But the moment I focus on it shame floods in and my brain immediately runs the movie — boss frown, micromanage, demotion — so I’m confused and frustrated and I don’t follow how this helps. I’m feeling really overwhelmed; can we slow way down and do just one tiny step (name the scuff, then pause) with you guiding the pace?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're having trouble disentangling the shame and the scuff, and that's making it hard to focus on the scuff itself.
+
+Let's try to break it down even further. Can you just name the scuff to me? What does it look like? Is it small, or is it a bit bigger? Try to focus just on the scuff, and don't think about the shame or the boss or anything else.
+
+I want you to pause for just a moment after you name the scuff. Just take a deep breath and stay with the scuff. Then, I'll ask you to name it again, and we'll keep going from there.
+
+(Pause)
+
+Take your time, and when you're ready, name the scuff again.
+
+Patient: It's a small whitish scrape, about an inch long on the right armrest — rough, jagged edges. The moment I say that, shame slams in, my sternum tightens, and my head's already fast-forwarding: I'm distracted, boss notices, frowns, micromanages, demotion, everything collapses. I'm honestly confused and frustrated — I don't follow how naming the scuff helps, and I'm feeling overwhelmed; can we slow way down and just pause after I say one tiny detail?

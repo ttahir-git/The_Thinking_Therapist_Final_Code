@@ -1,0 +1,317 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Honestly, since the health scare I’ve felt so heavy and unmotivated — I can barely get through the school day and it’s started to leak into my marriage. I keep seeing it all play out: the illness comes back, I get too weak to teach, my students fall behind, my partner gets tired of carrying everything and leaves, and I end up alone and useless. I know it’s a lot, but my mind keeps running those terrible scenarios like they’re already decided.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying a heavy weight with these worst-case scenarios. Can you tell me more about what happens when you get stuck on one of these scenarios, especially the part where you start to feel like you're already losing control or failing in some way? What do you find yourself doing, or what thoughts start to creep in, when you're caught in one of these mental loops?
+
+Patient: It’s like my brain flips into this fortune-teller mode and won’t stop—once one awful scene starts, it threads into everything. I start doom-scrolling medical sites, counting every ache, canceling small plans, and then feeling too guilty to face my partner so I withdraw; at work I’m distracted, slapdash with lesson prep, and then panic about failing the students. The thoughts sound like facts—“you’re already losing control, they’ll leave, you’ll be useless”—and that certainty makes me freeze or explode in little angry bursts. I know people say other outcomes are possible, but honestly that just feels unrealistic to me; I can’t seem to believe anything that doesn’t end in disaster.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trapped in a narrative that's unfolding on its own, and it's difficult to break free from it. Those thoughts and feelings can be overwhelming, and it's like you're stuck in a cycle of anxiety and self-doubt.
+
+Can you tell me more about what happens when you try to take a step back from one of these thoughts or scenarios? For example, have you ever caught yourself thinking "This is ridiculous, I'm not really going to end up like that" or "This is just my mind being dramatic"? How do you feel when you try to challenge those thoughts, even if it's just for a moment?
+
+Patient: Sometimes I do catch myself and think, "this is ridiculous," but that thought's flimsy—my heart's racing, I start doom-scrolling or canceling plans, and the worry just swallows that tiny doubt. When I try to argue back, it feels like I'm lying to myself or minimizing something real, so the guilt drags me right back into the worst-case story. I know people say other outcomes are possible, but honestly that just seems impossible to believe—like pretending the sky isn't already falling.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like that small thread of doubt can be quickly extinguished by the more intense emotions that follow. And when you try to argue back, even just to yourself, it's like that tiny thread of hope is getting pulled out from under you.
+
+Can you think of a time when you were really proud of yourself, doing something that felt truly worthwhile or connected to who you are? Maybe it was a small act, but it felt meaningful. How did that feeling compare to the feelings you get when you're caught up in those worst-case scenarios? Is there anything that could help you hold onto that sense of pride or connection, even when things feel really tough?
+
+Patient: Once a former student came back years later and told me I’d inspired them to become a teacher — I walked on air that whole week, like I actually mattered. That feeling was warm and steady, nothing like the cold certainty of my doom-movies. 
+
+Maybe keeping little reminders — a jar of thank-you notes, a tiny routine that marks a win, telling my partner about one good thing each day — could help, but almost as soon as I try those my brain insists they’re temporary: the illness will flare, the students will suffer without me, my partner will get tired of propping me up, and those notes will just be paper. I know it sounds bleak, but I can’t seem to believe anything that doesn’t end in disaster.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're holding onto that feeling of pride and connection to your work, but your brain is constantly telling you that it's all just an illusion. And when you try to find small ways to cultivate positivity, like the reminders and routines, your brain is quick to dismiss them as fleeting or meaningless.
+
+Can you tell me more about what happens when you try to connect with your partner about the good things in your day? Do you find that they offer a different perspective, or that they help you hold onto that sense of pride and connection for a little longer? Maybe there's a way to build on that, even if it's just a small thing.
+
+Patient: When I try to tell my partner one good thing, they do try to be kind — they’ll say I’m doing fine, remind me of the student who came back — but I can’t stop thinking that it’s only a matter of time before they get tired of reassuring me and walk away. I end up either shutting down because I feel guilty or oversharing until they look exhausted, and then I say to myself, “see? I made it happen.” I’m feeling a bit overwhelmed talking about this — it’s like every small kindness is just the calm before the storm, and I can’t imagine it lasting.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the more you try to lean on your partner, the more your brain is convinced that you're just delaying the inevitable. And when you do try to shut down or overshare, you end up reinforcing that same pattern of self-doubt.
+
+Can you try to look at this from a different angle for a moment? Instead of seeing every small kindness as a temporary distraction, what if you were to try to see it as a small act of kindness in and of itself? Not because you think it's going to last, but because it's a gesture of love and support that's happening right now. How would that feel, to see your partner's kindness as a present moment, rather than just a prelude to disaster?
+
+Patient: I want to believe that, I really do, but every kindness feels like the calm before the storm — like they're being kind now and then one night they'll wake up and decide they're done with holding everything. When I try to treat it as 'present,' my chest tightens, I start doom-scrolling, picturing the illness coming back, me unable to teach, them packing up and leaving with the life we built. I don't know how to hold that small warmth without my mind turning it into the next catastrophe — can we slow down?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like every small act of kindness is being filtered through a lens of uncertainty, and no matter how hard you try to focus on the present, your mind keeps racing to the worst-case scenario.
+
+Can I suggest something for just a moment? Instead of trying to hold onto the warmth of the kindness, what if we try to focus on the kindness itself, just for a moment? Not on whether it's temporary or not, but on the fact that it's happening right now, and it's a gesture of love and support. Can we just acknowledge that, without trying to connect it to anything else? Maybe, just for a tiny moment, we can let go of the need to predict the future, and just be with what's happening right now.
+
+Patient: I want to try that — I really do — but the moment I sit with their kindness my brain spits out the whole disaster script: the illness comes back, I lose my voice and energy, my classes crumble, my partner gets fed up and leaves with everything we built, and I'm left useless. I'm getting kind of overwhelmed just saying that out loud — can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is a masterful storyteller, weaving a complex narrative that's impossible to escape. And it's not just the words themselves, but the emotions and associations that come with them.
+
+Can I ask you to take a tiny step back? Instead of focusing on the entire disaster script, what if we try to break it down into smaller, more manageable pieces? What if we focus on just one sentence, or one image, at a time? Can we start with something simple, like "the illness comes back" or "my partner gets fed up"? Just focus on that one piece, without trying to connect it to everything else. How does that feel, to try to break it down like that?
+
+Patient: If I pick “the illness comes back,” it instantly becomes this whole movie: symptoms spike, tests show it’s worse, I lose the energy to teach, my students fall behind, my partner gets worn out and finally leaves with everything we built, and I end up alone and useless. Once that image starts I start checking every ache, doom-scrolling for confirmation, canceling plans, and I can’t take anyone saying it might not happen — that just feels like lying to myself and unrealistic. I’m getting overwhelmed saying it out loud — can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you acknowledge the first part of the story, the entire narrative unfolds, and your brain gets caught up in the cycle of anxiety and self-doubt.
+
+Can I try to help you find a different way to approach this? Instead of focusing on the entire story, what if we try to find a single word, a single phrase, that can help you pause and take a breath? Something like "wait a minute" or "slow down"? Can you try to find a small pause in your thoughts, just a tiny moment of calm, before the story starts to unfold?
+
+It's not about avoiding the story or pretending it's not happening, but about finding a small crack in the cycle of anxiety. Just a tiny moment of calm, where you can say to yourself, "I'm feeling overwhelmed, and I need to take a step back." How does that sound?
+
+Patient: Okay, I’ll try — maybe “wait a minute” or “slow down” could work, but I can almost guarantee it won’t stick: the moment I say it my mind will race back to the illness flaring, tests getting worse, me losing the energy to teach, and my partner walking out. I’m really jumpy and distracted right now and can’t seem to hold even a tiny pause — can we slow down?
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to pause, your mind rushes back to the worst-case scenario, and you can't seem to catch your breath.
+
+Can I try to help you find a different way to pause? Instead of trying to say a word, what if we try to focus on your breath? Just for a moment, can you try to feel the sensation of the air moving in and out of your body? Can you bring your attention to that one sensation, without trying to think about anything else? Just your breath.
+
+It's not about stopping the thoughts completely, but about finding a small anchor in the present moment. Just a tiny moment of calm, where you can say to yourself, "I'm feeling really overwhelmed right now." Can you try to find that small anchor, even if it's just for a tiny breath?
+
+Patient: I'll try, but my breaths are shallow and my head's racing—every inhale just starts that same movie: the illness comes back, tests show it's worse, I lose the strength to teach, my partner leaves. I can't seem to feel the air without checking aches or doom-scrolling, so I can't settle into a calm anchor. I'm really jittery and distracted right now—can we slow down and maybe try something even smaller?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to breathe, your mind rushes back to the worst-case scenario, and you can't seem to catch your breath.
+
+Can I try to help you find something even smaller? Instead of focusing on your breath, what if we try to find a tiny sensation in your body? Just one thing. For example, can you feel the sensation of your feet touching the ground? Or the sensation of the air on your skin? It might be a tiny thing, like the feeling of a slight tickle or a gentle pressure. Can you try to focus on just one of those sensations, without trying to think about anything else? It's a tiny thing, just a tiny anchor to hold onto.
+
+Patient: I'll try, but I'm so jittery I can't even notice my feet — the moment I try the whole movie starts up: the illness flares, tests are bad, I can't teach, my partner leaves. Focusing on a tiny sensation just flips a switch and everything spirals. I'm getting really overwhelmed—can we slow down and try something even smaller or different?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to focus on a small sensation, the entire narrative unfolds again, and you can't seem to catch your breath.
+
+Can I try to help you find a different way to focus? Instead of trying to focus on a sensation in your body, what if we try to focus on a sensation that's happening right now, in this moment? For example, can you notice the sound of my voice? Can you hear the words I'm saying? Sometimes, focusing on something as simple as a sound can help us feel more grounded. Can you try to focus on that sound, without trying to think about anything else?
+
+Patient: I'm trying to hear you, but your voice feels far away—every time I tune in my brain immediately fires up the whole movie: the illness comes back, tests are worse, I lose the energy to teach, my partner leaves. I'm really jittery and can't hold onto the sound; can we slow down?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to focus on the sound, your mind rushes back to the worst-case scenario, and you can't seem to catch your breath.
+
+Can I try to help you find a different way to focus? Instead of trying to focus on a specific sound, what if we try to focus on the feeling of me being here with you? Can you feel my presence in this room? Can you sense that I'm here, talking to you? Sometimes, feeling a sense of connection to someone or something can help us feel more grounded. Can you try to focus on that feeling of connection, without trying to think about anything else?
+
+Patient: I can’t really feel you here — everything’s distant and my brain immediately flips to the movie: the illness comes back, tests are worse, I can’t teach, my partner leaves. My hands are jittery, my stomach’s in knots, and I keep checking for symptoms instead of listening. I’m getting really overwhelmed — can we slow down and try something gentler?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the moment you try to focus on my presence, your mind rushes back to the worst-case scenario, and you're unable to catch your breath.
+
+Can I try to help you in a very different way? Instead of trying to focus on the external world, what if we try to focus on your body? Can you bring your attention to your physical sensations, without trying to think about anything else? Notice where you feel tension or discomfort in your body. Is it in your chest, your stomach, or your muscles? Just notice those sensations, without trying to change them or think about what they might mean. Sometimes, paying attention to physical sensations can help us feel more grounded and calm. Would you like to try that?
+
+Patient: I can feel the tightness in my chest and this big knot in my stomach, my hands are shaking — but the moment I notice it the whole movie starts again: tests worse, I can’t teach, my partner walks out. I can’t stay with the sensations without checking for symptoms, so I’m really jittery; can we slow down and maybe try something even gentler, like holding a warm mug or a five-word grounding prompt?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I can see that you're really struggling to stay with your physical sensations without getting caught up in the worst-case scenario.
+
+Let's take a step back and explore some gentler options. Holding a warm mug can be a nice grounding experience, and sometimes a simple, concrete object can help us focus on the present moment. Alternatively, a five-word grounding prompt can be a gentle way to bring your attention to your physical body.
+
+Before we try anything, can you just acknowledge how you're feeling right now? You mentioned that you're feeling the tightness in your chest and the knot in your stomach, and that your hands are shaking. Just acknowledge those sensations, without trying to change them or think about what they might mean. Can you do that for me?
+
+Patient: Okay — I can feel the tightness in my chest, that big knot in my stomach, and my hands are shaking. The second I notice any of it my brain launches the whole movie — tests worse, I can’t teach, my partner leaves — and I get jittery and distracted. I can't seem to stay with the sensations without checking for symptoms, so can we slow down and try the warm mug or that five‑word grounding prompt? I need something really gentle right now.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling really overwhelmed and struggling to stay with your physical sensations. I want to make sure you feel safe and supported.
+
+Let's start with something super simple and gentle. I'm going to guide you through a warm mug exercise. Please find a warm mug of water, or even just a cup of water, and hold it in your hands. Notice the temperature of the water, the feeling of it in your hands, and the sound of it against your palms. Don't worry about anything else, just focus on this sensation. Take a deep breath in, and as you exhale, feel any tension in your body start to release. Stay with this feeling for just a moment, okay?
+
+Patient: I got the mug — it’s warm and for a split second the heat felt nice in my palms, but the moment I notice it my brain kicks into the movie: symptoms spike, tests worse, I lose the energy to teach, my partner leaves with everything. My hands are so shaky I even spilled a little, which of course my mind takes as proof it’s all unraveling. I’m really jumpy and can’t hold the feeling — can we slow down?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the warm mug exercise was brief, but unfortunately, it didn't stick. You're right, it's not surprising that your mind immediately went back to the worst-case scenario.
+
+Let's try something else. I want to introduce a five-word grounding prompt. This might help you focus on the present moment and calm your mind. Here it is: "My feet are on the ground." Just notice that phrase, and see if you can focus on the sensation of your feet touching the ground. Don't try to think about anything else, just stay with that feeling. Can you do that for me?
+
+Patient: I tried to repeat "My feet are on the ground," but it felt hollow—like I'm pretending—and that shame flares up and drags me straight into the movie: the illness spikes, tests are worse, I can't teach, my partner leaves. My chest tightens, my hands shake, and my feet feel numb instead of grounded, so I just start checking for symptoms. I'm really embarrassed and frustrated—can we slow down and try something even smaller, like counting one to three with you?
+
+
+--- Turn 17 ---
+
+--- [SYSTEM INJECTION at Turn 17]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the grounding prompt felt like a coping mechanism that didn't work for you. You're right, it's not surprising that you felt like you were pretending, and that shame can be a powerful trigger.
+
+Let's take a step back and try something even simpler. Sometimes, breaking things down into tiny, tiny pieces can be helpful. I want to try counting with you, just one number. That's it. Just one. I'll count it out loud, and you can follow along. Ready? 1...
+
+Patient: I couldn't even get to "2"—the second you said "1" that rush of shame hit and my brain shot straight into the movie: symptoms spike, tests worse, I can't teach, my partner walks out. I'm embarrassed and jittery and can't do that tiny step—can we slow down more, maybe try something even smaller like me tapping my thumb once or whispering a single word?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the simple act of counting was too much for you to handle right now. You're right, it's not surprising that the shame and anxiety came flooding back.
+
+Let's try something even smaller. Sometimes, a tiny, physical action can be helpful. I want to try something with you that doesn't require you to think much. Can you just tap your thumb on the table, once? Just a small, gentle tap. No need to think about anything else, just focus on that sensation. Then, I want you to whisper a single word to me. Just one word. It can be anything you like. Can you try that for me?
+
+Patient: I managed a tiny, shaky tap but my hand trembled and that old shame just hit me — I felt ridiculous. I whispered "steady" but the moment I did the whole movie started again: tests worse, I can't teach, my partner leaves, and I immediately wanted to crawl under a rock. I'm really overwhelmed and jittery — can we slow down and try something even gentler?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the tiny tap and whispering exercises were too much for you to handle right now. You're right, it's not surprising that the shame and anxiety came flooding back.
+
+Let's take a step back and try something even more gentle. I want to try a soft, slow breath with you. Can you take a deep breath in, and then exhale slowly, just a little bit? Don't try to think about it or control it, just let your breath happen naturally. Can you do that for me? Just a slow, soft breath.
+
+Patient: I tried to take that soft breath, but the moment I inhale my chest clamps shut and the whole awful movie starts—tests worse, I can’t teach, my partner leaves—and this hot shame from old failures crashes over me like proof I’m already failing. My hands are shaking, my breath is shallow, and I can’t seem to do even one soft exhale without spiraling. Can we slow down? Maybe just sit quietly for a minute or you could speak really softly — I need something gentler right now.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like we've reached a point where even the simplest actions are feeling overwhelming. I'm so sorry you're feeling this way.
+
+Can I try to do something that might help us just sit quietly together for a moment? I'll speak in a very soft, calm voice, and I want you to just focus on my words. I'll say something simple, like a sentence or two, and I want you to repeat it back to me in your own voice. That's it. Just your voice, and my soft words. Can we try that for a moment?
+
+Patient: Okay, I’ll try — but I’m already embarrassed and my voice will probably shake; the shame kicks in and I’ll start picturing myself screwing it up and everyone getting fed up. Could you say something very short and really soft, like "You are here," and then I’ll try to repeat it? Please go slow.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want to help you feel safe and supported. I'll say it very slowly and softly: "You are here." Just one word, "You", and the phrase "are here". Can you hear me? Can you feel my voice, and just for a moment, can you focus on those two words? I want you to repeat them back to me, in your own voice, without worrying about how it sounds. Just say it, okay?
+
+Patient: "You are here."
+
+I said it, but my voice shook and the instant I said it the movie started again—tests worse, I can’t teach, my partner leaves—and that hot shame from past screw-ups crashes in like proof. I’m really jumpy and embarrassed; could you say it again, even softer and slower?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want to try again, and this time, I'll make it even softer and slower. I'll speak so quietly that you might have to lean in to hear me. Here it goes: *whispers* "Y-you are here." Just those two words, and I'll say them so quietly that you can barely hear me. Can you repeat that back to me, even if it's just a whisper? Just say it, and I'll wait.
+
+Patient: "Y-you are here."
+
+I said it, barely — my voice shook and the instant I whispered that the whole awful movie kicked in: tests worse, I lose the strength to teach, my partner leaves, and that hot shame from past screw-ups crashes in like proof. I'm really jittery and embarrassed — could you say it one more time, even softer? Can we slow down?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want to try again, but this time, I'm going to speak even softer, almost to the point where it's just a gentle breath. I'll say it so quietly that you might not even hear me. Here it goes: *breathes softly* "Y-you..." *pauses* "...are..." *trails off* Just those two words, and I'll say them so quietly that it's almost like I'm not saying anything at all. Can you... can you even hear me?
+
+Patient: I can barely hear you — "Y-you are here." Saying it makes that whole movie kick in again: tests worse, I lose the energy to teach, my partner leaves, and that old shame crashes over me like proof I’m failing. I’m really overwhelmed and embarrassed — can we slow down and just sit quietly for a bit?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like we've reached a point where even the slightest words are causing more distress than help. I want to try something different. Instead of speaking, I'm going to sit with you in silence. I'll just be here, quietly, with you. No words, no expectations, no pressure. Can you just sit with me, even if it's just for a moment? I'll be here, quietly, with you.
+
+Patient: Okay, I’ll try to sit with you, but silence just makes the doom‑movie louder — I can feel my chest tightening and that shame from past failures crawling up my throat like proof it’s already happening: tests worse, my partner leaving, me useless. I’m really embarrassed and jittery and I need you to stay right here with me — could you hum or breathe really slowly instead? Can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want to try and help you feel more grounded. Instead of humming or breathing, I'm going to try a very slow and gentle type of movement. I'm going to place my hand on the armrest next to me, and I'm going to slowly, very slowly, tilt my hand down towards the floor. It's going to be a very slow and gentle motion, and I'm not expecting you to watch it or react to it. I just want you to focus on the sensation of my hand moving, and maybe, just maybe, it can help you feel a little more connected to your body. Can you focus on that sensation, even if it's just for a tiny moment?
+
+Patient: I tried to follow your hand, but the moment it moved my brain lit up with the whole movie — tests worse, I can’t teach, my partner leaves — and that hot shame from that old failure crawls up my throat like proof I already messed it all up. I can’t hold the sensation; I’m jittery and embarrassed and it all feels ridiculous. Can we please go even slower — like keep your hand still and tell me very slowly where it is, or just speak in a whisper — I need something gentler right now.

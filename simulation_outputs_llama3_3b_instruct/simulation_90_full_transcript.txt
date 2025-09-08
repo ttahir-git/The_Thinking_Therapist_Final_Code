@@ -1,0 +1,363 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been preoccupied with a pervasive sense of stasis—at this stage in my life and career as a data scientist, my identity feels overly tethered to professional metrics, and I don't really know what else matters. I tend to intellectualize the problem, generating probabilistic models and causal diagrams to explain my disengagement instead of actually sitting with sadness or uncertainty. My social interactions are sparse and anxious, which just reinforces the directionlessness, but I tend to frame it as an analytical conundrum rather than a felt experience.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+Your core emotion seems to be disorientation and confusion, stemming from feeling disconnected from your true values and identity beyond professional metrics. I identify one specific theme: you're struggling to make a meaningful transition from a primarily analytical approach to acknowledging and exploring your emotional experiences, such as sadness and uncertainty. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Can you think of a time when you're sitting with a data point or model that doesn't yield a clear answer, and instead of getting anxious or seeking more data, you simply allow yourself to feel the uncertainty? What would be the sensations in your body or emotions if you sat with that discomfort, rather than trying to analyze it away?
+
+Patient: If I actually let it be a sensation, I think I'd feel a dull tightness in the chest, a low buzzing in the stomach, maybe a slight coldness in the fingers and a kind of temporal sluggishness—like everything is moving in a wider confidence interval. But my reflex is to reframe it as a Bayesian problem—higher variance, lower posterior certainty—because that analytic narrative keeps the rawness at bay. When I try to stay with it, I catch myself immediately generating hypotheses and action items instead of describing the feeling.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+You're acknowledging the physical sensations and attempting to step away from reframing it as a problem to be solved, which indicates a willingness to explore. However, the automatic shift to generating hypotheses and action items suggests that the thought pattern of seeking solutions is still deeply ingrained. 
+Goal: 
+Connect this pain to an underlying value.
+
+Therapist Answer:
+It sounds like the feeling of disorientation and the physical sensations you described are connected to a deeper sense of disconnection and loss of purpose. Can you think of what matters most to you in life, something that gives you a sense of direction and fulfillment? What would happen if you were to prioritize that value over the need to analyze and solve problems?
+
+Patient: If I try to be candid, what matters most feels like connection and meaning beyond the next model—mentoring a younger person, contributing something that helps others, and following curiosity for its own sake rather than as a performance metric. Prioritizing those would mean shifting time and identity away from optimization toward ambiguous, low-ROI things; that would probably feel liberating in that my self-worth wouldn't be so instrumentally tied to output, and terrifying because it requires epistemic humility and tolerating failure. I'm already uncomfortable imagining it—my reflex is to build decision trees and expected-utility calculations instead of actually stepping into the vulnerability, and I can feel the urge to retreat into analysis.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+You've identified a value-driven aspect of yourself that's not currently being prioritized, and the desire to connect with it feels both exciting and terrifying due to the potential loss of control and perceived value tied to performance. The automatic reaction to build decision trees and expected-utility calculations suggests that your analytical mindset is closely tied to your sense of self-worth. 
+Goal: 
+Gently challenge the workability of this strategy.
+
+Therapist Answer:
+Can you think of a small, low-stakes situation where you could practice being more present and open to uncertainty, without feeling like you need to be in control? For example, what if, while waiting in line, you allowed yourself to simply be with the sensation of the line moving at its own pace, rather than mentally planning your day or mentally preparing for the task at hand?
+
+Patient: Yeah—I'm thinking of a micro-experiment: next time I'm in a checkout line I'll intentionally interrupt the default narrative-building and do five slow breaths, anchor to sensations in my chest and the pressure of my feet, and let myself track whatever comes up for sixty seconds without proposing a solution. I'll still treat it like data in a way—rate my anxiety 0–10 before and after and note whether I slip back into analysis—but I can already see the paradox: metricizing the exercise is a safety strategy that keeps control. It feels both petty and threatening—like I'm admitting that being unproductive for a minute might actually matter—and that discomfort is hard to sit with.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+You're recognizing the paradox of trying to practice mindfulness without being too attached to the outcome, and acknowledging that the act of measuring and rating your anxiety is a way to maintain control. You're also hinting at the underlying discomfort of admitting that being unproductive might be valuable in itself. 
+Goal: 
+Introduce willingness as an alternative to struggle.
+
+Therapist Answer:
+That's a great insight. It's almost as if you're trying to be willing to be a little uncomfortable, and that discomfort can be a gateway to a more authentic experience. Would you be willing to take a small step further and not only observe your anxiety but also acknowledge the desire to avoid it, without trying to change it or label it as "good" or "bad"? Can you simply be with the presence of that desire, without judgment?
+
+Patient: I can notice the desire to avoid—it's almost instantaneous, like a prior pulling my posterior toward certainty—so yeah, I can name it without labeling it as good or bad. Physically there's that chest tightness and a mild nausea, but my reflex is to convert even that into an explanatory model instead of just feeling it. I'm trying to let it be there without intervening, but it's uncomfortable; can we slow down a bit so I don't immediately start problem-solving?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+You've successfully identified the desire to avoid and are working to observe it without judgment, but still finding it challenging to let go of the need to explain or understand the experience. The physical sensations, such as the chest tightness and nausea, are still being reframed as something to be explained rather than simply felt. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's slow down further. Can you take a deep breath and, without trying to change or label anything, simply ask yourself: "What is this sensation right now, exactly, without trying to make sense of it?" Not "What is causing it?" or "Why am I feeling this?" but simply "What is it, exactly?"
+
+Patient: Okay—I'm trying. Right now it's a dull, diffuse pressure across my chest, my breaths are a bit shallow and clipped, there's a low buzzing in my stomach like a loose knot, and my hands feel cool and slightly tingly. Immediately my mind wants to tag that as "heightened arousal, posterior probability ~0.7 of anxiety"—which I can feel functioning as a protective scaffold. I'm attempting to hold the raw sensations without narrating them, but that impulse to analyze is very loud; can we stay with this a little longer so I don't just intellectualize it away?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+You're doing a great job of acknowledging the physical sensations and attempting to keep them from being narrated or analyzed. The protective scaffold of anxiety labeling is still present, but you're aware of its influence. You're recognizing the desire to intellectualize as a strong impulse, and that's giving you a chance to catch yourself. 
+Goal: 
+Connect this process to an underlying value.
+
+Therapist Answer:
+Let's keep exploring this a little longer. Can you try to find a tiny, almost imperceptible thread of attention that's not about the anxiety or the sensations, but about the act of simply holding them? Is there a sense of curiosity, or interest, or openness, that's present, even if it's very subtle?
+
+Patient: Yeah—there is a faint thread, like a small, neutral noticing rather than an explanatory itch: a tiny warmth behind the sternum and a slight unclenching in the stomach when I actually pay attention. It's weak, maybe a 1/10, and my reflex is to quantify it, but if I don't label it it feels like a tiny aperture of receptivity—curiosity that isn't trying to solve anything. Can we linger with that for a moment so I don't immediately turn it back into a metric?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+You've uncovered a small, neutral noticing that's not driven by a desire to analyze or understand, but rather a sense of openness and receptivity. This is a tiny crack in the armor of your analytical thinking, and it's worth exploring further. The faint warmth behind the sternum and slight unclenching in the stomach are subtle signs of a potential shift in your physiological response. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's linger with this small aperture of receptivity for a moment. Can you simply acknowledge the warmth behind the sternum and the slight unclenching in your stomach, without trying to understand their cause or significance? Just allow them to be, as they are, without judgment or interpretation.
+
+Patient: Okay—I'm acknowledging it: a faint warmth behind the sternum and a small unclenching in the stomach. It feels oddly stabilizing, like a micro-adjustment in my baseline anxiety, and my instinct is to translate that into metrics or hypotheses, but I'm resisting that urge. It's disconcerting to sit with it without a causal model—can we stay with this a bit longer? I'm trying, but it's hard.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+You're resisting the urge to translate the subtle change in your physiological response into a model or hypothesis, which is a significant step forward. The sense of stabilization and the feeling of a "micro-adjustment" in your baseline anxiety is a promising sign of a potential shift in your emotional state. The discomfort of sitting with the uncertainty is understandable, but it's also an opportunity to explore the possibility of a new way of being. 
+Goal: 
+Introduce willingness as an alternative to struggle.
+
+Therapist Answer:
+Let's stay with the stability for a moment longer. Can you imagine that the warmth behind your sternum and the unclenching in your stomach are simply existing, as they are, without trying to change or improve them? What would happen if you were to accept them, not as a goal, but simply as a fact of your current experience?
+
+Patient: If I accept them as facts, the immediate consequence is a slight attenuation of the predictive churn—the compulsion to generate hypotheses loses some of its fuel, and that dull chest-tightness might downshift by, say, a perceptible margin. Conceptually it suggests a reallocation of identity currency from purely instrumental metrics to relational and curious pursuits, which is appealing in theory but also profoundly destabilizing in practice; I feel a spike of resistance and a reflexive urge to retreat into analysis to feel safe. Can we hold that destabilization for a bit longer? I’m trying not to turn it into another model right away.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You're exploring the potential benefits of accepting the subtle change in your physiological response, including the attenuation of the predictive churn and the potential reallocation of identity currency. However, you're also acknowledging the destabilizing effects of this shift, which is a crucial recognition. The reflexive urge to retreat into analysis to feel safe is a common response to uncertainty, and it's essential to acknowledge and explore this impulse. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's hold the destabilization for a bit longer. Can you simply acknowledge the spike of resistance and the urge to retreat into analysis, without trying to change or understand it? Notice the sensation of tension in your body, the thoughts that are arising, and the desire to return to the familiar comfort of analysis. Allow this sensation to be present, without judgment or interpretation.
+
+Patient: I can feel that spike—tightness across my chest and shoulders, breath getting shallow, a knot in my stomach, and a hot, embarrassed flush that makes my face and thoughts go critical. Almost instantly I get that self-reproach—"you should've known better," "this proves you're failing"—and that shame fuels the urge to disappear into analysis because it's safer than feeling exposed. I'm trying to just notice the tension and the impulse to fix it, but it's hard; can we stay with this a little longer so I don't immediately default to problem-solving?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+You're recognizing the immediate response to the spike of resistance, including the self-reproach and shame. This is a critical moment, as it highlights the powerful role of self-judgment in driving your behavior. The urge to disappear into analysis is a common coping mechanism, but it's also a way to avoid the discomfort of feeling exposed. By staying with the tension and the impulse to fix it, you're creating space to explore the underlying values and assumptions that drive your behavior. 
+Goal: 
+Gently challenge the workability of this strategy.
+
+Therapist Answer:
+Let's stay with the tension for a moment. Can you try to notice the thought "I should've known better" without judgment, without trying to change it or dismiss it? What if, instead of trying to fix the feeling or thought, you simply allowed it to be present, without trying to evaluate it or judge it? What would happen if you gave yourself permission to be with this thought, without trying to change it?
+
+Patient: When I notice "I should've known better" it immediately lights up this hot, corrosive shame—my chest tightens, my face heats, and my inner monologue gets snarky and punitive. Almost reflexively I translate that into an error-analysis: higher estimated likelihood of incompetence, update the priors, run counterfactual simulations—anything to dodge the raw embarrassment. Right now there's a jittery anxiety making me jumpy and distracted, and I'm frustrated with myself for defaulting to analysis instead of just sitting with the feeling; can we slow down so I don't slide back into problem-solving?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+You're recognizing the swift and powerful response of shame, and how it triggers an error-analysis to avoid feeling embarrassed. This is a classic example of the "discomfort-driven problem-solving" pattern, where you're trying to solve the emotional discomfort by analyzing and fixing it. You're also acknowledging the frustration with yourself for falling back into this pattern. Slowing down is essential here, as it allows you to explore the underlying dynamics driving this behavior. 
+Goal: 
+Connect this process to an underlying value.
+
+Therapist Answer:
+Let's slow down further. Can you try to notice the feeling of frustration with yourself, without trying to change it or evaluate it? What if, instead of judging yourself for defaulting to analysis, you simply allowed the feeling to be present, without trying to fix it? What would happen if you gave yourself permission to be with this feeling, without trying to change it? Notice the physical sensations in your body, like the jittery anxiety and the tightness in your chest, and see if you can find a sense of curiosity about what's happening in this moment, without trying to solve it.
+
+Patient: I notice the frustration—it's a hot, tight pressure across my chest, breath shallow, a jittery restlessness in my hands, and that loop of self-reproach ("I should've known better") that makes my thoughts go punitive. There's a tiny thread of curiosity if I really look, but it's faint and being crowded out by anxious hypervigilance and shame, so my reflex is to flee into analysis to feel less exposed. Can we slow down and hold this a bit longer? I'm finding it hard to stay present without immediately turning it into a problem to fix.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You're doing a great job of noticing the physical sensations and the self-reproach, and acknowledging the faint thread of curiosity that's trying to emerge. The fact that the curiosity is being crowded out by anxious hypervigilance and shame is a crucial insight, as it highlights the powerful role of emotional regulation in shaping your experience. Slowing down and holding the tension is essential to explore this further. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's slow down even further. Can you try to notice the feeling of shame, not as a message to be fixed or changed, but simply as a fact of your experience, like the sensation of your feet touching the ground or the sound of your breath? Can you allow the shame to be present, without trying to evaluate it, without trying to fix it, without trying to change it? Simply be with it, as it is, without judgment or interpretation. Notice the tiny thread of curiosity that's trying to emerge, and see if you can gently coax it to the surface, without trying to grab onto it or change it.
+
+Patient: I notice the shame as a hot, corrosive pressure across my chest and a punitive inner monologue—“you should’ve known better”—that clamps my breath and sets my hands jangling. My reflex is to convert it into error-analysis—posterior updates and counterfactuals—to make it epistemically tractable, which just fuels my frustration and makes the shame louder. There is a very thin curiosity—an aperture of “what if”—but anxiety is siphoning its energy; can we hold this a bit longer without me defaulting to problem-solving? I’m trying, but I’m getting jumpy and distracted.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+You're recognizing the intense, corrosive nature of the shame, and how it triggers an error-analysis to try to make sense of it. This is a classic pattern of "emotional contamination," where the emotional experience is being used to try to understand it, rather than being allowed to simply be present. The thin thread of curiosity is trying to emerge, but anxiety is aggressively suppressing it. Slowing down is essential to explore this further and find a way to hold onto the curiosity. 
+Goal: 
+Introduce willingness as an alternative to struggle.
+
+Therapist Answer:
+Let's hold the shame as a fact of your experience, without trying to change or evaluate it. Can you try to simply be with the feeling of frustration that's arising, without trying to fix it or make sense of it? Notice the physical sensations in your body, like the clamping breath and jangling hands, and see if you can find a sense of acceptance for them, without judgment. What would happen if you allowed the shame to be present, without trying to analyze or change it? Would you feel more grounded, or would you still be jumpy and distracted?
+
+Patient: If I allow the shame to sit, there's a small, almost imperceptible shift toward grounding—my chest loosens a notch and my breath lengthens a bit—but it's fragile. At the same time the punitive loop ("you should've known better") still spikes and my hands stay jittery, so I end up both a little steadier and more acutely exposed, which keeps me jumpy and distracted. I don't know—I'm frustrated with myself for defaulting to analysis instead of staying with it; can we stay here longer so I don't just escape into problem-solving?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+You're experiencing a small but significant shift in your physical sensations, with the chest loosening and breath lengthening, but the punitive loop is still present, keeping you jumpy and distracted. This is a classic example of the "inconsistent self" - you're aware of the shift, but your self-reproach is still holding you back. Slowing down and exploring this inconsistency is essential to understand what's really going on. 
+Goal: 
+Connect this process to an underlying value.
+
+Therapist Answer:
+Let's stay with the inconsistency for a bit longer. Can you try to notice the tension between the shift toward grounding and the spike in self-reproach? What would happen if you allowed both to coexist, without trying to reconcile or resolve them? Notice the words "I'm frustrated with myself" - what's the value that's driving that feeling? Is it a desire to be more grounded, or is it a fear of not being able to handle the shame?
+
+Patient: I think it's both: there's a value cluster—competence, reliability, epistemic integrity—that's pushing the frustration because I want to feel grounded and capable rather than adrift. But there's an equally strong fear of exposure and incompetence—if I can't "solve" the shame, the punitive voice spikes ("you should've known better") and my chest tightens and my hands go jittery. So I oscillate between wanting to be more present and retreating into analysis to avoid feeling fallible; can we stay with that tension a bit longer so I don't just default to problem-solving?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+You've uncovered a complex interplay of values and fears driving your behavior. The desire for competence, reliability, and epistemic integrity is pushing you to avoid feelings of exposure and incompetence, but the fear of those feelings is also driving your retreat into analysis. This is a classic example of the "value-action conflict" - your values are pulling in different directions, making it hard to know which way to go. Slowing down and exploring this tension is essential to understand what's really going on. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's stay with the tension between the desire to be present and the fear of exposure. Can you try to notice the sensation of your body, without trying to change or evaluate it? What would happen if you allowed the fear of exposure to be present, without trying to analyze it or fix it? Notice the words "I'm afraid of being incompetent" - what's the value that's driving that fear? Is it a desire to be seen as competent, or is it a deeper fear of being vulnerable?
+
+Patient: It's both. On the surface it's a desire to be seen as competent—my professional identity is so entangled with competence that incompetence reads like an existential downgrade—but underneath that is a deeper fear of vulnerability and social exposure that activates old shame. Physically my chest tightens, my face heats, my hands jitter, and my mind immediately reaches for error-analysis as an epistemic refuge. Can we hold that for a bit so I don't just default to problem-solving?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+You've uncovered the deep-seated fears and insecurities driving your behavior, and how they're tightly linked to your professional identity and sense of self-worth. The physical and mental sensations you're experiencing are a testament to the intense emotional response to these fears. Slowing down and exploring this response is essential to understand what's really going on. 
+Goal: 
+Connect this process to an underlying value.
+
+Therapist Answer:
+Let's hold the tension for a bit longer. Can you try to notice the sensation of the shame and fear of vulnerability, without trying to change or analyze it? What would happen if you allowed these feelings to be present, without trying to evaluate or fix them? Notice the words "I'm afraid of being vulnerable" - what's the value that's driving that fear? Is it a desire to be seen as strong and capable, or is it a deeper desire for connection and intimacy?
+
+(Note: This is the final question for this session. We can take a break and reflect on your progress if you'd like.)
+
+Patient: Both, I think—on the surface it's a drive to be seen as strong and competent (my professional identity is almost my default self-concept), but underneath that punitive voice is a deeper longing for connection and intimacy that I don't trust vulnerability to deliver. When that deeper longing shows up it feels existentially unsafe—so shame spikes, my chest clamps, my thoughts go punitive, and I retreat into analysis as an epistemic refuge. I'm anxious and jumpy right now and frustrated with myself for slipping into that pattern, and I'm not ready to stop—can we keep sitting with the vulnerability piece a bit longer and maybe look at one tiny behavioral experiment that doesn't require me to perform competence?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+You've beautifully uncovered the complex interplay of values and fears driving your behavior, and how they're tightly linked to your sense of self-worth. The fact that you're willing to continue exploring this vulnerability is a significant step forward. The existential unease you're feeling is a natural response to the potential exposure of your deeper longings, but it's also an opportunity to develop a new way of relating to these feelings. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's keep sitting with the vulnerability. Can you think of a small, everyday situation where you might feel like you're not performing competence, but where you could still be present and vulnerable without needing to prove yourself? For example, what if you're running late for a social engagement and you're worried you'll be late, but you could still be present with the anxiety and uncertainty, rather than trying to solve it or apologize for it? What would happen if you allowed yourself to feel the anxiety, without trying to fix it or change it?
+
+Patient: A concrete micro-situation might be: running five minutes late to a casual coffee with an acquaintance—low stakes, no need to perform expertise. If I allowed myself to feel the anxiety instead of rationalizing, I'd notice the chest clamp, queasy stomach, and that nasty punitive thought—“you should’ve known better”—surfacing, and my reflex would be to launch into explanations; if I simply stayed with it I suspect the predictive churn would downshift slightly and I might feel a modest easing. A tiny experiment: intentionally arrive five minutes late, do five slow breaths in the car, and either say nothing about the lateness or offer a very brief, non-defensive comment (“thanks for waiting”) and note my anxiety before/after. Can we role-play that briefly so I don't immediately convert it into another problem to solve?
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've identified a concrete micro-situation that could be a good starting point for practicing this new skill. By allowing yourself to feel the anxiety without trying to rationalize or fix it, you may be able to develop a sense of curiosity and openness that can help you navigate similar situations in the future. The role-playing exercise you proposed is a great way to practice this skill in a low-stakes environment. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's do a brief role-play. Imagine yourself arriving five minutes late to the casual coffee meeting. Take a few deep breaths in the car, and as you get out, simply acknowledge the feeling of anxiety without trying to analyze or fix it. When you arrive, offer a brief, non-defensive comment, and then notice your anxiety before and after. Don't worry about the outcome or the conversation - just focus on the process of being present with your feelings. Let's take a few seconds to imagine this scenario and get into the mindset before we begin. 
+
+(Note: This is the end of the session. We've made great progress, and I'm proud of you for being willing to explore this challenging territory. Remember, the goal is to develop a new skill, not to achieve a specific outcome.)
+
+Patient: Okay—I'll do it.
+
+I sit in the car and take five slow, deliberate breaths. Immediately there’s that dull, hot pressure in my chest, my stomach tightens into a little knot, my hands are a bit jittery, and a punitive thought—“you should’ve known better”—flares up like a neon sign. I notice the impulse to quantify it (anxiety 7/10) and to run through contingencies, which I catch and try not to follow.
+
+I step out, keep the breathing steady, and when I get to the table I offer a short, non-defensive comment: “Thanks for waiting.” I don’t launch explanations or apologies. Before I sat with it I’d put my anxiety at about 7/10; right after the brief exchange it’s down to maybe a 4/10. There’s a small easing in the chest and my breath lengthens a little, but the shame and self-reproach are still humming under the surface—more of a low-grade, corrosive background noise than a full stop.
+
+I can already see myself turning the whole thing into data—pre/post ratings, notes about safety behaviors—and that’s both useful and annoying because it’s exactly the pattern I’m trying to interrupt. I’m also jumpy and a little distracted right now; my attention keeps flicking away, and I feel guilty for that, which just feeds the loop.
+
+I don’t want to stop here. Could we do one more quick run-through, or maybe debrief for a minute about what I did when the shame flared so I don’t immediately default back into analysis? I’m not ready to wrap up.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+You've successfully implemented the micro-situation exercise and noticed the anxiety, shame, and self-reproach that arose. You were able to catch the impulse to quantify and analyze the experience, and you're aware of the tendency to turn it into data. However, you're also struggling to maintain the moment and stay with the emotions, which is a common challenge in ACT. 
+Goal: 
+Connect this process to an underlying value.
+
+Therapist Answer:
+Let's debrief and explore what happened when the shame flared up. What do you think is the core of the shame - is it the fear of being seen as incompetent, or is it something deeper? What would happen if you were to acknowledge and accept this shame, rather than trying to analyze or fix it? 
+
+(Note: This is a final extension of our session. We've made great progress, and I'm proud of you for being willing to continue exploring this challenging territory.)
+
+Patient: I think it's both: superficially it's the fear of being seen as incompetent—my professional identity gets flagged as the primary value—but beneath that is a deeper attachment-based fear of exposure and unworthiness that makes vulnerability feel existentially risky. If I genuinely acknowledged and accepted the shame instead of cognitive-reframing it, my predictive-churn would likely downshift a bit, leaving a small aperture for connection and lowered arousal—less chest tightness, slightly steadier breath—rather than immediately launching error-analysis. I'm still jittery and distracted right now, and I'm irritated with myself for wanting to turn this into another experiment, which just fuels the shame; can we keep unpacking practical steps I can use the next time that spike happens—maybe another quick role-play—because I'm not ready to stop.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+You've beautifully uncovered the complexity of your shame and its underlying causes. You're recognizing that it's not just a surface-level fear of incompetence, but a deeper attachment-based fear of exposure and unworthiness. By acknowledging and accepting this shame, you may be able to reduce the predictive churn and create a small aperture for connection and reduced arousal. 
+Goal: 
+Create space from a sticky thought (defusion).
+
+Therapist Answer:
+Let's keep exploring practical steps to help you navigate these situations. Another quick role-play might be helpful. Let's think of a scenario where you need to apologize or acknowledge a mistake, such as saying sorry for missing a deadline or making a mistake in a presentation. We can role-play this scenario and practice acknowledging and accepting the shame without trying to analyze or fix it. Remember, the goal is to simply be present with the feelings, without trying to change or evaluate them.
+
+(Note: This is a final extension of our session. We've made great progress, and I'm proud of you for being willing to continue exploring this challenging territory. Remember, ACT is a process, and it's okay to take your time and return to these exercises whenever you need to.)
+
+Please let me know when you're ready to wrap up, or if you'd like to explore further.
+
+Patient: Okay — I'm willing to do that role-play. Picture this: I walk into a small team meeting after missing a deadline; my chest tightens, my face warms, my hands jitter, and an inner voice is already drafting apologies and defensive justifications. Plan: I take three slow breaths in the doorway, state a concise acknowledgment (“I missed the deadline — I’m sorry. That was my responsibility.”), name one concrete next step, then intentionally hold silence to notice the shame without immediately explaining or problem-solving.
+
+Would you play the colleague who reacts, and give me one of three possible responses (neutral, disappointed, or oddly forgiving)? I want to run the scene at least twice and then debrief what I did when the shame spiked — I’m not ready to wrap up; I want to explore this further.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking and Answer keywords missing]
+
+Therapist Answer:
+I'd be happy to help you with the role-play.
+
+Let's get started. I'll play the role of the colleague who reacts. Here's my first response:
+
+"Hey, thanks for owning up to it. Sorry to hear about the deadline. Can you walk me through what happened? I'm curious to know what went wrong."
+
+Now it's your turn. Remember to take three slow breaths in the doorway, state a concise acknowledgment, name one concrete next step, and hold silence to notice the shame without immediately explaining or problem-solving.
+
+(Note: I'll give you feedback and guidance throughout the role-play, and we'll debrief after each iteration to explore what happens when the shame spikes.)
+
+Patient: Okay — three slow breaths.
+
+I missed the deadline; I'm sorry. That was my responsibility. Concrete next step: I'll upload the current draft by end of day and schedule a 15‑minute sync to realign expectations and next milestones.
+
+I'm noticing a hot shame — chest tight, face warm — and an immediate impulse to do a forensic post-mortem (calendar underestimation, scope creep, delayed inputs). I'm trying to stay with the feeling rather than dive into that analysis, but my attention is jumpy and I keep wanting to quantify the failure.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking and Answer keywords missing]
+
+Therapist Answer:
+You've done a great job of following the plan and staying with the shame. Now, let's see how the colleague reacts.
+
+I'll respond as the colleague:
+
+"Hmm, thanks for the update. Yeah, I've been meaning to review the scope and adjust our expectations. Can you make sure to keep me posted on the upload?"
+
+Now it's your turn again. Remember, I'm just playing the role of the colleague, so try to stay present and not react defensively.
+
+(Note: I'll give you feedback on your performance and help you explore what happens when the shame spikes.)
+
+(By the way, you're doing great so far! You're staying with the shame and trying to resist the impulse to analyze. Keep it up!)
+
+Patient: Okay — I'll keep you posted; I'll upload the draft by EOD and ping after the 15‑minute sync. Right now my chest's tight, my face is warm, and my mind's already seeding a forensic post‑mortem and contingency tree to explain away the shame — that epistemic refuge feels pathetically familiar and I'm trying not to hop into it. Can we run it again with you giving a disappointed response so I can practice holding the shame without immediately defending?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking and Answer keywords missing]
+
+Therapist Answer:
+You're really getting into the groove now. I'll respond as the colleague with a disappointed tone:
+
+"I'm really disappointed, John. Missing deadlines like this is not just about the work, it's about the team's trust and our ability to deliver. I need you to take this one seriously and get it right next time. Can you tell me what happened and what you're going to do to make sure it doesn't happen again?"
+
+Notice how my response is more direct and critical. This might be a bit more challenging for you, but it's a great opportunity to practice holding the shame without immediately defending.
+
+Take three slow breaths, and remember to stay with the shame without trying to analyze or explain it. You can acknowledge the disappointment, but try not to get drawn into a defensive reaction.
+
+(And don't worry, I'll give you feedback and guidance to help you navigate this scenario.)
+
+Patient: Three slow breaths.
+
+I hear the disappointment — I missed the deadline and I'm sorry; I recognize that undermines trust. Concrete next step: I will upload the draft by EOD, schedule the 15‑minute sync, and send a brief note outlining blockers and a revised timeline. Physically I'm aware of a hot, punitive constriction in my chest, my hands jitter, and an immediate epistemic reflex to launch into counterfactuals and justifications—I'm trying to let that shame sit without explicating it, but it's loud and corrosive. Can we run the scene one more time with an oddly forgiving response so I can practice staying non-defensive and then debrief what I actually did when the shame spiked? I'm not ready to stop.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking and Answer keywords missing]
+
+Therapist Answer:
+You're really good at staying with the shame and trying to resist the impulse to analyze or defend. Now, let's try a scenario with an oddly forgiving response.
+
+I'll respond as the colleague with an oddly forgiving tone:
+
+"Hey, we all have those days. I've had
+
+Patient: Three slow breaths.
+
+Hearing that—“we all have those days”—actually produces a small, unexpected loosening in my chest, a warmth behind the sternum, and the jittering in my hands eases a touch. At the same time there's this embarrassed, corrosive aftertaste—like I didn't deserve the leniency—which immediately makes my mind try to model why forgiveness appeared (is it genuine, is it contingent?), which feels like a safety-seeking maneuver. I can stay with the eased sensation, but I'm jumpy and keep wanting to translate it into data; can we debrief what shifted when the shame eased and maybe run one more quick variation so I can practice not turning relief into another analysis?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking and Answer keywords missing]
+
+Therapist Answer:
+[Llama-3-3B-Instruct Therapist generation error: The decoder prompt (length 9159) is longer than the maximum model length of 9000. Make sure that `max_model_len` is no smaller than the number of text tokens.]

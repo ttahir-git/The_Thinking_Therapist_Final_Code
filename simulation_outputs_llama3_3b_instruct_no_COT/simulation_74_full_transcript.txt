@@ -1,0 +1,257 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Honestly, I've been feeling really stuck—like I only exist as a nurse and I don't know what matters to me beyond that, especially after a recent health scare. Burnout's hit me hard and I'm tired of feeling directionless. I'm skeptical this will help though—how is talking about it supposed to fix anything?
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling quite a sense of disconnection from your life right now. Would that feeling of being directionless be different if you were to explore what's beneath it, instead of just trying to figure out what's missing?
+
+Patient: How is that supposed to help? I've tried unpacking this before and it just became rumination—I ended up more anxious and no clearer. Maybe underneath is this fear of not being useful or losing my identity, but I don’t know how to explore that without spiraling.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That process of rumination can be really overwhelming. Can you think of a moment, even if it's just for a brief moment, where you felt more connected to yourself, more alive, and more purposeful as a nurse? What was going on in your body and your mind during that moment?
+
+Patient: Yeah—there was this one night when a patient coded and I ended up leading the resuscitation; everything felt oddly calm and focused. My chest was tight but steady, my hands weren't shaking, time narrowed, and afterwards I had this exhausted, painful kind of satisfaction where I actually felt like I mattered. But how is that supposed to help me now? That rush is tied to crisis and being needed—it doesn't tell me who I am when no one's depending on me.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That moment of calm focus in the midst of crisis can be a powerful clue. What would it be like for you to explore the qualities that emerged in that moment, like the feeling of calm, focus, and a sense of satisfaction? Would it be possible to start to notice those qualities in yourself, even when there's no crisis?
+
+Patient: How is that supposed to help? I've tried trying to notice stuff before and it just felt like another task that made me more anxious. That said, I do remember similar calm focus when I was teaching a new nurse or doing a precise procedure—my breathing slowed and I felt oddly steady—so maybe I could try noticing breath and posture in small moments, though I worry it'll just feel fake or like I'm forcing it.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's possible that what feels like "fake" is just your natural tendency to focus on the outcome. What would happen to the experience if, instead of trying to control your breath and posture, you simply allowed yourself to be present with them, without any expectation of what you're supposed to be doing with them?
+
+Patient: How is that supposed to help? Being "present" sounds fine in theory but for me it just becomes another performance metric I worry I'm failing. If I actually try to notice my breath I either get bored, or my brain jumps to worst-case stuff and I spiral—so it ends up feeling like fake calm. Still, I do remember it feeling real when I was teaching a new nurse, so I'd be willing to try something small—if you can promise it won't turn into a to-do list.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The feeling of performance is a big challenge. Can you think of a tiny, almost imperceptible shift, like a slight shift in your weight, a tiny relaxation in your shoulders, that happens when you're teaching a new nurse and it feels "real" to you? Maybe we can explore how small, tiny shifts like that could be noticed, without trying to control them.
+
+Patient: Yeah—okay, there is this tiny thing: my shoulders drop a couple inches, my jaw unclenches, and my breathing gets slower when I'm teaching and actually connecting. I can try to notice that, but how is that supposed to help me feel less lost when there's no crisis? I don't want this to turn into another box I have to tick off.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That tiny shift in your body feels like a small window into what's possible for you. Instead of focusing on getting to that place, what if we looked at what would be possible if you could hold onto that sense of connection and calm, even when you're not in a situation that feels dramatic or high-stakes? What would that feel like?
+
+Patient: I guess it would feel like not being on edge all the time—like small, steady moments of satisfaction instead of waiting for a crisis to tell me I mattered. Maybe I'd notice an actual laugh, enjoying a meal, or feeling calm while teaching, rather than just surviving a shift. But how is that supposed to help? It sounds vague and I'm worried it'll just become another thing I fail at, though I can try noticing those tiny shifts if we keep it practical.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those small, steady moments of satisfaction feel like a glimmer of what's possible for you. What if, instead of trying to cultivate those moments, we looked at what values might be connected to them for you? What's at the heart of why those small moments feel valuable or satisfying?
+
+Patient: I guess it's about feeling useful and competent—like I actually made a difference and I'm connected to someone, not just grinding through tasks. There's also this need for calm and steadiness, for not being on edge all the time. How is that supposed to help though? I don't want this to turn into another checklist I fail at—how do we make this actually useful?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those values and needs feel like a good place to start. What would it take for you to start taking small actions that feel connected to those values, even if it's just for a minute a day?
+
+Patient: I guess I could try something tiny—like one 60-second pause at the end of a shift to notice my shoulders, breath, and name one thing I did that felt useful, or teach a single quick tip to a newer nurse once a day. But how is that supposed to help? I've tried tracking little things before and it just turned into another thing I failed at and felt worse. If we're going to try it, promise we make it a low-pressure experiment, not a checklist—can you help me figure out how to do that without turning it into performance?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those tiny actions feel like a good starting point. Can we approach them as more of an invitation than a requirement? Instead of thinking "I have to do this," what if we say "I'm going to see what happens when I do this, just for a little while, without putting any expectations on myself?"
+
+Patient: How is that supposed to help? Calling it an "invitation" sounds nicer but my brain will still turn it into another to-do. If we're doing low-pressure, I want clear rules: no tracking, no streaks, permission to skip, and try the 60-second pause on any three shifts this week or teach one tiny tip only when it actually feels natural. Also, if I start spiraling when I try to notice my breath, give me a simple fallback—like a one-line grounding prompt I can actually use—because otherwise I'll just ruminate and bail.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those clear rules feel like a good starting point. What if, instead of a "fallback" from the pause or the tip, we use a simple "yes" statement to bring you back to the present moment, like "yes, I'm here" or "yes, my feet are on the ground"?
+
+Patient: How is that supposed to help? "Yes" sounds too vague — my brain will just slide past it. I'd prefer something concrete like "My feet are on the ground" or "I'm here now," and only as a true fallback when I'm spiraling, no tracking, permission to skip. Can we try one now? "My feet are on the ground" — I don't know, it kind of helps a little but also feels awkward.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those small "yes" statements can feel a bit forced at first. Can we try a different one that's more connected to your body, like "My hands are on the wheel" or "My feet are planted"? Sometimes, noticing a small, concrete sensation can be a more gentle way to bring you back to the present moment.
+
+Patient: How is that supposed to help? Fine — I'll try "My feet are planted" now. Saying it actually makes me feel the weight in my feet and a tiny loosening in my chest, which is weirdly calming, but it's still awkward; promise me it's only a fallback with permission to skip, and if it doesn't help can we switch to something concrete like naming three colors?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The "My feet are planted" feels like a small success. Let's agree that if it doesn't feel helpful, we can try "three things I can see right now" - no judgment, no expectation, just a simple, concrete observation.
+
+Patient: Okay, I'll try the three things now: a dented travel mug on the counter, my scrubs draped over the chair, and the little glow of my phone with a missed message. Saying them actually loosened my chest a bit—small, but real. How is that supposed to help long-term though? I still worry this will turn into another thing I mess up, so can we agree right now: no tracking, permission to skip, and if I start spiraling we switch to naming three colors or whatever else works? Also—do we pick which three shifts I'll try the 60-second pause on, or do you want me to just pick them when it feels doable?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The three things you noticed have helped with your chest loosening. I agree to no tracking, permission to skip, and switching to naming colors if you start spiraling. Let's take it one step further: you decide which three shifts you'd like to try the 60-second pause on, when you feel like you can realistically do so.
+
+Patient: Okay... I'll try it on my next three shifts: Tuesday day, Friday evening, and Sunday night — those feel doable. How is that supposed to help long-term though? Promise no tracking, permission to skip, and that if I start spiraling we switch to naming three colors — otherwise I won't stick with it.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those shifts feel like a good starting point. I promise to hold to those agreements: no tracking, permission to skip, and switching to naming colors if you start spiraling. Let's focus on making this a flexible, gentle experiment that serves as a stepping stone to more exploration of your values and values-driven actions.
+
+Patient: Okay... I can go with that — no tracking, permission to skip, and switching to naming colors if I spiral. I'll try those three shifts: Tuesday day, Friday evening, Sunday night. But honestly, how is that supposed to help long-term? I'm wiped and it's hard to get behind experiments right now, so keep it low-pressure and don't give me homework between sessions — just remind me to use the fallback if I start spiraling.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'm glad we've got the agreements in place. I'll keep things low-pressure and flexible. Just a gentle reminder to use "My feet are planted" or "My feet are planted" if you start to spiral, whenever you feel like it. No pressure, no expectations, just a gentle check-in. We'll revisit this in our next session, whenever that feels like the right time.
+
+Patient: Okay... I'll try those shifts, but honestly — how is that supposed to help long-term? I'm wiped and I really don't want homework between sessions. Can you help me pick one tiny in-shift cue that's even easier than saying "My feet are planted" — like a discreet ring-tap or one slow exhale — and promise not to make me report back unless I want to? I need something I can actually do when I'm exhausted.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I can help you find a simpler cue. What about a gentle "ah" sound, like a soft exhale, or a brief pause in your breathing? We can just agree to use that cue if you feel like it might help, and I'll respect your boundaries about not reporting back unless you want to.
+
+Patient: Alright... I'll try the soft "ah" exhale as the discreet cue — one slow breath. How is that supposed to help? But fine—promise me: no tracking, permission to skip, no reporting unless I choose, and switch to naming colors if I start spiraling.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The one slow breath feels like a gentle anchor. I promise to hold to those agreements: no tracking, permission to skip, no reporting unless you choose, and switching to naming colors if you start spiraling. We'll revisit this in our next session, whenever you're ready.
+
+Patient: Okay... I'll try the slow "ah" breath on those shifts. But how is that supposed to help long-term? I'm really wiped — promise no homework, no reporting unless I choose, and if this doesn't help we try something else next time, because I don't have the energy for more experiments right now.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I understand you're feeling drained. I promise no homework, no reporting unless you choose, and if the slow "ah" breath doesn't help, we'll revisit and explore other possibilities in our next session, whenever you're ready. We'll take it one step at a time, with flexibility and kindness.
+
+Patient: Okay... I’ll try the slow "ah" on those shifts. I’m wiped and this feels like a lot, so can we agree on one ultra-simple, one-line fallback I can use if I wake up panicking—something I can do half-asleep? And honestly, how is this supposed to help long-term if I keep feeling like this?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+One ultra-simple, one-line fallback for a panic moment: "I'm here". If that doesn't help, you can say it again or try something else. As for long-term, I want you to know that this is just the beginning. We're exploring what's possible for you, not trying to solve everything in one session. We'll take it slow, and I'll be here to support you.
+
+Patient: Okay... "I'm here" is dumb-simple enough that I might be able to mumble it half-asleep, so I'll try that. But how is that supposed to help long-term? I'm wiped and this already feels like a lot—no homework, please—and if "I'm here" doesn't work in a panic, can we pick one even more automatic, like pressing my thumb to my forefinger?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+"I'm here" is simple enough to be automatic in a panic. I promise no homework. For an even more automatic fallback, I can suggest pressing your thumb to your finger, like a gentle grounding gesture. We'll focus on simple, gentle tools to help you stay with yourself in the moment.
+
+Patient: Okay... I'll try the "I'm here" mumble, the thumb-to-finger press, and the slow "ah" breath on those shifts. But honestly—how is that supposed to help long-term though? I'm wiped and don't want homework or pressure; if I don't bring it up next time, don't assume I failed—just ask me gently about one tiny thing, no demands, because I don't really know where to go from here and it still feels like a lot.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll approach our next session with a gentle curiosity, asking just one tiny question to help us take the next small step together. No expectations, no demands, just a gentle exploration of what's possible for you.
+
+Patient: Okay... I'll try the "I'm here," the thumb press, and the slow "ah" on those shifts. Saying all this feels kind of draining—it's taking a lot just to agree. How is that supposed to help long-term if I still feel judged or pushed? What's the one tiny, low-pressure question you'll ask next time so I know what to expect?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'm here to support you, not to push or judge. Next time, I'll start with a single, gentle question: "What's one small thing you've been looking forward to in the next 24 hours?" No expectations, no judgment, just a curious inquiry.
+
+Patient: Okay... that actually sounds manageable — low-pressure is good. How is that supposed to help long-term though? Promise me: if I say "nothing" next time, you won't press or make me feel like I failed. 
+
+If you want to try it now, one small thing I'm looking forward to in the next 24 hours is a decent cup of coffee in the morning. But don't read too much into it — and keep the follow-ups light, please.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I promise to respect your response, even if it's "nothing". I'll keep the follow-ups light and gentle. We'll take it one small step at a time. And nice, a decent cup of coffee sounds like a lovely goal!
+
+Patient: Okay... thanks. The coffee thing actually sounds nice, but this is all kind of heavy — it takes everything I've got just to keep up with it. How is that supposed to help long-term though? Promise me again: if I say "nothing" next time, don’t push — just ask the tiny question gently and leave it there.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll keep it light and gentle, even if the "nothing" response comes up. I'll simply ask the question again, without pressure or expectation, and we'll leave it at that. No more promises, just a quiet, non-judgmental space for us to meet next time.
+
+Patient: Okay... I hear you, and I appreciate the light touch, but I'm still skeptical — how is one tiny question really supposed to help me feel less stuck long-term? I'm wiped and it takes everything to even try small stuff, so promise me again: no reporting unless I choose and if I say "nothing" next time, don't push. Also — if "I'm here" doesn't work in a half-asleep panic, is the thumb-to-finger press actually automatic enough, or will I still freeze?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll respect your boundaries, no reporting unless you choose, and if "nothing" comes up, I'll just ask the question again, without pressure. As for the thumb-to-finger press, it's a gentle physical cue, but I understand if it doesn't become automatic. If you find yourself frozen, we can explore other options together.
+
+Patient: Yeah... I don't know. The thumb press might still feel like too much when I'm panicking—I'll probably just freeze. How is that supposed to help? Fine, I'll try the mumble and the thumb press, but can we pick one ultra-automatic backup, like clenching my fist and releasing once? Can you quickly walk me through that one now, real short?

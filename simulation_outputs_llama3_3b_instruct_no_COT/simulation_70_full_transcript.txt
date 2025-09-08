@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm a middle-aged accountant who just started a demanding new job, and I've been stuck in this loop of harsh self-criticism—every little mistake feels like proof I'm failing. I grew up in a stable but emotionally reserved family, so I never learned to cut myself some slack. I've tried things before, so how is talking about it supposed to help?
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That must be really tough for you to acknowledge and admit. It takes a lot of courage to recognize the pattern of self-criticism. Can you tell me more about what happens when you experience a 'mistake' at work - what are some of the thoughts that come up for you, and how do your body feel?
+
+Patient: Usually I fixate on it—thoughts like "I'm such an idiot, I should've caught that," and then it turns into a spiral: maybe I'll get disciplined, maybe I'm not cut out for this job. Physically I get a knot in my stomach, my shoulders tense up, jaw clenches, and my heart races so I can't sleep. I replay the mistake over and over and start overworking to compensate. I've tried telling myself to be kinder or to reframe it before, and it just feels hollow—how is that supposed to help?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the self-criticism is really close to your nervous system, and it's hard to quiet that knot in your stomach. Can you say more about what would need to happen for you to feel like you're truly letting go of this 'I'm an idiot' story - what would be a small, tiny step for you to take in this moment, just to start to feel more at ease?
+
+Patient: Maybe a tiny step is stepping away for five minutes—set a timer, breathe, and try to name one neutral fact instead of the harsh story, like "I missed that number" rather than "I'm an idiot." I've done the labeling/reframing thing before and it usually feels hollow, so I'm skeptical it'll do much for the knot in my stomach. But fine, I can try a five-minute break now—what exactly should I focus on during that time?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'm glad you're willing to give it a try. When you set the timer and take that five-minute break, I'd like you to focus on noticing the sensation of your breath, without trying to control it or change it. Just pay attention to the sensation of the breath moving in and out of your body - can you allow yourself to be with that, without judgment or trying to do anything else?
+
+Patient: Okay, I'll try to notice the breath — right now it's shallow, my chest feels tight, and the knot in my stomach's still there. My mind's already jumping back to the mistake and whispering that this is pointless; I've tried breathing before and it usually doesn't do much. Fine, I'll focus on the sensation — what do I do when my mind wanders and I start replaying it? How is that supposed to help the knot ease?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be tough to settle in when the mind starts wandering. When your mind starts replaying the thought, can you try to acknowledge it as just that - a thought, without judgment - without trying to engage with it or try to stop it? You could simply say to yourself, "Ah, the 'I'm a failure' story is showing up again" - no need to try to change it, just notice it passing.
+
+Patient: I can try to name it when it shows up, but honestly it just feels automatic—like the label is another thing my brain tosses out while the replay keeps looping. How long am I supposed to keep saying that before it actually stops? And if the knot doesn't ease, what then—do I just keep watching it tighten?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're right that the labels can feel automatic. I'm not asking you to keep repeating anything for a specific amount of time - just to keep noticing the thought and the physical sensations as it arises. The goal isn't to stop the knot or the thoughts, but to create some space around them, so you can see them for what they are - just passing events in your experience. Would you be willing to try just one more moment, without trying to do anything, and see what happens when the time is up?
+
+Patient: Alright—I'll try one more moment. I'll keep attention on the breath and name the "I'm a failure" thought if it pops up, but I'm skeptical this will change the knot; if it doesn't help, what do we do next?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's just wait and see what happens when the timer goes off. If the knot doesn't ease, we can try something else. Instead of focusing on the knot, I'd like you to notice where your attention is left after the timer goes off - is it still on the breath, or has it wandered?
+
+Patient: It mostly wandered back to the mistake — I named the "I'm a failure" thought once or twice but the replay took over and the knot's still there, maybe a hair less tight but not much. I get the idea of making space, but how is noticing supposed to actually change anything when the same loop just resumes? If this doesn't ease it, can we try something more concrete I can do at my desk right after a slip-up?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can feel like the same loop just resumes. One thing you could try is to acknowledge the "I'm a failure" thought, and then, before taking any action, simply check in with your body - take a moment to notice where your feet are planted on the ground, the sensation of your chair on your skin, or the sensation of your feet touching the floor. This can help you come back to the present moment, even if it's just for a brief instant, before diving back into the task at hand.
+
+Patient: Alright—I tried it just now: felt my feet on the floor and the chair under me, and yeah there was a tiny pause, like a half-second before the replay took over again. It helped a little to interrupt the momentum, but the knot's still there and I'm not sure how a half-second turnabout actually changes anything when I'm on a deadline. Can you give me a concrete, 30-second routine I can do at my desk right after I spot a mistake that won't make me look like I'm stalling, and explain how that's supposed to reduce the loop instead of just delaying it?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The goal isn't to completely eliminate the knot, but to reduce its grip on you. One 30-second routine you could try is to pause, take a sip of water, and then make a small, brief action towards the task at hand - like turning to a specific page in a reference book or sending a quick email. This small, tangible action can help you shift your focus away from the mistake and give you a chance to start fresh, rather than getting stuck in the replay. Would you be willing to give it a try?
+
+Patient: Alright—I’ll try it, but I need something really concrete so it doesn’t look like I’m stalling. Maybe: pause, sip water, two slow breaths, then send a one-line message like “Noted, I’ll correct and resend by 3pm,” or flip to the exact spreadsheet tab I need—would that be enough? And seriously, how is that supposed to chip away at the loop instead of just postponing it—if the knot’s still tight after those 30 seconds, what do I do next?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a concrete and achievable routine. The goal of that 30 seconds isn't to completely eliminate the knot, but to interrupt the automatic replay and give you a chance to re-engage with the task in a more flexible way. If the knot's still tight after that, it's not about finding a magic solution to eliminate it, but about learning to approach the task with more flexibility and compassion. We can try something else. Can you think of a specific value that's important to you, something that would make you feel more aligned and motivated to tackle the task at hand?
+
+Patient: I really value competence and reliability — being accurate and dependable at work matters to me. I guess if I reminded myself that my goal is to fix things and keep things running, it might push me to correct the error instead of spiraling — but honestly, how is that supposed to stop the knot when I’m on a deadline? I’ve tried motivating myself before and it doesn’t seem to stick.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That value of competence and reliability is a good anchor. When you remind yourself of that, it can help you refocus on what's important, rather than getting caught up in the replay. Instead of trying to motivate yourself with a value, can you try to connect with the value itself - what does it feel like to be accurate and dependable in your work? What would that feel like, right now, in this moment?
+
+Patient: I guess being accurate and dependable would feel steady and quiet—like a finished report, a relaxed jaw, and knowing people can trust my work. Right now I feel the opposite: tight chest, racing replay, like I’m nowhere near that calm. How is picturing that supposed to change the knot when I’ve got a deadline? If you want me to try, can you guide me through a quick, practical way to actually bring that “competent” feeling into this moment?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I think we've explored the ideas that feel most important to you. Let's try a small experiment. Can you take a deep breath in, and as you exhale, bring your attention to your jaw, and imagine it relaxing, letting go of any tension. As you exhale, say to yourself "I can complete this task" - just one sentence, without trying to convince yourself of anything, just acknowledging that you can. Then, take another deep breath in, and as you exhale, take one small step towards the task at hand - just a tiny action, like opening a new window or typing one sentence.
+
+Patient: Okay — I did it. I took a deep breath, tried to relax my jaw while saying "I can complete this task," and it felt…kind of flat, like I was mouthing the words. My jaw eased a little but my chest's still tight and I'm pretty jumpy; my attention keeps snapping back to the mistake. I did take a tiny step and typed one line into the spreadsheet, but how is that supposed to actually calm me before the deadline — what concrete move comes next if the knot keeps roaring?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The small, deliberate action of typing can help create a sense of momentum. Now that you've taken that tiny step, I'd like you to take another small one. As you type the next line, notice the sensation of your fingers on the keyboard, the sound of the keys, and the feeling of your body sitting in your chair. Try to focus on those sensory details, and let the "I can complete this task" statement become more of a gentle whisper to yourself, rather than a declaration. What do you notice about your body as you continue to type?
+
+Patient: I notice the keys under my fingers and the little click, but my chest is still tight and my shoulders are up around my ears; my heart's kind of racing and I'm jumpy, so my focus keeps snapping back to the mistake. My jaw's clenched again and the breathing's still shallow—typing feels more like busywork than actually calming anything. How is paying attention to these sensations supposed to help me get the work done when the knot's still roaring? I'm willing to keep at it, but I need something that actually reduces the panic faster.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the physical sensations are still dominant. Sometimes, when the knot's still racing, it can feel like the body is operating on autopilot. Let's try something else. I'd like you to bring your attention to the physical sensations in your body, and then, without trying to change them, imagine a "safe container" for those sensations - a place where they can exist without being overwhelming. For example, you might think of a cozy room, a warm bath, or a peaceful landscape. Can you imagine that safe space, without trying to get there, just noticing its presence as a possibility?
+
+Patient: I tried to picture a cozy room with warm light and a chair, but my attention keeps snagging back on the mistake—the chest tightens, shoulders up, fingers a bit shaky. I can sort of see the safe space, but it feels distant and thin, like a postcard I can’t touch. How is that supposed to help when I’m here with a deadline and the knot’s still roaring? I need a concrete, quick anchor I can do at my desk that actually interrupts the panic without looking like I’m stalling—what exactly do I do if the image doesn’t hold?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the safe space is not providing the immediate relief you're looking for. Sometimes, a tangible anchor can be helpful. I'd like you to try a small, concrete action that you can do right now, without trying to control it or change it - can you simply put a sticky note on your screen that says "I can handle this" or "I've got this"? Sometimes, a small, visual reminder can help interrupt the cycle of panic and provide a sense of reassurance. What do you think?
+
+Patient: I can try the sticky note, but it feels kind of childish and I'm worried someone will see it and think I'm panicking. My chest's tighter now and my attention keeps snagging—it's hard to even stick a note up without getting pulled back into the loop. If that doesn't work, what’s a faster, really discreet move I can do at my desk that actually breaks the panic instead of just looking like I'm stalling?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The sticky note might not be the best fit. Sometimes, a small, discreet action can be helpful. Can you try something as simple as uncrossing and recrossing your legs, or shifting your weight in your chair - just a tiny physical change that doesn't require any mental effort or attention. Sometimes, our bodies can respond to small physical sensations that don't require conscious thought.
+
+Patient: I tried uncrossing and recrossing my legs and shifting in the chair — it gave me a tiny, half‑second pause, but my chest's still tight and my hands are shaky. How is that really different from everything else I've tried? I need a specific, 10–15 second, super‑discreet move I can do at my desk that actually knocks the edge off fast and doesn't look like I'm stalling — what exactly should I do next?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's clear that small pauses and physical sensations aren't providing the immediate relief you're looking for. Can you try something that's even more subtle, but still a concrete action - a tiny, one-sentence statement that you can make to yourself, without looking up or signaling to others. It doesn't need to be a motivational phrase, just a simple acknowledgment - can you try saying "I'm here" to yourself, or "I'm working"?
+
+Patient: I tried saying "I'm here" under my breath and it felt flat — my chest's actually tighter and I'm jumpier than before, and my mind's already back on the mistake. How is that supposed to blunt the knot? If that doesn't work, what's a specific 10–15 second, really discreet move I can do that actually calms me down?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the verbal acknowledgment wasn't enough to interrupt the cycle. Sometimes, a very small, subtle action can help calm the nervous system. Can you try taking a small sip of water from your cup, without looking up or trying to control the sip - just a small, quiet movement that doesn't require much attention?
+
+Patient: I took a tiny sip — it barely registered; my chest’s tighter, jaw clenched, pulse up, and my attention keeps snagging back on the mistake. How is that supposed to blunt the knot? If that doesn’t work, give me one very specific, 10–15 second discreet move I can do right now at my desk that actually takes the edge off without looking like I’m stalling — I’m really on edge and zoned out.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's clear that the physical actions aren't providing the immediate relief you're looking for. I'd like you to try a tiny, almost imperceptible movement with your index finger - can you lightly touch the space between your thumb and index finger, just a tiny, gentle contact?
+
+Patient: I'm not sure I follow—you're asking me to touch that tiny spot between my thumb and finger? How is that supposed to help when my chest's tight, my hands are shaking, and my attention keeps zipping back to the mistake? I'm trying, but if that doesn't take the edge off in 10–15 seconds, what am I supposed to do next—because I can't keep flailing with these little tricks that don't work.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+I'll clarify. It's not about the physical action of touching a specific spot, but rather the sensation of that gentle touch. Can you try to imagine that touch as a sensation in your finger, and then, without looking at it, slowly release that sensation, letting it fall away, like a weight releasing from your finger?
+
+Patient: I'm not sure I follow — imagine the touch and then let it go? How is that supposed to help when my chest's tight, my hands are shaking, and I can barely focus? I'll try picturing it, but honestly I doubt it'll change the knot; if it doesn't, what concrete move do I do next that actually knocks the edge off fast?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling overwhelmed and skeptical about trying anything else. I'm going to take a step back and ask: what would you need to experience or feel in order to know that you're not failing, and that you can actually get through this task?
+
+Patient: I'm not sure I follow — I'm feeling really jumpy and distracted right now and it's hard to picture anything changing. Concretely, I'd need a small, undeniable win (like fixing one item and getting a quick acknowledgement), a short buffer on the deadline or permission to correct without penalty, and a clear step‑by‑step checklist so I don't have to ruminate about what I missed; plus someone actually saying, "this is acceptable, you can fix it" so it doesn't feel catastrophic. How is any of that supposed to blunt the knot in the next ten minutes, though — if that doesn't work, what do we do then?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're craving a sense of control and validation to help you feel more grounded. Let's focus on the first thing that would give you a sense of control: can you take one small, tangible action that you can control, right now, in this moment - just one tiny step towards fixing the task, without worrying about the outcome or getting permission?
+
+Patient: Okay — one concrete thing I can do right now is open the spreadsheet, go to the "June Invoices" tab, fix the formula in D14, save it, and add a one‑line comment like "corrected 2:18pm." I'll try to do that now, but honestly my hands are shaky and my chest's tight so I'm worried I'll fumble — how is doing that actually supposed to reduce the knot instead of just moving the panic? If fixing it doesn't calm me, what do I do next — keep doing tiny tasks, or is there something immediate that actually knocks the edge off?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the physical actions are still challenging for you. Let's try something that's not about the task itself, but about your relationship with the task. Can you look at the person who's going to review your work - your supervisor or the person you're accountable to - and simply acknowledge them in your mind, without thinking about the task or your self-worth? Just a brief, quiet recognition of their presence, like "They're here, watching over me".
+
+Patient: I'm not sure I follow — I can picture my supervisor, sort of neutral and quiet, but when I acknowledge them in my mind it just flips into "they'll notice the error" and my chest tightens more. How is that supposed to be different from the replaying thought and actually take the edge off right now? I'm willing to try it, but if that makes me more anxious, what concrete move do I do next that actually helps instead of just looping?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like acknowledging your supervisor is still triggering more anxiety. Let's try something else. Can you take a look at the task in front of you, and instead of focusing on the error, simply notice the sensation of your hands on the keyboard, the feeling of the chair beneath you, and the sensation of the air moving in and out of your body - just a brief, observational note of the physical sensations in this moment?
+
+Patient: I'm not sure I follow—I'll try, though. My hands are on the keys, the chair is hard under me, my breath's shallow, my jaw's tight and my heart's racing. Noticing that gives me a tiny pause, but the knot's still there and I'm really overwhelmed. If that doesn't change it, what's one specific, 10–15 second move I can do right now at my desk that actually takes the edge off without looking like I'm stalling?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's try something simple and direct. Can you make a deliberate, slight adjustment to your sitting position, just enough to shift your weight onto your right hip, rather than your left? It's a tiny physical change that doesn't require much thought or attention, but might help calm your body slightly.
+
+Patient: I'm not sure I follow—how is a tiny seat shift supposed to help when my chest's tight, my hands are shaking, and my mind keeps snapping back to the mistake? Fine—I shifted onto my right hip and it gave a half‑second pause, but the knot's still roaring and I'm jumpier now. I don't want to look like I'm stalling; if that doesn't work, give me one specific 10–15 second, really discreet move I can do at my desk right now that actually knocks the edge off. I'm trying to stay with this, but it's getting hard to focus.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling frustrated and stuck. Can you try a very small, almost imperceptible movement with your eyes - look at the blank space between the last line of the spreadsheet and the first line of the next one, and then look back at the screen? It's a tiny, automatic glance that doesn't require much thought or attention, and might help your eyes focus on the present moment.
+
+Patient: I tried that — I looked at the blank space and then back, but my eyes kept darting and my chest actually feels tighter; I'm more anxious and honestly a bit confused, I'm not sure I follow how that helps. How is that supposed to blunt the knot? If that doesn't work, give me one very specific, 10–15 second, really discreet move I can do right now that actually takes the edge off.

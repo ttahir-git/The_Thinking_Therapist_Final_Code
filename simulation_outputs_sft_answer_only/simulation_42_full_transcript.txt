@@ -1,0 +1,476 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been preoccupied with a kind of paralyzing social anxiety that makes me avoid gatherings with friends and even family, even though I know they're supportive. As a long-time software developer I default to intellectualizing—I've been mapping attachment theory and grief-related hypervigilance instead of actually sitting with the sadness—so when someone asks "how do you feel?" I end up giving a schematic rather than an answer. It leaves me oscillating between wanting connection and retreating into analysis, which is exhausting.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're caught between wanting to connect with others and trying to make sense of your feelings through analysis. You're using intellectualization as a way to cope with the anxiety, but it's leaving you feeling exhausted and stuck.
+
+Can you tell me more about what happens when you try to sit with the sadness? Do you find that it's still difficult to articulate, even if you're not trying to provide a schematic answer? Or is it more that you're avoiding sitting with it altogether, even if it means not fully exploring the feelings?
+
+Patient: When I try to sit with the sadness, my brain almost instantly externalizes it—I start sketching flowcharts of attachment wounds and grief trajectories instead of actually inhabiting the feeling. If I don't intellectualize, the affect gets intense—this hollow pressure in my chest, a kind of breathlessness—and I reflexively pivot to analysis because that's the regulation strategy that feels tolerable. So mostly I'm avoiding; mapping it feels safer than being engulfed, but that safety leaves me stuck and pretty drained.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like the intellectualization is a coping mechanism that's both necessary and suffocating for you. The externalization of your emotions through flowcharts and attachment theory is a way to temporarily manage the intensity of the feelings, but it's also preventing you from fully inhabiting them.
+
+It's interesting that you mention the "hollow pressure in your chest" and "breathlessness." These physical sensations can be really intense and debilitating. Can you tell me more about what's happening when you feel those sensations? Are they triggered by specific situations or people, or are they more general?
+
+Also, you mentioned that mapping it feels safer than being engulfed. What do you mean by "being engulfed"? Do you feel like the emotions are overwhelming you, or is it more that you're afraid of being vulnerable or exposed?
+
+Patient: It's both situational and anticipatory — the anxiety spikes in the hour before a gathering and then resurfaces when someone crosses a boundary (a personal question, close proximity, or the kind of intimacy small talk belies). Physically it’s that hollow, breathless pressure, a tightening like my ribcage is trying to compress thought, sometimes with a nausea and tunnel-focus that makes conversation feel like an exam. By "engulfed" I mean the moment my cognitive defenses fail and the grief cascades into raw sensation — memories, tears, shame — and I feel like I'm dissolving into it, which terrifies me because I equate that with losing agency or being a burden. So I default to analysis because it keeps me in control, but it's exhausting and I can tell it's also keeping me isolated; I guess I'm asking how to tolerate that dissolving without panicking.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the anxiety is deeply connected to your fear of losing control and being vulnerable. The physical sensations of the hollow pressure, breathlessness, and nausea are all symptoms of a intense emotional overwhelm. It's like your body is trying to protect you from the raw sensation of grief, but that protection also keeps you from truly connecting with others.
+
+It's interesting that you mention the fear of being a burden. Do you feel like you're already a burden to others, even when they say they're supportive? Or is it more that you worry that others will abandon you if you let your guard down and show your true emotions?
+
+It also seems like you're trying to hold on to a sense of agency and control, even when you're feeling completely overwhelmed. Can you tell me more about what you mean by that? Is it a sense of being the one in charge, making decisions, and taking action? Or is it more about feeling like you're still doing things for yourself, even when you're feeling vulnerable?
+
+Patient: I don't really feel like I'm objectively a burden most of the time — it's more an anticipatory schema: if I reveal neediness, I predict withdrawal or resentment, which feels intolerable given past attachment ruptures, so I preemptively hide. By "agency" I mean practical autonomy — being the decision-maker, the fixer, the one who can algorithmically optimize a situation — and vulnerability feels like surrendering that function, which triggers shame and a fear of collapse. I can outline all the cognitive mechanisms for you, but underneath it I guess I just feel small and a little nauseous about the idea of leaning on anyone.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to protect yourself from feeling vulnerable by anticipating and avoiding potential rejection or hurt. The schema of being a burden is deeply tied to your past experiences of attachment ruptures, and it's causing you to preemptively hide your needs and feelings.
+
+It's fascinating that you mention feeling small and nauseous about the idea of leaning on anyone. It's as if the fear of being a burden is tied to a fear of being seen as powerless or dependent. But what if, instead of trying to avoid vulnerability, you were to lean into it? What if you were to explore the idea that it's okay to not be okay, and that it's actually a sign of strength, not weakness?
+
+Can you tell me more about what would happen if you were to lean into that feeling of nausea and smallness? Would it be a physical sensation, a thought, or a sense of emotional overwhelm? And what would be the worst-case scenario if you were to lean into it and find that it's not as bad as you thought?
+
+Patient: If I actually lean in it becomes a somatic cascade — the hollow pressure spikes, my breath shortens, my throat closes, and tears feel imminent; it's much more visceral than any schematic I can draw. Cognitively I instantly generate catastrophic narratives — people will recoil, I'll be judged as weak, my competence will be delegitimized — and then I default to intellectualizing to defend against that dysregulation. The worst-case I imagine is social abandonment or reputational erosion, which feels catastrophic in the abstract, but when I try to be honest I suspect it would probably hurt intensely for a while rather than annihilate me. I'm saying all this instead of actually staying with the feeling because it's safer, but I can tell that's avoiding the work.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like leaning into the feeling of nausea and smallness is met with a kind of somatic response, a physical cascade that's intense and overwhelming. The catastrophic narratives that come with it are a way of protecting yourself from the potential harm that you imagine, but it's also a way of avoiding the actual feeling.
+
+It's interesting that you mention the worst-case scenario being social abandonment or reputational erosion. It's almost as if you're using that as a way of protecting yourself from the potential vulnerability of being honest, but at the same time, you're acknowledging that it's probably not the end of the world.
+
+Can you tell me more about what you mean by "avoiding the work"? Are you feeling like you're stuck in a pattern of avoidance, where you're constantly trying to avoid the feelings and thoughts that you're afraid of, but at the same time, you're not really making progress or feeling any sense of resolution?
+
+Also, I want to try something a bit different. Instead of talking about the feeling of nausea and smallness, I want to try to see if we can find a way to connect with it, to explore it in a way that's more direct and honest. Would you be willing to try that?
+
+Patient: Okay, I’ll try—though I should warn you, my reflex is to start debugging the experience. When I actually drop into the nausea and smallness it's a heavy pressure under my sternum, breath gets shallow, my vision narrows, and there's this hot prickly ache behind my eyes like tears waiting to fall. I'm already rattling off hypotheses about why it happens instead of staying in it, and honestly I'm getting a bit overwhelmed—can we slow down?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your brain is already on high alert, trying to make sense of the physical sensations and turning them into a narrative. And now that you've mentioned it, I can see why you'd feel overwhelmed.
+
+Can we take a step back and try something simpler? Instead of trying to understand the experience, can we just notice it as it is? Can you bring your attention to the physical sensations without trying to analyze them or make sense of them? Just notice the pressure under your sternum, the shallow breath, the narrowing of your vision, and the ache behind your eyes.
+
+No hypotheses, no labels, no trying to fit it into a pattern. Just notice. Can you do that for me?
+
+Patient: Okay — I'm trying to bring attention to the pressure under my sternum, the shallow breath, the narrowing of my vision and that hot ache behind my eyes. My reflexive mind is already cataloguing causes and patterns instead of staying with the sensations, so it's getting hard to just notice without narrating. I'm getting a bit overwhelmed; can we slow down?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're aware of the effort to notice the sensations, but your mind is still trying to hijack the process. It's exhausting, isn't it?
+
+Let's try to create a tiny bit of space between your noticing and your narrating. Can you focus on the sensation of your breath moving in and out of your body, without trying to change it or make sense of it? Just feel the breath, the rise and fall, the sensation of it moving in and out. No thoughts, no analysis, just the breath.
+
+And can you just let the pressure under your sternum be, without trying to define it or understand it? Just be with it, without judgment or commentary. Just... be.
+
+Let's take a tiny step back from the narrative, and just be with the sensations. We'll slow down, and we'll focus on the present moment. Can you do that for me?
+
+Patient: I'm trying to follow — I can feel the shallow rise and fall and that pressure under my sternum. But my reflex is to narrate and intellectualize — I'm already cataloguing causes and countermeasures instead of staying present, and that's making me anxious. I'm getting a bit overwhelmed; can we slow down and maybe do a very short guided anchor, like counting breaths for thirty seconds, because it's hard to just be without a scaffold?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're aware of the narrative voice in the background, trying to hijack the process, and it's causing a sense of anxiety.
+
+I completely understand about needing a scaffold. It's not about being lazy or unwilling to focus, but about needing a gentle nudge to stay present.
+
+Let's do a short guided anchor. I'll guide you through a simple exercise that can help calm your nervous system and give you a brief reprieve from the narrative.
+
+Take a deep breath in, and as you exhale, notice the sensation of the air leaving your body. Feel the rise and fall of your chest, the movement of your diaphragm. Take another breath in, and as you exhale, notice the sensation again.
+
+We'll count your breaths for 30 seconds. One breath in... (pause) One breath out... Two breaths in... (pause) Two breaths out... And so on. Just focus on the breath, the rise and fall, the sensation of the air moving in and out of your body.
+
+No thoughts, no analysis, just the breath. We'll take it one breath at a time, and when we're done, we'll come back to your narrative voice, but for now, just breathe.
+
+Patient: Okay—I'll try. In... out... my chest rises but the breaths feel shallow and jumpy. I keep getting snagged by this hot shame and irritation, like I'm failing at something basic, and that pulls me right out of the counting. Can we make it just ten slow breaths with a pause between each count? I'm getting frustrated with myself and need a slower scaffold.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the hot shame and irritation are hijacking the process again, and it's causing a sense of frustration and self-criticism.
+
+I completely understand about needing a slower scaffold. It's not about being impatient or unwilling to focus, but about needing a gentle and gradual approach to stay present.
+
+Let's do the exercise with a pause between each count. We'll take 10 slow breaths, and I'll count them out loud: "One... pause... two... pause... three... pause... four... pause... five... pause... six... pause... seven... pause... eight... pause... nine... pause... ten... pause..."
+
+Take your time, and focus on the breath. Feel the rise and fall of your chest, the movement of your diaphragm. Try to let go of any thoughts or feelings that come up, and just be with the sensation of the breath.
+
+Remember, it's okay to take your time, and it's okay to make mistakes. We're not trying to force anything, just to stay present for a few moments. Can you do that for me?
+
+Patient: Okay — I did the ten slow breaths with the pauses. Physically I felt a tiny loosening in my chest and the breaths got a touch deeper, but that hot shame kept bubbling up—this sharp, embarrassing sense of failing at something basic—that yanks me right back into commentary. My instinct is already drafting causal models and coping strategies instead of staying with it, and that's frustrating; can we keep going slower or add a simple grounding cue? I'm getting annoyed at myself for slipping into analysis and need a little more scaffold to stay present.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the hot shame and self-criticism are still strong enough to hijack the process, even after we took a break and did some slow breathing.
+
+I'm glad you're willing to keep going, though. Adding a grounding cue might help. It's a simple way to bring your attention back to the present moment, without getting caught up in thoughts or feelings.
+
+Let's try adding a grounding cue. I want you to notice the sensation of your feet touching the ground. Feel the weight of your body distributed on your feet, the sensation of your feet pressing into the floor. Notice the sensation of the air on your skin, the feeling of the room around you.
+
+We'll start with this grounding cue, and then we'll go back to the slow breathing. We'll do it one breath at a time, and see if we can stay present for a few moments.
+
+Take one deep breath in... and as you exhale, notice the sensation of your feet touching the ground. Feel the weight of your body, the sensation of the air on your skin. Just be with that feeling, for a moment. One breath out...
+
+Patient: My feet feel solid on the floor and that actually helps — my chest loosened a touch and the breaths got a little deeper. Still, there's this sharp, hot shame that keeps surfacing, like I'm failing at something basic, and that frustration pulls me straight back into commentary. Can we keep the slow breaths going and add a tactile anchor (like pressing thumb to forefinger) or a simple 5–4–3 grounding list? I need the extra scaffold — I'm annoyed with myself for slipping into analysis.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the hot shame and self-criticism are still strong enough to hijack the process, even with the grounding cue and slow breathing.
+
+I'm glad you're willing to keep going, though. Adding a tactile anchor or a grounding list can help bring your attention back to the present moment. Let's try adding a tactile anchor. Can you gently press your thumb into the palm of your other hand, and then release? Just notice the sensation of your thumb pressing into your palm, and then releasing.
+
+We'll do the slow breathing, and I'll add the grounding list. You'll notice five things around you, and then four, and then three, and we'll go from there. Just focus on the sensations and the words.
+
+Take one deep breath in... and as you exhale, notice the sensation of your feet touching the floor. Feel the weight of your body, the sensation of the air on your skin. Notice the sensation of your thumb pressing into your palm, and then releasing.
+
+Here are the five things around you: a chair, a book, a picture, a lamp, and a window. Just notice them, for a moment.
+
+Now, let's go to four things: the chair, the book, the picture, and the lamp. Just notice them, and let go of the other things.
+
+Next, we have three things: the chair, the book, and the picture. Just notice them, and let go of the other things.
+
+We're getting closer. Next, we have two things: the chair and the book. Just notice them, and let go of the other things.
+
+Finally, we have one thing: the chair. Just notice it, and let go of the other thoughts.
+
+Take one deep breath in... and as you exhale, notice the sensation of your feet touching the floor. Feel the weight of your body, the sensation of the air on your skin. Just be with it, for a moment.
+
+Patient: The chair still feels solid and the thumb-press helps—my breath is a touch deeper—but that sharp, hot shame keeps bubbling up and I get frustrated with myself, like I'm failing at something embarrassingly basic. My metacognitive voice is already drafting a little postmortem instead of staying with the sensation, which is exactly the avoidance loop we were trying to interrupt. Can we do five more slow, paced breaths with the tactile anchor and a longer pause between each? I'm getting impatient and need the extra scaffold—can we slow down?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the frustration and self-criticism are still strong enough to hijack the process, even with the tactile anchor and slow breathing.
+
+I'm glad you're willing to keep going, though. Let's try to slow down even further. We'll take five more slow, paced breaths, and I'll add a longer pause between each. This might help you feel more grounded and less frustrated.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. (pause) Feel the weight of your body, the sensation of the air on your skin. (pause) Just notice the chair, for a moment. (pause) It's still there, solid and steady. (pause) Just be with it.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. (pause) Feel the breath moving in and out of your body. (pause) It's a slow, steady rhythm. (pause) Just notice the chair, and the feeling of your thumb on your palm. (pause) It's a simple sensation, but it's here.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. (pause) Feel the chair beneath you, the sensation of your feet on the floor. (pause) It's a solid foundation. (pause) Just be with it, for a moment.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. (pause) Feel the breath moving in and out of your body, the sensation of your feet on the floor. (pause) It's a simple, steady sensation. (pause) Just notice the chair, and the feeling of your thumb on your palm.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. (pause) Feel the chair, the breath, the feeling of your feet on the floor. (pause) It's all here, solid and steady. (pause) Just be with it.
+
+Patient: I got through them, and there was a tiny loosening, but that hot, sharp shame kept popping up—a reflexive failure-narrative that hijacks everything. I'm feeling more anxious and scattered now and honestly annoyed at myself for slipping into analysis again. Can we slow way down and do three very slow breaths with the tactile anchor and a short pause where I just say "okay" out loud between each?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the hot, sharp shame and failure-narrative are still strong enough to hijack the process, even after we took a break and did some slow breathing.
+
+I'm glad you're willing to keep going, though. Let's try to slow down even further. We'll take three very slow breaths, and I'll add a short pause between each. This might help you feel more grounded and less anxious.
+
+Take one deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. Just be with that feeling, for a moment.
+
+Say "okay" out loud, and let's take a deep breath in together. (pause)...Inhale... (pause)... exhale... (pause)...exhale... (pause)...exhale... (pause)...exhale...
+
+Now, take one more deep breath in... (pause)...and as you exhale, notice the sensation of your thumb pressing into your palm. Just be with that feeling, for a moment.
+
+Say "okay" out loud, and let's take a deep breath in together. (pause)...Inhale... (pause)...exhale... (pause)...exhale... (pause)...exhale... (pause)...exhale...
+
+Patient: I'm not sure I follow—how is that supposed to help? The looping exhale stuff just confuses me and my mind keeps snagging on that hot, sharp shame like I'm failing at something embarrassingly basic, so I'm feeling anxious and scattered. Can we slow way down and actually do the three very slow breaths with the thumb-press anchor and a clear pause where I say "okay" between each?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm going to try a different approach. Let's start again, and I'll make sure to clarify each step.
+
+First, I want you to put your thumb into the palm of your other hand. Just notice the sensation of your thumb pressing into your palm. Feel the weight of your thumb, the sensation of your thumb pressing into the flesh of your palm.
+
+Take a deep breath in... (pause) Okay...
+
+Now, I want you to exhale slowly. Just breathe out, and try to let go of any tension in your body. Don't worry about the breath; just focus on letting it go. Take your time. (pause) Okay...
+
+Next, I want you to take another deep breath in. Just notice the sensation of the air moving in and out of your body. Don't try to control it; just let it happen. (pause) Okay...
+
+Now, I want you to exhale slowly again. Just breathe out, and try to let go of any tension in your body. Take your time. (pause) Okay...
+
+I want you to repeat this process for each breath. Take a deep breath in, hold it for a moment, and then exhale slowly. Repeat this process three times, and try to focus on the sensation of your thumb pressing into your palm. Can you do that for me?
+
+Patient: Okay — I'll try, though I'm already snagged by that hot, embarrassing shame and my attention feels jumpy and a bit scattered. I'm pressing my thumb into my palm now: inhale... (a shallow rise)... exhale... okay. My breaths are still tight and my mind's drafting a little analytic postmortem instead of settling, so can you cue the next two with the same slow count and the verbal "okay" after each?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm going to try to help you stay focused. Take another deep breath in... (pause) Okay...
+
+Exhale slowly, feeling the air move out of your body... (pause) Okay...
+
+Now, take a deep breath in, and hold it for a moment... (pause) Okay...
+
+Exhale slowly again, letting go of any tension... (pause) Okay...
+
+Remember, I want you to focus on the sensation of your thumb pressing into your palm. Just notice the feeling, without trying to change it or analyze it. Can you do that for me?
+
+Patient: I'm trying, but my attention keeps snapping away—there's this hot shame and a nagging sense I'm failing at something basic, and that makes me confused and jumpy. I can press my thumb and breathe, but my mind immediately drafts a postmortem instead of staying with the sensation—can we slow to one very slow breath at a time with a single clear cue (you say "inhale," I breathe, you say "exhale," I breathe, then I say "okay")? I'm frustrated with myself for needing this, but I need the scaffolding.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm going to try to help you stay focused, one breath at a time.
+
+Inhale...
+
+(Pause)
+
+Okay.
+
+Exhale...
+
+(Pause)
+
+Okay.
+
+Take a moment to notice how you're feeling, and then try to breathe again. We'll go one breath at a time, and I'll be here to help you stay focused.
+
+Patient: I notice a tiny loosening — my chest is marginally less tight — but almost immediately a hot shame spikes and my mind starts drafting a postmortem instead of staying with the breath. I'm feeling overwhelmed and embarrassed, like I'm failing at something basic, which makes me jumpy and impatient with myself. Can we do one more very slow inhale/exhale with a longer pause so I can say "okay" aloud after the exhale?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'll try to give you a bit more space to breathe. Take one deep breath in... (pause for a very long time)
+
+Exhale... (pause for another very long time, until you feel ready to speak)
+
+Okay.
+
+Please take your time, and try to breathe naturally. Don't worry about the postmortem thoughts or the shame. Just focus on the sensation of your breath moving in and out of your body. Can you do that for me?
+
+Patient: I'm trying — there's a tiny loosening but that hot, sharp shame keeps spiking and my mind scrambles. Can we do one very slow guided breath where you say "inhale" (I breathe), hold a long beat, then say "exhale" (I breathe), and then I say "okay" out loud? I'm feeling scattered and embarrassed for needing this, so I need the clear, slower cue—please don't rush.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm going to give you the slowest, most gentle guidance possible. Here's your breath:
+
+Inhale... (pause for a very long time, about 20-30 seconds)
+
+(exhale, with a very long beat of about 30-40 seconds)
+
+Okay.
+
+Take your time, and when you're ready, just say "okay" out loud again. I'm here, and I'm not going anywhere. You're safe.
+
+Patient: Okay. Okay — I said it. There's a tiny loosening but that hot shame spikes and my brain immediately goes into a postmortem/debug mode like I'm back-filling a bug report; I'm distracted, embarrassed, and honestly feeling overwhelmed. Can we slow and switch to something concrete—like role-playing a 30‑second script I could use at a gathering (what to say when I feel panicky, or a polite exit line)? I keep defaulting to analysis instead of actually feeling this, and I need a practical scaffold I can use in the moment.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm glad you said "okay." It takes a lot of courage to acknowledge when we need help.
+
+Now, let's switch to something concrete. I'd like to help you with a role-playing exercise. We'll practice a 30-second script that you can use in a gathering situation. This will help you feel more comfortable and prepared.
+
+Here's a scenario: You're at a party, and you're feeling a bit anxious or overwhelmed. You don't know anyone well, and you're not sure what to say. You're worried that you might say something embarrassing or awkward.
+
+Let's try a simple exit line: "Excuse me, I need to refill my drink. Nice meeting you."
+
+We'll practice saying this line a few times, and then we can add some variations. Remember, this is just a scaffold to help you feel more comfortable in the moment. You can always adjust it or add your own flair.
+
+Are you ready to give it a try?
+
+Patient: Okay — I'm willing to try, though I'm already jittery and my brain's prepping a little analytic postmortem. Can we do three short, practical 30‑second scripts: a neutral exit, a brief vulnerability line to a friend, and a concise panic/exit line? I'd like you to role-play the other person and give me a cue so I can rehearse responses in real time.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'll do my best to help you feel more prepared.
+
+Here's the first script: Neutral Exit. I'll play the role of a friendly host.
+
+You: (say whatever you'd like to say, I'll respond accordingly)
+
+For example, if I say "It's great to see you here! How's your week been?", I'll give you a cue to respond. Let's start.
+
+Note: I'll respond in a way that's not too intense or overwhelming. Remember, this is just a simulation to help you feel more comfortable.
+
+Are you ready to start?
+
+Patient: Okay — I'm ready to try, though I'm jittery and my brain's already drafting a postmortem and this familiar shame is bubbling up, so I might sound analytical. I'm not sure I follow the exact timing—could you start by playing the host with "It's great to see you here! How's your week been?" and give me a short pause after each line so I can reply? Please keep it low-intensity and cue the neutral exit first, then the brief vulnerability to a friend, then the panic/exit.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'll play the host and give you a low-intensity response. You can take your time to respond.
+
+It's great to see you here! How's your week been?
+
+(Pause for about 2-3 seconds)
+
+I'll wait for your response before giving the next line. Remember, you can take your time and respond as you would in a real situation.
+
+(Note: I'll keep the pause short at first, and gradually increase it if you need more time to respond. Let's start slow and see how it goes.)
+
+Patient: It's been... functional — buried in code and meetings, but socially I'm skittish and low-energy. I keep defaulting to framing my avoidance as a predictive model of attachment anxiety instead of admitting I'm lonely, which is a way of hiding. There's a hot spike of shame and scatter in me right now, so can we go ahead and run that neutral-exit script you mentioned, with your cue so I can rehearse it?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're already getting into a bit of a self-protective pattern, framing your avoidance as a way to cope with attachment anxiety. I want to acknowledge that it takes a lot of courage to admit that you're feeling lonely, and that it's a valid reason to be low-energy and skittish in social situations.
+
+Now, let's get to that neutral-exit script. I'll give you a cue to respond, and we'll move on to the next script.
+
+Neutral Exit:
+I'm going to head to the kitchen to grab a drink. It was great catching up with you, though!
+
+(Pause for about 2-3 seconds)
+
+Your turn! Please respond as you would in a real situation. I'll give you a follow-up line based on your response.
+
+Patient: Thanks—enjoy. I’ll top up my drink and step outside for a quick recalibration; my social allostatic load’s spiking and I feel a little embarrassed about needing this, but I need the pause. Ready for the brief vulnerability script whenever you cue me.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're getting a bit overwhelmed and embarrassed about needing to take a break. That's completely understandable, and it's okay to prioritize your own needs.
+
+Now, let's move on to the brief vulnerability script. I'll give you a cue to respond, and we'll explore a more vulnerable conversation with a friend.
+
+Brief Vulnerability:
+Hey, Sarah, can I talk to you about something for a minute? I feel like I'm doing okay, but I'm really struggling with some stuff right now. I'm just feeling a bit lost and alone, and I don't know how to deal with it.
+
+(Pause for about 2-3 seconds)
+
+Your turn! Please respond as you would in a real situation. I'll respond with a follow-up line based on your response.
+
+(Note: I'll try to respond in a way that's supportive and non-judgmental. Remember, this is just a simulation to help you feel more comfortable sharing your vulnerabilities.)
+
+Patient: Okay—Sarah, I appreciate you asking. My reflex is to translate this into a model—grief-related hypervigilance, anxious attachment activation, predictive avoidance—because that’s safer than saying it feels awful. Put simply: I’m lonely, I get that hot shame and my chest tightens when I try to lean on someone, and I don’t actually know how to ask for help without feeling like I’ll collapse. I’m jittery and scattered right now—what would you say to me if I said that to you in person?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm so glad you shared that with me. It takes a lot of courage to admit how you're feeling, especially when it comes to vulnerability and shame.
+
+If you said that to me in person, I would probably take a deep breath, look you in the eye, and say something like: "Wow, I can see that this is really tough for you. It sounds like you're feeling a mix of emotions, and it's okay to feel that way. Can you tell me more about what's been going on and how you've been feeling lately? I'm here to listen and support you in any way I can."
+
+Or, if I'm being completely honest, I might just give you a big hug and say something like: "I'm so sorry you're feeling this way. You're not alone, and I'm here for you. We can get through this together, okay?"
+
+The point is, I would want you to know that I see you, I hear you, and I'm here to support you. I wouldn't try to fix it or offer any quick solutions. I would just be present and offer a listening ear.
+
+Now, let's move on to the panic/exit script. I'll give you a cue to respond, and we'll explore a more intense conversation.
+
+Panic/Exit:
+Oh my god, I'm so sorry to hear that you're feeling this way. Can you please step outside for a minute? I need to get some fresh air and calm down.
+
+(Pause for about 2-3 seconds)
+
+Your turn! Please respond as you would in a real situation. I'll respond with a follow-up line based on your response.
+
+(Note: I'll try to respond in a way that's supportive and calming. Remember, this is just a simulation to help you feel more comfortable in a panic situation.)
+
+Patient: Yeah—thank you. I’m suddenly flooded with that hot shame and my chest’s tightening, so I need to step outside to catch my breath and steady my nerves. I’d probably say, “Excuse me, I need a minute to get some fresh air—will be right back,” which feels like a concrete, non-awkward exit. I’m annoyed at myself for needing the pause, but I need it to avoid spiraling.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're having a bit of a crisis moment, and you need to step outside to collect yourself. That's a completely normal response, and it's okay to prioritize your own needs right now.
+
+Your exit line sounds like a perfect way to handle the situation. It's brief, it's clear, and it gives you the space you need to take a few deep breaths and calm down. You're not trying to hide or avoid the conversation; you're just taking care of yourself for a minute.
+
+Remember, it's okay to take a break and step outside. It's not a sign of weakness; it's a sign of self-care. And if someone asks you where you're going, a simple "I need a minute" or "I'm going to step outside" is enough. You don't owe anyone an explanation.
+
+Now, take a deep breath, and let's get back to the conversation. We can pick up where we left off, and I'll try to respond in a way that's supportive and non-judgmental.
+
+Patient: Okay — I want to keep going, but I'm feeling jumpy and a hot spike of shame just hit me and it's hard to focus. My reflex is to turn these scripts into flowcharts, but right now I need concrete, moment-to-moment cues — can we role-play the panic/exit again with you delivering the host line and pausing so I can practice the exit? Also, can you give me a one-line grounding phrase I can say to myself when that shame spikes?

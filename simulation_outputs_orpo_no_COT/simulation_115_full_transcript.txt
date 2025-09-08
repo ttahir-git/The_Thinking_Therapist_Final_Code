@@ -1,0 +1,228 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been having a lot of anxiety in social situations lately, to the point I just avoid gatherings with friends even when I want to go. I'm a senior data scientist, so I tend to analyze things, but this feels different and I don't really know how to make sense of it. I guess it's left me pretty isolated and I'm not sure where to start.
+
+
+--- Turn 1 ---
+Therapist: It sounds like you're noticing a big gap between what matters to you – connecting with friends – and how that's not happening right now. When you say it feels different from the usual anxiety you experience as a data scientist, what does that difference look like?
+
+Patient: I don't know...when it's work stuff I can treat it like a problem to debug, but this feels different — my heart races, my thoughts get fuzzy, and I can't step back and analyze it. I guess it's more about feeling exposed or judged around people, so I either want to slip out or not go at all.
+
+
+--- Turn 2 ---
+Therapist: So when you're in those social situations, what matters most to you – being with your friends – feels like it's tangled up with this feeling of being exposed or judged. That sounds really tough. Would you be willing to try making room for that feeling, just for a moment, while you're with your friends?
+
+Patient: I don't know... I guess I could try, but it feels really uncomfortable — like I'm exposing something I can't debug. How would I even make room for it without getting more anxious?
+
+
+--- Turn 3 ---
+Therapist: It sounds like the thought of letting that feeling be there while you're with your friends is what's really holding you back. Would it be helpful to try noticing what happens when you make space for that feeling, just for a tiny moment – like when you notice your heart racing, but you don't try to change it?
+
+Patient: I don't know... I guess I could try noticing, but when I do my mind just grabs at everything and I start panicking. How would I even do that in the middle of a conversation — is there a quick thing I could try without making it worse?
+
+
+--- Turn 4 ---
+Therapist: It sounds like your mind is already racing when you notice it. When that happens, what if you could just say to yourself, "I'm noticing that my mind is racing" – without trying to fix it, just noticing that it's there?
+
+Patient: I don't know... I guess saying that out loud to myself sounds kind of simple, but in the moment I’d probably still get swallowed by the panic. How do I actually practice that in the middle of a conversation without it spiraling — like what would I say or do, exactly?
+
+
+--- Turn 5 ---
+Therapist: That's a great question about what you'd do in the moment. What if, instead of trying to say something to your mind, you simply *let go* of the need to fix it?
+
+Patient: I don't know... I guess "letting go" sounds okay in theory, but in the moment my mind just grabs at everything and I feel judged. How would I actually let go without freezing up or sounding weird in the middle of a conversation?
+
+
+--- Turn 6 ---
+Therapist: When your mind is already racing, it can feel like letting go is the opposite of what you're doing. What if, instead of trying to "let go", you just *pause* for a tiny moment – a single breath – before responding?
+
+Patient: I don't know... I guess taking a breath sounds doable in theory, but in the moment I worry it'll feel weird or I'll forget and then freeze. How do I practice that so it doesn't make me look awkward or make the panic worse?
+
+
+--- Turn 7 ---
+Therapist: It sounds like the worry about feeling weird or freezing is already showing up. What if, instead of trying to control the pause, you simply *notice* the worry – like "Oh, I'm worried about freezing" – and then *move forward* with the pause anyway?
+
+Patient: I don't know... I guess I could try noticing the worry, but in the moment it just swallows me and I freeze. Can you give me a tiny, concrete script — like one breath and a short internal phrase — and can we practice it now?
+
+
+--- Turn 8 ---
+Therapist: I can try. Here's a tiny script: "One breath in, 'I'm here with my friends'. One breath out, 'I'm here with my friends'".
+
+Patient: I don't know... I guess I can try. Okay — one breath in, "I'm here with my friends." One breath out, "I'm here with my friends." That felt really awkward, my chest's still tight and my thoughts kept interrupting; I don't know if I did it right.
+
+
+--- Turn 9 ---
+Therapist: It sounds like you did it anyway, even when it felt awkward. That's actually really brave. What matters most to you in that moment – what you were trying to do – wasn't just about doing it "right" or "wrong", but about being present with your friends.
+
+Patient: I don't know... I guess that does matter, but it still feels impossible in the moment — like I'm exposed and my chest just locks up. I'm getting overwhelmed even talking about it. Can we go over another tiny step I could actually use when it starts, like something really quick to do without drawing attention?
+
+
+--- Turn 10 ---
+Therapist: It sounds like the feeling of exposure is really hard to bear right now. What if, when that feeling shows up, you could just *shift your focus* to something tiny – like noticing the sensation in your feet on the ground?
+
+Patient: I don't know... I guess I can try noticing my feet. Right now they feel heavy and a bit tingly, and my chest is still tight — noticing them doesn't seem to make the panic go away. What would I do next if the panic keeps rising after I notice my feet?
+
+
+--- Turn 11 ---
+Therapist: It sounds like noticing your feet helped for a moment, but the panic came back. What if, when that happens, you could just *make room* for it again – not trying to stop it, but just making space for it to be there?
+
+Patient: I don't know... I guess making room sounds right, but when I try my mind just grabs at everything and I freeze. I'm getting overwhelmed even thinking about it — can we try one tiny, private thing I could do, like pressing my thumb and forefinger together or saying a silent word, and can we practice that now?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist: It sounds like the thought of making room is getting overwhelming. What if, instead of trying to make room, you simply *made the tiny gesture* – pressing your thumb and forefinger together – without thinking about it?
+
+Patient: I don't know... I'm not sure I follow — how is pressing my thumb and forefinger together supposed to help? I guess I can try, but it feels kind of silly and I'm already nervous my hands will shake or it'll make me more awkward.
+
+
+--- Turn 13 ---
+Therapist: It sounds like the thought of doing the gesture is what matters to you – not the gesture itself. What if, when you're worried about doing it "right" or "wrong", you simply *let go* of that worry and *did* the gesture anyway?
+
+Patient: I don't know... I guess I did it — my thumb and forefinger are pressed together, my hand's a bit shaky, and my chest is still tight. How is that supposed to help? It doesn't feel like it's changing anything and I'm getting annoyed and kind of panicky. Can we try a different tiny thing I could do without it looking weird, or practice this a few times so it stops feeling so strange?
+
+
+--- Turn 14 ---
+Therapist: It sounds like the physical sensation of the gesture wasn't what you needed, but the feeling of trying to do it "right" was what mattered. What if, instead of focusing on the gesture, you simply *felt the tightness* in your chest – just noticed it as a sensation – while your thumb and forefinger are pressed together?
+
+Patient: I don't know... I'm not sure I follow how that helps, but I guess I'll try. My chest feels tight and kind of hollow when I focus on it, and my thoughts just jump all over the place so it's hard to stay with it. Can we try something else small that feels less weird, or practice that a couple more times so it stops throwing me off?
+
+
+--- Turn 15 ---
+Therapist: It sounds like you're getting a tiny bit of traction when you focus on the tightness. What if, when you notice the thoughts jumping around, you simply *allowed them to be there* – without trying to change them or push them away – while you keep your focus on the tightness in your chest?
+
+Patient: I don't know... I'm not sure I follow how just "allowing" them helps — when I try that my mind grabs at the thoughts and I start drowning. I guess I could try, but my instinct is to fix or escape, like it's a bug to patch. Can we do one concrete thing now — one slow breath while pressing my thumb and forefinger — and have you guide me through it so I don't just freeze?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist: Let's try it together. Here's what I'd like you to do: 
+
+Take one slow breath in, feeling the air move into your body... 
+
+(Pause for a moment)
+
+While you breathe out, I want you to notice the tightness in your chest – just that sensation – as you press your thumb and forefinger together... 
+
+(Pause again)
+
+Notice how that tightness feels, without trying to change it... 
+
+(One more slow breath)
+
+Patient: I don't know... I'm not sure I follow how that helps. I tried — I took the breath in, pressed my thumb and forefinger as I breathed out, and my chest felt tight and hollow; my hand shook and my thoughts kept jumping all over so I couldn't stay with it. I guess it slowed me a little, but not enough; I'm still pretty panicky. Can we try a different tiny thing — maybe counting "1‑2‑3" on the out‑breath — and do it together again so I don't just freeze?
+
+
+--- Turn 17 ---
+Therapist: Let's try the counting together. Here we go:
+
+Take one slow breath in... 
+
+(Pause for a moment)
+
+When you breathe out, start counting "1" with your thumb and forefinger pressed together... 
+
+Count "2" while you exhale... 
+
+And count "3" as you exhale completely... 
+
+(Pause for a moment)
+
+Notice how your body feels – including your chest tightness – while you count "4" and "5" with your hand still pressed together... 
+
+(One more slow breath)
+
+What happens when you reach the end of the count?
+
+Patient: I don't know... I guess when I get to the end of the count there's this tiny gap — my chest loosens for a second — but then the thoughts rush back and I feel stuck again. My hand still shakes and I feel awkward, like people can tell I'm nervous. Can we try it again a few times, or is there something even smaller I could do that won't draw attention?
+
+
+--- Turn 18 ---
+Therapist: That tiny gap sounds like it might be helpful. 
+
+What if, instead of trying to keep the count going, you simply *allowed that gap to be there* for a moment – just noticing it while you breathe out – without trying to push it away or fix it? 
+
+We can try that for just a second: breathe in... 
+
+(Pause for a moment)
+
+Breathe out and notice the gap in your chest... 
+
+(Pause again)
+
+Notice how your hand feels – still shaking, still nervous – but what about that tiny gap?
+
+Patient: I don't know... I guess there is that tiny loosen — like half a beat — but it vanishes and the thoughts just rush back. It feels weird and kind of exposing to hold onto it, and I'm getting uncomfortable. Can we try another really small thing or do that a couple more times so it feels less strange?
+
+
+--- Turn 19 ---
+Therapist: That tiny loosen feels like it matters to you – even if it's fleeting. 
+
+What if, just for a moment, you allowed that tiny loosen to be there *without holding onto it*? Not trying to push it away, but just noticing that it was there – like a tiny whisper – before the thoughts rushed back? 
+
+We can try that for just a tiny moment: breathe in... 
+
+(Pause for a moment)
+
+Breathe out and notice the tiny loosen – even if it's just for a second – before the thoughts come back...
+
+Patient: I don't know... I guess when I breathed out there was that tiny loosen — like half a beat — but it slips away and then the thoughts rush back and I feel kind of stupid for even noticing. I'm getting kind of overwhelmed talking about this — can we slow down? Also, could we try something more concrete I can use in public, like a short excuse to step outside or a one‑line I can say when I need a break?
+
+
+--- Turn 20 ---
+Therapist: It sounds like noticing that tiny loosen is getting caught up in self-criticism. 
+
+Let's take a step back – what if, instead of trying to notice it, we just *made room* for that tiny loosen to be there – even if it slips away? Not trying to change it, but just allowing it to be there *as it was*. 
+
+Now, about that concrete thing: what if, when you feel the thoughts rushing back and you need a break, you simply *said to yourself* "I'm going to take a minute to breathe"? – like a one-line phrase that gives you permission to step away for a second.
+
+Patient: I don't know... I guess that phrase could help, but would it be something I say out loud or just to myself? I'm worried saying it out loud will sound weird or obvious — could you give me a couple of very short, normal-sounding lines I could use to step outside (like "I need some air" or "I have to make a quick call")? Can we practice one of them now, slowly, so I don't just freeze? I'm getting a bit overwhelmed, so can we keep it really small and go step by step.
+
+
+--- Turn 21 ---
+Therapist: It sounds like you're worried about what others might think if you say it out loud. 
+
+Let's focus on a super small step: what if you just *said to yourself* "I need some air" while you're standing there? Not trying to make it sound normal, just noticing that it's a phrase that might help you step away for a second. 
+
+We can practice that for just one second: take a deep breath in... 
+
+(Pause for a moment)
+
+Say to yourself: "I need some air"
+
+Patient: I don't know... I guess I tried it — I took the breath and said "I need some air" to myself. It felt like a tiny permission, like my chest eased for a second, but my hands are still shaky and I'm worried it would sound weird out loud. I'm getting a bit overwhelmed — can we slow down and practice one or two short, normal-sounding lines I could actually say, slowly, so I don't freeze?
+
+
+--- Turn 22 ---
+Therapist: It sounds like saying "I need some air" felt like a tiny breakthrough. 
+
+Let's focus on just one small step: what if you *said to yourself* "I have to make a quick call"? Not trying to make it sound normal, just noticing that it's a phrase that might give you permission to step away.
+
+Patient: I don't know... I guess I can try saying "I have to make a quick call" out loud, but that feels awkward — I'm worried people will think I'm avoiding them. Can we practice it slowly together now, and maybe try another short line like "Excuse me, I need a moment" so I can see which one feels less weird?
+
+
+--- Turn 23 ---
+Therapist: It sounds like saying "I have to make a quick call" feels like it might not be the right fit. 
+
+Let's try another small step: what if you *said to yourself* "Excuse me, I need a moment"? We can practice saying that together, slowly, without worrying about what others might think.
+
+Patient: I don't know... I guess I can try. "Excuse me, I need a moment." Saying it out loud felt weird — my chest tightened and my voice came out shaky. I'm not sure I follow how practicing it here will stop me freezing in a group; can we slow down and try that one and "I have to make a quick call" back‑to‑back so I can see which feels less awkward?
+
+
+--- Turn 24 ---
+Therapist: It sounds like saying it out loud still felt really uncomfortable. 
+
+Let's try something small: what if you just *said both phrases to yourself* - "Excuse me, I need a moment" and "I have to make a quick call" - right now, while we're still here? Not trying to make it sound normal, just noticing that they're there.
+
+Patient: I don't know... I guess I can try saying them to myself. "Excuse me, I need a moment." "I have to make a quick call." Saying them silently felt like a tiny permission, but my chest tightened and my hands shook — I’m not sure I follow how that stops me from freezing. Can we slow down and do one of them out loud together, slowly, so I don’t just panic?
+
+
+--- Turn 25 ---
+Therapist: It sounds like saying them to yourself still felt a bit uncomfortable. 
+
+Let's try saying "Excuse me, I need a moment" out loud together, slowly. I'll start: "Excuse me, I need a moment."
+
+Patient: I don't know... I guess, "Excuse me, I need a moment." Saying it out loud made my voice shake and my chest tighten, and I'm not sure I follow how that won't just make me look like I'm avoiding people. Can we slow down and try it one more time, then try "I have to make a quick call" so I can see which feels less awkward?

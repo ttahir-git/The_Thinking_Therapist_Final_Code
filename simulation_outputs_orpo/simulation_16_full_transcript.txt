@@ -1,0 +1,358 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been feeling really stuck lately, like after all these years the only thing that defines me is being a nurse. Since I lost my wife my self‑esteem's taken a dive and I honestly don't know what matters to me beyond work. I’m skeptical this will help—I’ve tried talking before and it didn’t do much, so how is this supposed to help?
+
+
+--- Turn 1 ---
+Therapist Thinking:
+Patient expresses feeling stuck and uncertain about their identity beyond nursing, which is closely tied to their grief over losing their wife. Core emotion is desperation. Goal: Explore the tangible context of this "stuckness" to identify potential areas for action.
+
+Therapist Answer:
+That feeling of being defined by your work and struggling to find meaning outside of it sounds really tough right now. Can you think of one specific time recently when you felt stuck in that way? Like, what was the situation, and what were you doing when it happened?
+
+Patient: Last Sunday after my evening shift I came home, made tea out of habit, and sat in the chair where my wife used to be — the silence hit me like a weight and I found myself just staring, feeling like I'm nothing but a nurse. A few weeks ago I tried a daytime knitting group to force something different, but I left after twenty minutes because I couldn't make the small talk and felt useless. I keep doing these little attempts and they fizzle, so honestly—how is talking about this supposed to help?
+
+
+--- Turn 2 ---
+Therapist Thinking:
+Patient describes a poignant moment of feeling stuck, using the chair where their wife used to sit, highlighting the emotional weight of their loss. They mention a previous attempt at a knitting group, which failed due to small talk, revealing avoidance of emotional vulnerability. Goal: Introduce willingness as an alternative to struggle, acknowledging the effort they've made despite fizzle.
+
+Therapist Answer:
+It takes a lot of courage to sit in that chair, staring at the silence after your wife's passing. You've already shown up to try new things, even if they didn't work out – that takes strength. What if, instead of trying to fill the space with small talk, you allowed yourself to simply notice the weight of that silence? Just be with it, without trying to change it or fill it.
+
+Patient: I tried that once, just sitting with the silence, and it didn't settle—it felt like the room got bigger and the missing pieces sharper. I start noticing every little memory and then I feel stupid for not being able to fix it, and my hands get shaky. How is that supposed to help—what exactly am I meant to be looking for when I "notice" it?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+Patient describes the sensation of trying to sit with the silence, which led to an increase in emotional intensity rather than calmness. They reveal avoidance of vulnerability by focusing on "fixing" the memories, which fuels shame. Goal: Introduce defusion by reframing their experience, making the goal not about fixing but about creating space.
+
+Therapist Answer:
+It sounds like when you try to sit with the silence, your mind starts to amplify the emotions and memories, making it harder to be with the feeling. Instead of trying to fix that, what if you looked at the "room getting bigger" as an opportunity to notice what's happening in your body? Like, where are your hands shaking, and what's the sensation in your chest? You're not trying to fix the memories, just making space for the physical sensations that come up.
+
+Patient: When I sit with it my hands start trembling—fingers cold and a kind of buzzing—and my chest feels heavy, like someone’s sitting on it, and my breath gets shallow. I don’t see how noticing that changes anything; paying attention just makes me more aware of how empty it is and then I start panicking. How is that supposed to help?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+Patient describes a vivid physical experience while sitting with the silence, which is accompanied by panic. Core emotion is overwhelm. Goal: Connect the physical sensations to underlying values, shifting from avoidance to willingness.
+
+Therapist Answer:
+It sounds like when you notice your hands trembling and chest feeling heavy, that physical pain is actually a signal that you're showing up to the feeling of emptiness. What's underneath that pain for you? What matters most to you right now?
+
+Patient: I think underneath it all is this ache of feeling not enough—useful at the hospital, but invisible otherwise, like I only matter when I'm doing a job. What matters most right now is not being so alone and not feeling like I'm failing at being a person when I'm not at work; I want to matter for more than a shift, but I don't know how. I don't see how just saying that out loud changes anything—how is that supposed to help?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+Patient reveals the underlying value of connection and self-worth, which is tied to their work identity. Core emotion is desperation. Goal: Connect the value to a concrete action, making the transition from values to action tangible.
+
+Therapist Answer:
+That ache of feeling not enough is what matters most to you right now. When you say it out loud, it doesn't change the ache, but what if it changed how you respond to it? What would you do with that feeling of not being enough, if you weren't trying to hide it behind your work?
+
+Patient: I guess I'd try letting people see me — call an old friend, go back to the church group, or do the gardening my wife used to love — but I always bail or feel useless when I try. I don't see how any of that would actually change the feeling; it just makes me more vulnerable and then I worry I'll fail and be more alone. So... how is that supposed to help, really?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+Patient describes a pattern of avoidance and self-doubt when trying to connect with others or engage in activities they used to enjoy with their wife. Core emotion is self-doubt. Goal: Introduce willingness as an experiment, not a solution, to challenge the pattern of avoidance.
+
+Therapist Answer:
+It sounds like you're stuck in a cycle of trying to prove you're not useless, but that just makes you more anxious. What if, for just one small moment, you didn't try to prove anything? What if you just showed up to the gardening or the church group without a plan, without expecting anything to change?
+
+Patient: I don't know — when I show up without a plan I just end up feeling like a fraud and leave after a few minutes. Maybe I could force myself to stay five minutes, but how is that supposed to help if I just sit there feeling empty and everyone sees me like that? I'm tired of failing at small things; I worry showing up will just prove I'm still stuck.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+Patient describes a pattern of trying to force themselves to stay, which ultimately leads to feelings of emptiness and self-doubt. Core emotion is self-doubt. Goal: Introduce a small, low-stakes experiment to challenge the pattern of avoidance.
+
+Therapist Answer:
+You're right that showing up without a plan doesn't change the emptiness, but what if you started with something even smaller? What if you just sat in silence for one minute, without trying to achieve anything or prove anything to anyone?
+
+Patient: I guess I could try sitting for a minute, but I did that before and it just turned into a panic—my hands shake and the room feels too big. How is that supposed to help when all it does is make me notice how empty everything is? I’ll try it if you want, but I don’t expect it’ll change much.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+Patient expresses skepticism about the value of sitting in silence, given its previous association with panic. Goal: Reframe the goal from changing the experience to creating space for curiosity.
+
+Therapist Answer:
+I'm not expecting it to change everything, just that it might change how you notice the emptiness. Can you try sitting for just one minute without trying to achieve anything or change it? No expectations, just curiosity: "What happens when I just sit with this feeling of emptiness for one minute?"
+
+Patient: Alright, I'll try the minute, but I'm not convinced. I sat for it — my hands trembled, my breath got shallow, memories flooded in and I started to feel panicky, like the room was bigger and colder. I don't see how noticing that helps; can we slow down? What am I supposed to do with the panic when it hits?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+Patient describes the familiar pattern of panic, and their skepticism about its usefulness. Core emotion is frustration. Goal: Introduce defusion to separate the experience of panic from the story about it.
+
+Therapist Answer:
+You noticed the physical sensations, memories, and the feeling of panic – that's all. What if, instead of trying to change the panic, you just noticed it as it shows up, without judgment? You're already noticing the trembling, shallow breath, and memories; what if you just looked at that trembling, without trying to "fix" it or change it?
+
+Patient: When I try to look at the trembling it just gets louder—my hands shake more, my thoughts race, and then I’m drowning in all the things I feel I’ve failed at. I’ve tried naming sensations before—“tight chest, shaky hands”—and it didn’t calm me, it just made the memories sharper, so how is staring at this supposed to stop the panic or help me feel less useless? If you want me to try again, tell me exactly what to do in the moment—counting, breathing, or something concrete—because vague suggestions just leave me feeling foolish and more anxious.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+Patient describes the familiar pattern of escalation, and their skepticism about defusion. Core emotion is desperation. Goal: Introduce a concrete, low-stakes defusion technique to challenge the pattern of avoidance.
+
+Therapist Answer:
+When the trembling shows up, I want you to notice the sensation of your tongue touching the roof of your mouth. Just notice that sensation, without trying to change it or label it. No counting, no breathing, just the sensation of your tongue touching the roof of your mouth.
+
+Patient: I tried it — pressed my tongue to the roof of my mouth and paid attention to the slight pressure and coolness. It was a tiny anchor, but my hands were still shaking and the memories kept coming back louder. How is that supposed to help when everything else is shouting? If you want me to keep doing this, tell me exactly how long and what to do if the panic gets worse.
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+Patient describes the initial success of the tongue-on-roof-of-mouth technique, but the persistence of panic. Goal: Introduce a small, incremental shift to anchor the defusion in the value of connection.
+
+Therapist Answer:
+You noticed the tiny anchor – that's a great start. For the next minute, when the panic starts to come back, I want you to focus on the sensation of your fingers on the armrest. Just notice the weight of your arm on the chair, without trying to change it or push it away. When you feel the panic start to swell, take 5 deep breaths, and then slowly, without changing your body position, say to yourself, "I'm here with my hands on the armrest."
+
+Patient: I tried it — set my fingers on the armrest, noticed the weight, took the five deep breaths, and slowly said the line to myself. For a moment it was a tiny anchor, but then this stupid wash of shame and frustration hit and my chest tightened worse, like whatever I do just proves I'm failing. How is that supposed to help when the shame drowns the anchor? Also — what if five deep breaths makes me lightheaded or the panic spikes harder; how long do I keep doing this and what do I do if it gets worse or people hear me saying that sentence?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+Patient describes the persistence of shame and frustration, despite the small anchor. Goal: Introduce a crucial consideration for value-based defusion.
+
+Therapist Answer:
+When the shame hits, you noticed it as a physical sensation in your chest – that's exactly what we're working with. The goal isn't to change the shame, but to make space for it. When you said "I'm here with my hands on the armrest," what was the value that showed up for you in that moment? Was it a tiny spark of connection to your body, or something else?
+
+Patient: It felt like a tiny spark — a little reminder that I exist as a person, not just a nurse; like maybe I could matter to myself outside of work. But then that wave of shame slammed into me and it felt like whatever small thing I did just proved I’m still a failure. How is that supposed to help—how do I make that spark stay instead of being drowned, and exactly how long am I meant to do these anchors when the panic gets worse or people can hear me?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+Patient describes the value of the spark, but its suffocation by shame. Goal: Introduce a crucial shift to anchor defusion in willingness, not effort.
+
+Therapist Answer:
+The shame wave didn't take away the spark – it's still there, as the tiny reminder that you exist as a person. When the shame hits, instead of trying to push it away or change it, I want you to ask yourself: "What would it take for me to be willing to let this shame be, even if it means I'm still a failure?" What's the smallest thing you could do to make room for that willingness, right now?
+
+Patient: I suppose the smallest thing I could do is give myself permission for just 30 seconds to feel the shame without trying to fix it — keep my hand on the armrest, take three slow, gentle breaths, and say once, “I’m here” or “It’s okay to feel this.” It feels silly and shameful to even plan it, but at least it’s concrete and short. How is that supposed to help, and what if the panic spikes — do I stop immediately or keep going until the 30 seconds are up?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+Patient describes a concrete, willingness-based plan to anchor defusion in the 30-second window. Goal: Introduce flexibility to accommodate the unpredictable nature of panic.
+
+Therapist Answer:
+That's a great plan – the key is to focus on the willingness to let the shame be, not on fixing it. If the panic spikes, don't stop immediately; instead, pause for a brief moment (just a beat) to acknowledge the intensity of the feeling. Then, gently bring your attention back to the plan: take three slow, gentle breaths, and say "I'm here" or "It's okay to feel this."
+
+Patient: I tried the 30 seconds — hand on the armrest, three slow breaths, said “I’m here” once. For a moment it steadied me, then that stupid wave of shame hit harder and I felt dizzy and somehow more useless. So do I keep forcing the 30 seconds even if it spikes worse, or stop if I feel faint? I don’t know — I’ve done these little anchors before and they don’t stick, so can we slow down?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+Patient describes a moment of breakthrough, but also the familiar pattern of shame and dizziness. Goal: Introduce a crucial shift from forcing the anchor to trusting the process.
+
+Therapist Answer:
+You've already shown that the 30 seconds can be a tiny anchor – what if, instead of forcing it, you simply trusted that it might be enough? What if, when the shame wave hits harder, you didn't try to push through it or stop the exercise, but instead gently noticed the sensation of your body responding – the dizziness, the feeling of being more useless? Would you be willing to just observe that, without judgment, for just a moment?
+
+Patient: I can try to observe, but when that shame hits my chest tightens, my hands shake and it drags me back to that old failure — it just makes me doubt this will help. How is just watching the dizziness supposed to stop it? If I'm going to try, be concrete: keep my eyes open or closed, rest on the armrest, count or not, and if I feel faint do I stop right away or try to breathe through it? I'm nervous and this feels fragile, so can we slow down.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+Patient expresses skepticism about the value of observing the dizziness, and questions the feasibility of the exercise. Goal: Introduce a concrete, incremental step to anchor defusion in the presence of physical discomfort.
+
+Therapist Answer:
+Let's start with something small. I want you to focus on noticing the sensation of your hands shaking, without trying to stop it or change it. Just notice the physical sensation of your fingers trembling, without judgment. You can keep your eyes closed, rest on the armrest, or simply focus on the sensation of your hands. If you feel faint, don't try to push through it – instead, gently acknowledge the sensation of your body responding, and then slowly take one deep breath.
+
+Patient: Okay — I’ll try, but I’m nervous. My hand’s already trembling and my chest’s tightening; the shame ramps up and I feel like running away. Do I keep my eyes open (closing makes me dizzy) and just watch it until it passes, or do I switch to breathing if the panic spikes but I’m not faint? And honestly, how is watching this supposed to stop that shame from swallowing me?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+Patient describes the intensity of their physical sensations and shame, which is escalating their avoidance. Goal: Reframe the goal from stopping the shame to creating space for a tiny moment of acceptance.
+
+Therapist Answer:
+Your hand's trembling and chest tightening are exactly what you're working with – they're the sensations that show up when the shame hits. Instead of trying to stop the shame or change the sensations, I want you to notice the tiny space between the trembling and the tightening. You can keep your eyes open (if that's manageable) or focus on your breath – just notice the sensation of the breath moving in and out of your body. For one tiny moment, say to yourself, "I'm here with my hand trembling" or "I'm feeling the tightness in my chest." That's not about stopping the shame; it's about creating space for a tiny moment of acceptance.
+
+Patient: I tried that — kept my eyes open and tried to notice the tiny space between the trembling and the tightness, but the shame slammed in and that old failure bubbled up so fast I wanted to run. How is that supposed to help when noticing just seems to make the shame louder? Be concrete: how long do I stay with that noticing—30 seconds, a minute?—and if I start to feel faint or the panic spikes should I stop right away or keep breathing through it? Also, what if someone hears me saying “I’m here”—do I keep doing it? I’m nervous and this feels fragile, so can we slow down.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+Patient expresses frustration that noticing the space between sensations didn't work as expected, and worries about staying with the noticing process. Goal: Introduce a concrete anchor that builds on the tiny moment of acceptance.
+
+Therapist Answer:
+Let's try something new. Instead of focusing on the space between sensations, I want you to notice the sensation of your breath moving in and out of your body. When you said "I'm here" earlier, what did your body feel like in that moment? Notice the physical sensation of your voice, the sensation of your mouth and tongue touching your teeth. That's a tiny anchor that you can come back to. Let's start with 10 seconds, then 20 seconds, and see how you feel. If you start to feel faint or the panic spikes, don't stop immediately – instead, gently acknowledge the sensation and take one deep breath. You can say to yourself, "I'm here with my breath" or "I'm feeling the weight of my body."
+
+Patient: Okay — I’ll try the 10 then 20 seconds, but I’m really nervous. My hands are already shaking and that old failure bubbles up and makes my chest clamp shut and I feel dizzy. Be concrete: should I keep my eyes open, rest my hand on the armrest, and count the seconds in my head or do you count them? And if I start to feel faint or the panic spikes, do I stop immediately or try one deep breath and keep going? I don’t see how two short stretches will change the dozen times I’ve tried breathing—so can we slow down and go step‑by‑step?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+Patient describes the intensity of their physical sensations and shame, which is overwhelming their previous attempts at breathing. Goal: Introduce a concrete, small step that builds on the previous anchor.
+
+Therapist Answer:
+Let's break it down even further. For the 10-second stretch, I want you to rest your hand gently on the armrest, not on your leg or anything else. Keep your eyes slightly open, but not focused on anything – just notice the sensation of your hand touching the armrest. Don't try to count the seconds; instead, focus on the sensation of your hand relaxing slightly as you rest it there. If you feel dizzy or the panic spikes, don't stop immediately – instead, take one deep breath and gently acknowledge the sensation, saying to yourself, "I'm here with my hand resting." Then, if you feel able, we'll try the 20-second stretch.
+
+Patient: I tried the 10 seconds — hand on the armrest, eyes slightly open. For a moment it steadied me, then that shame about that old failure slammed in, my chest tightened, my hands shook harder and I felt a bit dizzy. Do I say "I'm here with my hand resting" out loud or just in my head? If I feel faint after that one breath, do I stop and sit up, or try another breath? I’m nervous and this feels fragile, so can we slow down — and honestly, how is this supposed to help when the shame just keeps swallowing the little anchors?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+Patient describes the 10-second stretch, but the shame wave is still intense. Goal: Reframe the anchor from "staying calm" to "noticing the physical sensations."
+
+Therapist Answer:
+Let's focus on what's happening in your body, not the shame wave. For the 20-second stretch, instead of saying "I'm here with my hand resting," just notice the physical sensations in your hand and arm as you rest them on the armrest. Notice the feeling of your hand touching the armrest, the sensation of your arm relaxing, and any other physical sensations that show up. Don't try to control or change them; just notice them as they are. If you feel dizzy after one breath, don't stop sitting up right away – instead, gently take another breath and slowly sit up, noticing the physical sensations in your body as you move. We'll keep the 20-second stretch for now, and see how you feel.
+
+Patient: I tried the 20 seconds—hand on the armrest, eyes slightly open—and for a few breaths it steadied me. Then that wave of shame from that old failure came flooding back, my chest clamped, my hands shook harder and I felt dizzy. Be concrete: do I say the anchor out loud or just in my head? If I feel faint, do I stop right away or take another breath and slowly sit up, and how long do I keep doing this when the panic spikes—ride it out for 20 seconds or bail? Honestly, this all feels fragile and like we’re circling the same thing—can we slow down and make a clear step‑by‑step plan that actually says what to do if it gets worse, and explain how any of this helps in the long run?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+Patient describes the 20-second stretch, but the shame wave is still intense. Goal: Reframe the anchor from "trying to stay calm" to "using the anchor as a physical sensation."
+
+Therapist Answer:
+Let's focus on the physical sensations in your body, not the shame wave. For the 20-second stretch, instead of saying the anchor out loud, just notice the physical sensations in your hand and arm as you rest them on the armrest. Notice the feeling of your hand touching the armrest, the sensation of your arm relaxing, and any other physical sensations that show up. When the shame wave hits, don't try to push it away or fight it – instead, notice the physical sensations in your body as they come up. If you feel dizzy, don't stop right away – instead, take another breath and slowly sit up, noticing the physical sensations in your body as you move. We'll keep the 20-second stretch for now, but here's a key thing: when the panic spikes, don't "ride it out" for 20 seconds – that can make it worse. Instead, take a deep breath and move into the action step: "I will slowly sit up, notice my body, and take one more breath." This is not about staying calm; it's about taking physical action to create space for the panic to pass.
+
+Now, let's make a clear step-by-step plan:
+
+1. When you feel the shame wave coming, notice the physical sensations in your body as they come up.
+2. Take a deep breath and move into the action step: "I will slowly sit up, notice my body, and take one more breath."
+3. Keep the physical anchor of resting your hand on the armrest for the next 20 seconds.
+4. If the panic spikes, take another breath and move into the action step.
+
+This plan is not about avoiding the shame wave; it's about creating space for it to pass by taking physical action. By focusing on the physical sensations in your body, you can create a sense of grounding and connection that helps the panic pass. Remember, this is not a quick fix – it's a process that takes time and practice. But with consistency and patience, you can learn to navigate the shame wave and find more calm in the midst of it.
+
+Patient: Honestly, I get the steps, but I'm really skeptical — I've done anchors and breathing a dozen times and they just fade or make the panic louder, so how is that supposed to help with the shame that keeps coming back? Right now my chest's tight and I feel dizzy reading this plan, so be concrete: when you say "slowly sit up," how slow is slow, and if I actually feel faint should I stop and brace myself or try one more breath and then stand? Also — how often should I be practicing the 20‑second anchors when I'm not panicking, and can I use these in the middle of a shift at the hospital without people noticing? I need us to slow down and make a clear, doable routine I can actually try without feeling like I'm setting myself up to fail.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+Patient expresses skepticism and physical discomfort, which is common when introducing new strategies. Goal: Reframe the anchor as a tangible action that replaces avoidance.
+
+Therapist Answer:
+Let's break down the anchor into a concrete action that you can do right now, even if you feel dizzy. When I say "slowly sit up," I mean literally take one small breath in, then gently lift your head off the armrest, and then slowly sit up. It's not about moving quickly; it's about moving slowly enough that your body can adjust to the new position. If you feel faint, don't try to stand right away. Instead, take one small breath, and then lean against the chair or a wall for support. Practice the anchor when you're not panicking, ideally for 5-10 minutes a day, 2-3 times a week. This will help you build a connection between the physical sensation and the action.
+
+As for using the anchors in the middle of a shift, it's not about drawing attention to yourself, but about creating a small space for calm amidst the chaos. You can practice the anchor discreetly, like taking a few deep breaths when you're waiting for a patient or during a break. When you do practice in the middle of a shift, try to focus on the physical sensation in your body, rather than the shame wave. Remember, this is not about avoiding the shame; it's about creating space for it to pass.
+
+To make it more concrete, here's a revised plan:
+
+1. When you feel the shame wave coming, notice the physical sensations in your body (e.g., tightness, dizziness).
+2. Take one small breath in, then gently lift your head off the armrest, and then slowly sit up (if you feel faint).
+3. Practice the anchor for 5-10 minutes a day, 2-3 times a week, when you're not panicking.
+4. Use the anchor discreetly in the middle of a shift, focusing on the physical sensation rather than the shame wave.
+
+This revised plan focuses on tangible actions rather than abstract goals. By practicing the anchor regularly, you'll build a connection between the physical sensation and the action, making it easier to create space for calm in the midst of panic.
+
+Patient: Okay, I hear the plan, but I’m still really skeptical — these anchors have felt like paper boats in a storm. My chest’s already tight reading that and that old shame bubbles up, so be concrete: if I feel faint, do I brace my feet, grip the armrests, or push off the chair? And when you say practice 5–10 minutes a day, 2–3 times a week — that feels unrealistic on my shifts. Can we make a simpler routine I can actually do: like three 30‑second anchors a day (one before a shift, one during a break, one in the evening), exact words to say out loud or not, and what to do physically if dizziness or worse shame hits? Also — how does this actually help me feel like I matter outside of work long term, not just calm me for a minute? I need us to slow down and map out step‑by‑step scripts I can rehearse.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+Patient expresses skepticism and physical discomfort, which is understandable given the challenges of working with shame. Goal: Reframe the anchors as small, tangible actions that can be done anywhere, anytime.
+
+Therapist Answer:
+Let's create a simple routine that you can do in small moments throughout the day. Here's a revised plan:
+
+**Before a shift (30 seconds)**
+
+* Stand by the door, feet shoulder-width apart
+* Take a deep breath in, noticing the sensation of the air moving in and out of your body
+* Say to yourself: "I am here. I am present. I am strong."
+
+**During a break (30 seconds)**
+
+* Sit in a chair, feet flat on the floor
+* Take a deep breath in, noticing the sensation of the air moving in and out of your body
+* Say to yourself: "I can handle this. I am capable."
+
+**In the evening (30 seconds)**
+
+* Sit in a chair, feet flat on the floor
+* Take a deep breath in, noticing the sensation of the air moving in and out of your body
+* Say to yourself: "I matter. I am enough. I am worthy."
+
+**Physical response to dizziness or shame:**
+
+* If you feel faint, lean against the chair or a wall for support
+* If you feel overwhelmed, take a few deep breaths and focus on the sensation of your feet touching the ground
+* If you feel shame, acknowledge the emotion, but don't try to push it away. Instead, focus on the physical sensation of your body responding to the emotion.
+
+**How this helps:**
+
+* By practicing these small actions, you'll build a connection between your physical body and your emotions
+* You'll learn to recognize the physical sensations of shame and dizziness, and respond to them in a way that creates space for calm
+* You'll start to notice that you matter, not just in work, but in life, and that feeling of worthiness can carry over into other areas of your life
+
+Remember, this is not about avoiding shame or dizziness; it's about creating space for them to pass. By practicing these small actions, you'll build a foundation for greater calm and self-acceptance in the midst of challenging emotions.
+
+Patient: I’ll try the three 30‑second anchors, but I’m really skeptical — every time I do this that shame just bubbles up and makes me feel foolish and dizzy. Concrete questions: should I say the phrases out loud, whisper them, or just think them, and if someone overhears me what do I do? If I start to feel faint, do I brace my feet and grip the armrests and lean forward, or take one slow breath and then sit up — exactly what movement and timing? And how often should I rehearse the scripts so they actually stick, plus how long before I might notice any real change in feeling like I matter outside of work? Can we slow down and rehearse the exact words and a step‑by‑step plan for an acute spike right now?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+Patient expresses skepticism and physical discomfort, which is understandable given the challenges of working with shame. Goal: Reframe the anchors as small, tangible actions that can be done anywhere, anytime.
+
+Therapist Answer:
+Let's address your concrete questions:
+
+**Should I say the phrases out loud, whisper them, or just think them?**
+
+* Start with whispering them to yourself. This will help you build a connection with your inner voice without drawing attention to yourself.
+* As you get more comfortable, you can gradually move to saying them out loud, but only if you feel safe doing so.
+* If you're in a public place, it's okay to just think them to yourself. Your inner voice is still present, and it's what matters.
+
+**What if someone overhears me?**
+
+* If you're in a public place and someone overhears you saying the phrase, try to remain calm and don't engage with them.
+* You can say something like, "I'm just taking a moment to breathe" or "I'm okay, thank you."
+* Remember, your goal is to create space for calm, not to engage with others.
+
+**Physical response to dizziness or shame:**
+
+* When you feel faint, take one slow breath in through your nose and out through your mouth.
+* As you exhale, gently lean forward into the chair, keeping your feet flat on the floor.
+* Hold the breath for a count of 4, and then sit up straight, feeling the weight of your body on the chair.
+* Take a deep breath in again, and notice the sensation of the air moving in and out of your body.
+
+**How often should I rehearse the scripts?**
+
+* Start with once a day, for 5-10 minutes.
+* As you get more comfortable, you can gradually increase the frequency to twice a day.
+* Remember, the goal is to build a connection with your inner voice, not to rehearse the scripts until you feel like a robot.
+
+**How long before I might notice any real change in feeling like I matter outside of work?**
+
+* This is a great question! It's hard to predict exactly when you'll notice changes, but here's a rough estimate:
+	+ Within 1-2 weeks: You might start to notice small changes in your body, like feeling more grounded or centered.
+	+ Within 4-6 weeks: You might start to notice changes in your thoughts and emotions, like feeling more calm or confident.
+	+ Within 2-3 months
+
+Patient: Alright, I'm trying to follow but I still feel shaky and kind of embarrassed about all this — it makes me want to hide. Be concrete: if a spike hits full force, do I brace my feet and grip the armrests first or take one slow breath and then sit up? Whisper the script or mouth it silently if someone’s near? I want to lock in a simple routine I can actually rehearse: three 30‑second anchors a day (before shift, on break, evening) and then, right now, can you walk me through the exact step‑by‑step script for an acute spike I can practice—word for word and movement for movement?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+Patient expresses vulnerability and self-doubt, which is natural given the sensitive topic of shame. Goal: Reframe the anchors as a tool for empowerment, not avoidance.
+
+Therapist Answer:
+Let's create a concrete routine to help you feel more grounded during an acute spike.
+
+**If a spike hits full force:**
+
+* Take one slow breath in through your nose and out through your mouth. As you exhale, gently lean forward into the chair, keeping your feet flat on the floor.
+* As you exhale, say to yourself: "I am here. I am present. I am strong." (whispering is fine if you're in a public place)
+* Hold the breath for a count of 4, and then sit up straight, feeling the weight of your body on the chair.
+* Take a deep breath in again, and notice the sensation of the air moving in and out of your body.
+
+**Movement:**
+
+* When you feel the spike, take one slow breath in and out, and lean forward into the chair.
+* As you exhale, say "I am here" (whispering is fine).
+* Hold the breath for a count of 4, and then sit up straight.
+* Take a deep breath in, and notice the sensation of the air moving in and out of your body.
+
+**Practice:**
+
+* Take 3 minutes to practice this script with me.
+* Start with your eyes closed, take a deep breath in, and begin: "I am here. I am present. I am strong."
+
+Patient: Alright — I’ll try, but I’m really nervous and skeptical. Okay, eyes closed… breath in… breath out… (whispering) “I am here. I am present. I am strong.” For a beat it steadied, then that shame flared up and my chest seized, my hands started trembling and I felt a bit faint. Don’t stop — tell me exactly now: should I keep my eyes closed or slightly open, whisper or mouth it silently, and if I feel faint do I brace my feet and grip the armrests first or take one slow breath and then sit up? I want to do another round but I need you to coach me step‑by‑step.

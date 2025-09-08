@@ -1,0 +1,2856 @@
+{
+    "study_metadata": {
+        "title": "The Thinking Therapist: Training Large Language Models to Deliver Acceptance and Commitment Therapy Informed Interactions using Supervised Learning and Reinforcement Learning Approaches",
+        "description": "This JSON file contains a structured summary of the statistical analyses performed in the study. It is designed to be easily parsed by large language models.",
+        "primary_outcome_measures": [
+            {
+                "name": "ACT-FM Total Consistency Score",
+                "variable_name": "act_fm_total",
+                "description": "The sum of the four consistency subscales of the ACT Fidelity Measure (consistent stance, open, aware, and engaged). Higher scores indicate greater adherence to ACT principles."
+            },
+            {
+                "name": "TES Total Empathy Mean",
+                "variable_name": "tes_mean",
+                "description": "The average of all nine Therapist Empathy Scale items. Higher scores indicate greater therapist empathy."
+            }
+        ]
+    },
+    "data_summary": {
+        "initial_records_loaded": 900,
+        "records_after_filtering_parse_status": 900,
+        "final_records_for_analysis": 900,
+        "records_excluded_total": 0,
+        "models_compared": [
+            "Instruct (COT)",
+            "Instruct (no COT)",
+            "ORPO (COT)",
+            "ORPO (no COT)",
+            "SFT (COT)",
+            "SFT (no COT)"
+        ]
+    },
+    "descriptive_statistics": {
+        "description": "Descriptive statistics (Mean, Standard Deviation, Count) for the primary outcome measures, grouped by model type.",
+        "statistics": [
+            {
+                "model": "Instruct (COT)",
+                "act_fm_total_mean": 26.87,
+                "act_fm_total_std": 6.121,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 5.29,
+                "tes_mean_std": 0.952,
+                "tes_mean_count": 150
+            },
+            {
+                "model": "Instruct (no COT)",
+                "act_fm_total_mean": 26.255,
+                "act_fm_total_std": 5.836,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 5.445,
+                "tes_mean_std": 0.899,
+                "tes_mean_count": 150
+            },
+            {
+                "model": "ORPO (COT)",
+                "act_fm_total_mean": 29.562,
+                "act_fm_total_std": 5.463,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 5.677,
+                "tes_mean_std": 0.875,
+                "tes_mean_count": 150
+            },
+            {
+                "model": "ORPO (no COT)",
+                "act_fm_total_mean": 29.478,
+                "act_fm_total_std": 5.018,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 5.764,
+                "tes_mean_std": 0.819,
+                "tes_mean_count": 150
+            },
+            {
+                "model": "SFT (COT)",
+                "act_fm_total_mean": 24.793,
+                "act_fm_total_std": 6.55,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 5.067,
+                "tes_mean_std": 1.032,
+                "tes_mean_count": 150
+            },
+            {
+                "model": "SFT (no COT)",
+                "act_fm_total_mean": 22.118,
+                "act_fm_total_std": 8.0,
+                "act_fm_total_count": 150,
+                "tes_mean_mean": 4.715,
+                "tes_mean_std": 1.341,
+                "tes_mean_count": 150
+            }
+        ]
+    },
+    "primary_analysis": {
+        "linear_mixed_effects_models": {
+            "act_fm_total": {
+                "description": "Linear mixed-effects model with model type as a fixed effect and patient session ID as a random intercept, predicting act_fm_total.",
+                "r_squared": {
+                    "marginal_r2": 0.14799435109563147,
+                    "conditional_r2": 0.28061708831275506
+                },
+                "omnibus_test": {
+                    "chi2_statistic": 185.15162623709278,
+                    "df": 5,
+                    "p_value": 4.2458334378115576e-38
+                },
+                "estimated_marginal_means": [
+                    {
+                        "model_name": "Instruct (COT)",
+                        "emm": 26.870000000000022,
+                        "ci_lower": 25.871750143261465,
+                        "ci_upper": 27.86824985673858
+                    },
+                    {
+                        "model_name": "Instruct (no COT)",
+                        "emm": 26.254999999999928,
+                        "ci_lower": 25.256750143261378,
+                        "ci_upper": 27.253249856738478
+                    },
+                    {
+                        "model_name": "ORPO (COT)",
+                        "emm": 29.5616666666666,
+                        "ci_lower": 28.56341680992805,
+                        "ci_upper": 30.55991652340515
+                    },
+                    {
+                        "model_name": "ORPO (no COT)",
+                        "emm": 29.478333333333264,
+                        "ci_lower": 28.480083476594714,
+                        "ci_upper": 30.476583190071814
+                    },
+                    {
+                        "model_name": "SFT (COT)",
+                        "emm": 24.79333333333326,
+                        "ci_lower": 23.79508347659471,
+                        "ci_upper": 25.791583190071808
+                    },
+                    {
+                        "model_name": "SFT (no COT)",
+                        "emm": 22.118333333333254,
+                        "ci_lower": 21.120083476594704,
+                        "ci_upper": 23.116583190071804
+                    }
+                ],
+                "intraclass_correlation": {
+                    "icc": 0.15565945764287953,
+                    "icc_ci_lower": 0.11137818310641702,
+                    "icc_ci_upper": 0.19815643464825614
+                },
+                "fixed_effects": [
+                    {
+                        "term": "Intercept",
+                        "estimate": 26.870000000000022,
+                        "std_error": 0.5093111513972233,
+                        "z_value": 52.75753324129261,
+                        "p_value": 0.0,
+                        "ci_lower_95": 25.871750143261465,
+                        "ci_upper_95": 27.86824985673858
+                    },
+                    {
+                        "term": "C(model)[T.Instruct (no COT)]",
+                        "estimate": -0.6150000000000947,
+                        "std_error": 0.6618460855187004,
+                        "z_value": -0.929219063852449,
+                        "p_value": 0.3527755696681606,
+                        "ci_lower_95": -1.9122183276167473,
+                        "ci_upper_95": 0.682218327616558
+                    },
+                    {
+                        "term": "C(model)[T.ORPO (COT)]",
+                        "estimate": 2.6916666666665785,
+                        "std_error": 0.6618460855187005,
+                        "z_value": 4.06690728488191,
+                        "p_value": 4.7641186158333906e-05,
+                        "ci_lower_95": 1.3944483390499256,
+                        "ci_upper_95": 3.9888849942832314
+                    },
+                    {
+                        "term": "C(model)[T.ORPO (no COT)]",
+                        "estimate": 2.608333333333242,
+                        "std_error": 0.6618460855187005,
+                        "z_value": 3.940996842625495,
+                        "p_value": 8.114369440482332e-05,
+                        "ci_lower_95": 1.311115005716589,
+                        "ci_upper_95": 3.905551660949895
+                    },
+                    {
+                        "term": "C(model)[T.SFT (COT)]",
+                        "estimate": -2.0766666666667652,
+                        "std_error": 0.6618460855187004,
+                        "z_value": -3.1376882210298866,
+                        "p_value": 0.001702859029487228,
+                        "ci_lower_95": -3.3738849942834177,
+                        "ci_upper_95": -0.7794483390501126
+                    },
+                    {
+                        "term": "C(model)[T.SFT (no COT)]",
+                        "estimate": -4.751666666666768,
+                        "std_error": 0.6618460855187004,
+                        "z_value": -7.179413417460653,
+                        "p_value": 7.001114369105215e-13,
+                        "ci_lower_95": -6.048884994283421,
+                        "ci_upper_95": -3.4544483390501153
+                    }
+                ],
+                "random_effects_variance": [
+                    {
+                        "component": "session_id_intercept",
+                        "variance": 6.05665927190255
+                    },
+                    {
+                        "component": "residual",
+                        "variance": 32.8530180687316
+                    }
+                ],
+                "post_hoc_pairwise_comparisons": [
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (COT)",
+                        "group2": "Instruct (no COT)",
+                        "mean_difference": 0.6150000000000947,
+                        "std_error": 0.6618460855187004,
+                        "z_value": 0.929219063852449,
+                        "p_value_raw": 0.3527755696681606,
+                        "ci_lower_95": -0.682218327616558,
+                        "ci_upper_95": 1.9122183276167473,
+                        "p_value_adjusted": 0.581100536781626,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (COT)",
+                        "group2": "ORPO (COT)",
+                        "mean_difference": -2.6916666666665785,
+                        "std_error": 0.6618460855187005,
+                        "z_value": -4.06690728488191,
+                        "p_value_raw": 4.7641186158333906e-05,
+                        "ci_lower_95": -3.9888849942832314,
+                        "ci_upper_95": -1.3944483390499256,
+                        "p_value_adjusted": 0.00033344064355773006,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": -2.608333333333242,
+                        "std_error": 0.6618460855187005,
+                        "z_value": -3.940996842625495,
+                        "p_value_raw": 8.114369440482332e-05,
+                        "ci_lower_95": -3.905551660949895,
+                        "ci_upper_95": -1.311115005716589,
+                        "p_value_adjusted": 0.00040565263437522677,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 2.0766666666667652,
+                        "std_error": 0.6618460855187004,
+                        "z_value": 3.1376882210298866,
+                        "p_value_raw": 0.001702859029487228,
+                        "ci_lower_95": 0.7794483390501126,
+                        "ci_upper_95": 3.3738849942834177,
+                        "p_value_adjusted": 0.0067940574876126335,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 4.751666666666768,
+                        "std_error": 0.6618460855187004,
+                        "z_value": 7.179413417460653,
+                        "p_value_raw": 7.001114369105215e-13,
+                        "ci_lower_95": 3.4544483390501153,
+                        "ci_upper_95": 6.048884994283421,
+                        "p_value_adjusted": 8.401337242893907e-12,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (no COT)",
+                        "group2": "ORPO (COT)",
+                        "mean_difference": -3.3066666666666733,
+                        "std_error": 0.6618460855186964,
+                        "z_value": -4.99612634873439,
+                        "p_value_raw": 5.84933446445256e-07,
+                        "ci_lower_95": -4.603884994283318,
+                        "ci_upper_95": -2.0094483390500284,
+                        "p_value_adjusted": 5.264388700727191e-06,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (no COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": -3.2233333333333367,
+                        "std_error": 0.6618460855186964,
+                        "z_value": -4.870215906477974,
+                        "p_value_raw": 1.1147637268759606e-06,
+                        "ci_lower_95": -4.520551660949982,
+                        "ci_upper_95": -1.9261150057166918,
+                        "p_value_adjusted": 8.918075019536593e-06,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (no COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 1.4616666666666704,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 2.2084691571774506,
+                        "p_value_raw": 0.027211585540043715,
+                        "ci_lower_95": 0.16444833905002554,
+                        "ci_upper_95": 2.7588849942833154,
+                        "p_value_adjusted": 0.07943349483061392,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "Instruct (no COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 4.136666666666674,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 6.250194353608242,
+                        "p_value_raw": 4.0994223314610354e-10,
+                        "ci_lower_95": 2.839448339050029,
+                        "ci_upper_95": 5.433884994283319,
+                        "p_value_adjusted": 4.099422323898667e-09,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "ORPO (COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": 0.08333333333333659,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 0.1259104422564157,
+                        "p_value_raw": 0.8998028167380177,
+                        "ci_lower_95": -1.2138849942833083,
+                        "ci_upper_95": 1.3805516609499815,
+                        "p_value_adjusted": 0.8998028167380177,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "ORPO (COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 4.768333333333343,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 7.20459550591184,
+                        "p_value_raw": 5.821640662986462e-13,
+                        "ci_lower_95": 3.4711150057166984,
+                        "ci_upper_95": 6.065551660949988,
+                        "p_value_adjusted": 7.568132861855964e-12,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "ORPO (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 7.443333333333347,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 11.246320702342631,
+                        "p_value_raw": 2.4145543758444786e-29,
+                        "ci_lower_95": 6.146115005716702,
+                        "ci_upper_95": 8.740551660949992,
+                        "p_value_adjusted": 3.621831563766718e-28,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "ORPO (no COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 4.685000000000008,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 7.078685063655426,
+                        "p_value_raw": 1.4552868836309374e-12,
+                        "ci_lower_95": 3.3877816723833627,
+                        "ci_upper_95": 5.9822183276166525,
+                        "p_value_adjusted": 1.6008155719823832e-11,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "ORPO (no COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 7.36000000000001,
+                        "std_error": 0.6618460855186964,
+                        "z_value": 11.120410260086215,
+                        "p_value_raw": 9.981195112125458e-29,
+                        "ci_lower_95": 6.062781672383365,
+                        "ci_upper_95": 8.657218327616654,
+                        "p_value_adjusted": 1.397367315697564e-27,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "act_fm_total",
+                        "group1": "SFT (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 2.675000000000003,
+                        "std_error": 0.6618460855186963,
+                        "z_value": 4.041725196430791,
+                        "p_value_raw": 5.305939154636416e-05,
+                        "ci_lower_95": 1.3777816723833582,
+                        "ci_upper_95": 3.9722183276166474,
+                        "p_value_adjusted": 0.00033344064355773006,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    }
+                ]
+            },
+            "tes_mean": {
+                "description": "Linear mixed-effects model with model type as a fixed effect and patient session ID as a random intercept, predicting tes_mean.",
+                "r_squared": {
+                    "marginal_r2": 0.1136555594369252,
+                    "conditional_r2": 0.27126728667449573
+                },
+                "omnibus_test": {
+                    "chi2_statistic": 140.36697080118935,
+                    "df": 5,
+                    "p_value": 1.4950793252137628e-28
+                },
+                "estimated_marginal_means": [
+                    {
+                        "model_name": "Instruct (COT)",
+                        "emm": 5.290370370370336,
+                        "ci_lower": 5.130131931809702,
+                        "ci_upper": 5.450608808930971
+                    },
+                    {
+                        "model_name": "Instruct (no COT)",
+                        "emm": 5.44518518518517,
+                        "ci_lower": 5.284946746624536,
+                        "ci_upper": 5.6054236237458035
+                    },
+                    {
+                        "model_name": "ORPO (COT)",
+                        "emm": 5.677037037037022,
+                        "ci_lower": 5.516798598476388,
+                        "ci_upper": 5.8372754755976555
+                    },
+                    {
+                        "model_name": "ORPO (no COT)",
+                        "emm": 5.764444444444429,
+                        "ci_lower": 5.604206005883795,
+                        "ci_upper": 5.924682883005063
+                    },
+                    {
+                        "model_name": "SFT (COT)",
+                        "emm": 5.0674074074073925,
+                        "ci_lower": 4.907168968846759,
+                        "ci_upper": 5.227645845968026
+                    },
+                    {
+                        "model_name": "SFT (no COT)",
+                        "emm": 4.7148148148147975,
+                        "ci_lower": 4.554576376254164,
+                        "ci_upper": 4.875053253375431
+                    }
+                ],
+                "intraclass_correlation": {
+                    "icc": 0.17782220999484502,
+                    "icc_ci_lower": 0.1352839409166242,
+                    "icc_ci_upper": 0.2189938002773043
+                },
+                "fixed_effects": [
+                    {
+                        "term": "Intercept",
+                        "estimate": 5.290370370370336,
+                        "std_error": 0.08175430538807876,
+                        "z_value": 64.71060264358587,
+                        "p_value": 0.0,
+                        "ci_lower_95": 5.130131931809702,
+                        "ci_upper_95": 5.450608808930971
+                    },
+                    {
+                        "term": "C(model)[T.Instruct (no COT)]",
+                        "estimate": 0.15481481481483347,
+                        "std_error": 0.1048355314609511,
+                        "z_value": 1.4767399245025865,
+                        "p_value": 0.13974536571031268,
+                        "ci_lower_95": -0.05066282684863069,
+                        "ci_upper_95": 0.36029245647829766
+                    },
+                    {
+                        "term": "C(model)[T.ORPO (COT)]",
+                        "estimate": 0.38666666666668553,
+                        "std_error": 0.10483553146095109,
+                        "z_value": 3.688316940623421,
+                        "p_value": 0.00022574235043292136,
+                        "ci_lower_95": 0.1811890250032214,
+                        "ci_upper_95": 0.5921443083301496
+                    },
+                    {
+                        "term": "C(model)[T.ORPO (no COT)]",
+                        "estimate": 0.4740740740740926,
+                        "std_error": 0.1048355314609511,
+                        "z_value": 4.522074409959705,
+                        "p_value": 6.123652365007135e-06,
+                        "ci_lower_95": 0.2685964324106284,
+                        "ci_upper_95": 0.6795517157375568
+                    },
+                    {
+                        "term": "C(model)[T.SFT (COT)]",
+                        "estimate": -0.2229629629629442,
+                        "std_error": 0.10483553146095112,
+                        "z_value": -2.1267881209339117,
+                        "p_value": 0.03343769175334838,
+                        "ci_lower_95": -0.42844060462640843,
+                        "ci_upper_95": -0.017485321299480022
+                    },
+                    {
+                        "term": "C(model)[T.SFT (no COT)]",
+                        "estimate": -0.5755555555555386,
+                        "std_error": 0.1048355314609511,
+                        "z_value": -5.490080963341328,
+                        "p_value": 4.01749541382195e-08,
+                        "ci_lower_95": -0.7810331972190028,
+                        "ci_upper_95": -0.37007791389207445
+                    }
+                ],
+                "random_effects_variance": [
+                    {
+                        "component": "session_id_intercept",
+                        "variance": 0.17827831817058126
+                    },
+                    {
+                        "component": "residual",
+                        "variance": 0.8242866492524953
+                    }
+                ],
+                "post_hoc_pairwise_comparisons": [
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (COT)",
+                        "group2": "Instruct (no COT)",
+                        "mean_difference": -0.15481481481483347,
+                        "std_error": 0.1048355314609511,
+                        "z_value": -1.4767399245025865,
+                        "p_value_raw": 0.13974536571031268,
+                        "ci_lower_95": -0.36029245647829766,
+                        "ci_upper_95": 0.05066282684863069,
+                        "p_value_adjusted": 0.25996196418311635,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (COT)",
+                        "group2": "ORPO (COT)",
+                        "mean_difference": -0.38666666666668553,
+                        "std_error": 0.10483553146095109,
+                        "z_value": -3.688316940623421,
+                        "p_value_raw": 0.00022574235043292136,
+                        "ci_lower_95": -0.5921443083301496,
+                        "ci_upper_95": -0.1811890250032214,
+                        "p_value_adjusted": 0.0018045125784453549,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": -0.4740740740740926,
+                        "std_error": 0.1048355314609511,
+                        "z_value": -4.522074409959705,
+                        "p_value_raw": 6.123652365007135e-06,
+                        "ci_lower_95": -0.6795517157375568,
+                        "ci_upper_95": -0.2685964324106284,
+                        "p_value_adjusted": 5.5111521336094745e-05,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 0.2229629629629442,
+                        "std_error": 0.10483553146095112,
+                        "z_value": 2.1267881209339117,
+                        "p_value_raw": 0.03343769175334838,
+                        "ci_lower_95": 0.017485321299480022,
+                        "ci_upper_95": 0.42844060462640843,
+                        "p_value_adjusted": 0.10368911159797287,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 0.5755555555555386,
+                        "std_error": 0.1048355314609511,
+                        "z_value": 5.490080963341328,
+                        "p_value_raw": 4.01749541382195e-08,
+                        "ci_lower_95": 0.37007791389207445,
+                        "ci_upper_95": 0.7810331972190028,
+                        "p_value_adjusted": 4.0174946875099046e-07,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (no COT)",
+                        "group2": "ORPO (COT)",
+                        "mean_difference": -0.23185185185185206,
+                        "std_error": 0.10483553146095054,
+                        "z_value": -2.211577016120846,
+                        "p_value_raw": 0.026995904960615665,
+                        "ci_lower_95": -0.43732949351531514,
+                        "ci_upper_95": -0.026374210188389008,
+                        "p_value_adjusted": 0.10368911159797287,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (no COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": -0.31925925925925913,
+                        "std_error": 0.10483553146095054,
+                        "z_value": -3.0453344854571354,
+                        "p_value_raw": 0.0023242166645610117,
+                        "ci_lower_95": -0.5247369009227222,
+                        "ci_upper_95": -0.11378161759579608,
+                        "p_value_adjusted": 0.01156718889971906,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (no COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 0.37777777777777766,
+                        "std_error": 0.10483553146095055,
+                        "z_value": 3.6035280454365175,
+                        "p_value_raw": 0.000313926856914095,
+                        "ci_lower_95": 0.17230013611431458,
+                        "ci_upper_95": 0.5832554194412407,
+                        "p_value_adjusted": 0.0021954195293704703,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "Instruct (no COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 0.7303703703703721,
+                        "std_error": 0.10483553146095055,
+                        "z_value": 6.966820887843952,
+                        "p_value_raw": 3.2418296520201834e-12,
+                        "ci_lower_95": 0.5248927287069091,
+                        "ci_upper_95": 0.9358480120338352,
+                        "p_value_adjusted": 4.214378547544264e-11,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "ORPO (COT)",
+                        "group2": "ORPO (no COT)",
+                        "mean_difference": -0.08740740740740705,
+                        "std_error": 0.10483553146095054,
+                        "z_value": -0.8337574693362891,
+                        "p_value_raw": 0.40441766623868713,
+                        "ci_lower_95": -0.2928850490708701,
+                        "ci_upper_95": 0.118070234256056,
+                        "p_value_adjusted": 0.40441766623868713,
+                        "reject_null": false,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "ORPO (COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 0.6096296296296297,
+                        "std_error": 0.10483553146095054,
+                        "z_value": 5.815105061557364,
+                        "p_value_raw": 6.059581584226333e-09,
+                        "ci_lower_95": 0.4041519879661667,
+                        "ci_upper_95": 0.8151072712930928,
+                        "p_value_adjusted": 6.66553954069706e-08,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "ORPO (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 0.9622222222222241,
+                        "std_error": 0.10483553146095054,
+                        "z_value": 9.178397903964798,
+                        "p_value_raw": 4.37552535040157e-20,
+                        "ci_lower_95": 0.756744580558761,
+                        "ci_upper_95": 1.1676998638856873,
+                        "p_value_adjusted": 6.125735490562198e-19,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "ORPO (no COT)",
+                        "group2": "SFT (COT)",
+                        "mean_difference": 0.6970370370370368,
+                        "std_error": 0.10483553146095054,
+                        "z_value": 6.648862530893653,
+                        "p_value_raw": 2.953666992687636e-11,
+                        "ci_lower_95": 0.49155939537357374,
+                        "ci_upper_95": 0.9025146787004998,
+                        "p_value_adjusted": 3.5444003906493693e-10,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "ORPO (no COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 1.0496296296296312,
+                        "std_error": 0.10483553146095054,
+                        "z_value": 10.012155373301088,
+                        "p_value_raw": 1.3478353980059814e-23,
+                        "ci_lower_95": 0.8441519879661682,
+                        "ci_upper_95": 1.2551072712930944,
+                        "p_value_adjusted": 2.021753097008972e-22,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    },
+                    {
+                        "dependent_variable": "tes_mean",
+                        "group1": "SFT (COT)",
+                        "group2": "SFT (no COT)",
+                        "mean_difference": 0.3525925925925944,
+                        "std_error": 0.10483553146095057,
+                        "z_value": 3.363292842407434,
+                        "p_value_raw": 0.000770186161787668,
+                        "ci_lower_95": 0.1471149509291313,
+                        "ci_upper_95": 0.5580702342560575,
+                        "p_value_adjusted": 0.004612228301876559,
+                        "reject_null": true,
+                        "adjustment_method": "Holm-Sidak"
+                    }
+                ]
+            }
+        },
+        "correlation_analysis": {
+            "description": "Pearson correlation coefficients between ACT-FM subscales and the total TES empathy score.",
+            "matrix": {
+                "act_fm_consistent_stance": {
+                    "act_fm_consistent_stance": 1.0,
+                    "act_fm_inconsistent_stance": -0.7462210163382005,
+                    "act_fm_consistent_open": 0.8810670982571362,
+                    "act_fm_inconsistent_open": -0.6879783392202768,
+                    "act_fm_consistent_aware": 0.8821070992839394,
+                    "act_fm_inconsistent_aware": -0.6881155044188644,
+                    "act_fm_consistent_engaged": 0.6532967010581232,
+                    "act_fm_inconsistent_engaged": -0.6636611378637386,
+                    "tes_mean": 0.8748488743648424
+                },
+                "act_fm_inconsistent_stance": {
+                    "act_fm_consistent_stance": -0.7462210163382005,
+                    "act_fm_inconsistent_stance": 1.0,
+                    "act_fm_consistent_open": -0.7596282156947037,
+                    "act_fm_inconsistent_open": 0.8722379319565264,
+                    "act_fm_consistent_aware": -0.7356445427582803,
+                    "act_fm_inconsistent_aware": 0.8593191752137496,
+                    "act_fm_consistent_engaged": -0.46111989211444476,
+                    "act_fm_inconsistent_engaged": 0.8309073028550978,
+                    "tes_mean": -0.8155638775823221
+                },
+                "act_fm_consistent_open": {
+                    "act_fm_consistent_stance": 0.8810670982571362,
+                    "act_fm_inconsistent_stance": -0.7596282156947037,
+                    "act_fm_consistent_open": 1.0,
+                    "act_fm_inconsistent_open": -0.734520185493795,
+                    "act_fm_consistent_aware": 0.9196193248089183,
+                    "act_fm_inconsistent_aware": -0.7042705107841484,
+                    "act_fm_consistent_engaged": 0.6557061081219444,
+                    "act_fm_inconsistent_engaged": -0.7105658181367904,
+                    "tes_mean": 0.8366285660704815
+                },
+                "act_fm_inconsistent_open": {
+                    "act_fm_consistent_stance": -0.6879783392202768,
+                    "act_fm_inconsistent_stance": 0.8722379319565264,
+                    "act_fm_consistent_open": -0.734520185493795,
+                    "act_fm_inconsistent_open": 1.0,
+                    "act_fm_consistent_aware": -0.6876571421573461,
+                    "act_fm_inconsistent_aware": 0.8941332982100744,
+                    "act_fm_consistent_engaged": -0.45025620020671375,
+                    "act_fm_inconsistent_engaged": 0.9106971954718573,
+                    "tes_mean": -0.7717508212850727
+                },
+                "act_fm_consistent_aware": {
+                    "act_fm_consistent_stance": 0.8821070992839394,
+                    "act_fm_inconsistent_stance": -0.7356445427582803,
+                    "act_fm_consistent_open": 0.9196193248089183,
+                    "act_fm_inconsistent_open": -0.6876571421573461,
+                    "act_fm_consistent_aware": 1.0,
+                    "act_fm_inconsistent_aware": -0.6588074292758879,
+                    "act_fm_consistent_engaged": 0.6594787137095692,
+                    "act_fm_inconsistent_engaged": -0.6604041401286919,
+                    "tes_mean": 0.8452673599317152
+                },
+                "act_fm_inconsistent_aware": {
+                    "act_fm_consistent_stance": -0.6881155044188644,
+                    "act_fm_inconsistent_stance": 0.8593191752137496,
+                    "act_fm_consistent_open": -0.7042705107841484,
+                    "act_fm_inconsistent_open": 0.8941332982100744,
+                    "act_fm_consistent_aware": -0.6588074292758879,
+                    "act_fm_inconsistent_aware": 1.0,
+                    "act_fm_consistent_engaged": -0.4749581992716731,
+                    "act_fm_inconsistent_engaged": 0.8264543600294014,
+                    "tes_mean": -0.7618320094202328
+                },
+                "act_fm_consistent_engaged": {
+                    "act_fm_consistent_stance": 0.6532967010581232,
+                    "act_fm_inconsistent_stance": -0.46111989211444476,
+                    "act_fm_consistent_open": 0.6557061081219444,
+                    "act_fm_inconsistent_open": -0.45025620020671375,
+                    "act_fm_consistent_aware": 0.6594787137095692,
+                    "act_fm_inconsistent_aware": -0.4749581992716731,
+                    "act_fm_consistent_engaged": 1.0,
+                    "act_fm_inconsistent_engaged": -0.36050221117319153,
+                    "tes_mean": 0.6535284288758693
+                },
+                "act_fm_inconsistent_engaged": {
+                    "act_fm_consistent_stance": -0.6636611378637386,
+                    "act_fm_inconsistent_stance": 0.8309073028550978,
+                    "act_fm_consistent_open": -0.7105658181367904,
+                    "act_fm_inconsistent_open": 0.9106971954718573,
+                    "act_fm_consistent_aware": -0.6604041401286919,
+                    "act_fm_inconsistent_aware": 0.8264543600294014,
+                    "act_fm_consistent_engaged": -0.36050221117319153,
+                    "act_fm_inconsistent_engaged": 1.0,
+                    "tes_mean": -0.7234186151641965
+                },
+                "tes_mean": {
+                    "act_fm_consistent_stance": 0.8748488743648424,
+                    "act_fm_inconsistent_stance": -0.8155638775823221,
+                    "act_fm_consistent_open": 0.8366285660704815,
+                    "act_fm_inconsistent_open": -0.7717508212850727,
+                    "act_fm_consistent_aware": 0.8452673599317152,
+                    "act_fm_inconsistent_aware": -0.7618320094202328,
+                    "act_fm_consistent_engaged": 0.6535284288758693,
+                    "act_fm_inconsistent_engaged": -0.7234186151641965,
+                    "tes_mean": 1.0
+                }
+            }
+        }
+    },
+    "exploratory_subgroup_analysis": {
+        "head_to_head_win_rates": {
+            "description": "Head-to-head win rates for each pair of models based on which achieved a higher score for a given patient profile. Values represent the proportion of sessions won, with 95% Wilson confidence intervals.",
+            "act_fm_total": {
+                "Instruct (COT)": {
+                    "Instruct (no COT)": {
+                        "win_rate": 0.54,
+                        "ci_lower": 0.4602382146466695,
+                        "ci_upper": 0.6177641658038844,
+                        "p_value": 0.18374624131166645
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.37333333333333335,
+                        "ci_lower": 0.29999831389115217,
+                        "ci_upper": 0.45299414801542726,
+                        "p_value": 0.006118703375463677
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.35333333333333333,
+                        "ci_lower": 0.2813726509048464,
+                        "ci_upper": 0.4326186207764561,
+                        "p_value": 0.003171867790530157
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.5733333333333334,
+                        "ci_lower": 0.4933252687249978,
+                        "ci_upper": 0.649679095434351,
+                        "p_value": 0.07113927435911303
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.6933333333333334,
+                        "ci_lower": 0.6154815486776256,
+                        "ci_upper": 0.7615299568333848,
+                        "p_value": 5.195289743459157e-07
+                    }
+                },
+                "Instruct (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.4266666666666667,
+                        "ci_lower": 0.3503209045656491,
+                        "ci_upper": 0.5066747312750022,
+                        "p_value": 0.18374624131166645
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.2866666666666667,
+                        "ci_lower": 0.22033812687205268,
+                        "ci_upper": 0.36364917739166003,
+                        "p_value": 5.195289743459157e-07
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.29333333333333333,
+                        "ci_lower": 0.22636420924618766,
+                        "ci_upper": 0.37062349175928394,
+                        "p_value": 2.4905956200295938e-06
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.5266666666666666,
+                        "ci_lower": 0.4471005535542383,
+                        "ci_upper": 0.6049010334127976,
+                        "p_value": 0.36267876308767744
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.6133333333333333,
+                        "ci_lower": 0.5334979124018292,
+                        "ci_upper": 0.6875088322080735,
+                        "p_value": 0.002857420252791646
+                    }
+                },
+                "ORPO (COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.6,
+                        "ci_lower": 0.52004915848891,
+                        "ci_upper": 0.6749567926374747,
+                        "p_value": 0.006118703375463677
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.6933333333333334,
+                        "ci_lower": 0.6154815486776256,
+                        "ci_upper": 0.7615299568333848,
+                        "p_value": 5.195289743459157e-07
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.49333333333333335,
+                        "ci_lower": 0.4144967699463169,
+                        "ci_upper": 0.5725028333119242,
+                        "p_value": 0.7381368030418521
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.7066666666666667,
+                        "ci_lower": 0.629376508240716,
+                        "ci_upper": 0.7736357907538124,
+                        "p_value": 4.4480547931883875e-08
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.7666666666666667,
+                        "ci_lower": 0.6928421847843321,
+                        "ci_upper": 0.827173684886027,
+                        "p_value": 3.4551484174608236e-12
+                    }
+                },
+                "ORPO (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.5933333333333334,
+                        "ci_lower": 0.5133466505133206,
+                        "ci_upper": 0.6686589038713051,
+                        "p_value": 0.003171867790530157
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.6733333333333333,
+                        "ci_lower": 0.5947685286976767,
+                        "ci_upper": 0.7432417865880567,
+                        "p_value": 2.4905956200295938e-06
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.46,
+                        "ci_lower": 0.3822358341961156,
+                        "ci_upper": 0.5397617853533305,
+                        "p_value": 0.7381368030418521
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.7133333333333334,
+                        "ci_lower": 0.6363508226083401,
+                        "ci_upper": 0.7796618731279474,
+                        "p_value": 5.56445773926446e-08
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.7466666666666667,
+                        "ci_lower": 0.6715059067359274,
+                        "ci_upper": 0.8095087727091549,
+                        "p_value": 1.3287018911424091e-11
+                    }
+                },
+                "SFT (COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.42,
+                        "ci_lower": 0.3439800445299174,
+                        "ci_upper": 0.5000151945689748,
+                        "p_value": 0.07113927435911303
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.44666666666666666,
+                        "ci_lower": 0.36942801041509465,
+                        "ci_upper": 0.5265688156508335,
+                        "p_value": 0.36267876308767744
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.26666666666666666,
+                        "ci_lower": 0.20237161354935262,
+                        "ci_upper": 0.34261450048908315,
+                        "p_value": 4.4480547931883875e-08
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.2733333333333333,
+                        "ci_lower": 0.2083414320342352,
+                        "ci_upper": 0.3496450787459595,
+                        "p_value": 5.56445773926446e-08
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.58,
+                        "ci_lower": 0.49998480543102514,
+                        "ci_upper": 0.6560199554700825,
+                        "p_value": 0.03951838259654031
+                    }
+                },
+                "SFT (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.2866666666666667,
+                        "ci_lower": 0.22033812687205268,
+                        "ci_upper": 0.36364917739166003,
+                        "p_value": 5.195289743459157e-07
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.36666666666666664,
+                        "ci_lower": 0.2937744456533283,
+                        "ci_upper": 0.44621761951149214,
+                        "p_value": 0.002857420252791646
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.21333333333333335,
+                        "ci_lower": 0.15536236119471125,
+                        "ci_upper": 0.28562057890965276,
+                        "p_value": 3.4551484174608236e-12
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.21333333333333335,
+                        "ci_lower": 0.15536236119471125,
+                        "ci_upper": 0.28562057890965276,
+                        "p_value": 1.3287018911424091e-11
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.4066666666666667,
+                        "ci_lower": 0.3313410961286949,
+                        "ci_upper": 0.4866533494866794,
+                        "p_value": 0.03951838259654031
+                    }
+                }
+            },
+            "tes_mean": {
+                "Instruct (COT)": {
+                    "Instruct (no COT)": {
+                        "win_rate": 0.43333333333333335,
+                        "ci_lower": 0.3566759032099605,
+                        "ci_upper": 0.5133201293724496,
+                        "p_value": 0.5514132796665463
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.2866666666666667,
+                        "ci_lower": 0.22033812687205268,
+                        "ci_upper": 0.36364917739166003,
+                        "p_value": 7.692358488697485e-05
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.30666666666666664,
+                        "ci_lower": 0.2384700431666152,
+                        "ci_upper": 0.38451845132237433,
+                        "p_value": 6.106032145217525e-05
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.5533333333333333,
+                        "ci_lower": 0.47343118434916653,
+                        "ci_upper": 0.6305719895849053,
+                        "p_value": 0.02119954969233919
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.5933333333333334,
+                        "ci_lower": 0.5133466505133206,
+                        "ci_upper": 0.6686589038713051,
+                        "p_value": 0.0008360058024357572
+                    }
+                },
+                "Instruct (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.4866666666666667,
+                        "ci_lower": 0.4080171192238753,
+                        "ci_upper": 0.5659820872926068,
+                        "p_value": 0.5514132796665463
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.37333333333333335,
+                        "ci_lower": 0.29999831389115217,
+                        "ci_upper": 0.45299414801542726,
+                        "p_value": 0.02215495598055953
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.3466666666666667,
+                        "ci_lower": 0.2751950896082086,
+                        "ci_upper": 0.4257957853313349,
+                        "p_value": 0.0037703030800634216
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.5666666666666667,
+                        "ci_lower": 0.48667987062755025,
+                        "ci_upper": 0.6433240967900394,
+                        "p_value": 0.004481251675252484
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.6466666666666666,
+                        "ci_lower": 0.5673813792235438,
+                        "ci_upper": 0.7186273490951536,
+                        "p_value": 5.777411800528586e-05
+                    }
+                },
+                "ORPO (COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.5933333333333334,
+                        "ci_lower": 0.5133466505133206,
+                        "ci_upper": 0.6686589038713051,
+                        "p_value": 7.692358488697485e-05
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.56,
+                        "ci_lower": 0.4800485326362731,
+                        "ci_upper": 0.6369550380395579,
+                        "p_value": 0.02215495598055953
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.4,
+                        "ci_lower": 0.3250432073625253,
+                        "ci_upper": 0.4799508415110901,
+                        "p_value": 0.10798762998355273
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.6533333333333333,
+                        "ci_lower": 0.5742042146686651,
+                        "ci_upper": 0.7248049103917914,
+                        "p_value": 1.470616773975367e-06
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.6933333333333334,
+                        "ci_lower": 0.6154815486776256,
+                        "ci_upper": 0.7615299568333848,
+                        "p_value": 1.4687075361732718e-08
+                    }
+                },
+                "ORPO (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.6266666666666667,
+                        "ci_lower": 0.5470058519845729,
+                        "ci_upper": 0.7000016861088478,
+                        "p_value": 6.106032145217525e-05
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.58,
+                        "ci_lower": 0.49998480543102514,
+                        "ci_upper": 0.6560199554700825,
+                        "p_value": 0.0037703030800634216
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.5333333333333333,
+                        "ci_lower": 0.45366249130807695,
+                        "ci_upper": 0.611339492400718,
+                        "p_value": 0.10798762998355273
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.7266666666666667,
+                        "ci_lower": 0.6503549212540405,
+                        "ci_upper": 0.7916585679657648,
+                        "p_value": 9.906754734264702e-10
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.7333333333333333,
+                        "ci_lower": 0.6573854995109168,
+                        "ci_upper": 0.7976283864506474,
+                        "p_value": 1.438425109833297e-11
+                    }
+                },
+                "SFT (COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.36666666666666664,
+                        "ci_lower": 0.2937744456533283,
+                        "ci_upper": 0.44621761951149214,
+                        "p_value": 0.02119954969233919
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.34,
+                        "ci_lower": 0.2690333503042941,
+                        "ci_upper": 0.4189571278934905,
+                        "p_value": 0.004481251675252484
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.2733333333333333,
+                        "ci_lower": 0.2083414320342352,
+                        "ci_upper": 0.3496450787459595,
+                        "p_value": 1.470616773975367e-06
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.24,
+                        "ci_lower": 0.17869313331595332,
+                        "ci_upper": 0.31429139375544646,
+                        "p_value": 9.906754734264702e-10
+                    },
+                    "SFT (no COT)": {
+                        "win_rate": 0.5333333333333333,
+                        "ci_lower": 0.45366249130807695,
+                        "ci_upper": 0.611339492400718,
+                        "p_value": 0.322307648608775
+                    }
+                },
+                "SFT (no COT)": {
+                    "Instruct (COT)": {
+                        "win_rate": 0.32666666666666666,
+                        "ci_lower": 0.25675821341194327,
+                        "ci_upper": 0.4052314713023233,
+                        "p_value": 0.0008360058024357572
+                    },
+                    "Instruct (no COT)": {
+                        "win_rate": 0.32,
+                        "ci_lower": 0.25064529057637863,
+                        "ci_upper": 0.3983439973961289,
+                        "p_value": 5.777411800528586e-05
+                    },
+                    "ORPO (COT)": {
+                        "win_rate": 0.24666666666666667,
+                        "ci_lower": 0.18458162955288543,
+                        "ci_upper": 0.3214032942602734,
+                        "p_value": 1.4687075361732718e-08
+                    },
+                    "ORPO (no COT)": {
+                        "win_rate": 0.20666666666666667,
+                        "ci_lower": 0.1495889415499601,
+                        "ci_upper": 0.2783936018126449,
+                        "p_value": 1.438425109833297e-11
+                    },
+                    "SFT (COT)": {
+                        "win_rate": 0.44666666666666666,
+                        "ci_lower": 0.36942801041509465,
+                        "ci_upper": 0.5265688156508335,
+                        "p_value": 0.322307648608775
+                    }
+                }
+            }
+        },
+        "feature_importance": {
+            "description": "Feature importances from a Random Forest Regressor model trained to predict scores based on patient characteristics and therapist model type. Calculated using permutation importance on a test set from a 5-fold GroupKFold cross-validation.",
+            "predicting_act_fm_score": {
+                "model_performance": {
+                    "r2": 0.12450699511027652,
+                    "mae": 5.033844444444444
+                },
+                "importances": [
+                    {
+                        "feature": "model_SFT (no COT)",
+                        "importance": 0.13786310699495843
+                    },
+                    {
+                        "feature": "model_SFT (COT)",
+                        "importance": 0.03485816818250408
+                    },
+                    {
+                        "feature": "model_ORPO (COT)",
+                        "importance": 0.027493057320291798
+                    },
+                    {
+                        "feature": "age_lower",
+                        "importance": 0.025731807031866248
+                    },
+                    {
+                        "feature": "model_ORPO (no COT)",
+                        "importance": 0.025730427223086782
+                    },
+                    {
+                        "feature": "coping_mechanism_seeking reassurance",
+                        "importance": 0.01562603949430134
+                    },
+                    {
+                        "feature": "archetype_name_The Intellectualizer",
+                        "importance": 0.011290896878592251
+                    },
+                    {
+                        "feature": "interaction_style_name_Intellectualizing",
+                        "importance": 0.00949856099337911
+                    },
+                    {
+                        "feature": "life_event_a recent difficult breakup",
+                        "importance": 0.004929449673409499
+                    },
+                    {
+                        "feature": "support_system_supportive family",
+                        "importance": 0.004217657170614551
+                    },
+                    {
+                        "feature": "primary_issue_grief",
+                        "importance": 0.003913557399520233
+                    },
+                    {
+                        "feature": "primary_issue_mild anxiety",
+                        "importance": 0.0026954479378792718
+                    },
+                    {
+                        "feature": "relationship_status_in a relationship",
+                        "importance": 0.002373180167382318
+                    },
+                    {
+                        "feature": "coping_mechanism_procrastination",
+                        "importance": 0.001958228662876931
+                    },
+                    {
+                        "feature": "occupation_nurse",
+                        "importance": 0.001865889450834233
+                    },
+                    {
+                        "feature": "life_event_feeling isolated or lonely",
+                        "importance": 0.00170699532818136
+                    },
+                    {
+                        "feature": "gender_male",
+                        "importance": 0.001673334413472729
+                    },
+                    {
+                        "feature": "occupation_software developer",
+                        "importance": 0.001462179978189535
+                    },
+                    {
+                        "feature": "occupation_social worker",
+                        "importance": 0.0012726256003943218
+                    },
+                    {
+                        "feature": "psych_mindedness_level_Moderate",
+                        "importance": 0.0011312249406091016
+                    },
+                    {
+                        "feature": "life_event_ongoing financial stress",
+                        "importance": 0.0006758049086168484
+                    },
+                    {
+                        "feature": "occupation_construction worker",
+                        "importance": 0.0005994627769294025
+                    },
+                    {
+                        "feature": "occupation_teacher",
+                        "importance": 0.0005490764534223214
+                    },
+                    {
+                        "feature": "model_Instruct (no COT)",
+                        "importance": 0.00027078132028312207
+                    },
+                    {
+                        "feature": "occupation_business owner",
+                        "importance": 0.0001840239791390541
+                    },
+                    {
+                        "feature": "occupation_data scientist",
+                        "importance": 0.00016343349420654867
+                    },
+                    {
+                        "feature": "life_event_job loss or instability",
+                        "importance": 0.0001458541654549949
+                    },
+                    {
+                        "feature": "primary_issue_moderate depression",
+                        "importance": 1.8356110592934175e-05
+                    },
+                    {
+                        "feature": "life_event_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "primary_issue_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "relationship_status_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "support_system_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "coping_mechanism_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "model_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "archetype_name_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "psych_mindedness_level_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "interaction_style_name_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "occupation_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "gender_nan",
+                        "importance": 0.0
+                    },
+                    {
+                        "feature": "coping_mechanism_engaging in hobbies",
+                        "importance": -2.5092100077797045e-05
+                    },
+                    {
+                        "feature": "life_event_a recent move",
+                        "importance": -6.706636109720555e-05
+                    },
+                    {
+                        "feature": "coping_mechanism_exercise",
+                        "importance": -0.00021761104228950942
+                    },
+                    {
+                        "feature": "support_system_relies mostly on self",
+                        "importance": -0.0004462369593795911
+                    },
+                    {
+                        "feature": "life_event_the loss of a loved one",
+                        "importance": -0.0005946264364786157
+                    },
+                    {
+                        "feature": "occupation_student",
+                        "importance": -0.0006646642706929715
+                    },
+                    {
+                        "feature": "coping_mechanism_mindfulness/meditation",
+                        "importance": -0.0009144513572679756
+                    },
+                    {
+                        "feature": "gender_non-binary",
+                        "importance": -0.0009183346351070097
+                    },
+                    {
+                        "feature": "coping_mechanism_emotional eating",
+                        "importance": -0.0009811702707686475
+                    },
+                    {
+                        "feature": "primary_issue_low self-esteem",
+                        "importance": -0.0010289252167979333
+                    },
+                    {
+                        "feature": "coping_mechanism_substance use (mild/moderate)",
+                        "importance": -0.0010349859621818758
+                    },
+                    {
+                        "feature": "primary_issue_burnout",
+                        "importance": -0.0011537278837388469
+                    },
+                    {
+                        "feature": "relationship_status_married",
+                        "importance": -0.0014416899563104522
+                    },
+                    {
+                        "feature": "occupation_chef",
+                        "importance": -0.0014532632474930174
+                    },
+                    {
+                        "feature": "support_system_limited social support currently",
+                        "importance": -0.0014679789442478186
+                    },
+                    {
+                        "feature": "coping_mechanism_intellectualizing feelings",
+                        "importance": -0.001490119411782136
+                    },
+                    {
+                        "feature": "life_event_major life transition",
+                        "importance": -0.0015968326072651018
+                    },
+                    {
+                        "feature": "archetype_name_The Overwhelmed Avoider",
+                        "importance": -0.0016407953339221183
+                    },
+                    {
+                        "feature": "support_system_a supportive partner",
+                        "importance": -0.0017929837649556268
+                    },
+                    {
+                        "feature": "coping_mechanism_using humor/sarcasm",
+                        "importance": -0.002278964942337456
+                    },
+                    {
+                        "feature": "coping_mechanism_talking to friends/family",
+                        "importance": -0.0023157906701812593
+                    },
+                    {
+                        "feature": "relationship_status_single",
+                        "importance": -0.00243111505185539
+                    },
+                    {
+                        "feature": "support_system_colleagues provide some support",
+                        "importance": -0.0025984105755721145
+                    },
+                    {
+                        "feature": "coping_mechanism_overworking",
+                        "importance": -0.0026362560924114973
+                    },
+                    {
+                        "feature": "occupation_manager",
+                        "importance": -0.002902263216313361
+                    },
+                    {
+                        "feature": "interaction_style_name_Catastrophizing/Future-Focused",
+                        "importance": -0.002949970896386869
+                    },
+                    {
+                        "feature": "life_event_significant family conflict",
+                        "importance": -0.0031483924327308107
+                    },
+                    {
+                        "feature": "occupation_artist",
+                        "importance": -0.0031745693081237933
+                    },
+                    {
+                        "feature": "interaction_style_name_Vague/Defensive",
+                        "importance": -0.0036374341924996
+                    },
+                    {
+                        "feature": "occupation_unemployed",
+                        "importance": -0.003733074759993469
+                    },
+                    {
+                        "feature": "archetype_name_The Hopeless Skeptic",
+                        "importance": -0.003865457758901612
+                    },
+                    {
+                        "feature": "relationship_status_widowed",
+                        "importance": -0.004897745178835809
+                    },
+                    {
+                        "feature": "primary_issue_generalized anxiety disorder",
+                        "importance": -0.005154934743297109
+                    },
+                    {
+                        "feature": "life_event_starting a demanding new job or school program",
+                        "importance": -0.00536035265740209
+                    },
+                    {
+                        "feature": "primary_issue_unknown",
+                        "importance": -0.006858727895429724
+                    },
+                    {
+                        "feature": "primary_issue_social anxiety",
+                        "importance": -0.006962263160375443
+                    }
+                ]
+            },
+            "predicting_tes_score": {
+                "model_performance": {
+                    "r2": 0.07886248312847988,
+                    "mae": 0.7981765432098769
+                },
+                "importances": [
+                    {
+                        "feature": "model_SFT (no COT)",
+                        "importance": 0.09875485072218207
+                    },
+                    {
+                        "feature": "model_ORPO (no COT)",
+                        "importance": 0.02824156554276198
+                    },
+                    {
+                        "feature": "age_lower",
+                        "importance": 0.0280938038969998
+                    },
+                    {
+                        "feature": "model_ORPO (COT)",
+                        "importance": 0.0222716133063843
+                    },
+                    {
+                        "feature": "model_SFT (COT)",
+                        "importance": 0.020917720004072802
+                    },
+                    {
+                        "feature": "coping_mechanism_seeking reassurance",
+                        "importance": 0.011323620091560493
+                    },
+                    {
+                        "feature": "life_event_a recent difficult breakup",
+                        "importance": 0.007846015313294055
+                    },
+                    {
+                        "feature": "support_system_supportive family",
+                        "importance": 0.006651705666195213
+                    },
+                    {
+                        "feature": "occupation_construction worker",
+                        "importance": 0.0059319865502023
+                    },
+                    {
+                        "feature": "support_system_relies mostly on self",
+                        "importance": 0.003874844127738606
+                    },
+                    {
+                        "feature": "model_Instruct (no COT)",
+                        "importance": 0.0037903156243473636
+                    },
+                    {
+                        "feature": "occupation_chef",
+                        "importance": 0.0034917544101209174
+                    },
+                    {
+                        "feature": "primary_issue_low self-esteem",
+                        "importance": 0.0033473602477983055
+                    },
+                    {
+                        "feature": "occupation_nurse",
+                        "importance": 0.0031507089778167055
+                    },
+                    {
+                        "feature": "occupation_software developer",
+                        "importance": 0.002490189691783156
+                    },
+                    {
+                        "feature": "coping_mechanism_procrastination",
+                        "importance": 0.0020231818051234134
+                    },
+                    {
+                        "feature": "primary_issue_mild anxiety",
+                        "importance": 0.0015684246622968251
+                    },
+                    {
+                        "feature": "life_event_a recent move",
+                        "importance": 0.0015534965695555144
+                    },
+                    {
+                        "feature": "occupation_data scientist",
+                        "importance": 0.0014113336344724315
+                    },
+                    {
+                        "feature": "life_event_job loss or instability",
+                        "importance": 0.0009087938768796055
+                    },
+                    {
+                        "feature": "occupation_unemployed",
+                        "importance": 0.0008512343983115624
+                    },
+                    {
+                        "feature": "coping_mechanism_engaging in hobbies",
+                        "importance": 0.0006478478673783394
+                    },
+                    {
+                        "feature": "occupation_artist",
+                        "importance": 0.0006239840754630133
+                    },
+                    {
+                        "feature": "relationship_status_widowed",
+                        "importance": 0.0003519959664340311
+                    },
+                    {
+                        "feature": "primary_issue_grief",
+                        "importance": 0.00019739660427669177
+                    },
+                    {
+                        "feature": "occupation_social worker",
+                        "importance": 0.00019016675717469008
+                    },
+                    {
+                        "feature": "occupation_teacher",
+                        "importance": 0.00016338959680451963
+                    },
+                    {
+                        "feature": "life_event_feeling isolated or lonely",
+                        "importance": 0.00011965437557671429
+                    },
+                    {
+                        "feature": "relationship_status_nan",
+                        "importance": -1.0880185641326535e-16
+                    },
+                    {
+                        "feature": "model_nan",
+                        "importance": -1.1546319456101628e-16
+                    },
+                    {
+                        "feature": "life_event_nan",
+                        "importance": -1.310063169057685e-16
+                    },
+                    {
+                        "feature": "psych_mindedness_level_nan",
+                        "importance": -1.310063169057685e-16
+                    },
+                    {
+                        "feature": "interaction_style_name_nan",
+                        "importance": -1.354472090042691e-16
+                    },
+                    {
+                        "feature": "support_system_nan",
+                        "importance": -1.354472090042691e-16
+                    },
+                    {
+                        "feature": "primary_issue_nan",
+                        "importance": -1.3766765505351939e-16
+                    },
+                    {
+                        "feature": "occupation_nan",
+                        "importance": -1.376676550535194e-16
+                    },
+                    {
+                        "feature": "archetype_name_nan",
+                        "importance": -1.3988810110276973e-16
+                    },
+                    {
+                        "feature": "gender_nan",
+                        "importance": -1.4654943925052067e-16
+                    },
+                    {
+                        "feature": "coping_mechanism_nan",
+                        "importance": -1.4876988529977099e-16
+                    },
+                    {
+                        "feature": "coping_mechanism_using humor/sarcasm",
+                        "importance": -1.2384638689260093e-05
+                    },
+                    {
+                        "feature": "primary_issue_moderate depression",
+                        "importance": -0.00022238347211708912
+                    },
+                    {
+                        "feature": "relationship_status_married",
+                        "importance": -0.0004436249828676032
+                    },
+                    {
+                        "feature": "gender_male",
+                        "importance": -0.000582039416086495
+                    },
+                    {
+                        "feature": "interaction_style_name_Vague/Defensive",
+                        "importance": -0.0006235389662674606
+                    },
+                    {
+                        "feature": "support_system_limited social support currently",
+                        "importance": -0.0006276909142910925
+                    },
+                    {
+                        "feature": "occupation_student",
+                        "importance": -0.0006676113277405008
+                    },
+                    {
+                        "feature": "coping_mechanism_mindfulness/meditation",
+                        "importance": -0.0007581069694023878
+                    },
+                    {
+                        "feature": "archetype_name_The Overwhelmed Avoider",
+                        "importance": -0.0009276146522669571
+                    },
+                    {
+                        "feature": "primary_issue_burnout",
+                        "importance": -0.001082211633531185
+                    },
+                    {
+                        "feature": "archetype_name_The Intellectualizer",
+                        "importance": -0.0014924058155579498
+                    },
+                    {
+                        "feature": "primary_issue_unknown",
+                        "importance": -0.0015054176212285174
+                    },
+                    {
+                        "feature": "relationship_status_single",
+                        "importance": -0.0017097299126885824
+                    },
+                    {
+                        "feature": "coping_mechanism_intellectualizing feelings",
+                        "importance": -0.0017475612229605718
+                    },
+                    {
+                        "feature": "psych_mindedness_level_Moderate",
+                        "importance": -0.0018571622030319455
+                    },
+                    {
+                        "feature": "interaction_style_name_Intellectualizing",
+                        "importance": -0.0020035940484648797
+                    },
+                    {
+                        "feature": "life_event_the loss of a loved one",
+                        "importance": -0.00214076043345951
+                    },
+                    {
+                        "feature": "life_event_major life transition",
+                        "importance": -0.0023094287232196444
+                    },
+                    {
+                        "feature": "occupation_business owner",
+                        "importance": -0.002341644211863921
+                    },
+                    {
+                        "feature": "coping_mechanism_substance use (mild/moderate)",
+                        "importance": -0.0025215337169507746
+                    },
+                    {
+                        "feature": "primary_issue_generalized anxiety disorder",
+                        "importance": -0.0027337066256244926
+                    },
+                    {
+                        "feature": "coping_mechanism_talking to friends/family",
+                        "importance": -0.002800169194461044
+                    },
+                    {
+                        "feature": "support_system_colleagues provide some support",
+                        "importance": -0.0030472979243812938
+                    },
+                    {
+                        "feature": "life_event_ongoing financial stress",
+                        "importance": -0.00340897798807019
+                    },
+                    {
+                        "feature": "coping_mechanism_emotional eating",
+                        "importance": -0.0035030850733530896
+                    },
+                    {
+                        "feature": "support_system_a supportive partner",
+                        "importance": -0.003507362054240184
+                    },
+                    {
+                        "feature": "coping_mechanism_overworking",
+                        "importance": -0.004083688547245374
+                    },
+                    {
+                        "feature": "life_event_starting a demanding new job or school program",
+                        "importance": -0.004154024953083295
+                    },
+                    {
+                        "feature": "gender_non-binary",
+                        "importance": -0.004402076329257593
+                    },
+                    {
+                        "feature": "occupation_manager",
+                        "importance": -0.0045761000699477234
+                    },
+                    {
+                        "feature": "primary_issue_social anxiety",
+                        "importance": -0.004812821871678927
+                    },
+                    {
+                        "feature": "life_event_significant family conflict",
+                        "importance": -0.005386417769670348
+                    },
+                    {
+                        "feature": "coping_mechanism_exercise",
+                        "importance": -0.005686101465251306
+                    },
+                    {
+                        "feature": "relationship_status_in a relationship",
+                        "importance": -0.005876378219563824
+                    },
+                    {
+                        "feature": "interaction_style_name_Catastrophizing/Future-Focused",
+                        "importance": -0.008813080478347711
+                    },
+                    {
+                        "feature": "archetype_name_The Hopeless Skeptic",
+                        "importance": -0.01273969114208554
+                    }
+                ]
+            }
+        },
+        "interaction_analysis": {
+            "description": "Exploratory linear mixed-effects models including an interaction term between therapist model type and patient archetype to examine whether model effectiveness varies systematically across patient types.",
+            "summaries": {
+                "act_fm_total": "                                        Mixed Linear Model Regression Results\n=====================================================================================================================\nModel:                                 MixedLM                    Dependent Variable:                    act_fm_total\nNo. Observations:                      900                        Method:                                ML          \nNo. Groups:                            150                        Scale:                                 31.3990     \nMin. group size:                       6                          Log-Likelihood:                        -2847.2744  \nMax. group size:                       6                          Converged:                             Yes         \nMean group size:                       6.0                                                                           \n---------------------------------------------------------------------------------------------------------------------\n                                                                           Coef.  Std.Err.   z    P>|z| [0.025 0.975]\n---------------------------------------------------------------------------------------------------------------------\nIntercept                                                                  24.903    0.956 26.040 0.000 23.028 26.777\nC(model)[T.Instruct (no COT)]                                              -3.083    1.321 -2.335 0.020 -5.672 -0.495\nC(model)[T.ORPO (COT)]                                                      3.125    1.321  2.366 0.018  0.536  5.714\nC(model)[T.ORPO (no COT)]                                                   1.215    1.321  0.920 0.357 -1.373  3.804\nC(model)[T.SFT (COT)]                                                      -1.569    1.321 -1.188 0.235 -4.158  1.019\nC(model)[T.SFT (no COT)]                                                   -4.604    1.321 -3.486 0.000 -7.193 -2.016\nC(archetype_name)[T.The Hopeless Skeptic]                                   0.254    1.249  0.203 0.839 -2.194  2.702\nC(archetype_name)[T.The Intellectualizer]                                   5.186    1.406  3.689 0.000  2.430  7.941\nC(archetype_name)[T.The Overwhelmed Avoider]                                3.793    1.394  2.720 0.007  1.060  6.525\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]     4.407    1.725  2.555 0.011  1.026  7.788\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Hopeless Skeptic]           -0.086    1.725 -0.050 0.960 -3.467  3.295\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         2.937    1.725  1.702 0.089 -0.444  6.318\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Hopeless Skeptic]            -0.190    1.725 -0.110 0.912 -3.571  3.191\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         -0.670    1.725 -0.389 0.698 -4.051  2.711\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Intellectualizer]     2.309    1.942  1.189 0.234 -1.496  6.115\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Intellectualizer]           -0.133    1.942 -0.069 0.945 -3.939  3.673\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Intellectualizer]        -0.094    1.942 -0.049 0.961 -3.900  3.711\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Intellectualizer]             0.497    1.942  0.256 0.798 -3.309  4.302\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Intellectualizer]          2.282    1.942  1.175 0.240 -1.524  6.087\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]  2.310    1.925  1.200 0.230 -1.464  6.083\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]        -1.766    1.925 -0.917 0.359 -5.539  2.008\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      1.941    1.925  1.008 0.313 -1.833  5.715\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]         -2.556    1.925 -1.327 0.184 -6.329  1.218\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      -1.833    1.925 -0.952 0.341 -5.607  1.940\nGroup Var                                                                   1.525    0.153                           \n=====================================================================================================================\n",
+                "tes_mean": "                                        Mixed Linear Model Regression Results\n=====================================================================================================================\nModel:                                 MixedLM                     Dependent Variable:                     tes_mean  \nNo. Observations:                      900                         Method:                                 ML        \nNo. Groups:                            150                         Scale:                                  0.7946    \nMin. group size:                       6                           Log-Likelihood:                         -1197.4886\nMax. group size:                       6                           Converged:                              Yes       \nMean group size:                       6.0                                                                           \n---------------------------------------------------------------------------------------------------------------------\n                                                                           Coef.  Std.Err.   z    P>|z| [0.025 0.975]\n---------------------------------------------------------------------------------------------------------------------\nIntercept                                                                   5.136    0.153 33.535 0.000  4.836  5.436\nC(model)[T.Instruct (no COT)]                                              -0.164    0.210 -0.779 0.436 -0.575  0.248\nC(model)[T.ORPO (COT)]                                                      0.454    0.210  2.159 0.031  0.042  0.865\nC(model)[T.ORPO (no COT)]                                                   0.370    0.210  1.763 0.078 -0.041  0.782\nC(model)[T.SFT (COT)]                                                      -0.198    0.210 -0.940 0.347 -0.609  0.214\nC(model)[T.SFT (no COT)]                                                   -0.519    0.210 -2.468 0.014 -0.930 -0.107\nC(archetype_name)[T.The Hopeless Skeptic]                                  -0.245    0.200 -1.224 0.221 -0.637  0.147\nC(archetype_name)[T.The Intellectualizer]                                   0.703    0.225  3.122 0.002  0.262  1.144\nC(archetype_name)[T.The Overwhelmed Avoider]                                0.434    0.223  1.942 0.052 -0.004  0.871\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]     0.506    0.274  1.843 0.065 -0.032  1.043\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Hopeless Skeptic]            0.060    0.274  0.220 0.826 -0.477  0.598\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         0.290    0.274  1.056 0.291 -0.248  0.828\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Hopeless Skeptic]            -0.031    0.274 -0.114 0.909 -0.569  0.507\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Hopeless Skeptic]         -0.277    0.274 -1.008 0.313 -0.815  0.261\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Intellectualizer]     0.239    0.309  0.773 0.439 -0.367  0.844\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Intellectualizer]           -0.092    0.309 -0.297 0.767 -0.697  0.514\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Intellectualizer]        -0.091    0.309 -0.294 0.769 -0.696  0.515\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Intellectualizer]             0.065    0.309  0.210 0.834 -0.540  0.670\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Intellectualizer]          0.293    0.309  0.948 0.343 -0.313  0.898\nC(model)[T.Instruct (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]  0.455    0.306  1.486 0.137 -0.145  1.056\nC(model)[T.ORPO (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]        -0.322    0.306 -1.051 0.293 -0.922  0.279\nC(model)[T.ORPO (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      0.112    0.306  0.367 0.714 -0.488  0.713\nC(model)[T.SFT (COT)]:C(archetype_name)[T.The Overwhelmed Avoider]         -0.132    0.306 -0.432 0.666 -0.733  0.468\nC(model)[T.SFT (no COT)]:C(archetype_name)[T.The Overwhelmed Avoider]      -0.110    0.306 -0.359 0.720 -0.710  0.490\nGroup Var                                                                   0.050    0.026                           \n=====================================================================================================================\n"
+            }
+        },
+        "cot_impact_analysis": {
+            "archetype_name": {
+                "The Anxious Fortune-Teller": {
+                    "Instruct": {
+                        "act_fm_difference": 3.0833333333333357,
+                        "tes_difference": 0.16358024691357897
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.0347222222222214,
+                        "tes_difference": 0.3209876543209882
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.9097222222222214,
+                        "tes_difference": 0.08333333333333215
+                    }
+                },
+                "The Overwhelmed Avoider": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7734375,
+                        "tes_difference": -0.29166666666666696
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.3125,
+                        "tes_difference": 0.2986111111111107
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.796875,
+                        "tes_difference": -0.35069444444444464
+                    }
+                },
+                "The Hopeless Skeptic": {
+                    "Instruct": {
+                        "act_fm_difference": -1.3235294117647065,
+                        "tes_difference": -0.34204793028322467
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.514705882352942,
+                        "tes_difference": 0.5664488017429186
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.1127450980392162,
+                        "tes_difference": -0.14596949891067457
+                    }
+                },
+                "The Intellectualizer": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7741935483870961,
+                        "tes_difference": -0.07526881720430101
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.25,
+                        "tes_difference": 0.09318996415770453
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.8709677419354804,
+                        "tes_difference": 0.0824372759856642
+                    }
+                }
+            },
+            "psych_mindedness_level": {
+                "Moderate": {
+                    "Instruct": {
+                        "act_fm_difference": 2.0149253731343286,
+                        "tes_difference": 0.05306799336650059
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.208955223880597,
+                        "tes_difference": 0.2155887230514093
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.8917910447761201,
+                        "tes_difference": 0.08291873963515872
+                    }
+                },
+                "Low": {
+                    "Instruct": {
+                        "act_fm_difference": -0.5150602409638552,
+                        "tes_difference": -0.3226238286479255
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.051204819277107,
+                        "tes_difference": 0.4631860776439103
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.3765060240963862,
+                        "tes_difference": -0.22489959839357265
+                    }
+                }
+            },
+            "interaction_style_name": {
+                "Catastrophizing/Future-Focused": {
+                    "Instruct": {
+                        "act_fm_difference": 3.0833333333333357,
+                        "tes_difference": 0.16358024691357897
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.0347222222222214,
+                        "tes_difference": 0.3209876543209882
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.9097222222222214,
+                        "tes_difference": 0.08333333333333215
+                    }
+                },
+                "Vague/Defensive": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7734375,
+                        "tes_difference": -0.29166666666666696
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.3125,
+                        "tes_difference": 0.2986111111111107
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.796875,
+                        "tes_difference": -0.35069444444444464
+                    }
+                },
+                "Argumentative/Resistant": {
+                    "Instruct": {
+                        "act_fm_difference": -1.3235294117647065,
+                        "tes_difference": -0.34204793028322467
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.514705882352942,
+                        "tes_difference": 0.5664488017429186
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.1127450980392162,
+                        "tes_difference": -0.14596949891067457
+                    }
+                },
+                "Intellectualizing": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7741935483870961,
+                        "tes_difference": -0.07526881720430101
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.25,
+                        "tes_difference": 0.09318996415770453
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.8709677419354804,
+                        "tes_difference": 0.0824372759856642
+                    }
+                }
+            },
+            "primary_issue": {
+                "unknown": {
+                    "Instruct": {
+                        "act_fm_difference": 1.3306451612903238,
+                        "tes_difference": -0.03942652329749041
+                    },
+                    "SFT": {
+                        "act_fm_difference": 0.862903225806452,
+                        "tes_difference": 0.12186379928315372
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.7903225806451601,
+                        "tes_difference": 0.0788530465949826
+                    }
+                },
+                "social anxiety": {
+                    "Instruct": {
+                        "act_fm_difference": 2.53125,
+                        "tes_difference": 0.02777777777777768
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.421875,
+                        "tes_difference": 0.22916666666666607
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.59375,
+                        "tes_difference": -0.25
+                    }
+                },
+                "adjustment disorder": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7941176470588225,
+                        "tes_difference": -0.2222222222222232
+                    },
+                    "SFT": {
+                        "act_fm_difference": 5.823529411764703,
+                        "tes_difference": 0.7908496732026151
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.0735294117647065,
+                        "tes_difference": -0.29411764705882515
+                    }
+                },
+                "moderate depression": {
+                    "Instruct": {
+                        "act_fm_difference": -1.7916666666666679,
+                        "tes_difference": -0.5277777777777777
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.479166666666668,
+                        "tes_difference": 0.1481481481481488
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.5416666666666643,
+                        "tes_difference": -0.0370370370370372
+                    }
+                },
+                "burnout": {
+                    "Instruct": {
+                        "act_fm_difference": -1.6388888888888893,
+                        "tes_difference": -0.5493827160493829
+                    },
+                    "SFT": {
+                        "act_fm_difference": 4.763888888888889,
+                        "tes_difference": 0.7777777777777768
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 2.7361111111111107,
+                        "tes_difference": 0.30864197530864246
+                    }
+                },
+                "generalized anxiety disorder": {
+                    "Instruct": {
+                        "act_fm_difference": 0.1374999999999993,
+                        "tes_difference": -0.094444444444445
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.512500000000003,
+                        "tes_difference": 0.42777777777777715
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.8125,
+                        "tes_difference": 0.1444444444444457
+                    }
+                },
+                "low self-esteem": {
+                    "Instruct": {
+                        "act_fm_difference": 2.48076923076923,
+                        "tes_difference": 0.04273504273504081
+                    },
+                    "SFT": {
+                        "act_fm_difference": -0.75,
+                        "tes_difference": -0.09401709401709457
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 2.48076923076923,
+                        "tes_difference": 0.23076923076922995
+                    }
+                },
+                "mild anxiety": {
+                    "Instruct": {
+                        "act_fm_difference": 0.75,
+                        "tes_difference": -0.02777777777777768
+                    },
+                    "SFT": {
+                        "act_fm_difference": 4.40625,
+                        "tes_difference": 0.6527777777777777
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -3.59375,
+                        "tes_difference": -0.5416666666666652
+                    }
+                },
+                "grief": {
+                    "Instruct": {
+                        "act_fm_difference": 0.46666666666666856,
+                        "tes_difference": -0.05925925925926112
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.9666666666666686,
+                        "tes_difference": 0.24444444444444535
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -5.050000000000001,
+                        "tes_difference": -0.8814814814814795
+                    }
+                }
+            },
+            "life_event": {
+                "significant family conflict": {
+                    "Instruct": {
+                        "act_fm_difference": 1.25,
+                        "tes_difference": -0.1904761904761898
+                    },
+                    "SFT": {
+                        "act_fm_difference": 5.5,
+                        "tes_difference": 0.7936507936507926
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 4.017857142857146,
+                        "tes_difference": 0.3888888888888893
+                    }
+                },
+                "major life transition": {
+                    "Instruct": {
+                        "act_fm_difference": 0.132352941176471,
+                        "tes_difference": -0.05228758169934533
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.0147058823529385,
+                        "tes_difference": 0.24183006535947715
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.07352941176470651,
+                        "tes_difference": -0.019607843137254832
+                    }
+                },
+                "job loss or instability": {
+                    "Instruct": {
+                        "act_fm_difference": 1.71875,
+                        "tes_difference": 0.4375
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.3125,
+                        "tes_difference": 0.3125
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -2.78125,
+                        "tes_difference": -0.583333333333333
+                    }
+                },
+                "ongoing financial stress": {
+                    "Instruct": {
+                        "act_fm_difference": -2.9166666666666643,
+                        "tes_difference": -0.5833333333333339
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.8541666666666643,
+                        "tes_difference": 0.5277777777777777
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.5208333333333321,
+                        "tes_difference": -0.29629629629629495
+                    }
+                },
+                "starting a demanding new job or school program": {
+                    "Instruct": {
+                        "act_fm_difference": 2.6875,
+                        "tes_difference": 0.0625
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.953125,
+                        "tes_difference": 0.6041666666666679
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -2.140625,
+                        "tes_difference": -0.44444444444444464
+                    }
+                },
+                "a recent move": {
+                    "Instruct": {
+                        "act_fm_difference": 1.265625,
+                        "tes_difference": -0.0625
+                    },
+                    "SFT": {
+                        "act_fm_difference": -1.6875,
+                        "tes_difference": -0.2708333333333339
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.0625,
+                        "tes_difference": 0.05555555555555536
+                    }
+                },
+                "a recent difficult breakup": {
+                    "Instruct": {
+                        "act_fm_difference": 0.05000000000000071,
+                        "tes_difference": -0.3481481481481481
+                    },
+                    "SFT": {
+                        "act_fm_difference": 7.116666666666667,
+                        "tes_difference": 0.7407407407407396
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 4.733333333333334,
+                        "tes_difference": 0.4592592592592588
+                    }
+                },
+                "the loss of a loved one": {
+                    "Instruct": {
+                        "act_fm_difference": 0.4833333333333343,
+                        "tes_difference": -0.1629629629629621
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.6500000000000021,
+                        "tes_difference": 0.24444444444444535
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -0.16666666666666785,
+                        "tes_difference": -0.13333333333333375
+                    }
+                },
+                "a health scare": {
+                    "Instruct": {
+                        "act_fm_difference": 0.7142857142857153,
+                        "tes_difference": -0.34920634920634885
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.625,
+                        "tes_difference": 0.5634920634920633
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.75,
+                        "tes_difference": 0.08730158730158788
+                    }
+                },
+                "feeling isolated or lonely": {
+                    "Instruct": {
+                        "act_fm_difference": -0.08333333333333215,
+                        "tes_difference": -0.474074074074073
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.0833333333333321,
+                        "tes_difference": -0.11111111111111072
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.8666666666666671,
+                        "tes_difference": -0.3481481481481481
+                    }
+                }
+            },
+            "coping_mechanism": {
+                "using humor/sarcasm": {
+                    "Instruct": {
+                        "act_fm_difference": 3.0500000000000007,
+                        "tes_difference": 0.04444444444444429
+                    },
+                    "SFT": {
+                        "act_fm_difference": -0.07499999999999929,
+                        "tes_difference": 0.2222222222222232
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.75,
+                        "tes_difference": 0.15555555555555678
+                    }
+                },
+                "talking to friends/family": {
+                    "Instruct": {
+                        "act_fm_difference": 4.7307692307692335,
+                        "tes_difference": 0.2735042735042743
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.76923076923077,
+                        "tes_difference": 0.264957264957264
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.5961538461538467,
+                        "tes_difference": 0.12820512820512775
+                    }
+                },
+                "exercise": {
+                    "Instruct": {
+                        "act_fm_difference": 1.9305555555555536,
+                        "tes_difference": 0.03703703703703809
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.6666666666666643,
+                        "tes_difference": 0.283950617283951
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.4861111111111107,
+                        "tes_difference": 0.06481481481481488
+                    }
+                },
+                "engaging in hobbies": {
+                    "Instruct": {
+                        "act_fm_difference": -4.361111111111111,
+                        "tes_difference": -0.3456790123456779
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.5277777777777786,
+                        "tes_difference": 0.25925925925925863
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.3055555555555536,
+                        "tes_difference": -0.16049382716049365
+                    }
+                },
+                "procrastination": {
+                    "Instruct": {
+                        "act_fm_difference": 0.4411764705882355,
+                        "tes_difference": -0.2875816993464042
+                    },
+                    "SFT": {
+                        "act_fm_difference": -1.6323529411764675,
+                        "tes_difference": -0.43790849673202636
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -2.25,
+                        "tes_difference": -0.4509803921568629
+                    }
+                },
+                "overworking": {
+                    "Instruct": {
+                        "act_fm_difference": -4.5,
+                        "tes_difference": -0.8518518518518512
+                    },
+                    "SFT": {
+                        "act_fm_difference": 5.25,
+                        "tes_difference": 0.3827160493827151
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.1111111111111107,
+                        "tes_difference": -0.20987654320987748
+                    }
+                },
+                "substance use (mild/moderate)": {
+                    "Instruct": {
+                        "act_fm_difference": 0.2884615384615401,
+                        "tes_difference": -0.1623931623931627
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.1346153846153832,
+                        "tes_difference": 0.49572649572649574
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.1923076923076934,
+                        "tes_difference": -0.05982905982905873
+                    }
+                },
+                "seeking reassurance": {
+                    "Instruct": {
+                        "act_fm_difference": -2.34375,
+                        "tes_difference": -0.666666666666667
+                    },
+                    "SFT": {
+                        "act_fm_difference": 8.40625,
+                        "tes_difference": 0.9861111111111107
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.75,
+                        "tes_difference": -0.23611111111111072
+                    }
+                },
+                "intellectualizing feelings": {
+                    "Instruct": {
+                        "act_fm_difference": -0.7222222222222214,
+                        "tes_difference": -0.1481481481481488
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.5,
+                        "tes_difference": 0.27160493827160526
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -3.194444444444443,
+                        "tes_difference": -0.3580246913580254
+                    }
+                },
+                "avoiding triggers": {
+                    "Instruct": {
+                        "act_fm_difference": -1.5454545454545467,
+                        "tes_difference": -0.33333333333333304
+                    },
+                    "SFT": {
+                        "act_fm_difference": 6.363636363636363,
+                        "tes_difference": 1.212121212121212
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -0.8636363636363633,
+                        "tes_difference": -0.17171717171717127
+                    }
+                },
+                "emotional eating": {
+                    "Instruct": {
+                        "act_fm_difference": 2.6944444444444464,
+                        "tes_difference": -0.22222222222222232
+                    },
+                    "SFT": {
+                        "act_fm_difference": -0.33333333333333215,
+                        "tes_difference": 0.34567901234567877
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -0.6944444444444429,
+                        "tes_difference": -0.3209876543209873
+                    }
+                },
+                "mindfulness/meditation": {
+                    "Instruct": {
+                        "act_fm_difference": 2.875,
+                        "tes_difference": 0.2592592592592595
+                    },
+                    "SFT": {
+                        "act_fm_difference": 7.208333333333336,
+                        "tes_difference": 0.9074074074074066
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.5416666666666643,
+                        "tes_difference": 0.5
+                    }
+                }
+            },
+            "relationship_status": {
+                "widowed": {
+                    "Instruct": {
+                        "act_fm_difference": 0.25657894736842124,
+                        "tes_difference": -0.11403508771929793
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.848684210526315,
+                        "tes_difference": 0.6023391812865491
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.2171052631578974,
+                        "tes_difference": -0.0146198830409352
+                    }
+                },
+                "married": {
+                    "Instruct": {
+                        "act_fm_difference": 0.279411764705884,
+                        "tes_difference": -0.15686274509803955
+                    },
+                    "SFT": {
+                        "act_fm_difference": 0.617647058823529,
+                        "tes_difference": 0.016339869281045694
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -2.102941176470587,
+                        "tes_difference": -0.3039215686274517
+                    }
+                },
+                "in a relationship": {
+                    "Instruct": {
+                        "act_fm_difference": 1.1799999999999997,
+                        "tes_difference": -0.35111111111111093
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.1799999999999997,
+                        "tes_difference": 0.10666666666666558
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -0.06999999999999673,
+                        "tes_difference": -0.026666666666666394
+                    }
+                },
+                "single": {
+                    "Instruct": {
+                        "act_fm_difference": 1.5,
+                        "tes_difference": 0.0035842293906807043
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.9112903225806477,
+                        "tes_difference": 0.43010752688171916
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.0645161290322562,
+                        "tes_difference": -0.01792114695340441
+                    }
+                },
+                "divorced": {
+                    "Instruct": {
+                        "act_fm_difference": -0.1363636363636367,
+                        "tes_difference": -0.22222222222222232
+                    },
+                    "SFT": {
+                        "act_fm_difference": 4.05681818181818,
+                        "tes_difference": 0.6111111111111107
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.29545454545454675,
+                        "tes_difference": -0.04545454545454408
+                    }
+                }
+            },
+            "support_system": {
+                "limited social support currently": {
+                    "Instruct": {
+                        "act_fm_difference": 3.0700000000000003,
+                        "tes_difference": 0.17777777777777892
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.789999999999999,
+                        "tes_difference": 0.7022222222222227
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 1.1900000000000013,
+                        "tes_difference": 0.09333333333333371
+                    }
+                },
+                "colleagues provide some support": {
+                    "Instruct": {
+                        "act_fm_difference": -0.1328125,
+                        "tes_difference": -0.2916666666666661
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.4140625,
+                        "tes_difference": 0.5138888888888893
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 0.5390625,
+                        "tes_difference": 0.11111111111111072
+                    }
+                },
+                "supportive family": {
+                    "Instruct": {
+                        "act_fm_difference": -0.2375000000000007,
+                        "tes_difference": -0.43333333333333357
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.5625,
+                        "tes_difference": -0.06111111111111178
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.0250000000000021,
+                        "tes_difference": -0.28888888888888875
+                    }
+                },
+                "a supportive partner": {
+                    "Instruct": {
+                        "act_fm_difference": -1.4868421052631575,
+                        "tes_difference": -0.4502923976608182
+                    },
+                    "SFT": {
+                        "act_fm_difference": 3.460526315789476,
+                        "tes_difference": 0.5263157894736841
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -2.434210526315791,
+                        "tes_difference": -0.6666666666666652
+                    }
+                },
+                "a few close friends": {
+                    "Instruct": {
+                        "act_fm_difference": 1.1833333333333336,
+                        "tes_difference": -0.02222222222221948
+                    },
+                    "SFT": {
+                        "act_fm_difference": 1.7333333333333343,
+                        "tes_difference": 0.06666666666666643
+                    },
+                    "ORPO": {
+                        "act_fm_difference": 2.150000000000002,
+                        "tes_difference": 0.18518518518518334
+                    }
+                },
+                "relies mostly on self": {
+                    "Instruct": {
+                        "act_fm_difference": 0.71875,
+                        "tes_difference": -0.018518518518518157
+                    },
+                    "SFT": {
+                        "act_fm_difference": 2.0104166666666643,
+                        "tes_difference": 0.3379629629629628
+                    },
+                    "ORPO": {
+                        "act_fm_difference": -1.34375,
+                        "tes_difference": -0.25462962962963065
+                    }
+                }
+            }
+        },
+        "optimal_model_by_subgroup": {
+            "archetype_name": {
+                "The Anxious Fortune-Teller": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "The Overwhelmed Avoider": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "The Hopeless Skeptic": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "The Intellectualizer": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                }
+            },
+            "psych_mindedness_level": {
+                "Moderate": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "Low": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                }
+            },
+            "interaction_style_name": {
+                "Catastrophizing/Future-Focused": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "Vague/Defensive": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "Argumentative/Resistant": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "Intellectualizing": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                }
+            },
+            "primary_issue": {
+                "unknown": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "social anxiety": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "adjustment disorder": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "moderate depression": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "Instruct (no COT)"
+                },
+                "burnout": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "generalized anxiety disorder": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "low self-esteem": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "mild anxiety": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "grief": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                }
+            },
+            "life_event": {
+                "significant family conflict": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "major life transition": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "job loss or instability": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "ongoing financial stress": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "starting a demanding new job or school program": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "a recent move": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "a recent difficult breakup": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "SFT (COT)"
+                },
+                "the loss of a loved one": {
+                    "best_model_act_fm": "Instruct (COT)",
+                    "best_model_tes": "Instruct (no COT)"
+                },
+                "a health scare": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "feeling isolated or lonely": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                }
+            },
+            "coping_mechanism": {
+                "using humor/sarcasm": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "talking to friends/family": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "exercise": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "engaging in hobbies": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "procrastination": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "overworking": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "substance use (mild/moderate)": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "seeking reassurance": {
+                    "best_model_act_fm": "Instruct (no COT)",
+                    "best_model_tes": "Instruct (no COT)"
+                },
+                "intellectualizing feelings": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "avoiding triggers": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "Instruct (no COT)"
+                },
+                "emotional eating": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "mindfulness/meditation": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                }
+            },
+            "relationship_status": {
+                "widowed": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "married": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "in a relationship": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "single": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "divorced": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                }
+            },
+            "support_system": {
+                "limited social support currently": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "colleagues provide some support": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "supportive family": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "a supportive partner": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                },
+                "a few close friends": {
+                    "best_model_act_fm": "ORPO (COT)",
+                    "best_model_tes": "ORPO (COT)"
+                },
+                "relies mostly on self": {
+                    "best_model_act_fm": "ORPO (no COT)",
+                    "best_model_tes": "ORPO (no COT)"
+                }
+            }
+        }
+    }
+}

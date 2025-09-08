@@ -1,0 +1,450 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling really stuck and directionless — nursing's been all I know for decades, and since my partner died I can't tell what matters to me beyond work. I find myself going through routines and feeling empty the rest of the time. I don't see how talking will change that, but I'm here.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying a heavy weight of uncertainty and grief right now. Losing a partner can be especially challenging, especially when it feels like everything you thought you knew has changed.
+
+It's interesting that you mention going through routines, even though you're not feeling fulfilled. Sometimes, we fall into patterns out of habit or because they feel safe, even if they're not bringing us the satisfaction we need.
+
+Can you tell me more about what it's like when you're feeling empty? Is it a numbness, or is there a sense of emptiness that you can't quite fill?
+
+Patient: It's more a hollow ache than pure numbness — like I'm on autopilot and nothing feels meaningful. I've tried little things people suggest, like writing down feelings or picking up a hobby, and it just feels forced and doesn't stick. How is talking about the feeling supposed to help? I don't know, it just sits there.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That hollow ache can be really difficult to shake off. It's like your whole world has shifted, and you're not sure where to find your bearings.
+
+It's understandable that trying to do things "on your own" or following suggestions hasn't been working for you. Sometimes, our minds can get stuck on a certain problem or feeling, and no matter how hard we try, we can't seem to get unstuck.
+
+Talking about it, though, is different. It's not about finding a magic solution or fixing everything right away. It's more about exploring where this feeling is coming from, and maybe even finding a way to make room for it, rather than trying to push it away. It's not about the talking itself, but about the connection we can make with our thoughts and feelings.
+
+Would you be willing to try something a bit different? Instead of trying to tackle the feeling directly, I'd like to explore it with you in a different way. Can you tell me about the last time you really felt something, anything, that made you feel alive? It might seem like a small thing, but it could be a good starting point.
+
+Patient: I guess the last time I felt even a bit alive was a few weeks ago — an older man I was caring for grabbed my hand and told me I'd made his day. For a moment the hollow eased and I felt useful, like I mattered. It didn't last though; the next morning the emptiness was right back. How is remembering that supposed to help? I've tried clinging to moments like that before and it doesn't seem to change anything.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That moment with the older man seems like a small respite from the emptiness you've been feeling. It's interesting that, even though it was a positive moment, it didn't stick, and the emptiness came back.
+
+Clinging to moments like that can be a natural response, especially when we're trying to hold onto something that feels good. But sometimes, those moments can become a kind of anchor, making it harder to move forward. It's like your mind is holding onto the memory of that feeling, rather than making room for new experiences.
+
+I'm not suggesting that you should try to forget or ignore those moments, but rather explore them in a different way. Can you tell me more about what happened when the older man told you that you'd made his day? What did you think at the time? Did you feel any sense of pride or purpose? Maybe we can look at that moment a bit more closely, and see if we can find a way to build on that feeling, rather than just holding onto it.
+
+Patient: He was a quiet fellow, just holding my hand while I adjusted his blanket — he squeezed once and said I’d made his day, and for a moment my chest felt lighter, like I actually meant something. It felt like a tiny thread of purpose, but by the time I got home it was gone and I was back to the same hollow. How is sitting with that memory supposed to help when I've tried leaning on little moments before and they dissolve the next day?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like that moment with the older man was a fleeting glimpse of connection, a spark that flickered and then went out. It's understandable that you've tried leaning on those small moments before, but they didn't stick, and you're wondering if sitting with this memory will be any different.
+
+I think it's because we're trying to make those small moments last, to hold onto them as a way to feel more connected, more useful. But maybe we're looking at it from the wrong angle. Instead of trying to hold onto that moment, what if we explored what it was like to feel that way? What if we looked at what made it feel lighter, what made you feel like you meant something?
+
+It's not about making the moment last, but about understanding what it was like to feel that way. Can you think of anything, even just a tiny thing, that made that feeling of purpose or connection possible? Was it just the physical act of holding someone's hand, or was there something more? Maybe if we explore that, we can find a way to make room for that feeling again, not just in that one moment, but in other moments too.
+
+Patient: I think it was the human contact — the hand squeeze and being seen, not just doing a task. For a moment I felt competent and needed, like I wasn't just going through motions. How is figuring that out supposed to help make it last?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you found a moment where the focus shifted from just doing a task to being seen and connected with the person. That human contact made you feel competent and needed, like you were more than just a caregiver.
+
+Figuring out what made that moment work might seem like it's just about recapturing a feeling, but it's actually about understanding what's missing in your daily life. You mentioned earlier that you're going through routines and feeling empty. It's possible that the moment with the older man was a tiny respite from that, but it's not a sustainable way to cope.
+
+By exploring what made that moment work, you're not just trying to recreate it, but understanding what's missing in your daily life. It's like taking a small step back to look at the bigger picture. If you can understand what's missing, maybe you can find ways to make more moments like that happen in your daily life. It's not just about the hand squeeze, but about finding ways to feel seen and connected in your daily interactions.
+
+Patient: Yeah, I think you're right — it was being seen, not the task. But how is that supposed to help me get more of it? I've tried "be present" and "reach out" before and it just feels forced and quick to fade. I'm tired, and honestly I worry I'm too old to change — what would a concrete, simple thing look like that I could try at work without feeling fake?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to force a feeling that's not coming naturally, and it's wearing you down. Being seen, in that moment with the older man, felt like a small act of kindness that made a big difference. But now you're trying to apply that to your daily work, and it's not working out.
+
+I want to acknowledge that it's okay to feel tired and worried about changing. It's a big ask to try to shift your approach when you're not feeling your best. But I also want to encourage you to take a tiny step. What if, instead of trying to be "present" or "reach out" in a way that feels forced, you just tried to acknowledge the person's presence in a small, natural way?
+
+At work, that might mean making eye contact, or asking a simple question like "How's your day going?" or "I'm so glad you're doing well." It's not about grand gestures or trying to fake it, but about showing up in a small, genuine way. Can you try that for a day, just to see how it feels? Maybe it's not about changing everything at once, but just taking a tiny step towards being more present, more connected, and more seen.
+
+Patient: I guess I could try something small, but how is that supposed to help? Maybe I’ll pick one patient each shift and do a quick, real check-in — make eye contact and ask, “How are you doing right now?” — something I can do in under a minute. I'm worried it’ll still feel fake or the person will be curt and I’ll just go back to that hollow feeling; if I try it, how will I know it actually helped or I’m not just pretending to care?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for a way to test whether this small step will actually work, without getting your hopes up or feeling like you're just pretending. You're worried that it might not be enough, or that the person might not respond in a way that makes it feel like it's working.
+
+I think that's a really healthy approach. It's not about trying to fix everything or pretending to care, but about taking a small, genuine step. If you do decide to try it, I would suggest that you don't put too much pressure on it. Just show up, ask the question, and see how the person responds. Don't worry too much about whether it's "helping" or not. Just focus on the fact that you're taking the time to ask.
+
+It's also worth noting that the person's response might not be what you expect. They might be more surprised or grateful than you can imagine. Or, they might not respond at all. But that doesn't mean that the small act of kindness didn't make a difference. Sometimes, it's the small, everyday acts that have the biggest impact.
+
+Can I ask, what do you think might happen if, just for one shift, you did show up in a more genuine way? What do you think might be the smallest change you could make to your interactions with your patients?
+
+Patient: Maybe I could pick one patient each shift and do a real one-minute check-in — make eye contact, use their name, ask “How are you doing right now?” and actually listen without rushing off. Maybe it’ll give a tiny lift or remind me why I do this, but I’m skeptical it’ll change the bigger hollow. How am I supposed to tell if it helped other than just hoping I feel different? I'm worried it'll feel fake and I'll slip back into autopilot.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for a way to ground yourself in your work, to remember why you started doing this in the first place. You're skeptical that this small change will make a big difference, but you're willing to try it out.
+
+I think that's a really healthy attitude. You're not expecting this small act to be a magic fix, but you're willing to experiment and see what happens. You're also being honest with yourself about your concerns - that it might feel fake, or that you might slip back into autopilot.
+
+One way to think about this is to focus on the process, rather than the outcome. Instead of wondering if it will make a big difference, ask yourself what you can learn from this experience. What might you discover about yourself, about your patients, or about the work you do? How might this small act of kindness change your interactions with your patients, even if it doesn't change the bigger hollow?
+
+It's also worth noting that the act of listening, of making eye contact, and of asking a simple question can be a form of self-care. It can help you feel more connected to your patients, and to your own sense of purpose. So, even if it doesn't make a big difference in the short term, it might be worth trying it out to see how it feels.
+
+Can I ask, what do you think would happen if you showed up to your shift with a sense of curiosity, rather than just going through the motions? Would that change anything, even if it's just a little bit?
+
+Patient: Maybe it could nudge me out of autopilot — like noticing a patient’s voice or a photo on the wall instead of just ticking tasks off. But I’m tired, and “being curious” already sounds like something else I’ll fail at or fake. How is that supposed to help, and what’s one tiny, concrete thing I can try on a shift that won’t feel like acting?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're looking for a way to break out of autopilot, to be more present and engaged with your patients. You're worried that trying to be curious will feel like another thing you're not good at, or that you'll just fake it.
+
+I think that's a really realistic concern. It's not easy to change our habits or our mindset, especially when we're tired or feeling overwhelmed.
+
+One tiny, concrete thing you could try is to make a small, deliberate choice to notice something about the patient or their environment. It doesn't have to be anything big or profound - just something small and simple. For example, you could try to notice the patient's name, or their favorite color or hobby. You could also try to notice something about the room or the equipment - a photo on the wall, a piece of artwork, or a unusual decoration.
+
+The idea is not to try to be curious or interested, but just to be present and notice the details. It's not about changing your behavior or your attitude, but just about making a small, deliberate choice to pay attention.
+
+Can I ask, what would happen if you just made a small, deliberate choice to notice something about the patient or their environment, without trying to change anything or be curious? Would that feel like a small, achievable goal, or would you still feel like you're just faking it?
+
+Patient: Maybe that does feel doable — just pick one tiny thing, like the photo on the bedside table or the patient’s name, and ask one simple question about it. But I’m still skeptical: I can imagine doing that and the person shrugging or giving a short answer and me going right back to the hollow — how is that supposed to help me feel less empty in the long run? I’m tired of little experiments that don’t stick, and I don’t know how to tell if I’m actually changing or just putting on a show.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're still worried that this small experiment won't stick, or that you'll just be putting on a show. You're looking for a way to make sure that you're actually changing, not just pretending.
+
+I think that's a healthy skepticism. It's not easy to know whether we're really making progress or just going through the motions. But what if, instead of trying to prove that you're changing, you just focused on showing up and trying your best? What if, instead of asking "Am I really making a difference?", you just asked "What can I learn from this experience?"?
+
+It's not about trying to prove anything, but about being open to the process. You might be surprised at what you learn, not just about your patients, but about yourself. And it's not about trying to change everything at once, but about taking small, incremental steps towards a bigger goal.
+
+Can I ask, what would happen if you just showed up to your shift with a willingness to try, without trying to change everything or prove anything? Would that feel like a more authentic approach, or would you still be worried about what others might think?
+
+Patient: I could try showing up with a willingness, but I'm worried it'll just feel like another thing to fail at — how is that supposed to help when "willingness" hasn't stuck for me before? Maybe I'll try one concrete rule: one real, one-minute check-in per shift, no more, so I don't have to overhaul everything. I'm starting to feel a bit overwhelmed thinking about all this — can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit overwhelmed and concerned that trying to make a change will only lead to more failure. You're looking for a way to start small and not feel like you're trying to overhaul everything at once.
+
+I think that's a completely reasonable approach. One concrete rule, one real check-in per shift, no more - that's a great way to start. It's small, manageable, and allows you to focus on one thing at a time.
+
+And I'm happy to slow down with you. We can take a step back and focus on that one rule for now. How does that sound? Would it help to take a deep breath, and just focus on showing up to your shift with a willingness to try, and then just doing one real check-in? No pressure, no expectations - just a small, small step.
+
+Patient: Okay. I can try the one one-minute check-in per shift — small enough I might manage. But I'm worried it'll still feel fake or just become another box to tick; how will I know if it's actually helping in the long run? I'm starting to feel overwhelmed thinking about reactions — can we slow down and talk about what to do if a patient just shrugs or shuts down?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit concerned about how to handle the potential reactions from patients, and how to know if the one-minute check-in is actually helping. You're worried that it might feel fake or just another box to tick, and that it's hard to know if it's making a real difference.
+
+I think that's a really valid concern. It's natural to worry about how patients will react, especially if they're not used to being asked about their feelings or thoughts.
+
+Let's take a step back and focus on the smallest, most immediate worry. What if a patient shrugs or shuts down when you ask them about their day? How would you like to handle that situation? Would you like to know some strategies for responding to patients who might not be interested in talking about their feelings?
+
+We can work through this together, one small step at a time. I'm here to support you, and help you find a way to make this work.
+
+Patient: Okay — if they shrug or shut down I usually just freeze up and step back, which leaves me feeling useless. How is giving them space supposed to help when I already feel invisible? I'm feeling jumpy and distracted all of a sudden, so give me one tiny, concrete script or three short options I can actually say in under 30 seconds that won't sound fake.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit jumpy and distracted, and you're worried that giving a patient space will just make you feel more invisible. You're looking for something simple and concrete to say, something that won't sound fake or forced.
+
+Here are three short options, each under 30 seconds, that you can use if a patient shrugs or shuts down:
+
+1. "Can you tell me a little bit about what's going on today? Even if it's just for a second?"
+2. "I'm here to listen. If you're not ready to talk, that's okay. Just know I'm here for you."
+3. "Take your time. I'm not in a hurry. Can we talk about this later if you need to?"
+
+These options are designed to be simple, gentle, and non-intrusive. They give the patient space to respond, or not respond, without putting you on the spot. Remember, the goal is not to force the patient to talk, but to show that you're willing to listen and support them.
+
+Patient: I'm feeling jumpy and distracted, so this is a bit hard to hold — but I appreciate the options. How is any of that supposed to help me not feel invisible when they shut down? Give me one very short line I can actually say that sounds like me (reserved, not flowery), and one one-sentence follow-up if they just answer, "I'm fine." I want two versions: one straight and one slightly warmer, so I can pick what feels least fake.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm glad you found the options helpful, even if it's just for a moment.
+
+Here are two versions each of a short line and a follow-up sentence:
+
+**Straight Version**
+
+1. "I'll just check on them then."
+2. "I'll let you get back to it."
+
+**Slightly Warmer Version**
+
+1. "Okay, I'll give them some space then."
+2. "I'll let you focus on that for now."
+
+These lines are designed to be brief and to the point, while also showing a hint of empathy and concern. The slightly warmer version is just a tiny bit softer, so you can choose what feels most natural for you. Remember, the goal is not to be overly emotional or flowery, but to show that you're willing to listen and care.
+
+Patient: No — those sound like I'm talking about someone else, not what I'd actually say. Try these on me:
+
+Straight: "Alright." Follow-up if they say "I'm fine": "Okay — if that changes, tell me."  
+Slightly warmer: "That's fine." Follow-up: "If you want to talk later, I'm here."
+
+How is that supposed to help if they still shrug and I just feel useless? I'm feeling jumpy and distracted right now, so can we slow down and talk through what I do next if they really shut down?
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Those examples are a bit too abrupt and might not sound like something you would naturally say.
+
+Let's try to break it down even further. What if, instead of saying "Alright" or "That's fine," you could say something a bit more neutral, like:
+
+* "Okay..." (a simple, one-syllable pause)
+* "Hmm..." (a noncommittal, questioning sound)
+* "Uh-huh..." (a simple, nonverbal agreement)
+
+These small variations might help you feel a bit more comfortable, even if you're feeling jumpy and distracted.
+
+As for what to do if they really shut down, it's okay to take a moment to collect your thoughts. You could try:
+
+* Stepping back, taking a deep breath, and giving yourself a moment to process what just happened
+* Re-checking your notes or reviewing the situation to make sure you didn't miss anything
+* Asking yourself if there's a way to re-approach the conversation, or if it's best to try again later
+
+We can go through this together, and I'll help you explore your options. How does that sound?
+
+Patient: Okay... that might be doable — a simple "Okay..." feels less fake than a whole line. I'm still jumpy and distracted, though. How is stepping back and taking a breath supposed to stop me feeling invisible when they shut down? Give me one tiny, concrete thing I can do in under 15 seconds on the spot that will make me feel useful (not like I'm just ticking a box). I'm starting to feel overwhelmed, so can we slow down a bit?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's okay to feel overwhelmed and invisible when you're jumpy and distracted.
+
+Stepping back and taking a breath is not a magic solution to stop you feeling invisible, I know. It's more of a temporary pause to help you collect your thoughts and regain your composure.
+
+In that moment, if you feel like you're not making progress, you could try doing one tiny, concrete thing to make yourself feel useful. Here's an example:
+
+* Make eye contact with the patient, even if it's just for a brief moment.
+
+This small action can help you feel more connected to the patient and more engaged in the conversation. It's not about achieving a specific outcome, but just about taking a small step to make yourself feel more present.
+
+Let's take a deep breath together and try to focus on the small, immediate task at hand. Can you try making eye contact with the patient, even if it's just for a brief moment?
+
+Patient: Okay — I can try making brief eye contact, maybe three seconds or so. I'm feeling jumpy and it'll probably feel awkward; if they look away or ignore me, I'll likely freeze up — what should I do in that moment? I don't know if this will help, but I'll try.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Making brief eye contact might feel a bit awkward, especially if you're feeling jumpy. But it's a good starting point, and it's worth trying.
+
+If they look away or ignore you, it's not the end of the world. You can try to relax a bit and not put too much pressure on the interaction. You might say something simple like:
+
+* "I'm here to listen."
+* "That's okay, take your time."
+
+This can help you feel a bit more grounded and give you a chance to collect your thoughts before trying to move forward.
+
+Remember, the goal is not to try to fix everything or make the patient talk right away. It's just about taking a small step to make yourself feel more present and engaged.
+
+Take a deep breath and try to relax. If you make brief eye contact and the patient looks away, it's okay. You can try to move forward, but don't put too much pressure on yourself.
+
+Patient: Okay — I’ll try the eye contact, but I’m really jumpy and distracted right now so it’s hard to focus. If they look away and I freeze, I end up feeling useless — how is saying “I’m here to listen” supposed to make me feel useful? Give me one tiny, concrete thing I can do in under 10 seconds that actually makes me feel like I helped (something physical I can do, not just words), and one very short line I can say if they look away. Can we slow down a bit? I’m starting to feel overwhelmed.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's okay to feel overwhelmed and jumpy right now. I'm here to help you break it down into smaller steps.
+
+Saying "I'm here to listen" might not be the most concrete thing to do, I agree. It's more of a verbal statement, but it's not a tangible action that can help you feel more useful.
+
+Here's a tiny, concrete thing you can do in under 10 seconds that might help you feel more useful:
+
+* Take a sip of water or a quick drink of water.
+
+This small action can help you feel a bit more grounded and focused.
+
+If they look away, a very short line you can say is:
+
+* "Okay..."
+
+This is a simple acknowledgment that doesn't put too much pressure on the interaction.
+
+Let's take a deep breath together and try to focus on these small, immediate steps. Can you try making brief eye contact and then taking a sip of water?
+
+Patient: Okay — I can try making brief eye contact and take a sip of water. How is that supposed to help me feel useful, though? I'm feeling really jumpy and distracted right now, and if they look away and I freeze I'll probably just blurt, "Okay... if you need me, I'm here." What if there's no water handy or the patient can't drink — what do I do then? Can we slow down a bit? I'm starting to feel overwhelmed.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I think we're getting to the root of your concerns. You're worried that making brief eye contact and taking a sip of water might not be enough, and that you'll still feel useless or jumpy.
+
+I want to acknowledge that it's okay to feel overwhelmed and jumpy right now. It's not about trying to be perfect or feeling useful; it's about taking small steps to calm yourself down and focus.
+
+Let's take a step back and look at this situation. If you're jumpy and distracted, it's unlikely that you'll be able to maintain eye contact or perform some physical action without feeling anxious. The goal is not to try to be perfect, but to take small steps to help you feel more calm and focused.
+
+Can we try to focus on just one thing? Let's say you make brief eye contact and take a sip of water. That's a small, tangible action that you can do. If the patient looks away, you can say something simple like "Okay..." and then take a deep breath. That's it. We can worry about what happens next later.
+
+Let's take a deep breath together and try to focus on this small, immediate task. Can you try making brief eye contact and taking a sip of water, even if it feels a bit awkward?
+
+Patient: Alright — I’ll try the brief eye contact and a sip of water, though I’m feeling really jumpy and distracted right now so I might forget or freeze. How is that supposed to help when the patient won’t engage? If there’s no water or the patient can’t drink, give me one single 5–7 second physical action I can do on the spot that won’t feel fake, and one short line to say if they look away. Can we slow down — I need it broken into just one clear step.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's take a step back and focus on just one clear action.
+
+If the patient looks away, here's a single 5-7 second physical action you can do on the spot that might help:
+
+* Tilt your head slightly to the right or left, just to acknowledge their presence.
+
+This small action doesn't require any water or physical effort, and it's a simple way to show that you're engaged without having to say much.
+
+If the patient looks away, you can say something short like:
+
+* "Sorry, I didn't catch that."
+
+This line is brief and doesn't put too much pressure on the interaction. It's a way to acknowledge the patient's comment without having to respond in a way that might feel forced or fake.
+
+Let's focus on just this one step: tilt your head slightly to the right or left and say "Sorry, I didn't catch that." Can you try that for just a moment?
+
+Patient: Okay... I can try the tilt and say "Sorry, I didn't catch that," but I'm really jumpy and it might come out awkward. How is that supposed to make me feel useful when they just ignore me? If I do it and they still don't engage, what's one tiny thing I can do next immediately—just one step—and can we slow down a bit?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's okay to feel awkward and jumpy right now. Let's take it one step at a time.
+
+If the patient looks away and you've said "Sorry, I didn't catch that," it's like they're not even there. That can be really frustrating and make you feel like you're not doing anything right.
+
+Here's one tiny thing you can do next, just one step, that's easy and doesn't require much effort:
+
+* Take a deep breath.
+
+That's it. Just take a deep breath. It's a small action that can help calm you down and give you a moment to collect your thoughts.
+
+Can you try taking a deep breath right now? Just breathe in for a second, hold it for a second, and then breathe out. It's a small step, but it might help you feel a little more grounded.
+
+Patient: Okay — I did the breath. It helped a bit, but my hands are still shaky and I feel on edge. How is that supposed to stop me feeling useless if they ignore me? Can we slow down — what's one tiny step to do right after the breath?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+The breath is a good start, but I know it's not a magic fix. It's okay to still feel on edge and shaky.
+
+Let's take it one tiny step at a time. Right after you take the breath, can you try to make a small, slight movement with your hand? Not a big one, just a tiny one. Maybe just lift your hand off the table or adjust your sleeve. That's it. Just a tiny movement to help you focus on something tangible.
+
+If you're still feeling shaky, you can always try to make a slightly larger movement. But let's start with just one tiny step, okay?
+
+Patient: Okay... I can try the tiny hand movement — maybe just lift my hand off the table. My hands are still shaking and I'm on edge; how is that supposed to make me feel less useless if they ignore me? Can we slow down — tell me one more small thing I can do right after that if it doesn't help.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Lifting your hand off the table is a small, manageable step. It's a physical action that can help you focus on something concrete, and it might help you feel a bit more grounded.
+
+If lifting your hand off the table doesn't help, or if it still feels like it's not making a difference, I want you to try something even smaller. Can you try to look away from the patient for just a second? Not at them, but just look away. Look out the window, or at the wall, or at anything else in the room. Just take your eyes off them for a second. It's a tiny, tiny action, but it might help you feel a bit more calm.
+
+Patient: I can try looking away for a second, but honestly — how is that supposed to make me feel less useless if they ignore me? My hands are shaking and my chest's racing; give me one tiny, 3–5 second physical thing I can do right after looking away (something like pressing my thumb to each fingertip once) that won't feel silly, and please... can we slow down a bit? I'm getting overwhelmed.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I can see that you're feeling really overwhelmed right now. Let's take a deep breath together and focus on just one tiny step.
+
+Looking away for a second might not seem like much, but it can help you feel a bit more calm and centered. If you're ready, I want you to try that. Just look away from the patient for a second, and then...
+
+Can you try tapping your index finger on the table just once? It's a small, gentle motion, and it might help you feel a bit more grounded. It's just a tiny action, and it's not about doing anything "right" or "wrong". It's just about taking care of yourself for a moment.
+
+Let's focus on just that one tiny step, okay?
+
+Patient: Okay — I'll try that. I'll look away for a second, then tap my index finger on the table once. How is that supposed to help if they just ignore me? I'm still shaky and my chest's racing, so can we slow down — give me one very short line to say if I freeze after the tap.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+The tap on the table might not seem like much, but it can help you feel a bit more connected to your body and your surroundings. If you freeze after the tap, you can say:
+
+* "Okay..."
+
+Just a simple acknowledgment, and then you can take a deep breath and try to move forward. Remember, it's not about what the patient says or does, it's about taking care of yourself and finding a way to feel more calm and centered.
+
+Patient: Alright... I’ll try the tap and say “Okay...” if I freeze, but I’m still shaking and my chest’s racing. How is that actually supposed to make me feel useful when they ignore me — I don’t want another thing that just makes me feel fake. Can we slow down and give me one more tiny, concrete step to do right after the “Okay...” if it still goes nowhere?

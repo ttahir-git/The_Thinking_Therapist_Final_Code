@@ -1,0 +1,305 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm in my mid-fifties and work as a data scientist, and lately all I can think about is my performance at work. I keep predicting that if I miss one small thing it'll snowball—models fail, stakeholders lose faith, the project gets cut, and I'll definitely be blamed and fired—and I can't stop playing out that whole collapse. That fear paralyzes me into procrastinating because facing it feels like stepping into the disaster I can already see.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That must be really taking a toll on your work and overall well-being. It sounds like your mind is caught in a cycle of imagining the worst-case scenario, and that's making it hard for you to take action.
+
+Can you tell me more about what happens in your mind when you're playing out that scenario – what are some of the thoughts, emotions, and physical sensations you experience during these moments?
+
+Patient: When it starts I get these very specific chains: one overlooked bug makes a model spit out garbage, stakeholders act on it, the company loses money, leadership traces it back to me, and I’m blamed and fired — like, that’s just how it will go. I feel a tight, hollow dread and shame, my chest and stomach knot up, my thoughts race and my head goes foggy so I can’t think clearly. Physically I get shallow breaths, my shoulders and neck tense, my hands get clammy, and I find myself avoiding the work—putting it off, over-checking trivial things, or obsessing and then freezing. And even if someone says a different outcome is possible, it just doesn’t register as real to me; I’m completely hooked on the disaster story.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those physical sensations of tension and dread must feel overwhelming. It's like your body is caught in the grip of the "what-if" scenario. 
+
+What's remarkable is that even when others point out a different possibility, you're not swayed – the "disaster story" feels more real to you. It's as if you're seeing it as a truth, even if it's not actually happening. Can you tell me more about what might happen if you were to try to let go of that feeling of being trapped in this specific, catastrophic outcome?
+
+Patient: If I try to let go, my mind immediately scripts that the moment I relax I'll miss the one edge-case or typo—then the model will spit out garbage, a stakeholder will act on it, leadership will trace it back to me, and I'll be blamed and fired. It makes me more anxious to even consider letting go because I can already see that chain of failures playing out, so "letting go" just looks like setting myself up for disaster. I know that sounds extreme, but other outcomes don't feel real to me.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're caught in a kind of "predictive panic" – as soon as you try to relax, your mind imagines the worst-case scenario. And that's creating a vicious cycle of anxiety.
+
+It's interesting that you mention other outcomes don't feel real to you – that's a powerful insight. Can you explore what might happen if, instead of trying to control the outcome, you simply focus on what you can do in the present moment to make progress on the task at hand?
+
+Patient: If I try to focus on the present, my brain immediately yells that I’ll miss that one edge-case and everything will cascade — the model spits garbage, stakeholders act, leadership traces it back to me, and I’ll be fired. I do try to break things into tiny steps sometimes, but even then I imagine each little step failing and that just makes me freeze or endlessly over-check. It tightens me up, my chest gets hollow, and I can’t seem to trust that any small progress will stop the dominoes. I know that sounds extreme, but other outcomes honestly don’t feel real to me.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is spinning a narrative that makes every small step a potential disaster. And even when you try to break it down further, that narrative follows you, making it hard to take action.
+
+Can you think of a time when you've faced a challenging task before, and, instead of seeing it as a catastrophic event, you were able to approach it with more curiosity and openness? What was that like, and what might be different this time around?
+
+Patient: There was once a project years ago where I actually leaned into the curiosity—took it apart, ran experiments, asked questions, and it slowly came together; I felt oddly calm and capable, and the work got done without drama. But even that now feels like a fluke to me—my mind tells me that if I try the same approach here I'll miss something subtle this time, and that one miss will trigger the whole cascade: bad model, stakeholders acting on wrong results, leadership tracing it back to me, and I'm out. I know that sounds bleak, but other outcomes just don't feel real, and the stakes feel higher now so I can't convince myself it's the same.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're stuck in a pattern of self-doubt, even when you've had success in the past. Your mind is constantly trying to protect you from potential failure by making you believe that the stakes are too high, that you're not good enough, and that you'll never be able to succeed.
+
+I want to explore this feeling of being "stuck" a bit further. What's the sense of safety or security that you'd need to feel before you can take a step forward on this project, even if it means potentially failing?
+
+Patient: I guess I feel like I’d need near-absolute guarantees: exhaustive test coverage that catches every edge-case, formal peer review and stakeholder sign-off, documented rollback and mitigation plans, extra time built into the schedule, and an explicit assurance from leadership that one mistake won’t get me fired. Without all of that my brain immediately scripts the whole cascade—one missed edge-case, garbage output, leadership tracing it back to me, and I’m out—so I just can’t move. I know demanding guarantees is probably unrealistic, but other outcomes don’t feel real to me, and that’s what keeps me stuck.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're trying to protect yourself from the fear of failure by creating an idealized scenario that feels like a safety net. But, as you know, that's not a sustainable or realistic approach.
+
+I want to gently challenge this notion of needing "guarantees" – what would it look like to let go of the need for absolute control and certainty? What would be the sensation of taking a step forward, even if it means some uncertainty or risk?
+
+Patient: If I try to let go, my brain immediately scripts the same chain—miss one edge-case, model spits out garbage, stakeholders act on it, leadership traces it back to me, and I'm fired—so "letting go" feels like stepping off a cliff. Physically it tightens everything up—shallow breath, hollow chest, trembling hands—and emotionally it's panic mixed with this numb dread that I can't trust myself. I know you want me to imagine taking a risky step, but honestly that just looks like setting a trap for myself, so I end up freezing instead.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're experiencing a kind of "cognitive dissonance" – your rational mind wants you to take a risk, but your emotional mind is terrified of the potential consequences. 
+
+Can you try to approach this feeling of numb dread a bit differently? Instead of trying to "let go" or "step off the cliff," what if you simply acknowledged that numbness as a sensation, without judgment?
+
+Patient: If I try to just notice the numb dread, my mind yells that noticing equals letting my guard down and that’ll be the moment I miss the edge-case—the model spits garbage, stakeholders act on it, leadership traces it back to me, and I’m fired. Physically my chest hollows, my breath gets shallow, my hands go clammy, and acknowledging the feeling just feels like admitting the collapse is already happening, so it doesn’t calm me—it just makes the disaster story louder.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your mind is already in full-blown scenario-creating mode, and noticing the numb dread just fuels the fire. 
+
+Let's try something small. I'd like you to focus on your breath for just a moment – not trying to change it, not trying to relax it, just noticing the sensation of the breath as it is. Can you try that with me, right now?
+
+Patient: Okay, I'm trying to notice the breath — it's shallow, I can feel it up in my chest and the air cool at my nostrils. But almost immediately my mind screams that noticing is me letting my guard down and the whole chain plays out—one missed edge-case, model spits garbage, stakeholders act, leadership traces it back to me, and I'm fired. My chest hollows and my hands go clammy and I can't stay with the breath; can we slow this down? I'm feeling overwhelmed.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind is racing again, and the breath isn't holding steady.
+
+Let's take a tiny step back. Instead of trying to focus on the breath, I'd like you to bring your attention to the sensation of your feet on the ground. Just notice the sensation of your feet touching the floor, the weight of your body distributed on them. Can you find a sense of connection to the earth, even if your mind is racing?
+
+Patient: I can feel a little pressure under my heels and the balls of my feet, like they're planted, but it's thin—my mind won't let it settle. As soon as I try to ground, it yells that relaxing means I’ll miss that one edge-case—model fails, stakeholders act on bad results, leadership traces it back to me, and I'm fired—so the sensation just makes me more panicky. My chest tightens and my hands go clammy; can we slow down? I'm getting overwhelmed.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind is still trying to create a narrative, even when you're trying to focus on your physical sensations.
+
+Let's try something else. I'd like you to bring your attention to the sensation of the air moving in and out of your nostrils. Just notice the sensation of the breath, without trying to control it or change it. No thoughts, no judgments. Just the sensation of the breath. Can you stay with that for just one more moment?
+
+Patient: I try to stay with the breath, but almost immediately my mind flips—noticing feels like letting my guard down and I can already see the cascade: miss one edge-case, the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I'm fired. My chest tightens, my breath gets even shallower, my hands go clammy, and I can’t hold the attention; can we slow down? I’m really overwhelmed.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the narrative is still very dominant. I'm going to pause here for a moment and acknowledge that it's okay to feel overwhelmed. 
+
+Let's take a moment to recognize that it's not your job to stop the narrative or make it go away. It's just a thought, a story that your mind is telling you. You can allow it to be present, without judgment or trying to change it. Can you find a sense of acceptance for this feeling of overwhelm, without trying to push it away or change it?
+
+Patient: I’m trying to accept it, but the second I tell myself it’s okay to feel overwhelmed my brain screams that “okay” is the exact moment I’ll miss the one edge-case—then the model fails, stakeholders act, leadership traces it back to me, and I’m fired. My chest tightens, my breath shortens, and I feel that hollow dread grabbing me so I can’t actually sit with the feeling. Can we slow down and stay with this a bit—I’m getting really overwhelmed and don’t know how to not spiral.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the acceptance of overwhelm is actually triggering a new narrative in your mind. That's a powerful insight.
+
+Let's take a tiny step back. I'd like you to notice the sensation of your feet on the ground again. Not trying to change it, not trying to do anything with it. Just notice the sensation of your feet being in contact with the floor. Can you find a sense of stability and grounding in that, even if your mind is still racing?
+
+Patient: I can feel a little pressure under my heels and the balls of my feet, like a tiny bit of grounding, but it’s fragile because my mind immediately yells that if I relax I’ll miss that edge-case—then the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I’m fired. My chest tightens, my breath gets shallow, and my hands go clammy so I keep wanting to pull away. Can we slow down and stay with this a bit? I’m really overwhelmed.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the sense of grounding is fragile and easily disrupted by your mind's narrative. I'm going to ask a very gentle question: What would happen if, instead of trying to hold onto the sense of grounding, you simply allowed yourself to lean into the feeling of overwhelm? Not trying to change it, not trying to push it away, but simply allowing it to be present?
+
+Patient: When I try to lean into the overwhelm my brain screams that that's the moment the one missed edge-case slips through—then the model spits out garbage, stakeholders act on bad results, leadership traces it back to me, and I'm fired. Physically it hollows my chest, my breath gets tiny, my hands go clammy, and I feel like I'm already falling, not just noticing. I want to try allowing it, but I'm terrified that'll make the disaster inevitable—can we slow down and stay with this a bit? I don't know how to let it be without it turning into that catastrophe.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're caught in a kind of " anticipatory fear" – you're already imagining the worst-case scenario, even before you've fully allowed yourself to feel the overwhelm.
+
+I want to acknowledge that it's not about being more "resilient" or "in control". It's not about making the disaster inevitable or unavoidable. Can you imagine, just for a moment, that you're not trying to avoid the catastrophe? What if you were simply to be with the feeling of overwhelm, without trying to change it or make it go away?
+
+Patient: I can try to imagine that, but the second I try my mind screams that being with it is exactly when the missed edge‑case slips through — then the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I’m fired. Physically everything hollows out, my breath gets tiny, my hands go clammy, and it feels like I’m already falling instead of just noticing. I want to try, but I’m really scared that’ll make the catastrophe inevitable — can we slow down and stay with this a bit? I’m getting overwhelmed.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're trapped in a cycle of anticipatory fear. I want to try to break that cycle, not by trying to change your thoughts or feelings, but by simply acknowledging the pattern.
+
+Can you find a moment to pause, right now, and say to your mind: "I see that you're telling me I'll fall if I'm with the overwhelm. That's what you're saying. I'm going to let you say that, and I'm not going to try to stop you."
+
+Patient: Okay—I’ll try. "I see that you're telling me I'll fall if I'm with the overwhelm. That's what you're saying. I'm going to let you say that, and I'm not going to try to stop you." 
+
+I said it, but my mind immediately yells that letting it speak is the moment I miss the one edge-case—then the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I'm fired. My chest tightens, my breath gets tiny, and I'm really overwhelmed—can we slow down and stay with this a bit?
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the pattern is still very persistent. 
+
+I'm going to try to help you stay with the sensation of your mind's reaction. Can you notice the sensation of your chest tightening, your breath getting tiny, and your hands getting clammy? Try to simply observe those physical sensations without trying to change them or judge them. Just notice them as they are.
+
+Patient: I can feel my chest tightening, my breath getting tiny, and my hands clammy — and there's this hot shame and sharp frustration under it that makes me want to shrink away. The second I notice it my brain screams that noticing equals letting my guard down, so I’ll miss that one edge-case, the model will spit out garbage, stakeholders will act, leadership will trace it back to me, and I’ll be fired. Can we slow down? I’m really overwhelmed.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shame and frustration are adding to the overwhelm. 
+
+Let's try to focus on the sensation of the shame and frustration, rather than trying to change them. Can you notice the sensation of those emotions in your body, without trying to evaluate them or judge them as good or bad? Just allow them to be present, like a cloud passing by.
+
+Patient: I can feel the shame and frustration as a hot knot in my throat, a heavy weight in my chest, my jaw clenched and my stomach sinking. The moment I try to let it be, my brain screams that noticing means I’ll miss that one edge‑case—then the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I’m fired. My breath gets tiny, my hands go clammy, and I’m really overwhelmed—can we slow down and stay with this a bit?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you're trying to let go of the shame and frustration, but your mind is still holding onto the fear of the catastrophic outcome.
+
+I want to try to help you see that the knot in your throat and the weight in your chest are not the same as the catastrophic outcome. They're just physical sensations that are present right now. Can you try to gently separate them, like two distinct things: the knot in your throat and the weight in your chest, versus the fear of the model spitting out garbage and you getting fired?
+
+Patient: I try to, but the knot in my throat and the heavy chest instantly turn into evidence for the chain of failure—miss the edge‑case, model spits garbage, stakeholders act on it, leadership traces it back to me, and I’m fired—so they feel indistinguishable from the catastrophe. There’s this hot shame and a sharp frustration under it that makes me want to shrink and cover up, like I already blew it. Can we slow down? I’m really overwhelmed and I can’t seem to separate the sensations from the disaster story.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the knot in your throat and the heavy chest have become inextricably linked to the catastrophic outcome in your mind.
+
+Let's try to explore this further. Can you think of a time when you had a similar knot in your throat or a heavy feeling in your chest, but it wasn't related to the fear of failure? What were you doing, or where were you in that moment?
+
+Patient: Yeah—there was once at my niece’s school play when my throat clenched and my chest felt heavy, and that worry was about her, not about work. But almost immediately my brain turns it into the same catastrophe script—miss one edge‑case, model spits out garbage, stakeholders act, leadership traces it back to me, and I’m fired—so the physical knot just feels indistinguishable from that outcome. Even if you suggest it could be something else, that just doesn’t register as real to me; the shame and frustration sit under it like proof I’m already failing.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your mind has a strong tendency to default to the catastrophic outcome, even when there's no connection to it. 
+
+Let's try to explore this further. What if, instead of trying to change your thoughts or feelings, you simply allowed yourself to notice the knot in your throat and the heavy feeling in your chest as a sensation, without trying to evaluate it or make sense of it? Can you try to just notice it, as if you're noticing a physical sensation in your body?
+
+Patient: I try to just notice the knot in my throat and the heavy chest, but the moment I do the shame and frustration spike and my mind insists that noticing equals letting the edge‑case slip through—then the whole cascade plays out and I’ll be fired. Physically my breath gets tiny, my hands go clammy, and it all feels like proof I already messed up, so I can’t actually separate the sensations from the disaster story. Can we slow down and stay with this a bit? I’m really overwhelmed.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're caught in a cycle of self-judgment and catastrophic thinking.
+
+Let's try a different approach. I want to ask you a question that's more about your body than your thoughts. Can you notice the sensation of your feet on the ground, right now, without trying to think about anything else? Just focus on the sensation of your feet being in contact with the floor.
+
+Patient: I can feel the pressure under my heels and the balls of my feet—it's faint but there. As soon as I notice it, a hot shame and frustration spike and my brain screams that relaxing means I’ll miss that edge‑case: the model spits garbage, stakeholders act, leadership traces it back to me, and I’m fired. My chest tightens, breath shrinks, my hands go clammy—can we slow down and stay with this? I’m really overwhelmed.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your body is trying to bring your attention back to the sensation of the pressure under your heels, but your mind is still hijacking the narrative.
+
+Let's try to create some space between your body and your thoughts. I want you to take a deep breath in, and as you exhale, say to yourself: "I am here." Just say those two words, "I am here." No thoughts, no judgments, just those two words. Can you try that?
+
+Patient: I tried—took a breath and said "I am here," but the instant I did my brain screamed that saying that means I'm letting my guard down and I'll miss that one edge‑case—the model will spit out garbage, stakeholders will act, leadership will trace it back to me, and I'll be fired. My chest hollows, my breath shrinks, my hands go clammy, and there's this hot shame and sharp frustration like I've already messed up. Can we slow down and stay with this a bit? I'm really overwhelmed.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like saying "I am here" was just enough to trigger the catastrophic narrative.
+
+Let's try something even smaller. Can you notice the sensation of the air moving in and out of your nostrils, right now, without trying to think about anything else? Just focus on the sensation of the breath.
+
+Patient: I try to focus on the air at my nostrils—it's shallow and cool—but almost instantly my brain screams that noticing is me letting my guard down: one missed edge‑case, the model spits out garbage, stakeholders act on it, leadership traces it back to me, and I'm fired. My chest tightens, my breath gets even tinier, my hands go clammy, and a hot shame and sharp frustration wash over me—can we slow down? I'm really overwhelmed.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is so used to triggering the catastrophic narrative that it's hard to catch a break.
+
+Let's try something very gentle. I want you to say to yourself: "I am here." Just say those two words, without trying to think about anything else. No thoughts, no judgments, just the words. Can you try that, just for one more moment?
+
+Patient: I said it—“I am here”—but the instant I do my brain screams that I’m letting my guard down and the whole chain plays out: miss that one edge‑case, the model spits out garbage, stakeholders act, leadership traces it back to me, and I’m fired. My chest tightens, my breath shrinks, my hands go clammy, and this hot shame and sharp frustration wells up like it’s proof I already messed up. I’m really overwhelmed—can we slow down and stay with this a bit?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like your brain is so deeply invested in the catastrophic narrative that it's hard to slow down.
+
+Let's try something very different. I want you to bring your attention to the sensation of your body, right now, without trying to think about anything else. Just notice the sensation of your body as it is, without judgment. Can you try to simply be with that sensation, without trying to change it or evaluate it?
+
+Patient: I try to notice my body—the heaviness in my chest, the knot in my throat, the tension in my shoulders—but the second I tune in that shame spikes and my mind treats it like proof the chain is already happening: miss one edge‑case, model spits out garbage, stakeholders act, leadership traces it back to me, and I’m fired. My breath gets tiny, my hands go clammy, my jaw clenches; I feel so frustrated with myself and ashamed like I already messed up. Can we slow down and stay with this a bit? I really don’t know how to be with my body without it turning into that catastrophe.

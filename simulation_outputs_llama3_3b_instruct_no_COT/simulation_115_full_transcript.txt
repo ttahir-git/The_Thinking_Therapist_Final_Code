@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been avoiding gatherings with friends because social situations trigger intense anxiety — I just feel on edge and end up withdrawing. I'm a senior data scientist and the loss of someone close has left me pretty isolated, so I don't have much support right now. I don't know, I guess talking about this is kind of hard for me.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It takes courage to acknowledge when we're struggling, especially when it feels vulnerable. It sounds like you're carrying a heavy burden right now, and social situations can feel overwhelming. Can you tell me more about what's happening when you feel on edge in those gatherings, and what you think might be missing for you in those situations?
+
+Patient: When I'm at a gathering I get really on edge — my chest tightens, I keep thinking everyone's watching me, and I start rehearsing what to say and then I just withdraw. I don't know, I guess I miss having someone who understands without me having to explain everything, but it's hard to ask for that.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those feelings of being watched and needing to prepare what to say can be really uncomfortable. It sounds like you're trying to control the interaction, which can be exhausting. What's the thought that comes up for you when you're in a situation like that, and you feel like you're not being understood, and you're stuck rehearsing what to say?
+
+Patient: I don't know, I guess I keep thinking they'll notice something's off about me — that I'll say something stupid or they'll think I'm weak. It just makes me want to disappear, and I don't really know how to stop it.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those thoughts of being judged or appearing weak can be really tough to shake. It's like you're worried about being seen as vulnerable. Can you take a look at that thought - is it possible that the way you're thinking about yourself in that moment, as someone who's going to say something stupid or be seen as weak, is actually a story you're telling yourself?
+
+Patient: I don't know, I guess part of me knows it's a story I tell myself — like, logically people aren't scrutinizing me — but the feeling hits like it's real anyway. As a data scientist I try to reason it away, but my body still reacts and I end up withdrawing. I don't know, I guess it feels sort of embarrassing to admit how much it gets to me.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's interesting that you're aware of the logical part of your thinking, but the feeling persists. It's like there's a sense of disconnection between your rational mind and your bodily experience. Would it be helpful to explore what might happen if you took a small step towards staying with this feeling, rather than trying to push it away or reason with it?
+
+Patient: I don't know, I guess maybe — it feels scary, like if I stay with it it'll just overwhelm me and I won't be able to think. I could try a tiny step, but I'm not sure what that would even look like and it's uncomfortable to say. Can we take it really slowly?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's natural to feel scared about being overwhelmed, and taking small steps can be a good way to build confidence. Let's try a tiny experiment. Can you notice what happens when you breathe in right now, and when you breathe out? Just pay attention to the sensation of the breath, without trying to control it or change it. We'll see if that feels different from your usual experience.
+
+Patient: Okay... when I breathe in it feels shallow, like it barely fills my ribs, and my chest stays tight. When I breathe out there's a tiny loosening, but then my mind starts racing again about what people think. I don't know, I guess paying attention to it makes me more aware of how wired I usually am, and it's kind of overwhelming — can we keep going really slowly?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing the physical sensations can be really helpful. The looseness that comes with breathing out is a small step, and the fact that your mind starts racing again is okay - it's like your body is saying "okay, we've been here before, we know this pattern." Let's keep exploring this. Can you notice what happens when you think the thoughts that come up - are they thoughts, or is there a sense of them being true or real in this moment?
+
+Patient: I don't know, I guess when those thoughts come up they feel really real — my chest tightens and I kind of believe them even though part of me knows they're exaggerated. It makes it hard to tell them apart from facts in the moment. I'm getting uncomfortable talking about it more — could we maybe shift to practical things I could do when that happens, like small strategies at a gathering?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It can be tough to separate thoughts from reality in the heat of the moment. That's okay. Let's talk about small strategies for when you feel that tension in a social gathering. What's something that would feel like a tiny, low-stakes act of courage for you to do in that moment - just one small thing, like taking a sip of water or noticing the room - that could help you build some distance from the thoughts and feelings?
+
+Patient: I don't know, I guess a tiny thing would be taking a sip of water and noticing my feet on the floor for three slow breaths — or slipping outside for a minute to get some air. It feels kind of silly to plan, but maybe it's something I could actually do without drawing attention. Can we talk through how I'd do that in practice so it doesn't feel awkward?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those small actions can be really helpful in creating some space. Let's break it down into a more concrete plan. Imagine you're at a gathering, and you start to feel that tension rising up. What would be the first thing you do to take a sip of water, notice your feet on the floor, or slip outside for some fresh air? What would you say to yourself to make that happen, and what would you do to make it feel like a small, manageable step?
+
+Patient: I guess the first thing I'd do is reach for my water, take three slow sips, and focus on the feeling of my feet on the floor while telling myself "just breathe." If I need to leave, I'd use a simple line like "I'm just stepping outside for a minute" or "I need some air" — something neutral so it doesn't draw attention. I don't know, I guess practicing that a bit would help it feel less awkward; can we role-play it slowly? I'm already feeling a bit uncomfortable saying this.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those specific phrases can help you stay grounded and focused on the present moment. Let's do a slow, gentle rehearsal of that scenario. I'll play the role of the gathering setting, and we'll take it really slow. When you're ready, you can start by telling me that you're feeling anxious, and we can go from there. Ready to try this?
+
+Patient: Okay... I'm feeling anxious right now — my chest is tight and my thoughts are racing. I guess I reach for my water, take three slow sips while noticing my feet on the floor and quietly tell myself "just breathe," then I say, in a calm voice, "I'm just stepping outside for a minute" and slip out. I don't know, I guess that seems doable but I'm already kind of embarrassed thinking about doing it.
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a great start. Notice how you're already feeling a bit embarrassed about the thought of taking a break. Can you acknowledge that feeling without judgment, just as it is? Sometimes, that embarrassment can be a sign that we're already feeling a bit more connected to our values of kindness and self-care. Let's keep going with the scenario, and I'll keep it gentle.
+
+Patient: I don't know, I guess I can name the feeling as embarrassment without judging it — it shows up as that tightness and a little heat in my face. It's kind of heavy and makes me want to pull back, so could we keep the role-play very slow and focused on the small steps? I'm not ready to go deeper into the feelings right now.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's keep the pace slow and gentle. We'll just keep rehearsing the small steps. Let's get back to the scenario. You've taken your three sips of water, noticed your feet on the floor, and said "just breathe" to yourself. You're now standing in a crowded room, and you decide to take a break. You look around, make sure no one is watching, and then you say in a calm voice, "I'm just stepping outside for a minute." What do you do next?
+
+Patient: I step outside and sort of lean against something, take a few slow breaths and count to ten while noticing the air. I don't know, I guess I might text something like "stepped out for a bit" so it feels normal, but thinking about actually doing it feels…heavy.
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're taking care of yourself and finding some space to breathe. Noticing the air can be a really grounding experience. Let's focus on the sensation of your body feeling heavy, and what that might mean for you. What's the first thing that comes up for you when you notice that feeling of heaviness?
+
+Patient: I don't know, I guess it feels like everything goes heavy—chest tight, limbs kind of leaden, and I just want to pull back and shut down. I'm not sure I follow—how is noticing that supposed to help? Can we keep this really slow?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing the physical sensations can help you become more aware of your body's cues, and that can be really helpful. It's not about "fixing" the feeling, but just paying attention to what's happening in your body. Think of it like watching a cloud pass across the sky - you're not trying to change the cloud, you're just observing it. Let's keep going at a slow pace. What happens when you notice that your chest feels tight and you want to pull back and shut down?
+
+Patient: I don't know, I guess when I notice it I just kind of shut down — everything goes muted, my thoughts thin out and I start scanning for a way out. I'm not sure I follow how noticing helps; it feels like pointing at it makes it bigger. Can we stick with the breathing thing for a bit? I'm not ready to dig into the why.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing can sometimes feel like it amplifies the experience, but it's actually a way to create some distance and perspective. Let's focus on the breathing, then. We were doing a slow counting exercise - can you take it to the next step? Just one more count, and then we'll pause. Ready?
+
+Patient: I don't know, I guess — I'm not sure I follow how counting helps, but okay. One... two... three... four... five. That felt a bit less tight, but I'm sort of drained and a little foggy now. Can we just stay here for a moment and not push further?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's exactly right - the counting helped create a small shift. And it's okay to feel drained and foggy - it's a normal part of processing. Let's just stay here for a moment, and when you're ready, we can slowly start to bring us back to the gathering. No pressure, just a gentle, slow transition.
+
+Patient: I don't know, I guess staying here helps a little — my chest's still tight and everything feels kind of fuzzy, but it's not as sharp. When we go back toward the gathering, can we stick to tiny steps like the water sip and slipping outside? I'm not sure I can handle more than that right now.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+That's a great plan. Let's take it slow and easy. We'll go back to the gathering, and I'll play the role of the host. You can start by taking a sip of water and noticing your feet on the floor. Go at your own pace.
+
+Patient: Okay... I reach for my water, take a slow sip, feel it cool, and notice my feet planted on the floor. Saying "just breathe" to myself helps a little — the tightness eases some, but things still feel muted and foggy. I don't know, I guess I can try to stay a bit longer, but can we keep this really tiny and slow? I'm kind of worn out and it's hard to go further right now.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing great. Let's keep it tiny and slow. You're taking tiny steps to take care of yourself, and that's something to be proud of. You can stay in this space for as long as you need, and we can take breaks whenever you feel like it. When you're ready, we can try to add another tiny step, like noticing your hands on your thighs or something.
+
+Patient: I don't know, I guess... okay, I'll try. I rest my hands on my thighs — I can feel the weight, the warmth, the fabric — it's a bit grounding, even though everything still feels kind of fuzzy. I'm pretty worn out and it's hard to keep going; can we just stay with this for a bit or try one more tiny step, like noticing the air on my face?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Noticing the air on your face can be a gentle way to stay connected to your physical experience. Take your time, and go at your own pace. As you notice the air on your face, notice the sensation of your eyelids, the rise and fall of your breath, the sensation of your body in the space.
+
+Patient: I don't know, I guess the air on my face is cool and a little grounding. My eyelids feel heavy, my breath is a bit steadier but everything else is kind of dull and foggy. I'm pretty worn out—can we just stay with this for a while and not push any further?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+You're doing a great job of being gentle with yourself and taking care of your experience. It's okay to feel worn out, and it's okay to stay in this space for a while. We can just stay with the sensation of the air on your face, the feeling of your body in space, and the gentle rhythm of your breath. No need to push further.
+
+Patient: I don't know, I guess... staying like this helps a little — the air on my face and the slow breaths make it less sharp, even if everything's still fuzzy. My energy's pretty drained, so can we just sit with the quiet for a while instead of pushing to do more? I don't really want to go deeper right now.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Sometimes, sitting with the quiet can be the most helpful place to be. Let's just sit with the stillness and the gentle rhythm of your breath. We can just be here, together, in this space, without adding anything more.
+
+Patient: I don't know, I guess... staying like this is... kind of a small relief, even if it's slow. Can we just sit quietly a bit longer? I'm not ready to talk more right now.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+We can just sit quietly together. No need to talk or do anything. You can just rest in the stillness. I'll be here with you, silently, until you're ready to move forward or not.
+
+Patient: I don't know, I guess... it actually helps a little that you're just here. I'm pretty wiped out though — can we stay quiet a bit longer? I'm not ready to plan or dig deeper right now.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's okay to feel wiped out, and it's completely okay to rest. We'll just sit quietly together, no pressure, no expectations. You can stay here as long as you need, and when you're ready, we can come back to exploring further.
+
+Patient: I don't know, I guess... the quiet actually helps a little — my thoughts are muddled and everything feels kind of heavy. I don't have much left to say right now, so can we just stay like this a bit longer? I'm not ready to plan or dig into anything more yet.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's okay to feel heavy, and it's okay to not have much to say. We can just sit in the quiet together, without any agenda or expectations. You can just be, and we can be here with you, silently, until you're ready to move forward or not.
+
+Patient: I don't know, I guess... it actually helps a bit that you're just here. My mind's still fuzzy and I'm pretty wiped out, so can we stay quiet a bit longer? I'm not ready to talk more yet.
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's nice that you're feeling a bit more comfortable with my presence. We can just stay quiet together, and I'll be here with you, without any pressure or expectations. You can rest and recharge, and we can come back to this whenever you're ready.
+
+Patient: I don't know, I guess... it does help that you're here, even if I'm kind of out of steam. I'm still wiped and would like to stay quiet a bit longer—maybe later we could slowly talk about that dinner I have coming up, but I'm not ready now.
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+We can stay quiet for a bit longer. You can rest and recharge, and we can come back to dinner later when you're feeling more energized. I'll just be here, quietly, when you're ready to talk about it then.
+
+Patient: I don't know, I guess... it does help that you're here, even if I feel pretty wiped. Can we just stay quiet a bit longer? Maybe later we can slowly talk about that dinner, but I'm not ready now.

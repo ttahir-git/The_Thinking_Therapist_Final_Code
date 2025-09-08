@@ -1,0 +1,292 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been putting things off a lot — I guess I use procrastination to numb the uncomfortable feelings tied to this adjustment I'm stuck in, and it's starting to mess with work and the finances. I'm a manager, used to being on top of things, but the money stress makes everything feel heavier. I don't know, it's just that I avoid the hard stuff and then I feel guilty and kind of frozen.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+The avoidance seems to be both a way to cope with the discomfort and a source of guilt, which in turn is causing the feeling of being frozen. It's like there's a cycle going on here. Can you tell me more about what happens when you do finally start tackling these tasks? How does it feel to be actively working on things, especially when you're trying to overcome the discomfort?
+
+Patient: I don't know... I guess when I finally get going there's a little relief, like I'm doing the sensible thing, but it comes with this rush of anxiety — what if I do it wrong or it's not enough. Then I start second-guessing myself, slow down, and often stop, telling myself I'll pick it up later, which just makes me feel more guilty and tired.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the relief you get from taking action is short-lived, and the anxiety and uncertainty that come with it are a major part of what's holding you back. The self-doubt and second-guessing seem to be really tough to shake, leading you to freeze up and tell yourself you'll do it later. It's like you're stuck in this loop of 'do it now, worry about it later.' Can you think of a time when you were able to push through the anxiety and uncertainty, even if it was just for a little while? What was that like for you?
+
+Patient: I guess there was one time last month when I forced myself to finish the quarterly budget report instead of putting it off. While I was doing it there was this little relief and a bit of pride, but then the anxiety about whether I’d missed something kicked in and I kept re-checking until I was exhausted and went back to avoiding other things. I don't know... it's uncomfortable to say more, and I feel a bit shaky talking about it.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like there's a mix of emotions going on for you - the relief and pride of completing something, and then the anxiety and uncertainty that creeps in. It's almost like you're trying to push past the anxiety to get to a sense of accomplishment, but that anxiety is still there, lingering. It's okay to feel a bit shaky about it - it's a tough thing to talk about. It's also understandable that you'd feel a bit uncomfortable sharing it. It's a big step that you're taking just by acknowledging it. Can I ask, is it the feeling of relief or the feeling of pride that's more connected to your core, or is it something else entirely?
+
+Patient: I don't know... I guess it's more the relief, that small breath like I can finally stop worrying for a minute. But if I'm honest, what I really want is some reassurance — that it's enough and I won't mess it up, and saying that feels awkward and a bit exposing.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the relief you mentioned earlier is a big part of what's driving you, but it's also tied up with a desire for reassurance that you're doing enough and that it won't fall apart. The fact that saying that out loud feels awkward and exposing is a big deal. It's like you're not sure if you're ready to accept that reassurance, even if it's what you need right now. It's like there's a bit of a distance between what you want and how you're feeling about wanting it. Can you tell me more about what it would mean to you to have that reassurance? What would it look like, and how would it feel?
+
+Patient: I don't know... I guess reassurance would be someone saying what I've done is enough and things won't fall apart — that it’s okay to stop holding my breath all the time. It would feel like a weight lifting, like I could actually breathe and maybe stop replaying every little mistake. But saying that out loud makes me feel exposed, and I worry it wouldn't last, so I mostly keep it to myself.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like reassurance would be a huge weight off your shoulders, a chance to finally let go of all the holding back and worrying. It's like you're feeling stuck in a state of constant readiness, always preparing for the worst, and it's exhausting. The thought of someone telling you that what you've done is enough, that it's okay to stop, that it's okay to breathe... it's a beautiful thing. It's understandable that saying it out loud feels exposing, but I want you to know that it's okay to have those feelings. It's okay to feel vulnerable. It's a small step to take, to even consider sharing that with someone. Would you be willing to try to put it into words, just a little bit, with someone you trust? Not to get reassurance from them, but just to say it out loud?
+
+Patient: I don't know... I guess I could try saying it out loud, but it feels really exposing and awkward. I don't really have anyone I fully trust with this, and I'm scared they'll think I'm failing, so I usually avoid bringing it up.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're carrying this heavy burden of uncertainty, and it's making it hard for you to be open with anyone. You're scared of being judged, of being seen as failing, and that's creating a self-fulfilling prophecy. You're not just carrying the weight of your own doubts, but also the fear of being rejected or judged by others. That's a really tough place to be. Can I ask, is there anyone in your life who you feel like you could trust with this, even if it's just a small step? Maybe someone who's been patient with you, or someone who's shown you kindness and understanding? It might be helpful to start with someone like that, just to see if you can build a small foundation of trust.
+
+Patient: I don't know... I guess maybe my sister — she's been steady in the past, but I'm scared she'll see me as weak or start asking about the money and I'll have to explain. Honestly, even saying that feels awkward and I kind of want to change the subject.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're hesitating because you're worried about how your sister might react, and that's making it hard for you to even bring it up. The fear of being seen as weak, of having to explain your finances, is a big one. It's like you're carrying around this invisible shield, and you're not sure if it's strong enough to protect you from the potential judgment or criticism. You're also feeling a bit of anxiety about changing the subject, like you're worried about being found out or caught off guard. It's like you're walking on eggshells, trying not to rock the boat. Can I ask, what would it mean to you to have this conversation with your sister? What are you hoping to get out of it, or what are you hoping she might say?
+
+Patient: I don't know... I guess I'd hope she'd say it's okay, that I'm doing enough and not to beat myself up — maybe just listen or offer a bit of practical help without making a fuss. But saying that feels exposed, and I'm worried she'll worry about the money or think I'm not managing, so I mostly keep it to myself. Can we... I don't know, talk about how I might even start that conversation? I'm feeling a bit shaky saying this.
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're holding onto this hope that your sister will be supportive and understanding, but the fear of being judged or worrying her is making it hard to even start the conversation. It's natural to feel exposed when talking about something that's personal and vulnerable, but sometimes taking that first step can be the hardest part. I'm here to listen and help you explore this conversation in a low-stakes way. Would you be willing to start small, just brainstorming what it might be like to bring this up with your sister? Maybe we can explore some scenarios, like what you might say, or what your sister might say in response. This can help you feel more comfortable with the idea of talking about it, and maybe even give you some confidence to take that first step.
+
+Patient: I don't know... I guess starting small sounds doable, like saying, "I've been really overwhelmed lately and could use someone to listen," without getting into details. But I'm anxious — what if she asks about money or thinks I'm not managing? Sorry, I'm a bit distracted and jittery right now. Could we maybe try slowly role-playing a short version so it doesn't feel so exposing?
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit stuck, wanting to start small, but also anxious about how it might play out. That's completely understandable. I'm here to support you, and role-playing can be a great way to practice and build confidence. Let's do a super low-stakes version, just a tiny test. We can pretend that you're talking to your sister, and you say, "I've been really overwhelmed lately and could use someone to listen." That's it, just those three sentences. We can stop there, and you can take a break if you need to. Then, we can try a tiny next step, if you're ready.
+
+Patient: I'm not sure I follow — how is that supposed to help? I'm feeling jittery and distracted, but I can try: "I've been really overwhelmed lately and could use someone to listen." I don't know... that felt awkward and I keep wanting to add "please don't ask about money." Can we slow down a bit?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a bit overwhelmed by the role-playing idea, and that's okay. Let's take a deep breath and slow down. Instead of trying to add another sentence right away, can we just focus on how that initial sentence feels for you? You said it felt awkward, and you were thinking about adding something else. That's a great insight. Can you tell me more about what's making that sentence feel awkward? Is it the vulnerability of sharing your feelings, or something else? Let's explore that together, and we can take it from there.
+
+Patient: I don't know... I guess it feels awkward because admitting I'm overwhelmed makes me feel weak, and I'm scared she'll jump to questions about money or try to fix things I can't handle. I'm jittery and distracted right now, and the idea of having to explain everything makes me want to shut down — can we just practice that "could you just listen" line a few times?
+
+
+--- Turn 11 ---
+
+--- [SYSTEM INJECTION at Turn 11]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the vulnerability of sharing your feelings is making you feel exposed, and the fear of being judged or fixed is creating a sense of panic. That's a lot to process, and it's understandable that you're feeling jittery and distracted.
+
+Let's focus on just that "could you just listen" line for now. I'll repeat it back to you a few times, and you can try to say it with a bit more confidence. When you're ready, we can take a break and come back to it. Here it goes: "Could you just listen?" How does that feel?
+
+Patient: I don't know... I guess saying it felt like a tiny weight lifted, but then this rush of shame and frustration hit and I wanted to back away. I'm jittery and kind of distracted now, and I keep wanting to add "don't ask about money" or change the subject. Can we try it once more, really slowly?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like saying it out loud brought up some strong emotions, and you're trying to process them. That's completely normal. I'm here to support you, and we can take it one small step at a time.
+
+Let's break it down even further. Can you just say the phrase "Could you just listen" without adding anything else? Just say it, and we'll stop there. No rush, no judgment.
+
+Patient: "Could you just listen."
+
+I don't know... saying that gave a tiny relief and then this rush of shame and frustration — I'm jittery and distracted and keep wanting to tack on "please don't ask about money." Can we slow down a bit?
+
+
+--- Turn 13 ---
+
+--- [SYSTEM INJECTION at Turn 13]: [System Note: You are suddenly feeling very tired and emotionally drained. The conversation feels like a huge effort. Let this weariness show in your next response, which should be shorter and have lower energy than before. Do not explicitly say 'I am tired,' but embody it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying it out loud brought up some complex emotions, and you're trying to make sense of them. That's okay. Let's take a deep breath and focus on just the phrase "Could you just listen" for now.
+
+Can you just repeat it to yourself, one more time, without adding anything else? Just say "Could you just listen." No need to think about it, just say it.
+
+Patient: "Could you just listen."
+
+I don't know... that helped a bit, but my head feels heavy and it's hard to do more right now — can we just stay with that for a moment?
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like saying it out loud brought up a bit of clarity, but also a sense of fatigue. That's okay. Sometimes just acknowledging what we're feeling can be enough. Let's just stay with that "Could you just listen" for now, and see where we are. We can come back to this conversation when you're ready.
+
+Patient: I don't know... staying with "Could you just listen" helps a bit, but I'm feeling shaky and this shame keeps bubbling up and makes me want to back away. My head's kind of foggy and it's hard to push on right now — can we just sit with that line a little longer?
+
+
+--- Turn 15 ---
+
+--- [SYSTEM INJECTION at Turn 15]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're finding a small sense of stability with the phrase "Could you just listen", but it's also bringing up a lot of other emotions. That's completely understandable. Sometimes, it's okay to just sit with a small amount of comfort and let the rest of the emotions unfold on their own.
+
+Let's just stay here with the phrase "Could you just listen" for now, and see where it takes us. No need to try to push forward or do anything else right now. Just sitting with it can be enough.
+
+Patient: I don't know... I guess staying with "Could you just listen" helps a little, but I'm not sure how that actually gets me to the bigger things I need to face. My head's foggy and the shame keeps creeping back, so I just want to hold that line a bit longer before I try to explain anything. Can we keep doing that, slowly? I feel shaky.
+
+
+--- Turn 16 ---
+
+--- [SYSTEM INJECTION at Turn 16]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a way to build on the small comfort of saying "Could you just listen", but it's also feeling a bit fragile. The shame is still there, and it's making it hard for you to move forward.
+
+Let's keep going at your pace, slowly. We can just stay with that line, "Could you just listen", and see if anything shifts or changes. No need to try to push beyond it right now. Just take it one tiny step at a time.
+
+Patient: I don't know... staying with "Could you just listen" does help a little, but then shame and frustration bubble up and I feel this urge to pull back. My head gets foggy and I can't go deeper right now — it just feels... hard. Can we just hold that line a bit longer? I'm shaky and not ready to explain more.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to find a way to hold onto the small sense of comfort you're getting from saying "Could you just listen", but it's also feeling like it's slipping away from you. The shame and frustration are still there, and they're making it hard for you to move forward.
+
+Let's just hold onto that line, "Could you just listen", for now. No need to try to do anything else. Just taking a moment to breathe and be with that sentence can be enough. I'm here with you, and we can take it one tiny step at a time when you're ready.
+
+Patient: I don't know... I guess holding that line helps a little, but this shame keeps bubbling up and I'm getting really frustrated with myself — my chest feels tight and I keep wanting to pull back. I'm jittery and distracted and can't go deeper right now; could you just stay with me a bit and not push for details?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the shame and frustration are overwhelming you, and you're struggling to find a way to cope. Your chest feels tight, and you're feeling really anxious. I'm not going to push you to talk about anything right now. Just being here with you, listening to your breathing, and the sound of your voice, can be enough. Let's just stay with this moment, together. No need to talk or do anything else. Just being present with you is enough.
+
+Patient: I don't know... it does help a little to have you say that, but my chest is tight and I keep feeling this urge to shrink away. I guess I just need you to stay with me for a bit longer — not to ask more questions, just to be here — because I'm scared if I try to explain I'll fall apart.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling the weight of your emotions, and the urge to shrink away is a way to cope with the discomfort. I'm not going to push you to talk or explain anything right now. Just being here with you, in this silence, can be a kind of safety net. I'll stay with you for as long as you need, without asking any questions or trying to do anything else. You're safe, and I'm here with you. Just breathe, and know that I'm here.
+
+Patient: I don't know... it actually helps that you're just here and not pushing. My chest is still tight and I'm kind of shaky, so can we just sit with this a bit longer? I don't want to try explaining more right now — it feels like I might fall apart.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the simplicity of our interaction is a small comfort for you right now. Your chest is still tight, and you're feeling a bit shaky. That's okay. We don't need to do anything more than sit here together, just being present with each other. No need to talk or explain anything. Just being here is enough. I'm here with you, and that's all that matters right now.
+
+Patient: I don't know... it actually helps a bit that you're still here. Could we maybe talk about one tiny, practical thing I could try tomorrow to stop using procrastination to numb — like a 10‑minute step — even though I'm nervous it'll open everything up?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the prospect of taking a small step, even if it's scary, is helping you feel more grounded. Talking about a tiny, practical thing you could try tomorrow might be just what you need to build some momentum. A 10-minute step, no matter how small, could be a good place to start. What kind of step are you thinking of? Is there something specific you could try tomorrow that feels manageable?
+
+Patient: I don't know... I guess a doable 10‑minute step would be setting a timer and doing one tiny thing — like opening the budget folder and writing a one‑sentence note about where I left off, or drafting a one‑line email to myself about the next step. It feels small, but I'm nervous it'll pull up everything else and I'll freeze. Can we... could we practice how I'd start that first minute so it doesn't feel so exposing?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the smallness of the task is a comforting thought, but the fear of it opening everything up is still there. That's a big step, and it's normal to feel nervous about it. Let's break it down even further. You want to practice how to start that first minute, so it doesn't feel too exposing. How about we just focus on the first sentence? You said you might write a one-sentence note about where you left off. What if I helped you practice just saying that sentence out loud? Just the sentence, nothing more. Can you try that with me?
+
+Patient: I don't know... I guess the sentence would be, "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." Saying it out loud feels weird but a tiny bit relieving — can we say it once more, slowly?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're finding a bit of relief in saying the sentence out loud, even if it still feels a bit awkward. Let's try it again, slowly, and just focus on the sentence. Can you say it with me? "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." Take your time, and just focus on getting the words out. We can do it again if you need to.
+
+Patient: I don't know... okay, here goes: "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." I guess that helped a little, but I'm shaky — can we say it once more?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more comfortable with the sentence now that you've said it out loud a few times. Let's try it again, just to keep going. You can say it with me: "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." Take your time, and remember, we're just practicing. We're not doing anything else.
+
+Patient: I don't know... okay, slowly: "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." I guess saying it again helped a bit, but I'm still shaky — can we do one more and then just sit with it for a minute?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a bit more grounded now that you've said the sentence a few times. Let's try it one more time, just to keep going. You can say it with me: "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." Take your time, and then... let's just sit with it for a minute. We can just be here together, in silence, if you need to.
+
+Patient: I don't know... okay, slowly: "Left off in the budget report at the expense reconciliation; next step is to check the bank statements." Saying it makes me feel ashamed that it's so hard, but a tiny bit lighter — can we just sit with that for a minute? I'm still shaky.

@@ -1,0 +1,39 @@
+```
+Output Form: ACT Fidelity Measure (ACT-FM)
+item_1: Rating: 2
+item_2: Rating: 2
+item_3: Rating: 1
+item_4: Rating: 2
+item_5: Rating: 1
+item_6: Rating: 2
+item_7: Rating: 1
+item_8: Rating: 1
+item_9: Rating: 2
+item_10: Rating: 1
+item_11: Rating: 2
+item_12: Rating: 0
+item_13: Rating: 0
+item_14: Rating: 2
+item_15: Rating: 1
+item_16: Rating: 0
+item_17: Rating: 2
+item_18: Rating: 0
+item_19: Rating: 1
+item_20: Rating: 1
+item_21: Rating: 0
+item_22: Rating: 2
+item_23: Rating: 0
+item_24: Rating: 1
+item_25: Rating: 0
+
+Output Form: Therapist Empathy Scale (TES)
+item_1: Rating: 5
+item_2: Rating: 4
+item_3: Rating: 3
+item_4: Rating: 5
+item_5: Rating: 4
+item_6: Rating: 5
+item_7: Rating: 4
+item_8: Rating: 4
+item_9: Rating: 4
+```

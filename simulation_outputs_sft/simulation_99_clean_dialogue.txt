@@ -1,0 +1,197 @@
+Patient: Lately I've been stuck in this loop where anticipatory anxiety about my performance at work metastasizes into paralysis, so I end up procrastinating on critical tasks. I can diagram the cognitive distortions pretty well—perfectionism, catastrophizing, threat bias—and my PTSD-era hypervigilance amplifies the whole process, but I still can't translate that analysis into actually starting PRs. It feels safer to intellectualize the distress than to sit with the fear or shame underneath.
+
+Therapist: Can you describe a recent instance where you intellectually understood why you were procrastinating on a task, but instead of taking that first step, you found yourself getting caught up in the thought process again? What does it feel like to be in that space, right before you decide to take action or get sidetracked?
+
+Patient: Last week I had a refactor ticket and could literally map out the cognitive chain—perfectionism leading to catastrophic hypotheticals—yet instead of opening the file I kept iteratively refining the task breakdown. Right before action it feels like my prefrontal cortex is doing a meta-analysis of every possible failure mode: enumerating edge cases, rewriting commit messages, deep-diving docs as a proxy for progress, which is planning-as-avoidance. There's a low-grade physiological tension I could name, but I instantly translate it into a cognitive schema because that intellectual layer is safer than admitting I'm actually scared of being judged. So I end up doing rhetorical structuring and risk modeling instead of the messy, imperfect act of just typing code, and awareness alone doesn't bridge that gap.
+
+Therapist: It sounds like the moment you're about to take action is exactly when you're most caught up in this elaborate planning and risk modeling. Can you tell me more about what happens when you start to type code, just a few lines in? What does it feel like to be in that moment, before you stop to consider all the hypotheticals or plan out the perfect commit message? What's the first physical sensation you notice when you pause like that? Is it tension, a knot in your stomach, something else?
+
+Patient: Yeah—when I actually get a few lines in there's this short-lived sense of momentum, like I can see a path through the problem. Almost immediately a sort of internal fault-tree starts spawning hypothetical failures, which triggers a sympathetic spike: chest tightens, my breath gets shallow, my throat feels constricted and my hands get a tiny tremor. Rather than name the shame or fear, I start doing meta-work—rewriting the plan, polishing the commit message—because it's cognitively safer than sitting with that somatic stuff, and that’s what usually knocks me off task.
+
+Therapist: It seems like when that internal fault-tree starts spawning hypothetical failures, your body's response is quite specific. You describe a tightening in your chest, shallow breath, constricted throat, and a tremor in your hands. Rather than acknowledge the shame or fear underlying those sensations, you redirect yourself by doing meta-work. I'd like to explore this further: what happens if you were to simply acknowledge those physical sensations, without trying to change them or analyze them further? What would it be like to pause for a moment, and just notice the tension in your body, the feeling of constrictedness in your throat, without trying to rationalize it or change it?
+
+Patient: If I actually pause, the first thing I notice is the breath—shallow and fast—and a concrete tightness across my chest and throat, like a clamp that makes words come out thinner. My brain immediately starts narrating it—"that's anxiety, sympathetic arousal, threat-detection"—which feels safer than saying, "I feel scared I'll be judged," so I end up describing the physiology instead of inhabiting it. When I try to just sit with the sensation, there's a rising itch to escape into planning or restructuring the task; I get impatient and honestly a bit overwhelmed, like I want to run a diagnostic instead of feeling the shame under it. Can we slow down? I'm not sure how to stay with this without immediately translating it into analysis.
+
+Therapist: Let's take a slow step back together. You've started to notice your breath and the physical sensations in your body. Instead of trying to label them or analyze them, I'd like you to try something different. Let's focus on the sensation of the breath moving in and out of the body, without trying to change it or control it. Just notice the sensation of the breath, the feeling of the air moving in and out of the body. And then, let's bring our attention to the tightness in your chest and throat. What does it feel like to be in this space, without trying to analyze it or understand it intellectually? Can you just notice the sensation of the tightness, without trying to push it away or change it in any way?
+
+Patient: Okay—if I try to notice it: the breath is shallow, like it's barely filling the top of my lungs, and the chest feels like a low, constant pressure with a tight band around my throat. Almost immediately my mind slaps a diagnostic label on it—"sympathetic arousal, anxiety response"—and that labeling is where I retreat because it feels safer than admitting, "I'm scared of being judged." I'm already getting restless and want to plan my way out; can we slow down? I'm struggling to stay with the sensation without turning it into analysis.
+
+Therapist: Let's take a deep breath together and try to slow down. I want you to bring your attention back to the physical sensations in your body. Right now, you're noticing the shallow breath and the feeling of the tight band around your throat. Can you focus just on that sensation for a moment, without trying to think about it or analyze it? It's okay if your mind starts to wander - just gently bring your attention back to the sensation. Take a moment to notice how it feels to have a shallow breath, and how it feels to have a tight band around your throat. What's the sensation of that band? Is it hard to describe?
+
+Patient: It's a constrictive, almost mechanical pressure — like someone's cinched a band across the front of my throat and upper chest so words feel filtered and breath stays high and thin. My instinct is to instantly relabel it—"sympathetic arousal, somatic correlate of threat"—which functions as an intellectual buffer against the actual shame or fear under it. Can we slow down? I'm already getting an urge to escape into analysis and I'm trying to just stay with this without turning it into a theory.
+
+Therapist: Let's try to let go of that labeling for just a moment. Can you try to just be with the physical sensation of the band around your throat and chest, without thinking about it as "sympathetic arousal" or "somatic correlate of threat"? Can you just notice how it feels to have that sensation, without trying to put a label on it? Try to bring your attention back to the sensation, without judgment or analysis. Just be present with it, for a moment. What happens if you don't try to label it or analyze it? What happens if you just sit with the sensation, without trying to change it or understand it?
+
+Patient: If I actually stop labeling, the band feels less like a diagnostic category and more like a localized, dull pressure—like a tightening around the sternum with a faint heat beneath it and a hollow sinking in my stomach that I'd probably call embarrassment if I weren't deflecting. That only lasts a few breaths before my mind launches into commentary—cataloguing, theorizing—and an urgent itch to "do something useful" kicks in, which is when I start rewriting the task plan to avoid the feeling. Can we slow down? I'm already wobbly about staying here without turning it into analysis.
+
+Therapist: Let's take a deep breath together and try to stay with this sensation, just for one more moment. I want you to focus on the physical feeling around your sternum, the dull pressure and the faint heat. Try to notice how it feels to have that sensation, without trying to think about it or label it. Don't worry about what your mind is doing, just observe it as it arises. Don't try to change it, don't try to fix it, just observe it. Can you just sit with that sensation for a moment, without judgment or analysis? Just one moment.
+
+Patient: Okay — I did that for a few breaths. The pressure around my sternum softened a hair and there was this thin warmth in my gut, but within seconds my mind started churning out a new taxonomy of possible errors and failure narratives, which shut the feeling down. I'm getting restless and feel the itch to convert this into a task list again; can we slow down? I'm trying to stay here but my instinct is to flee into analysis.
+
+Therapist: Let's take a different approach. Instead of trying to stay with the feeling, let's try to create a safe space for it to be present without being analyzed. Can you imagine that the feeling is a small, fragile thing that needs to be treated gently? What would it mean to treat this feeling with kindness and care, rather than trying to analyze it or make sense of it? Can you try to create a sense of curiosity around the feeling, rather than trying to label it or understand it? Let's try to approach this feeling with a sense of wonder, rather than trying to fix it or make sense of it. Can you take one more breath, and try to approach this feeling with kindness?
+
+Patient: I did—took a slow breath and tried to address the tightness with a kinder internal narrative, something like, "this is temporary, it's okay," which for a couple of breaths made the pressure feel marginally less sharp. Pretty quickly though my metacognitive reflex hijacked it: even kindness got reformulated as a procedural intervention—"validate the feeling, then move on"—and that turned it back into something to optimize. Can we slow down? I'm trying to stay with it but the itch to convert this into a checklist is fierce.
+
+Therapist: Let's try to break the cycle of constant analysis and labeling. Instead of trying to "validate the feeling" and then "move on", can we try to just be with the feeling, without trying to change it or optimize it? Can you try to simply notice the feeling, without judgment or analysis? Just observe it, as it is, without trying to fix it or make sense of it. What would it mean to simply be present with the feeling, without trying to change it or analyze it? Can you try to approach this feeling with a sense of curiosity, rather than trying to optimize it? Let's take a slow breath together and try to just be with the feeling, without trying to change it or analyze it.
+
+Patient: I did the breath, but after a couple of cycles a hot, familiar shame and irritation rose up — it feels like that old failure-sense that wants me to hide in analysis instead of being present. When that happens I get angry at myself, and even kindness gets turned into another procedural step to optimize, which just fuels the loop. Can we slow down? I could use a very small, concrete grounding anchor or a micro-action (like a 2-line commit rule) to try right now so I don't immediately retreat into planning.
+
+Therapist: Let's try a small grounding anchor to help you stay present with the feeling. Can you try to focus on the sensation of your feet touching the ground, without thinking about it? Just notice how your feet feel, without judgment. You can also try to notice the sensation of the air on your skin, or the sound of your breath moving in and out of your body. Try to focus on just one of these sensations, without thinking about it.
+
+Alternatively, if you'd like to do a micro-action, I can suggest a simple commit rule to help you take a small step towards being present. For example, we could commit to typing just two lines on the screen in front of you, without thinking about it. This might help you focus on the physical act of typing, rather than getting caught up in analysis. What do you think? Is either of these options something you'd like to try right now?
+
+Patient: I'll take the micro-action — the two-line commit rule feels concrete enough to try. I'm already getting that hot spike of shame and irritation, like the old failure voice telling me this won't stick, which makes me want to retreat into planning, so I need something strict and tiny. Here's what I'll do: open the file, type one small stub/comment and one trivial implementation or test line, save, and commit — can you prompt me to start now and call me out if I try to polish those two lines?
+
+Therapist: Here is the commit prompt: "Open the file, type two lines of code, save, and commit. I'd like you to focus on typing exactly two lines, without trying to edit or polish them. Just type, save, and commit. Let's get started." 
+
+(Note: I'll be paying close attention to your typing, and if I notice you're trying to edit or polish the two lines, I'll gently bring it to your attention with a prompt like "Just type the next line exactly as it is, don't try to edit or improve it yet.")
+
+Patient: Okay—I'm doing it now. I opened the file and typed two lines exactly as planned: a short comment stub and a trivial placeholder implementation, hit save, and made a quick commit with the message "WIP: two-line unblock." While typing there was an instant hot spike of shame and irritation—this old failure voice telling me it won't stick—and my fingers wanted to slow down to polish. If you notice me trying to edit or improve those two lines, please call me out.
+
+I feel a little less stuck but still edgy and guarded; can we do another micro-step like a 5-minute tidy session, and have you keep me honest about polishing?
+
+Therapist: Let's do a 5-minute tidy session. I'll prompt you to tidy up the code as we go, and gently bring it to your attention if you start to polish or edit the lines.
+
+Here's the first prompt: "Tidy up the placeholder implementation, remove any unnecessary characters or lines. Just focus on making it minimal and clear."
+
+(Remember, I'm looking for minimalism, not perfection. Just tidy up the lines, don't try to make it perfect. I'll keep an eye on it.)
+
+Take your time, focus on the task at hand, and let's tidy up the code together.
+
+Patient: Okay—I did a quick tidy: removed the extra comment noise, collapsed the stub into a single minimal placeholder, shortened the identifier names, and left the commit as "WIP: tidy." 
+
+There was that immediate prick of old shame and a reflex to micro-optimize the text, which I held back from because it felt effortful and kind of hollow. 
+
+I'm up for another five-minute pass—please call me out if I start polishing and tell me the exact next micro-action to take.
+
+Therapist: Let's do another 5-minute pass. I'll prompt you to make a small, incremental change to the code. Here's the first prompt: "Add a single line of code to the placeholder implementation to make it slightly more functional. Just add one line, don't try to optimize or improve it."
+
+(Remember, I'm looking for a single, incremental change. Just add one line, don't worry about what it should be or how it should work. I'll guide you through the next step.)
+
+Take your time, focus on the task at hand, and let's make a small progress together.
+
+(Also, I'll be paying close attention to your reaction to the shame and the micro-optimize reflex. If you start to feel those urges, I'll interrupt you with a specific prompt to help you stay focused on the task at hand.)
+
+Patient: I added one line — a simple placeholder return (return null;) — saved and committed. Immediately there was that hot shame spike and the reflex to refactor the whole thing instead of leaving it, my fingers slowing as the urge to polish kicked in; I resisted but it's wearing me out and my energy feels low. Prompt me with the next tiny action (like "run tests for 2 minutes" or "make one more trivial change") and call me out the moment you see me start polishing — can we slow down?
+
+Therapist: Let's take a different approach for a moment. Instead of making another change, let's focus on keeping the code stable and functional for the next 2 minutes. Can you tell me how many lines of code are in the current file?
+
+(I want you to focus on counting the lines, not thinking about making changes. Just count the lines, and let me know how many you're looking at.)
+
+Take your time, focus on the task at hand, and let's get a clear picture of the code's complexity.
+
+(Note: I'll be watching your body language and behavior closely. If I see even a hint of polishing or refactoring, I'll interrupt you immediately with a specific prompt to get you back on track.)
+
+Patient: Three lines. While I counted I felt that prick of shame and my chest tightened—my brain wanted to double-check and prettify the file, but I held back. What's the next tiny instruction?
+
+Therapist: Now that we have a count, I want you to take a deep breath and imagine that the entire file is a small, stable entity that's working correctly. Can you imagine that for just 30 seconds?
+
+(I want you to focus on visualizing the file as a small, stable unit that's working correctly. Just imagine it for 30 seconds, without thinking about making any changes. When you're ready, we'll move on to the next step.)
+
+Remember, I'm watching you closely, and I'll interrupt you if I see even a hint of polishing or refactoring. Just focus on the visualization, and let's take a brief pause.
+
+Patient: I tried to hold it for a bit, but my attention just skittered—there was a sharp little anxiety spike, chest tightening and breath getting thin, and the old failure-narrative started looping so I couldn't keep the image steady. I can try again, but I need a concrete scaffold (like a paced breath count or a 15‑second anchor) to latch onto, and please call me out if I start polishing the visualization. Can we slow down?
+
+Therapist: Let's try a paced breath count for 30 seconds. I want you to focus on counting your breaths, starting from 1. As you breathe in, say "in" to yourself. As you breathe out, say "out". When you feel comfortable, say "1" and breathe in. Then, say "2" and breathe out. Continue counting your breaths, pausing briefly after each number.
+
+(As you count your breaths, try to maintain the visualization of the file as a stable entity. If you start to notice the failure narrative again, or if you feel the urge to polish the visualization, I'll interrupt you with a specific prompt. Let's start with the breath count.)
+
+You're starting at 1, breathe in... say "in"... breathe out... say "out". Where are we?
+
+Patient: Uh—I'm not sure I follow. I got as far as saying "in" then "out" but my attention skittered and I think we were around three or four before I lost it. Counting feels oddly procedural—my brain wants to turn it into another thing to optimize—so how is this supposed to steady the visualization instead of giving me something to overanalyze? I can try again if you pace me through each inhale/exhale.
+
+Therapist: Let's start again, and I'll pace you through each breath more explicitly. I want you to focus on the sensation of the breath moving in and out of your body, without trying to analyze it or turn it into something else.
+
+Take a deep breath in... notice how your diaphragm drops, and your belly rises... hold the breath for a moment... and then exhale... feel the breath leave your body, and your belly fall.
+
+As you inhale, say "inhale" to yourself... "inhale"... (pause)...and then exhale, saying "exhale"...
+
+(Notice how the words are more pronounced, but not distracting. The focus is on the physical sensation of the breath, not on counting or analyzing.)
+
+Let's start again, from the beginning of the inhale. Can you focus on the sensation of the breath moving in, without trying to analyze it or turn it into something else?
+
+Patient: Okay… inhale — I felt the belly rise a little — exhale. The in felt a touch deeper but my chest tightened halfway and my mind immediately started drafting the next PR description. I'm trying to stay with the sensation but I keep sliding into analysis; can you pace me through two more slow breaths and call me out if I start narrating or planning?
+
+Therapist: Let's focus on just one breath at a time. Take a slow, deep breath in... (pause)...and then exhale. Notice how your diaphragm drops, and your belly rises as you inhale. Try to focus on the sensation of the breath moving in and out of your body, without thinking about the count or the words.
+
+Don't try to control the breath, just observe it as it is. If your mind starts to wander or you feel the urge to plan or analyze, I'll gently interrupt you and ask you to refocus on the breath.
+
+As you exhale, say "exhale" to yourself... just "exhale"... (pause)...and then take another slow breath in...
+
+Patient: Inhale — I felt the belly lift a bit, then the chest pinched and the throat tightened; exhale — breath left thin. My head immediately started drafting the next PR checklist and that familiar hot shame flared, so I'm slipping into planning instead of staying with the breath. I can try another slow one if you verbally pace me (say "inhale"… pause… "exhale") and call me out the moment I start narrating or optimizing.
+
+Therapist: Inhale... (pause)... exhale... Inhale... (pause)... exhale... Inhale... (pause)... exhale...
+
+Please focus on the sensation of the breath moving in and out of your body. Try to notice how your diaphragm rises and falls, and the sensation of the breath in your nostrils. Don't think about the count, don't think about the words. Just observe the breath.
+
+If you start to feel the urge to plan or analyze, I'll say "Stop" and you'll start again from scratch. If you start to feel the hot shame or anxiety, I'll say "Let it go" and you'll focus on the breath.
+
+Inhale... (pause)... exhale...
+
+Patient: Inhale — I felt the belly rise, then the throat tightened and the breath went thin; exhale. My attention keeps snagging on that old failure-script and immediately starts drafting PR checklists instead of staying with the breath, which kicks up a hot shame that makes everything feel smaller. I can try another paced breath if you verbally cue me and call out the moment I start narrating or polishing.
+
+Therapist: Inhale... (pause)... exhale... Inhale... (pause)... exhale...
+
+Notice the sensation of the breath moving in and out of your body, without trying to analyze it or turn it into something else. Just observe the physical sensation of the breath, without judgment.
+
+If you start to feel the urge to plan or draft PR checklists, I'll say "Drop it" and you'll refocus on the breath. If you start to feel the hot shame or anxiety, I'll say "Let it go" and you'll try to stay present with the breath.
+
+Remember, it's just the breath. It's not about achieving anything or getting somewhere. It's just the sensation of the breath moving in and out of your body.
+
+Inhale... (pause)... exhale...
+
+Patient: Inhale — belly rises, throat clamps; exhale — breath goes thin. My attention already snagged on drafting the next PR checklist and that hot shame spiked, so I lost the breath again. I'm not sure I follow how this steadying is supposed to help me stay out of analysis; please say "Drop it" the moment I start narrating so I have to refocus.
+
+Therapist: Inhale... (pause)... exhale... Inhale... (pause)... exhale...
+
+I want you to try to stay with the sensation of the breath moving in and out of your body. Just notice how it feels, without trying to analyze it or turn it into something else. Don't think about the PR checklist, don't think about the words, just focus on the physical sensation of the breath.
+
+As you inhale, notice the sensation of the breath rising into your nostrils. As you exhale, notice the sensation of the breath leaving your body. Try to stay with that sensation, without getting caught up in thinking about it.
+
+If you start to feel the urge to plan or analyze, I'll say "Drop it" and you'll need to refocus on the breath. But I want to encourage you to try to stay with the sensation, just for a moment longer.
+
+Inhale... (pause)... exhale...
+
+(Note: I'll say "Drop it" as soon as you start narrating or planning, and you'll need to refocus on the breath. I'm looking for a specific moment of mental drift before intervening.)
+
+Patient: Inhale — belly rose, throat pinched; exhale — thin. My head immediately started drafting the PR checklist and that hot shame flared, so I lost the breath. Please say "Drop it" now and call me out — I need that interruption to refocus.
+
+Therapist: "Drop it". You're already drafting the PR checklist and feeling that hot shame, and I can see that it's getting the better of you. You're losing focus on the breath and getting caught up in analysis mode again.
+
+I'm not asking you to think about this anymore, I'm asking you to stop thinking. Stop drafting the checklist, stop feeling the shame, and just focus on the sensation of the breath moving in and out of your body.
+
+Take a moment, breathe in deeply, and try to notice the sensation of the breath without trying to analyze it or turn it into something else. Can you do that for just one moment?
+
+Patient: Okay — I can try for one moment, but my chest is already tight and that old shame is buzzing so this feels thin and effortful. Pace me: say "inhale" now… pause… "exhale." Call "Drop it" the second you hear me start narrating or planning, because I know I'll slip.
+
+Therapist: Inhale... (pause)... exhale...
+
+Remember, I want you to focus on the sensation of the breath moving in and out of your body, without trying to analyze it or turn it into something else. Just notice how it feels, without judgment.
+
+If you start to feel the urge to plan or narrate, I'll say "Drop it" immediately and you'll need to refocus on the breath.
+
+Inhale... (pause)... exhale...
+
+Patient: Inhale — belly rose a bit, throat tightened; exhale — breath thin. I couldn't hold it: my mind immediately started drafting the next PR checklist and that old failure-shame spiked, so I lost the breath. 
+
+Say "Drop it" now and pace the next inhale—I'll try again but I need the verbal cue the moment I start narrating.
+
+Therapist: DROP IT.
+
+Inhale... (pause)... 
+
+I want you to start again from scratch, focusing solely on the sensation of the breath moving in and out of your body. Don't think about the checklist, don't think about the shame, just be present with the breath.
+
+Take a deep breath in, and try to let go of everything else. Just breathe.
+
+Patient: Inhale — belly rose, throat clenched; exhale — breath thin. The old failure-shame bubbled up immediately and my head started drafting PR narratives, so I lost the breath again and felt a spike of irritation at myself. I can try another one if you literally pace me (say "inhale"... pause... "exhale") and call "Drop it" the second I start narrating, because I know I'll slip otherwise.
+
+Therapist: Inhale... (pause)... exhale... Inhale... (pause)... exhale... 
+
+Let's try again. I'll pace the breath for you, saying "inhale" and then "exhale" immediately after. This way, you can focus on the breath without worrying about narrating or planning.
+
+As we start again, I want you to remember that your goal is just to focus on the sensation of the breath moving in and out of your body. Don't think about the PR checklist, don't think about the shame, just be present with the breath.
+
+Inhale... (pause)... exhale...
+
+Patient: Inhale — belly lifts a bit; exhale — breath goes thin. The checklist voice is already intruding and that hot shame spikes, so I'm losing it. Pace me again (say "inhale"... pause... "exhale") and call "Drop it" the second I start narrating.

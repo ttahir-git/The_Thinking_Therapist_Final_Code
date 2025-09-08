@@ -1,0 +1,255 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Lately I've been feeling totally stuck and directionless—like being an accountant is the only thing that defines me, and after this breakup I can't see past it. My head's this fortune-telling machine that only predicts disaster: I'll burn out, lose my job, can't pay rent, and end up completely alone—like that's definitely what's going to happen. I know it sounds extreme, but I keep getting pulled into those stories and I can't stop.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Those catastrophic thoughts can be really overwhelming. Can you think of a moment, even a tiny moment, when you were in your life as an accountant, where you felt truly alive and engaged?
+
+Patient: Yeah—there was this one audit last quarter where I was totally in the zone, fixing a mess of spreadsheets and actually enjoying the puzzle for once. But of course my brain flips it: if I do well they'll pile more on me, I'll burn out faster, miss something big, get blamed, lose the job, and then what—can't pay rent, nobody to call, everything collapses. I know that sounds nuts, but I can't shake how real that chain feels.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're noticing a pattern of getting caught in a loop of worst-case thinking, even in moments that might seem positive. Would you be willing to try an experiment with me? I want you to bring your attention to that "zone" feeling you mentioned earlier – the one where you were enjoying the puzzle and feeling engaged. What's the first thing that comes to mind when you think of that experience?
+
+Patient: The first thing is this weird calm — everything clicks, the numbers line up, and I actually feel sharp and proud for a second. But then my brain flips it: if I show I can handle this they'll dump a ton more on me, I'll snap, make a huge mistake, get fired, lose my apartment, and end up totally alone — like that's just the next inevitable step. I get you want me to stay with the calm, but honestly that other outcome feels impossible to believe; my head only sees the disaster.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+So it's like the calm and the proud feeling are getting in the way of the "if I can handle this" possibility. Can you observe the thought "I'll snap" – as if it's just a thought, not necessarily a prediction about what might actually happen?
+
+Patient: I try, but it doesn't feel like "just a thought"—it feels like a loud warning I can't turn off. If I entertain it, it always becomes the same chain: I snap, miss something huge, get fired, can't pay rent, and end up totally alone. I don't know how to make it feel less like reality.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the warning feeling is feeling quite visceral and hard to shake. Let's try to bring it back to what you did experience during that "zone" moment, where you felt calm and proud. Can you think of a physical sensation in your body when you were in that state, something that might feel slightly different from the tight, anxious feeling you're experiencing now?
+
+Patient: My shoulders actually dropped and my breath felt steadier, like a little lightness in my chest and my hands weren't shaking — it felt oddly... calm and focused. But then my brain yells that it's a trap: if I stay relaxed I’ll get sloppy, miss something massive, they’ll blame me, I’ll get fired, can’t pay rent, and after the breakup I’ll be totally alone — and that sequence feels impossible to not believe.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the body's relaxation is getting caught up in the same catastrophic thinking. What would it be like, just for a moment, to allow yourself to stay in that feeling of calm, lightness, and steadiness, even if it doesn't immediately solve the "what if" questions about your job or the breakup?
+
+Patient: If I actually tried to stay there for a moment it would feel... surprisingly calm — shoulders down, breath steady, a lightness in my chest. But the second I notice that, my brain kicks in and says I'm being set up: they'll pile more on me, I'll snap, miss something huge, get fired, lose my apartment, and end up completely alone — that sequence feels inevitable, so staying relaxed feels impossible. I don't know how to trust that calm; can you help me keep it longer? Because any suggestion of different outcomes just sounds naive.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're struggling to connect with the calm feeling without getting pulled back into the worst-case scenario. Let's try a small experiment: would you be willing to just notice, for one more moment, the sensation of your breath moving in and out, without trying to change it or make it do anything, just observe it as it is?
+
+Patient: Okay, I'll try to notice it — I can feel it moving in and out, pretty shallow and quick, like my chest is tight. But the second I slow down and pay attention, my brain yells that I'm lowering my guard: they'll pile more work on me, I'll crack, miss something massive, get fired, can't pay rent, and end up totally alone. I get you're asking me to stay with the breath, but honestly that disaster chain feels way more real than this calm — it doesn't feel like an experiment, it feels like a warning.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're noticing the pull of the worst-case scenario is still quite strong. Let's try to bring your attention back to the physical sensation of the breath, without labeling it as "the calm" or "the disaster chain". Can you just notice the sensation of your chest, as you exhale, without adding any thoughts to it?
+
+Patient: I can try. On the exhale my chest drops a bit and there's a tiny loosening, like a hollow under my sternum. But the second I notice it my brain screams that I'm lowering my guard — they'll dump more work, I'll crack, miss something huge, get fired, can't pay rent, and end up totally alone. I know you're asking me to just notice, but that chain feels inevitable and it's making me frustrated; can we slow down?
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the notification of the "loosening" feeling is getting caught up in the same catastrophic thinking. Let's take a tiny step back – can you bring your attention to the sensation of your feet touching the ground, feeling the weight of your body distributed on them, without trying to change it or add any thoughts to it?
+
+Patient: I can feel my feet—pressure under my heels and the balls of my feet, like they're anchoring me a bit, which is kind of nice. But as soon as I admit that, my brain yells that they'll notice I'm relaxed, pile on more work, I'll snap, miss something huge, get fired, can't pay rent, and end up totally alone—so even this grounding feels like a setup. I'm getting really frustrated and overwhelmed; can we slow down?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the attempt to ground yourself is getting caught up in the same pattern of worst-case thinking. Can you allow yourself to acknowledge the frustration and overwhelm, without trying to change or react to it? What would it be like if you simply allowed yourself to feel this way, without trying to "fix" it or push through it?
+
+Patient: If I try to let it be, it feels like a hot, heavy knot in my chest and a buzzing behind my eyes—like I want to cry and also bolt. But the moment I notice that, my brain turns it into proof I'm collapsing: they'll see I'm fragile, pile on more work, I'll snap, miss something huge, get fired, can't pay rent, and end up totally alone. I'm trying to sit with the feeling, but it just loops into that catastrophe and I get more frustrated—can we slow down?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling overwhelmed by the emotional sensations, and your brain is pulling back in with more catastrophic thinking. Can you allow yourself to feel the physical sensations, like the knot in your chest and the buzzing behind your eyes, without trying to change or push through them? Can you simply observe them as they are, without judgment or reaction?
+
+Patient: I'll try to notice them — the knot's heavy, my chest's tight, my eyes sting and there's a buzzing in my temples, and I'm just sitting with that. But the second I let it be, my mind says it's proof I'm falling apart: they'll see I'm weak, pile on work, I'll snap, miss some huge deadline, get fired, can't pay rent, and end up totally alone — it feels like that's exactly what's going to happen. I'm starting to panic a bit; can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're struggling to stay with the physical sensations, and your mind is using them as evidence for the worst-case scenario. Can you bring your attention back to the sensation of your breath, just as it is, without trying to change it or react to it?
+
+Patient: Okay, I'm noticing it — breath's shallow, tight, quick, barely filling my ribs. But the second I pay attention my brain screams that if I relax even a little they'll notice, pile work on me, I'll crack, miss a huge deadline, get fired, can't pay rent, and end up totally alone — like that's definitely what's going to happen. I want to stay with the breath but it feels like a setup; can we slow down?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're stuck in a loop, and your brain is using any slight relaxation as evidence that you're on the verge of disaster. Can you try to notice the sensation of the breath, not in terms of whether it's "relaxing" or "staying tense", but simply as it is, like the sensation of the air moving in and out of your body?
+
+Patient: Alright, I'll try to notice it just as air moving — there's a cool tickle at my nostrils, a tiny rise in my ribs, and a short pause before the next in-breath. But the second I pay attention my brain yells that means I'm lowering my guard: they'll notice, pile work on me, I'll snap, miss a huge deadline, get fired, can't pay rent, and end up totally alone — like that's the only realistic outcome. I'm trying to stay with the breath but I'm getting more panicky; can we slow down?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're being pulled back in by the same catastrophic thinking. Can you try to notice the sensation of the words "they'll notice" – can you see them as just words, without judgment or emotion? Are they just a thought, a phrase that's passing through your mind?
+
+Patient: I try, but “they’ll notice” hits like a verdict in my chest — it doesn’t feel like a passing phrase, it feels like the start of the whole timeline: they pile work, I crack, miss a huge deadline, get fired, can’t pay rent, end up alone. Telling me it’s “just a thought” feels naive; my brain only sees that one realistic path, not any other outcomes. I’m getting overwhelmed — can we slow down?
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the thought "they'll notice" has become deeply embedded in your experience, and it's hard to separate it from the rest of your emotions. Can you try to bring your attention to the sensation of your heart beating in your chest, just as it is, without trying to change it or react to it?
+
+Patient: My heart's thudding fast, heavy in my chest, and it's this embarrassing, shaming feeling that makes me feel smaller. And of course my brain turns it into the whole inevitable disaster: they'll notice, pile on more work, I'll crack, miss a massive deadline, get fired, can't pay rent, and definitely end up alone — the heartbeat feels like proof. I'm trying to notice it without reacting but I keep getting flooded with shame and panic; can we slow down?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shame and panic are getting caught up in the catastrophic thinking. Can you try to bring your attention to the sensation of your feet touching the ground, feeling the weight of your body distributed on them, and the sensation of the air moving in and out of your body, without trying to change it or react to it?
+
+Patient: My feet feel heavy on the floor, pressure under my heels and the balls of my feet—like a tiny anchor. My breath's shallow, cool at the nostrils, ribs barely rising. But the second I notice that grounding my brain screams “they’ll notice” and the whole chain fires up—more work, I’ll crack, miss a deadline, get fired, can’t pay rent, end up alone—and this shame just slams into my chest like it proves everything. I’m getting really flooded and frustrated; can we slow down?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're being pulled back in by the same cycle of shame and catastrophic thinking. Can you try to bring your attention to the sensation of the shame, without judging it or trying to change it? Can you simply notice it as a feeling, like a lump in your chest, without identifying with it as "your shame"?
+
+Patient: I'm trying to notice it without naming it—just this hot, heavy lump in my chest that makes me want to hide. But the second I feel it my brain turns it into a verdict: they'll see me as fragile, pile on work, I'll crack, miss a massive deadline, get fired, can't pay rent, and end up totally alone—like that's definitely what's going to happen. I can't seem to separate the feeling from that story and it's making me more ashamed and panicky; can we slow down?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shame and panic are deeply entwined with the catastrophic thinking. Can you try to focus on the sensation of the lump in your chest, without trying to change it or push it away? Can you allow it to be there, without trying to do anything with it, just as it is?
+
+Patient: Okay, I’ll try to focus on it — it’s this hot, heavy lump right under my ribs, like something’s squeezing my chest and I just want to hide. But the second I feel it my brain yells that it’s proof: they’ll see I’m fragile, pile on work, I’ll crack, miss a massive deadline, get fired, can’t pay rent, and end up completely alone. That shame washes over me and makes the whole chain feel inevitable, and I’m starting to get really overwhelmed — can we slow down?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the shame and the catastrophic thinking are creating a perfect storm of anxiety. Can you try to bring your attention to the sensation of the air moving in and out of your body, just as it is, without trying to change it or react to it? Let's focus on the sensation of the breath, and see if we can find a small anchor in the midst of all this chaos.
+
+Patient: Okay, I'm trying to focus on the breath — it's shallow and quick, a cool tickle at my nostrils and my ribs hardly move. But the second I do, that shame hits me like proof and my brain starts the whole timeline: they'll notice, pile on work, I'll crack, miss a massive deadline, get fired, can't pay rent, end up totally alone. I'm getting flooded and panicky — can we slow down? I don't know how to hold the breath and that fear at the same time.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're being pulled in two directions - trying to focus on the breath, but also getting caught up in the catastrophic thinking. Can you try to notice the sensation of your body leaning away from the thought, the way your chest might be tensing up or your shoulders might be shrugging? Can you observe this physical response, without trying to change it or react to it?
+
+Patient: Yeah—I can feel myself leaning back from the thought, like I'm trying to make myself smaller: my chest tightens, my shoulders hitch up by my ears, and my neck feels rigid. The shame that comes with that is hot and humiliating, and the second I notice it my brain turns it into a verdict — they'll see I'm fragile, pile on work, I'll snap, miss a massive deadline, get fired, lose my apartment, and end up completely alone; that whole chain feels unavoidable. I'm getting really flooded and frustrated—can we slow down? I don't know how to stay with my body without it turning into that disaster story.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're trapped in this cycle of shame and catastrophic thinking. Can you try to bring your attention to the sensation of your feet touching the ground, feeling the weight of your body distributed on them, and the sensation of the air moving in and out of your body, without trying to change it or react to it? Let's focus on the physical sensations in your body, rather than the thoughts that are swirling around. Can you just be with what's happening in this moment, without judgment?
+
+Patient: My feet feel grounded—pressure under my heels and the balls of my feet like a tiny anchor—but my breath's still shallow, ribs barely moving. The second I notice that, my brain yells "they'll notice" and the whole timeline runs: they'll pile on work, I snap, miss a massive deadline, get fired, can't pay rent, end up completely alone—and that shame hits like proof and humiliates me. I'm really flooded and can't seem to hold the breath and the fear at the same time—can we slow down?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're stuck between the physical grounding and the catastrophic thinking. Can you try to focus on the sensation of the breath, without trying to hold onto it or change it, but simply observe it as it is? Can you notice the sensation of the breath without judgment, like a tiny, tiny thing moving in and out of your body?
+
+Patient: I'll try—it's a tiny thing: a cool tickle at my nostrils, a whisper of rise in my ribs, almost nothing. But the second I notice it my head screams they'll notice and the whole chain kicks off—more work, I snap, miss a massive deadline, get fired, can't pay rent, end up completely alone—and that feels like the only realistic outcome. That shame just slams back into my chest and I'm starting to panic; can we slow down? I don't know how to hold the breath and that future at the same time.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're being pulled back in by the catastrophic thinking. Can you try to bring your attention to the sensation of the words "they'll notice" - can you notice them as just words, without judgment or emotion? Are they just a thought, a phrase that's passing through your mind?
+
+Patient: I can’t make it just be words — “they’ll notice” lands like a verdict in my chest and the shame floods back, and the second it shows up the whole timeline starts: they pile work on me, I snap, miss a massive deadline, get fired, lose my apartment, end up totally alone. Telling me it’s “just a thought” feels naïve and kind of invalidating — like you’re asking me to ignore the thing that proves I’m failing. I’m getting really flooded right now; can we slow down and stay with this a bit longer?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the meaning and significance of the thought "they'll notice" is deeply embedded in your experience. Can you try to bring your attention to the sensation of your body in this moment, without trying to change it or react to it? Can you notice the feeling of your body as it is, right now, without judgment or labeling it as "good" or "bad"?
+
+Patient: I'm trying to notice my body — it's tense and heavy: shoulders up, chest squeezed, stomach in knots, heart pounding. The shame rushes in and makes me feel small, and my brain immediately runs the timeline: they'll notice, pile on work, I'll snap, miss a huge deadline, get fired, can't pay rent, and end up completely alone — that's definitely what's going to happen. I'm getting really flooded and humiliated; can we slow down and stay with this a bit longer?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling completely overwhelmed by the physical sensations of shame and anxiety. Can you try to bring your attention to the sensation of your breath, and allow it to be there, just as it is, without trying to change it or react to it? Can you simply observe the breath, without judgment or attachment, and see if that brings a sense of calm or clarity to this moment?
+
+Patient: I'll try — the breath's thin and quick, a cool tickle at my nostrils, ribs barely moving. There's this hot, shameful knot underneath it that makes everything feel worse, and the second I notice the breath my brain turns it into proof: they'll see I'm slipping, pile more work on me, I'll snap, miss a huge deadline, get fired, can't pay rent, and end up totally alone. I'm getting really panicked and humiliated — can we slow down?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you're feeling like you're being pulled back in by the catastrophic thinking. Can you try to bring your attention to the sensation of the knot beneath the breath - can you notice it as a physical sensation, without judgment or labeling it as "shame" or "guilt"? Are you just observing its presence, like a tiny, tangible thing in your body?
+
+Patient: It's this hard, hot knot right under my breastbone — small but heavy, like something's twisted up in there and pressing into my ribs. I try to just notice it, but the second I do my brain treats it like proof: they'll see me falter, pile on work, I'll snap, miss the huge deadline, get fired, can't pay rent, and end up totally alone. The shame slams into me and I feel stupid and panicky; can we slow down and sit with this a bit longer? I don't know how to observe it without the whole disaster story taking over.

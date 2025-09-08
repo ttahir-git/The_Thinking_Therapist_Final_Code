@@ -1,0 +1,258 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Well, lately I've been feeling stuck and kind of directionless — I don't know what matters to me beyond being a social worker. I used to be proud of the work, but now I can't figure out who I am without it. I'm pretty skeptical this will help though; how is talking about it supposed to change anything?
+
+
+--- Turn 1 ---
+Therapist Thinking:
+You've expressed feeling stuck and directionless, with a hint of skepticism about the value of talking about it. Core emotion is frustration. Goal: Explore the tangible cost of being directionless, connecting it to what matters most (your identity as a social worker).
+
+Therapist Answer:
+What's one thing about being a social worker that you used to be really good at, but now feels like you're losing touch with – perhaps it's the sense of purpose, the connection with clients, or the feeling of making a difference?
+
+Patient: I used to be really good at making clients feel heard and like we could actually move things forward, but now it all feels like paperwork and ticking boxes — that sense of actually making a difference is gone. I keep getting distracted by bills and logistics, and I can't get that spark back. And seriously, how is talking about that supposed to help? I've tried talking before and it didn't change much.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+You've identified the specific area where you feel disconnected (making a tangible difference with clients) and how it's now overshadowed by administrative tasks. Core emotion is despair. Goal: Introduce a small, low-stakes act to connect with that lost spark without needing to change everything.
+
+Therapist Answer:
+Can you imagine taking just 5 minutes today to write down one small thing you used to be proud of doing as a social worker – something that felt meaningful to you or your clients? It doesn't have to be grand, just a tiny spark.
+
+Patient: Alright, I can do five minutes — I'll write about the time I sat with a young mom for hours, really listened, and helped her get a housing referral so she and her kid had a place to sleep; she cried and called me her lifeline. But honestly, how is writing that down going to sort out the bills or get that feeling back? I'm starting to feel a bit overwhelmed thinking about it — can we slow down a bit?
+
+
+--- Turn 3 ---
+Therapist Thinking:
+You've agreed to take small action (writing down the meaningful moment) but are now feeling overwhelmed by its connection to the bigger problem (bills). Core emotion is exhaustion. Goal: Gently pivot from action to defusion – acknowledge the overwhelm and reconnect to the core value (listening) without linking it to "solving" the problem.
+
+Therapist Answer:
+That moment sounds incredibly precious to you – the way she called you her lifeline. When you think about that feeling now, what's one tiny part of that moment that you can hold onto right here, without needing to fix the bills or find a new job?
+
+Patient: I think it's the way she relaxed into me and started crying — that look of real relief, like she finally believed someone was on her side. That little patch of trust is what used to light me up. But honestly, how is holding onto that supposed to help with the bills? I'm starting to feel a bit overwhelmed; can we slow down?
+
+
+--- Turn 4 ---
+Therapist Thinking:
+You've identified the specific moment of trust that used to light you up, but now it's getting tangled with the problem of bills. Core emotion is frustration. Goal: Introduce defusion by noticing the physical sensation of overwhelm, without trying to "fix" it.
+
+Therapist Answer:
+Notice how your body feels when you think about those bills – is there tension in your shoulders, a knot in your stomach? Can you simply acknowledge that feeling without trying to change it, just for a breath?
+
+Patient: My shoulders are tight and there's a knot in my stomach, like I can't quite breathe all the way. I can try to notice that for a breath — okay, I notice it — but seriously, how's that supposed to help with the bills or getting my spark back? I'm starting to feel a bit overwhelmed; can we slow down a bit?
+
+
+--- Turn 5 ---
+Therapist Thinking:
+You've acknowledged the physical sensation of overwhelm, which is a small victory. Core emotion is resignation. Goal: Introduce a gentle act of curiosity about the knot in your stomach, without trying to "fix" it.
+
+Therapist Answer:
+What's the sensation of the knot in your stomach like, exactly? Is it hard or soft, heavy or light? Can you explore it with your curiosity, just for a moment, without trying to change it?
+
+Patient: It's a hard, heavy knot — like a small rock sitting just below my ribs, and when I breathe it loosens a hair then tightens right back. It feels cold and clenched, makes my chest shallow. I still don't see how noticing that will pay the bills or get my spark back — I'm starting to feel overwhelmed, can we slow down a bit?
+
+
+--- Turn 6 ---
+Therapist Thinking:
+You've vividly described the physical sensation of the knot, which is a powerful anchor for exploration. Core emotion is exhaustion. Goal: Introduce a small act of kindness to the knot, without trying to "fix" it.
+
+Therapist Answer:
+Can you offer that knot a tiny kindness – just for a moment – saying "I notice you're here, and I'm going to stay with you, without trying to make you go away"?
+
+Patient: Okay... I'll try it out loud: "I notice you're here, and I'm going to stay with you, without trying to make you go away." Saying that feels a bit silly, but when I do it the knot loosens a hair and my breath gets a tiny bit deeper. Still—how is that supposed to pay the bills or get my spark back? I'm honestly starting to feel a bit overwhelmed; can we slow down a bit?
+
+
+--- Turn 7 ---
+Therapist Thinking:
+You've introduced kindness to the knot, which has a subtle effect on your physical sensation. Core emotion is still exhaustion. Goal: Reframe the question from "how to fix" to "what's already working".
+
+Therapist Answer:
+Notice that even with the knot still there, your breath got a tiny bit deeper. What's the smallest thing you can notice that's already working for you, right now – not trying to fix everything, just noticing what's present?
+
+Patient: The smallest thing is my breath — it's a hair deeper and my shoulders dropped a fraction. Also that memory of the mom's relief still warms me, and my mug feels warm in my hands. But seriously, how is noticing that supposed to pay the bills or bring back my sense of purpose? I'm starting to feel overwhelmed; can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+You've identified the small, tangible changes that are present, despite the knot still being there. Core emotion is frustration. Goal: Connect the present moment to the value that matters most to you.
+
+Therapist Answer:
+What's the warmth in your hands right now a reminder of? Is it a memory, a feeling, or something else?
+
+Patient: It reminds me of the quiet after a long shift — that small, ordinary comfort like a cup of tea that used to mean I’d done enough for the day. But right now it also brings up this prickly shame, like I'm faking calm because I messed up once and can't shake it. How is talking about the warmth supposed to help with the bills or that feeling? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+You've connected the warmth to a specific memory and emotion, which is complex. Core emotion is shame. Goal: Introduce defusion by noticing the story without judgment.
+
+Therapist Answer:
+Notice that story about the shame – is it a voice in your head that's separate from your body? Can you simply observe that voice, without trying to change it or agree with it?
+
+Patient: Yeah — it's like a separate, nagging little voice, saying I messed up and I'm a fraud, like it's been living behind that knot in my stomach. I can hear it if I try to watch it, but it makes me flush and want to hide, not breathe. But seriously, how is just noticing that voice supposed to shut it up or fix anything practical? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 10 ---
+Therapist Thinking:
+You've identified the voice and its relationship to the knot, which is a powerful anchor for defusion. Core emotion is avoidance. Goal: Introduce a tiny act of curiosity to explore the voice without judgment.
+
+Therapist Answer:
+What would happen if you simply looked at that voice right now, without trying to change it or stop it? Would it stay quiet, or would it keep talking?
+
+Patient: If I really look at it, it mostly gets louder — like I shine a light on whatever I'm trying to hide and it starts accusing me, my face goes hot and I want to shrink away. Every so often it fizzles and I get a tiny bit of distance, but most of the time it just keeps talking and I feel that shame rise up again. How is just looking at it supposed to make it stop or pay the bills? I'm starting to feel overwhelmed; can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+You've explored the voice's behavior when you shine a light on it, which is revealing. Core emotion is frustration. Goal: Introduce a shift from trying to control the voice to noticing its function.
+
+Therapist Answer:
+Notice what happens when that voice is loud – what are you doing when it's talking? Are you avoiding tasks, hiding from others, or getting anxious?
+
+Patient: When that voice gets loud I procrastinate — I do the small, pointless paperwork instead of the hard bills, I cancel calls and dodge people, and I hide in busywork so I don't have to face the hard stuff. I get jittery and my mind darts everywhere, then the shame kicks in and I just shut down like I'm a fraud after all these years. But honestly, how is saying that out loud supposed to fix the bills or make that voice quiet? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+You've identified the function of the voice – it's a coping mechanism for avoiding hard tasks. Core emotion is exhaustion. Goal: Introduce a small act of value-based action, despite the voice.
+
+Therapist Answer:
+What's one tiny, small step you can take right now, even if the voice is loud, to move closer to paying the bills or addressing what matters to you?
+
+Patient: Okay — tiny step: I'll set a five-minute timer and just open the most urgent bill and write down the due date and one phone number to call. Saying that makes me flush with shame — the voice snorts that it's pointless after all these years — but I'll try it. Still, how is opening one bill supposed to fix anything? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+You've identified a small, concrete action that aligns with your values (paying bills), despite the voice's criticism. Core emotion is resistance. Goal: Connect the action to the underlying value, not the outcome.
+
+Therapist Answer:
+What is it about paying those bills that matters to you, not just the act of writing down a due date?
+
+Patient: It matters because it feels like proof I'm still capable — that I can keep a roof over my head and not be a burden, and that I haven't completely lost the competence I used to rely on. If the bills are handled I could stop living under that nagging shame and actually be present for clients instead of panicking all the time. But honestly, how is talking about that supposed to help me actually fix anything? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+You've identified the value beneath the action – feeling capable and present for clients. Core emotion is hope. Goal: Introduce a shift from "how to fix" to "what's already working in this moment".
+
+Therapist Answer:
+Notice what's already happening right now, just by opening that bill and thinking about the due date – what physical sensations are present in your body?
+
+Patient: My stomach knots up again, my shoulders tense, my breath stays shallow, and my hands feel a little shaky — my face even flushes like that fraud-voice is right there. There's this tiny, stupid flicker of relief that I actually opened the bill, like proof I'm not totally useless, but then the shame rushes back and I want to hide. But seriously, how is noticing all this supposed to pay the bill or quiet that voice? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+You've described the physical sensations and emotional shifts that come up when you confront the bill – it's a complex mix of relief and shame. Core emotion is overwhelm. Goal: Introduce a gentle act of kindness to the physical sensations, rather than trying to change them.
+
+Therapist Answer:
+Notice the physical sensations in your body right now, without trying to change them – can you say to yourself, "I'm feeling [tension/flush/shakiness] right now, and that's okay"?
+
+Patient: Okay... I'll try it: "I'm feeling tension in my shoulders, my face is hot, my hands are shaky — and that's okay." Saying it out loud feels a bit fake and that shame still prickles, like I'm pretending. It helps a hair, but honestly how's that supposed to pay the bills or quiet that fraud-voice? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+You've gently acknowledged the physical sensations without judgment, which is a small victory. Core emotion is still shame. Goal: Reframe the voice's criticism into a tiny act of curiosity.
+
+Therapist Answer:
+What does the voice in your head say right now when you acknowledge the physical sensations – is it "you're weak" or "you're a failure"?
+
+Patient: It mostly hisses that I'm a failure and a fraud — that I messed up once and that proves I'm not worthy or competent anymore. When I say the sensations out loud that voice gets louder and I flush and want to hide or snap at myself. But seriously, how is saying that supposed to make it stop or pay the bills? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+You've identified the voice's criticism, and it's escalating when you acknowledge the physical sensations – that's a pattern. Core emotion is desperation. Goal: Introduce a tiny act of self-compassion to counter the voice.
+
+Therapist Answer:
+Notice what happens when you say "I'm a failure and a fraud" to yourself – is your body physically tense or does your mind go blank?
+
+Patient: I tense up — jaw clenches, shoulders hunch, chest tight, breath gets shallow and my hands shake. My mind flips between going completely blank, like I freeze, and racing with that accusing voice until the shame swells and I want to hide or drown it in busywork. Saying it out loud just makes me want to disappear. But honestly, how's that supposed to help pay the bills or quiet the voice? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+You've identified the physical sensations and mental patterns when the voice criticizes you – it's a cycle of tension and avoidance. Core emotion is desperation. Goal: Introduce a tiny act of kindness to your physical sensations, rather than trying to change the voice.
+
+Therapist Answer:
+Notice one tiny part of your body that's not tense – is it your left ear or your left toe? Can you simply acknowledge its presence without judgment?
+
+Patient: My left ear actually feels fine — a little warm, nothing tight — I can notice that without judgment. But my attention keeps snagging on that shame and the bills, my hands are jittery and I feel oddly scattered, like I can't settle. Honestly, how is noticing my ear supposed to quiet that fraud-voice or help pay anything? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+You've noticed a tiny anchor of kindness in your physical sensations – your ear – but your attention is still stuck on the shame and bills. Core emotion is frustration. Goal: Introduce a small act of curiosity about what's driving your scattered feeling.
+
+Therapist Answer:
+What's the thought that's making your hands jittery when you try to settle? Is it "I need to fix the bills" or "I'm not doing enough"?
+
+Patient: Both, really — they tag‑team each other: "I need to fix the bills" turns into "you're not doing enough," and my mind just races. My hands jitter, my chest tightens, and I start imagining the worst so I can't focus on one thing. How is saying that out loud supposed to help? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+You've identified the vicious cycle of thoughts and physical sensations – it's exhausting. Core emotion is exhaustion. Goal: Introduce a tiny act of defusion to break the cycle.
+
+Therapist Answer:
+Notice that "you're not doing enough" isn't a statement about the bills or your worth – it's a thought. Can you say to that thought, "This thought is just a thought"?
+
+Patient: Okay — "This thought is just a thought." Saying it out loud makes that voice snarl and my hands shake; the shame bubbles up and my chest tightens. How is saying that supposed to shut it up or help with the bills? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+You've defused the thought, but the shame and physical tension are still present. Core emotion is frustration. Goal: Refocus on the physical sensation of defusion – the warmth of your ear.
+
+Therapist Answer:
+Notice the warmth of your ear right now, without trying to change it – can you say to it, "This warmth is just this warmth"?
+
+Patient: Okay — I'll try it: "This warmth is just this warmth." Saying that makes my ear feel a bit more ordinary and my shoulders unclench a hair, but my hands are jittery and that prickly shame keeps pushing back in. How is that supposed to make the bills stop or quiet that voice? I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+You've noticed a small shift in your physical sensations – the warmth of your ear – but the shame is still present. Core emotion is weariness. Goal: Introduce a tiny act of curiosity about what the shame wants.
+
+Therapist Answer:
+What is the shame trying to do right now – is it trying to distract you from the bills or make you feel unworthy?
+
+Patient: It feels like it's doing both — mostly it's trying to make me feel unworthy so I freeze and dodge the bills, and it distracts me with worst‑case thoughts so I can't focus on one thing. There's this nasty, protective edge to it too, like it's keeping me from risking being seen or hurt again. How is naming that supposed to help me actually pay a bill? I'm getting overwhelmed — can we slow down?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+You've identified the shame's function – it's trying to avoid vulnerability and control by making you freeze and distract yourself. Core emotion is fatigue. Goal: Introduce a tiny act of kindness to the edge of vulnerability.
+
+Therapist Answer:
+Notice the edge of vulnerability right now – the physical sensation of it in your body – can you say to it, "I see that I'm trying to protect myself from feeling vulnerable"?
+
+Patient: Okay... I'll try it: "I see that I'm trying to protect myself from feeling vulnerable." When I say that the edge of vulnerability actually sharpens—my chest tightens, my hands jitter, and my head starts skittering to worst-case stuff. How is saying that supposed to stop me from hiding or help me actually deal with the bills? I'm getting anxious and scattered—I'm starting to feel overwhelmed; can we slow down a bit?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+You've acknowledged the edge of vulnerability, but it's escalating. Core emotion is desperation. Goal: Introduce a tiny act of acceptance – notice the physical sensations without judgment.
+
+Therapist Answer:
+Notice the physical sensations in your body right now – chest tight, hands jittering – without trying to change them. Can you simply say, "I'm feeling this tightness in my chest"?
+
+Patient: "I'm feeling this tightness in my chest." Saying it out loud makes my breath stay shallow, my hands jitter, my jaw clench, and that fraud-voice snaps louder like it's proud of me failing. Fine — I can name it, but how is that supposed to pay a bill or shut it up? I'm getting really anxious and scattered; can we slow down a bit and stick with one tiny thing?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+You've noticed the physical sensations and acknowledged the voice, but it's still loud. Core emotion is frustration. Goal: Focus on one tiny thing – your breath.
+
+Therapist Answer:
+Notice the sensation of your breath moving in and out of your body right now – is it shallow or steady?
+
+Patient: Mostly shallow and quick — like I'm taking little sips and it keeps catching. If I try to let it soften a bit the shame or that fraud-voice claws at me and it tightens back up, so the deeper breaths don't stick. How is noticing this supposed to help with the bills or shut that voice up? I'm getting really anxious and scattered — can we slow down and stick with one tiny thing?

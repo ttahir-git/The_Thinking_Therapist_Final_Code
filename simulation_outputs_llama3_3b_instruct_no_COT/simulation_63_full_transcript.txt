@@ -1,0 +1,261 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I'm an accountant in my late twenties and I've been pretty burned out since the whole empty-nest thing started. Lately social situations terrify me — I just know if I go to a friend's get-together I'll say something dumb, they'll laugh, I'll panic, leave, lose those friends, spiral into isolation, mess up at work, and end up completely alone and stuck. I know it sounds dramatic, but I can't stop seeing that chain of events playing out.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the prospect of social situations has become quite daunting for you. Can you tell me more about what's meant by "said something dumb" in these situations? What exactly does that feel like to you?
+
+Patient: When I say "say something dumb," I mean my brain goes blank, I stammer or blurt something weird, my voice cracks, and people laugh — not kindly, but like I'm a joke. From there I just watch it snowball: whispers, being excluded, someone maybe posts a clip, it spreads, my coworkers hear, clients doubt me, I mess up at work, and everything falls apart. I know that sounds over the top and people tell me it's unlikely, but it doesn't feel unlikely to me — it feels like exactly what's going to happen.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Your brain is creating a very vivid scenario that includes all sorts of negative outcomes. It's like you're living in a script, where the worst-case scenario unfolds in a very specific way. It's understandable that this feels really unsettling. Can you tell me more about what it's like to experience this sense of certainty about this outcome – does it feel like a nagging voice in your head, a physical sensation in your body, or something else entirely?
+
+Patient: It's like a loud, relentless narrator in my head that plays the worst possible ending on repeat — I see the whole disaster like a movie I can't pause. Physically I get this tightness in my chest, my stomach drops, my hands go cold, and that bodily panic makes the future-feeling seem like proof it will happen. When I try to picture something different it just feels fake and impossible, like I'm lying to myself.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like this inner narrator has become a kind of uninvited guest that you can't turn off. And when you try to imagine a different outcome, you feel like you're not being honest with yourself. That sense of inauthenticity can be really uncomfortable. Would you be willing to try something, just for a moment, to see if you can observe that inner narrator a bit more objectively – without trying to change it or judge it – and see what happens?
+
+Patient: Okay, I'll try, but I already know this won't change anything — the narrator will just play the scene where I stammer, everyone laughs, someone posts it, and my life unravels. Observing it feels like watching a horror movie I've seen a hundred times; I don't think I can be neutral about it, but I'll try.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like you've seen this movie so many times that it's become a kind of automatic script, and observing it now feels like watching a familiar horror movie. You're acknowledging that you can't change the outcome, and that's okay. What if, instead of trying to observe it neutrally, you just acknowledged it as a story – a story that's been playing in your head, and it's not necessarily a prediction of the future, but just a product of your imagination?
+
+Patient: I wish it were just a story, but it doesn't feel like that — it feels like a trailer for the worst thing that's definitely going to happen. Telling myself it's imagination just makes my chest tighten and the humiliating movie plays louder, like I'm denying evidence. I'm trying to do the exercise, but I really can't picture any other outcome — it just feels like lying to myself.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+The story feels more like a prediction, and it's hard to separate that from the way you feel in your body. It's like the prediction is tied to your physical sensations. Would you be willing to try something a bit more experimental, though? Instead of trying to picture an alternative outcome, what if you tried to notice what's happening in your body when you think about this worst-case scenario – the tightening chest, the visualization of the horror movie – and see if you can observe it, without trying to change it or react to it?
+
+Patient: Okay, when I try to notice my body the tightness in my chest gets sharper, my breath goes shallow, and my hands go cold like clockwork. As those sensations come up the narrator cranks the movie louder — I can hear the humiliating punchlines and it feels like the body is proving the story true. I get why you want me to just observe, but every time I try it just drags me back into the same panic and I can't help reacting.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the body is reinforcing the story, and the more you try to observe, the more it feels like a self-fulfilling prophecy. That can be a really tough spot to be in. Can you take a step back and ask yourself, what's the purpose of this story, or the outcome you're trying to avoid? What might be driving this need to prevent this scenario from happening?
+
+Patient: I think the story's trying to keep me safe—if I can predict the humiliation, I can avoid it by not showing up, and that feels like control. It's like my brain says, "If you skip the party you can't be embarrassed," but then that choice becomes proof I was right and I feel even more stuck and lonely. I know that sounds circular, but I can't help thinking if I break the chain once everything will collapse anyway.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the story has become a way to maintain a sense of control, even if it's an unhelpful one. And now, the more you try to avoid the party, the more stuck you feel, and the more you're convinced that you'll never be able to break the cycle. What would it be like, for just a moment, to test that assumption – to actually attend the party and see what happens, rather than assuming the worst?
+
+Patient: I can't see it as a test — if I go it'll play out exactly like the movie: I freeze, people laugh, someone records it, it spreads, my coworkers and clients see it, I lose credibility, then my job, then everything else follows. I know it sounds extreme, but that chain feels inevitable, and just picturing going makes my chest tighten so much I can't breathe. Honestly, I'm getting really overwhelmed thinking about this — can we slow down?
+
+
+--- Turn 8 ---
+
+--- [SYSTEM INJECTION at Turn 8]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the thought of attending the party is feeling almost unbearable, and it's triggering a physical response that's hard to manage. Let's take a pause and focus on just the breath for a moment. Can you bring your attention to the sensation of the breath moving in and out of your body, without trying to change it or react to it?
+
+Patient: I'm trying, but the moment I notice my breath my chest clamps down and my breathing gets tiny, and that narrator just cranks the movie louder. I can't hold my focus — my mind shoots straight to the worst-case chain and my hands go cold, so sitting with breath feels impossible right now. Can we slow down and maybe talk through what's happening instead? I don't think breathing alone will stop the avalanche.
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It feels like the physical sensations are getting the best of you, and even trying to focus on the breath is becoming overwhelming. Let's try something a bit different. Instead of focusing on your breath, I'd like to explore this feeling of "can't hold my focus" – what does that feel like, exactly? What's happening in your body or mind when you try to shift your attention?
+
+Patient: It feels like my attention is a rubber band that snaps the moment I try to steady it — the narrator hijacks everything and starts replaying the humiliating scene on loop. Physically my chest clamps, my breath shortens, my hands go cold, my vision narrows, and my thoughts just sprint to that whole disaster chain until I can't hold anything else in my head. I'm really starting to feel overwhelmed right now — can we slow down and talk through one small piece of this?
+
+
+--- Turn 10 ---
+
+--- [SYSTEM INJECTION at Turn 10]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like your attention is being hijacked by the narrator, and the physical sensations are becoming almost overwhelming. Let's break it down a bit further. Can you describe what happens right before the narrator starts replaying the humiliating scene – what's the very first thing that happens, like a trigger or a sensation, that sets off the chain reaction?
+
+Patient: Usually it's something tiny — a pause, someone glancing away, or a laugh that lands weird. The first thing is this sharp drop in my stomach and a flash of shame, and before I can even name it the narrator fills in the whole movie: I freeze, they laugh, someone records it, it spreads, I lose credibility, then everything falls apart. My heart's racing just saying that and my focus is scattering — can we slow down and stick with that first prick for a minute?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+Let's focus on that initial drop in your stomach and the flash of shame. What does that feel like, physically? Is it like a knot, a lump, or a spreading sensation? Can you name any other sensations that accompany that feeling, like any other bodily responses?
+
+Patient: It's like a hard knot digs into my stomach — a sinking, hollow drop and then my face heats up. My throat tightens, my breath gets tiny, my hands go cold, and my vision tunnels down to that moment. The second that prick hits the narrator starts yelling the whole humiliating movie and I lose everything else—I'm getting really scattered just talking about it, can we slow down and stay with that first prick a bit?
+
+
+--- Turn 12 ---
+
+--- [SYSTEM INJECTION at Turn 12]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the physical sensations are becoming quite intense, and the narrator is quickly hijacking the experience. Let's try to stay with the initial prick, the knot in your stomach, for just a moment longer. What happens if, instead of trying to process the whole story, you simply acknowledge the knot – just notice it, without judgment or trying to change it? Can you give it a try?
+
+Patient: I try, but the moment I focus the knot it digs in deeper and the narrator just cranks the humiliating movie louder — my breath freezes, my vision tunnels, and I can't hold attention on just the knot. I'm really scattered and it's getting harder to do this exercise right now; can we slow down and maybe talk about that first prick — like what usually happens right after it — instead of trying to sit with the sensation?
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the knot is becoming a bit too intense to focus on, and the narrator is taking over. Let's take a step back and talk about what usually happens right after that initial prick – the flash of shame. What do you think is trying to happen or be true right after that knot digs in? Is it a sense of inadequacy, self-blame, or something else?
+
+Patient: Right after the knot, it's this certainty that I'm fundamentally inadequate — like everyone suddenly knows I'm a fraud. It shifts into immediate self-blame and shame: I replay what I said, invent how they'll mock me, and that narrator just fills in the rest like it's inevitable. I'm getting really scattered and anxious just saying it — can we slow down and stay with that first prick a little longer?
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the initial knot is giving way to a sense of fundamental inadequacy, and then the self-blame and shame start to follow. Let's take a deep breath and stay with that first prick, the knot in your stomach, for just a little while longer. What's the relationship like between that knot and the feeling of inadequacy that comes after – is it like they're one and the same, or is there something in between?
+
+Patient: They're basically the same thing — the knot is like the first frame of the proof that I'm a fraud, and the feeling of inadequacy slides right out of it, instant and whole. One tiny pause and my chest drops and the narrator immediately yells the rest: I freeze, they laugh, someone posts it, I lose everything — it feels immediate and inevitable. I'm getting jittery and scattered just saying this; can we slow down and stay with that first prick a little longer?
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the knot and the feeling of inadequacy are intimately connected – one gives way to the other. Let's stay with that first prick for a moment longer. What happens if, instead of trying to change or react to it, you simply acknowledge the knot as a physical sensation in your body – just notice it, without judgment or trying to make sense of it? Can you give it a try?
+
+Patient: I try, but the moment I focus on the knot it tightens and the narrator screams the whole scene at once — my breath clamps, my hands go icy, my vision tunnels, and I can't keep my attention on just the sensation. It's getting really overwhelming; can we slow down and maybe talk about what the narrator actually says in that first second, or focus on one tiny detail instead of the entire movie?
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you try to focus on the knot, the narrator becomes too loud and overwhelming. Let's try to zoom in on one tiny detail, rather than the whole scene. What is it about what the narrator says that happens in that very first second after the knot tightens – is it a particular word, tone, or phrase that triggers the whole reaction?
+
+Patient: It's usually a tiny, mocking sound or a snappy line—like someone saying, "Seriously?" in this deadpan, laughing-under-their-breath tone. That tone is the trigger: the narrator turns it into phones-out, clip-shared, everyone laughing, my boss sees it, I lose credibility and then my job — like instant proof it will happen. I'm getting really jittery just saying that; my hands are cold and my focus is all over—can we slow down and stick with that one mocking phrase a bit longer?
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the mocking tone is a very specific trigger for the whole reaction. Let's focus on that phrase "Seriously?" and the tone of the narrator's voice – can you describe the tone in more detail, like what emotions it evokes in you, or what physical sensations it triggers in your body?
+
+Patient: That "Seriously?" is thin and flat, like a door being shut on me — dismissive and cold. It makes my chest clamp, my face flush, my hands go icy, and my brain immediately yells that it's already happening: phones out, clip shared, everyone laughing. The narrator treats that tone like proof the whole disaster is inevitable. I'm getting really jittery saying this — can we slow down and stay with that one mocking phrase a bit longer?
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the mocking tone is a very precise and powerful trigger for the whole reaction. Let's stay with that phrase "Seriously?" and the dismissive tone for a moment longer. Can you notice what's happening to your body when you think of that tone – are there any physical sensations, like a knot in your stomach, a lump in your throat, or a feeling of heaviness in your chest?
+
+Patient: My stomach knots hard, like something's punched me, and a lump climbs into my throat so I can't swallow. My chest feels heavy and my breath goes tiny, my hands go cold, and my vision tunnels — and as that happens the narrator immediately yells "phones out, clip shared, boss sees it, job gone," so I can't focus on just the feeling. I'm really jittery and distracted right now; can we slow down and just stay with the throat tightness for a moment?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the physical sensations in your body are becoming quite intense, and the narrator is quickly taking over again. Let's try to focus just on the lump in your throat, the sensation of not being able to swallow. Can you describe it in more detail – is it a dryness, a tightness, or a feeling of constriction?
+
+Patient: It's a dry, rubbery lump stuck behind my throat — swallowing feels almost impossible and my voice gets thin and shaky. The moment I pay attention the tightness spikes, my breath shortens, and the narrator blasts the movie louder — "phones out, clip shared, boss sees it" — so I can't hold anything else in my head. I'm really jittery and scattered right now; can we slow down and just stay with this throat tightness for a minute?
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the moment you focus on the lump in your throat, it becomes even more intense. Let's try to stay with it for just a minute. Would you be willing to simply acknowledge the lump, without trying to swallow or speak, and just notice it as it is – a physical sensation in your body?
+
+Patient: Okay, I'll try, but the moment I focus on that lump it clamps down like a vise and my voice goes paper-thin. The narrator instantly yells "phones out, clip shared, boss sees it" and I can't hold my attention on the sensation — I'm really overwhelmed right now, can we slow down and just talk through this instead?
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the lump in your throat is becoming even more unbearable, and the narrator is taking over again. Let's take a step back and talk about this. What do you think is happening when the narrator says "phones out, clip shared, boss sees it"? What do you think is the underlying fear or anxiety that's driving this reaction?
+
+Patient: Because the narrator treats that mocking line like hard evidence, it turns a tiny embarrassment into absolute proof I'm a fraud — phones out means public humiliation, that means clients and coworkers lose trust, that means I lose my job, my finances collapse, people drift away, and I'm alone. I think what's driving it is this core fear of being exposed and losing control over my life and identity, and once that fear kicks in every other possibility just feels like denial. I know it's dramatic, but I can't picture any other outcome, and I'm already getting really jittery saying this — can we slow down?
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like the fear of being exposed and losing control is a very deep-seated one, and it's driving your reaction to the mocking line. Let's take a deep breath and slow down. Can you think of a time when you felt safe, when you felt like you had control over your life and identity? What does that feel like, and what were you doing in that moment?
+
+Patient: There was one time after a quarter-end presentation when everything landed—clients thanked me, my team smiled, and I felt actually competent and in control, like my life wasn't on the edge. In that moment my chest was relaxed, my breath steady, my voice felt clear—but the narrator cuts in right away, like, "That's just the calm before it all blows up," and I instantly see the clip going viral and my world collapsing. I'm already getting jittery and my hands are cold just saying that—can we slow down and stay on that safe moment a bit longer?
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you had a moment of feeling competent and in control, and that's been a rare and precious experience for you. Let's stay with that feeling for a moment. Can you notice what's different about your body when you think about that feeling of calm and competence – is it a sense of expansion, relaxation, or a feeling of being grounded?
+
+Patient: When I think about that moment my chest opens, my shoulders drop, my breath is steady, and I feel grounded and competent. But the narrator immediately screams "calm before it all blows up" and I see the clip, phones out, boss sees it, job gone, so the calm feels like a setup for disaster. I'm getting really jittery and my hands are cold just saying this—can we slow down and stay with that safe feeling a little longer?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It's like the calm feeling is being immediately hijacked by the narrator's prediction of disaster. Let's try to hold onto that calm feeling for just a little bit longer. What do you think is needed to keep that feeling of competence and calm from being disrupted by the narrator's prediction? Is it a sense of self-compassion, a reminder of your strengths, or something else?
+
+Patient: I think I'd need something concrete and impossible-feeling — like someone standing next to me the whole time quietly telling me I'm okay and making sure no one records anything, or a guarantee that nothing will be shared. Self-compassion or reminding myself of strengths just feels like slapping a Band-Aid on a sinking ship; the narrator calls it denial and the panic ramps up anyway. Maybe small practical steps — a friend sitting near me, a short exit plan, rehearsed lines — could help, but honestly I can't see them stopping the movie from playing. I'm really jittery and my hands are cold saying this; can we slow down and pick one tiny, doable thing to focus on?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Thinking part is not generated with this prompt]
+
+Therapist Answer:
+It sounds like you need something more concrete and tangible to help you stay grounded in the calm feeling. Let's focus on one tiny, doable thing that might help. Can you think of one small, tiny thing that you could do in the present moment, right now, that might help you feel a tiny bit more calm and confident – something that's not dependent on the narrator's prediction or some external guarantee?
+
+Patient: Okay — maybe one tiny thing I could do right now is put my phone on Do Not Disturb and tuck it away so I can't obsess over clips, and rehearse one short exit line like, "I need some air," to use if I start to spiral. It already feels useless because the narrator's screaming "phones out" in my head, but it's small and actually doable. My hands are shaking just saying that — can we stick with that and talk through the next tiny step?

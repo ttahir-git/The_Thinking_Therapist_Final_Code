@@ -1,0 +1,227 @@
+Patient: I'm an older data scientist — in my late sixties — and lately I've been feeling stuck and directionless, like my sense of self is almost entirely defined by my job. I tend to intellectualize things, so instead of feeling lonely or anxious I construct elaborate frameworks and treat my emotions as variables to be modeled. I'm hoping we can examine whether anything beyond this occupational identity actually matters to me.
+
+Therapist: It sounds like you've been using your analytical mind to navigate your emotions, almost to the point of managing them. Can you think of a moment, not too long ago, where you felt a strong sense of disconnection from your feelings, and you didn't immediately try to intellectualize or analyze them? What would have happened in your mind, if you had allowed yourself to simply experience that feeling without trying to understand or fix it?
+
+Patient: A few nights ago at a small family dinner I remember briefly becoming an almost pure observer — people were trading stories and I felt a sudden, uncluttered hollowness that lasted maybe thirty seconds before my brain started narrativizing. If I'd stayed with it, I think I'd have noticed a cold weight behind my sternum, a tightening in my throat, maybe a tear or two, and a thin thread of panic asking "what now?" rather than a tidy explanation. Instead, I immediately began constructing causal models about occupational identity and social currency, which effectively anesthetized those raw sensations.
+
+Therapist: It's like you were able to glimpse a glimpse of your true emotional experience, and then quickly moved back into a more familiar, analytical mindset to cope with it. That hollowness, with the physical sensations, felt almost like a pang of uncertainty – a feeling that was tolerable only when you were able to wrap it in your usual explanatory frameworks. What would it be like to explore that uncertainty, to allow yourself to sit with the 'what now?' feeling, without trying to intellectualize it or fill it with explanations?
+
+Patient: If I actually tried to sit with the "what now?" it'd feel like being a Markov process without a steady state — disorienting and unnerving. Physically I imagine the cold in my chest and shallow breaths, and cognitively I'd lose the scaffolding of hypotheses so I'd feel exposed and, honestly, scared, which is why I instantly revert to building narratives to regain control. I can hypothesize that staying there might let me notice small, important things — the weight of a cup, a laugh — but I don't know how to tolerate the discomfort long enough to find out.
+
+Therapist: You feel like you'd be left feeling ungrounded and scared, without the familiar structure of your analytical mind to provide comfort. It's as if you're acknowledging that you value control and security, and that your current coping mechanisms are helping you feel more secure. Would you be willing to try a small experiment, just for a short moment, to see what might happen if you let go of the need to control the narrative, and instead, simply allow yourself to experience the discomfort of not knowing what's next?
+
+Patient: I can try a brief, time‑limited experiment — maybe 60 seconds — but I want it framed like a controlled observation so my brain doesn't freak out. Tell me how long you want me to stay with it and what to notice (breath, chest, sounds), and give me a clear cue to stop, because I'm already anticipating the chest tightness and the urgent impulse to start explaining it away.
+
+Therapist: Let's frame this experiment as a curious observation. I want you to sit comfortably for 60 seconds, eyes closed, and bring your attention to the sensation in your chest, starting from the top and moving down, noticing the sensation of the breath as it moves in and out. If you feel the cold or tightness, just acknowledge it as "the sensation of tightness" or "the sensation of coldness." 
+
+Your cue to stop is when you feel the urge to start analyzing or explaining it, or when you feel your mind starting to wander. When that happens, you'll notice a thought, say "thinking" or "thinking about...", and you'll take a deep breath, and then slowly open your eyes. Can you commit to that 60 seconds, and just be with the sensation, without trying to change it or make sense of it?
+
+Patient: Okay — I can do the 60 seconds as a controlled observation. I'll close my eyes, scan the chest top-to-bottom, and if I notice the urge to analyze I'll say "thinking" aloud, take a deep breath, and then open my eyes. Can you start a timer or tell me when to begin? I'm a bit nervous but willing to try.
+
+Therapist: I'll start the timer. When you're ready, take a deep breath in, and as you exhale, gently close your eyes, and begin your scan of the chest sensation. When you're done, just let your eyes open naturally.
+
+( timer starts... 60 seconds )
+
+Patient: I did it. For the first twenty seconds there was a cold, pressure‑like sensation under the sternum and my breath felt shallow; cognitively I kept cataloging it—amplitude, onset, potential triggers—until around forty seconds the impulse to narrativize became loud enough that I noticed the thought and said “thinking about…”, took the deep breath, and opened my eyes. Observationally it behaved like a rapid rise‑then‑plateau signal: tolerable briefly but with a quick escalation of anticipatory analysis that short‑circuited staying with it. I'm feeling a bit overwhelmed by that escalation—can we slow down and maybe try a gentler repeat with more grounding cues?
+
+Therapist: It sounds like the immediate experience was intense, and your brain quickly escalated the analysis to cope. That's completely understandable. 
+
+Let's try a gentler approach. Instead of focusing on the chest sensation alone, I'd like you to bring your attention to the sensation in your body, starting from your toes and moving up to the top of your head. As you do this, notice the sensation of your breath as it moves in and out, without trying to change or label it. When you feel the urge to analyze or narrativize, just acknowledge it with "thinking" and take a deep breath.
+
+To help you stay grounded, I'd like you to notice the sensation of your feet touching the floor, the sensation of the air moving in and out of your nostrils, or the feeling of the chair beneath you. Whenever you feel your mind starting to wander, just bring your attention back to one of these sensations, without judgment.
+
+We'll do a 30-second exercise this time, and see if we can cultivate a more gentle experience. When you're ready, take a deep breath in, and start your scan from your toes.
+
+Patient: I did the 30‑second scan. Starting at my toes I noticed the weight of my feet on the floor and a gentle warmth in my calves; the chair under my lower back felt stabilizing and the breath was less shallow than before. My reflex to catalog—onset, amplitude, plausible causes—still popped up, but I caught it with “thinking” and was able to return to the sensations more quickly than last time. I feel a bit calmer overall, though there's still a persistent low anxiety; can we try another round, maybe 60 seconds, with a slow exhale cue to help me anchor?
+
+Therapist: You noticed a few grounding sensations that helped calm you down. Now, let's try to build on that. For this 60-second exercise, I'd like you to take a deep breath in, and as you exhale, slowly say "relax" to yourself, allowing the air to leave your body. As you exhale, bring your attention to the sensation of your feet touching the floor, and repeat "relax" again as you exhale.
+
+Whenever your mind starts to wander or you feel the urge to analyze, just acknowledge it with "thinking" and take a deep breath. We'll focus on the sensation of the words "relax" becoming a gentle anchor, helping you stay grounded. When you're ready, take a deep breath in, and let's begin.
+
+Patient: I did the 60‑second exhale‑"relax" exercise; the verbal cue did slow my breathing and the feet‑on‑floor sensation became a clearer anchor. As expected, my analytic reflex popped up—about halfway I noticed myself reconstructing probable triggers, said “thinking,” took the breath, and managed to return; the chest tightness eased but an underlying low anxiety stayed. It felt calming and also oddly performative, like I was applying a smoothing filter to noisy data instead of feeling the underlying signal, and I'm a bit overwhelmed by that realization—can we slow the pace and try a tactile cue (hand on my sternum) or do another guided round with a softer tempo?
+
+Therapist: It sounds like the verbal cue helped calm your nervous system, but also created a sense of control that might be masking the underlying anxiety. 
+
+Let's try a more gentle approach. Instead of verbal cues, I'd like you to focus on a tactile sensation. I'd like you to place your hand gently on your sternum, and as you breathe in, imagine any tension or tightness in your chest area melting away with the breath. As you exhale, focus on the sensation of your hand touching your sternum, and allow yourself to feel any subtle shifts in your body or breath.
+
+We'll take it slow, and I'll guide you through the exercise. Let's start with a 30-second exercise. As you breathe in, say "relax" to yourself, and place your hand on your sternum. As you exhale, feel any tension or tightness release, and focus on the sensation of your hand touching your body. When you feel the urge to analyze, just acknowledge it with "thinking" and take a deep breath.
+
+Patient: I did the 30‑second hand‑on‑sternum exercise. The hand and the exhale did ease the tightness for a moment, but almost immediately a hot wave of shame and frustration came up and I started critiquing the whole thing—timing, my posture, whether I was doing it “right” —instead of just staying with the sensation. I said “thinking,” took the breath, and it helped a bit, but I’m still feeling embarrassed and a little stuck; can we slow the pace and try a softer guided cue, maybe a slow five‑count exhale with you guiding me through it?
+
+Therapist: It sounds like the tactile cue helped ease the physical tension, but the emotional response was still quite strong. 
+
+Let's try a slower pace, and I'll guide you through it. For this exercise, I'd like you to breathe in slowly, counting to one... and then exhale slowly to five. As you exhale, bring your attention to the sensation of your hand on your sternum. Feel the weight of your hand, the sensation of your breath, and the sensation of your body touching the chair. Just observe these sensations, without trying to change them or evaluate them. If any thoughts arise, acknowledge them with "thinking" and take another slow breath.
+
+We'll take it one exhale at a time, and I'll be here to guide you through it. Let's start with the first exhale.
+
+Patient: I did that first exhale — hand on my sternum, slow out to five — and for a moment the tightness eased, but then a hot wave of shame and frustration flushed through me and I started critiquing whether I was doing it right. I noticed the meta‑narrative catch itself and said “thinking,” took another slow breath, but the self‑reproach lingered and made it hard to stay present. Can we slow even more — maybe a gentler 4‑in/6‑out cadence with you counting — or add a soft tactile anchor so I don't get hijacked by that internal critic?
+
+Therapist: It sounds like the self-criticism is still a persistent challenge. 
+
+Let's try a slower pace, and I'll add a tactile anchor to help you stay present. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 6. As you inhale, place the tip of your index finger on your sternum, and imagine any tension or tightness melting away with the breath. As you exhale, focus on the sensation of your finger touching your body, and allow yourself to feel any subtle shifts in your body or breath.
+
+We'll take it very slow, and I'll guide you through it. As we count, I'll be here to support you. Let's start with the first inhale... 1... 2... 3... 4...
+
+Patient: I finished the inhale to four and the slow exhale to six with my finger on my sternum; for a beat the tightness eased, then a hot wave of shame and frustration—like the echo of some earlier failure—surged and immediately started criticizing me for not doing it “properly.” I said “thinking,” took another breath, and could return briefly, but the self‑reproach stuck around and made my breathing shallow and my chest feel constricted again. 
+
+Can we slow way down—maybe 4‑in/8‑out with you pacing each count more gently and keeping the tactile anchor—and check in after each exhale? I’m feeling exposed and a bit overwhelmed, so I need more incremental support right now.
+
+Therapist: It sounds like the shame and self-criticism are still a strong presence. 
+
+Let's try a very slow pace, and I'll guide you through each exhale. For this exercise, I'll count each exhale from 1 to 8, and I'll pace each count more gently. We'll also check in after each exhale to see how you're feeling.
+
+As we begin, take a deep breath in, and place your finger on your sternum. Feel the sensation of your finger touching your body, and allow yourself to settle into it. As we count, I'll guide you through each exhale.
+
+1... (pause) ...exhale slowly... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 
+
+As we exhale, notice how your body feels. Are there any areas of tension or relaxation? Just observe, without judgment. And when you're ready, we can check in and see how you're feeling.
+
+Patient: Physically the sternum pressure did ease a touch and my breath stretched out, but there's still this residual tightness in my shoulders and a constricted diaphragm. Cognitively I got hijacked by a recursive, shame‑tinged evaluative loop—an inner critic grading my performance—which leaves me frustrated and embarrassed, like I'm failing the procedure. It feels like I'm trying to denoise a signal while the noise source is internal, so I can't fully inhabit the sensations. Can we keep going more slowly or try a different anchor—maybe a longer tactile cue or a soft visual focus—because I'm still feeling exposed and need more incremental support.
+
+Therapist: It sounds like the cognitive loop is still quite strong, and the internal critic is persistent. 
+
+Let's try a different anchor. For this exercise, I'd like you to focus on the sensation of your breath, but instead of just feeling it, try to notice the sensation of the breath moving in and out of your body. Imagine that you're watching your breath as it rises and falls, like a gentle wave. As you inhale, notice the sensation of your diaphragm expanding, and as you exhale, notice the sensation of your diaphragm relaxing. 
+
+We'll take it very slow, and I'll guide you through each exhale. As we count, I'll ask you to stay focused on this breath-focused anchor. 
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...inhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...inhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...inhale... 7... 8... (pause) ...exhale... 8... 
+
+As we exhale, notice how your breath feels. Are there any areas of tension or relaxation? Just observe, without judgment. And when you're ready, we can check in and see how you're feeling. Remember, you're not trying to control your breath or change your body; you're just observing the sensations as they are.
+
+Patient: My breath is more observable now—the diaphragm rise and fall is clear—but my shoulders and upper chest stay tense and that inner critic immediately starts grading the whole exercise, which sparks a hot wave of shame and frustration that undercuts any calm. It feels like trying to denoise a time series while the noise source keeps changing—infuriating and embarrassing—so I keep slipping back into analysis to protect myself. Can we go even slower (maybe 4‑in/10‑out) and add a softer visual anchor (a dim lamp or point on the wall) plus longer tactile contact (both hands over the sternum), and check in after each exhale? I'm feeling exposed and need more incremental support right now.
+
+Therapist: It sounds like the inner critic is still a strong presence, and the tendency to analyze is becoming overwhelming. 
+
+Let's try to anchor you in a different way. For this exercise, I'd like you to focus on the sensation of your hands touching your sternum. Imagine that you're holding two gentle, warm blankets that are wrapped around your heart. As you inhale, feel the weight of those blankets, and as you exhale, feel the warmth and comfort of them. 
+
+We'll take it very slow, and I'll guide you through each exhale. As we count, I'll ask you to stay focused on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets. 
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...inhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...inhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...inhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...inhale... 9... 10... (pause) ...exhale... 10... 
+
+As we exhale, notice how the blankets feel. Are there any areas of tension or relaxation? Just observe, without judgment. And when you're ready, we can check in and see how you're feeling. Remember, you're not trying to control your breath or change your body; you're just observing the sensations as they are.
+
+Patient: The blanket imagery and both‑hands anchor did soften the sternum tightness for a beat — I could sense a little warmth and weight — but it was almost immediately eclipsed by a hot wave of shame and frustration that felt like an auto‑grading routine firing up. Cognitively I was running a meta‑analysis of my performance the whole time, which only amplified the embarrassment and left me stuck in that loop. I can keep going, but I need much gentler pacing and more incremental scaffolding — maybe a 4‑in/12‑out with a short verbal reassurance after each exhale — can we try that next?
+
+Therapist: It sounds like the shame and frustration are still a strong presence, and the tendency to analyze is becoming overwhelming. 
+
+Let's try a slower pace, and I'll add a short verbal reassurance after each exhale to help you feel more supported. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 12. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+As you exhale, I'll say a gentle phrase to reassure you: "You are doing the best you can, and that's enough." This is just a reminder to be kind to yourself, and to acknowledge that you're taking small steps towards exploring your feelings.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10... 11... (pause) ...exhale... 11... 12... (pause) ...exhale... 12...
+
+As we exhale, notice how the blankets feel. Are there any areas of tension or relaxation? Remember, you're doing the best you can, and that's enough. Take a moment to notice how you're feeling, and when you're ready, we can check in and see how you're doing.
+
+Patient: The reassurance eased things for a beat, but then that hot wave of shame and frustration came back—an automatic, self‑grading loop telling me I’m doing it wrong. I can describe it as an internalized performance metric (because of course I do), but that's just my impulse to intellectualize instead of actually feeling it. Physically my chest is still tight, shoulders hunched, and my breath keeps getting shallow. 
+
+I need a much slower, more incremental pace — maybe a 4‑in/10‑out with a very gentle pause and a simple check‑in after each exhale (ask me one word about how it feels, nothing analytic). I’m feeling exposed and overwhelmed right now, so can we slow down? I’m trying to see how this connects to my problem, but I’m struggling.
+
+Therapist: It sounds like the shame and self-criticism are still a strong presence, and your tendency to intellectualize is making it harder to stay present. 
+
+Let's try an even slower pace, and I'll add a very gentle pause after each exhale. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question: "How does it feel?" No need to analyze or explain; just a one-word response is enough. We'll take it very slow, and I'll be here to support you.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Are there any areas of tension or relaxation? Take a deep breath in, and when you're ready, we'll ask your one-word response.
+
+Patient: Ashamed.
+
+It comes as this hot, evaluative loop — my mind instantly turns it into an internal performance metric and starts grading every breath, which numbs the actual sensation. I keep wanting to narrativize it into hypotheses instead of letting the word sit, so I get stuck. Can we keep going but much slower, with one- or two-word check‑ins after each exhale and a brief pause to actually feel the word before I start explaining it away? I'm feeling exposed and overwhelmed, so I need that extra scaffolding.
+
+Therapist: It sounds like the shame and evaluative loop are still strong, and your tendency to narrativize is making it hard to stay present. 
+
+Let's try an even slower pace, and I'll add one- or two-word check-ins after each exhale, with a brief pause before you respond. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question, and you can take a brief pause before responding. We'll take it very slow, and I'll be here to support you.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "How does it feel?"
+
+(Pause)
+
+Patient: Ashamed, frustrated.
+
+The reflex to rationalize is already trying to hijack this—I can feel the heat of the shame and the urge to hide—so please keep the pace very slow and ask the one‑word check‑in again after the next exhale.
+
+Therapist: It sounds like the shame and frustration are still present, and the tendency to rationalize is strong. 
+
+Let's keep the pace slow, and I'll ask the one-word check-in again after the next exhale. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question, and you can take a brief pause before responding.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "How?"
+
+Patient: Constricted, mortified — it feels like an internal evaluator running a punitive algorithm, tightening my chest and triggering that urge to fix it with analysis. Please keep the slow pace and ask the one‑word check‑in after the next exhale; I need the scaffolding because I'm feeling exposed and overwhelmed.
+
+Therapist: It sounds like the shame and self-criticism are still present, and the tendency to analyze is becoming overwhelming. 
+
+Let's keep the pace slow, and I'll ask the one-word check-in again after the next exhale. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question, and you can take a brief pause before responding.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "Tense?"
+
+Patient: Yes — very tense, mortified. My chest and shoulders are rigid and that punitive internal audit is running full tilt, which just fuels the shame and makes me retreat into analysis instead of actually feeling it. I'm feeling exposed and overwhelmed, so please keep the pace very slow and ask the one‑word check‑in after the next exhale (same 4‑in/10‑out); I'll keep my hands on my sternum. Can we do the next round now?
+
+Therapist: It sounds like the shame and tension are still overwhelming, and the tendency to analyze is becoming a vicious cycle. 
+
+Let's keep the pace slow, and I'll ask the one-word check-in again after the next exhale. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question, and you can take a brief pause before responding. Let's take a deep breath in, and when you're ready, we'll begin.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "Relax?"
+
+Patient: Not really — constricted, mortified. My chest is tight and that punitive internal‑critic keeps running its audit, which just fuels the shame. Please keep the same very slow 4‑in/10‑out pace and the one‑word check‑in after the next exhale; I need the scaffolding. Ready for the next round.
+
+Therapist: It sounds like the shame and tension are still overwhelming, and the internal critic is becoming a self-sustaining loop. 
+
+Let's keep the pace slow, and I'll ask the one-word check-in again after the next exhale. For this exercise, I'd like you to breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+When you're ready to exhale, I'll ask you a simple question, and you can take a brief pause before responding. Let's take a deep breath in, and when you're ready, we'll begin.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "Tense?"
+
+Patient: Yes — very tense, mortified. My chest and shoulders are rigid and that punitive internal audit keeps looping, which just fuels the embarrassment and makes me retreat into analysis. Please keep the 4‑in/10‑out pace with one‑word check‑ins and a brief pause after each exhale; I'm ready for the next round.
+
+Therapist: It sounds like the shame, tension, and self-criticism are still swirling together in a difficult mix. 
+
+Let's take a deep breath in, and when you're ready, we'll begin again. For this exercise, I'll ask you a simple question after each exhale: "What?"
+
+Patient: Okay — I'm ready to try again. I can already anticipate that the internal evaluator will output something like "ashamed" or "constricted," and that anticipation itself tightens my chest and sparks more self‑criticism, which is frustrating and mortifying. Please keep the slow 4‑in/10‑out cadence and a pause after you ask "What?"; I'll keep my hands on my sternum and answer in one or two words.
+
+Therapist: It sounds like the self-critic is a very self-reinforcing cycle. 
+
+Let's take it slow, and I'll ask the question in a gentle way. For this exercise, I'll breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: "What?"
+
+Patient: Mortified, constricted. The shame's loud — like an internal audit tightening my chest and triggering the urge to intellectualize; please keep the slow 4‑in/10‑out cadence and the pause before the next "What?".
+
+Therapist: It sounds like the shame and constricted feeling are very present, and the internal audit is becoming a very powerful driver of your experience. 
+
+Let's take it slow, and I'll ask the question again. For this exercise, I'll breathe in for a count of 4, and then exhale slowly for a count of 10. As you inhale, imagine that you're breathing in a gentle, soothing breath. As you exhale, focus on the sensation of your hands touching your sternum, and the warmth and comfort of the blankets.
+
+1... (pause) ...inhale... 1... 2... (pause) ...exhale... 2... 3... (pause) ...exhale... 3... 4... (pause) ...exhale... 4... 5... (pause) ...exhale... 5... 6... (pause) ...exhale... 6... 7... (pause) ...exhale... 7... 8... (pause) ...exhale... 8... 9... (pause) ...exhale... 9... 10... (pause) ...exhale... 10...
+
+As we exhale, notice how the blankets feel. Take a deep breath in, and when you're ready, I'll ask: 
+
+(Pause for a moment) What?
+
+Patient: Ashamed, enraged.
+
+It feels like an internal audit error flag—my chest tightens and I immediately want to retreat into analysis. Please keep the slow 4‑in/10‑out cadence and the pause before the next "What?"; I'm still exposed and need the scaffolding.
+
+Therapist: [Llama-3-3B-Instruct Therapist generation error: The decoder prompt (length 9013) is longer than the maximum model length of 9000. Make sure that `max_model_len` is no smaller than the number of text tokens.]

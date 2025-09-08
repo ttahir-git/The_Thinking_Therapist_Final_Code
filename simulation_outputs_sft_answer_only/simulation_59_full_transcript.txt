@@ -1,0 +1,333 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: Um, I guess I should say I've been avoiding get-togethers and stuff because social situations make me really anxious — my chest tightens and I start planning how to leave. I mostly keep to myself and try to handle it alone since talking about it feels... I don't know.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like social interactions are triggering some pretty intense anxiety for you. Can you tell me more about what happens when you start planning how to leave? Is it like your mind is racing with all these thoughts, or is there something more specific that's happening, like a physical sensation or a voice in your head?
+
+Patient: I don't know, it's mostly physical at first — my heart pounds, my chest gets tight, and I start scanning for exits and thinking up excuses to leave. There's this loop in my head telling me I don't belong, but I guess I try not to pay attention to it. Usually I just slip away without saying much because talking about it makes me... uncomfortable.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like your body is responding quite strongly to social situations, and you're trying to cope with that discomfort by finding ways to escape. Can you tell me more about what's happening when you try to leave? Is there a part of you that's relieved to be getting out of there, or is there a sense of guilt or shame that comes up afterwards?
+
+Patient: I guess there's this weird relief when I leave — the tightness eases and I can finally breathe. But afterward I feel guilty, like I should've stayed or I'm letting people down, and sometimes ashamed that I couldn't handle it. I don't know, talking about it feels exposing, so I usually try to shrug it off.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're carrying around this sense of relief and guilt, even though you're trying to brush it off. Can you think of a time when you did stay in a social situation and it went okay? Maybe you felt a sense of accomplishment or pride afterwards. What was it about that experience that might help you feel more confident about handling social situations in the future?
+
+Patient: I don't know, but there was this one gallery opening a while back where I stayed the whole time. I guess what helped was that it was small, I could stand by my paintings and people came to me instead of me having to circulate, and my old friend Mark was there so I had someone steady to hang near. Even then I felt shaky, but afterwards I was quietly proud I hadn't bolted.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's interesting that it was a small, more controlled environment that helped you feel more comfortable. And having your friend Mark there must have made a big difference. It's almost like having a safe space, where you can be yourself and not have to worry about being judged or overwhelmed.
+
+Can you tell me more about what it was like to have your paintings at the gallery? Was there something specific about them that helped you feel more connected to the situation, or was it more about being able to show them off to people?
+
+Patient: I guess the paintings felt like... I don't know, like armor or something. People came to look at them, so I didn't have to force small talk — it gave me something to stand behind. Having Mark there helped, too, like I wasn't totally exposed. Sorry, I don't really like going deeper into this part.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's completely understandable to not want to go deeper into a sensitive topic. It's actually a sign of strength that you're willing to share this much. The idea of your paintings feeling like armor is a powerful one. It's like having a physical presence that allows you to feel more grounded and confident, even in a situation that's otherwise overwhelming.
+
+Let's focus on that for a moment. What do you think it is about having your paintings there that makes you feel like you can handle the situation better? Is it the sense of control, the distraction from your anxiety, or something else entirely?
+
+Patient: I guess it's both — a bit of control and a distraction. The paintings give me something to stand behind so I'm not the center of attention, and people coming to the work makes conversations feel less forced. I don't know, I don't really like digging into this too much, it feels... awkward.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're navigating a delicate balance, and it's not something you're comfortable exploring too deeply. I'm here to support you, and we can move at your pace. Let's take a step back and focus on something more concrete. Can you tell me more about what it's like to have your paintings displayed in a gallery setting? What does the space look like, and how do you feel when you're standing there, surrounded by people looking at your work?
+
+Patient: It's usually a clean, quiet room with white walls and people murmuring as they move around — they come to the work so I don't have to force conversation. Standing by the paintings makes me feel anchored, less exposed, like I can hide behind them, though I'm still on edge. I don't really want to dig into this much more, it feels awkward.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you find a sense of stability in the space, even though you're still feeling on edge. The paintings become a kind of buffer between you and the rest of the people in the room. Can I ask, when you're standing there, what do you think people are thinking or feeling when they look at your paintings? Are you worried about what they're thinking, or is it more of a sense of detachment?
+
+Patient: I guess part of me thinks they're judging—wondering if it's good enough or if I'm… pretentious. Other times I feel detached, like they're distant and I'm just background noise. I don't know, thinking about it makes me uneasy, so maybe we don't have to pry too hard into it.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're caught between two states, one where you're worried about being judged, and another where you feel disconnected from the people around you. It's understandable that it makes you uneasy, and it's okay to take a break from exploring it further. Sometimes, just acknowledging the complexity of our feelings is enough. Let's take a moment to notice how you're feeling right now, and then we can move on to a different topic if you'd like.
+
+Patient: Right now I feel tight and jittery—my chest's doing that thing and my thoughts are shrinking away. I guess I'm relieved you offered to switch topics; talking about it makes me feel exposed. Maybe we could talk about something more practical, like how to handle an invite or my next show without panicking?
+
+
+--- Turn 9 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling quite overwhelmed right now, and that's completely understandable. It's great that you're recognizing your physical and mental sensations, and it's even better that you're willing to shift focus to something more practical.
+
+Let's take a step back and look at handling invites and shows from a more concrete perspective. What do you think is the most challenging part of handling these situations for you? Is it the initial invite, the actual show itself, or something else entirely?
+
+Patient: I guess the hardest part is the actual event — once I'm there it feels claustrophobic and like there's nowhere to go, even though I'm scanning for exits. The invite starts the overthinking for days, but being in the room is worse: my chest tightens, I feel judged, and I'm afraid I'll freeze or say something stupid. I don't know, I also worry about letting people down if I bail, so I end up planning escape routes and how long I'll stay.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the actual event is what triggers all the anxiety and self-doubt for you. The invite can start the mental preparation, but it's the in-person experience that really sets off the panic. It's like your mind is constantly on high alert, even when you're physically in the room.
+
+It's interesting that you mention feeling judged, even though it's not necessarily a conscious thought. Sometimes our anxiety can make us more sensitive to perceived criticism, even if it's not there. And the fear of freezing or saying something stupid can be really debilitating.
+
+Let's try to break it down a bit more. When you're in the room, what are some of the specific things that trigger your anxiety? Is it the noise level, the number of people, or something else entirely?
+
+Patient: I don't know — it's a mix. Big crowds and loud chatter make me feel boxed in, and when people stand too close or there's a lot of forced small talk my chest tightens and I want out. Sudden noises or fast movements startle me and sometimes pull up old memories, so I keep scanning exits and rehearsing excuses. I guess I don't really like going deeper into this right now.
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like the sensory stimuli in the room are triggering a lot of anxiety for you. The crowds, noise, and close proximity to others are all contributing to your feelings of claustrophobia and discomfort. And the sudden noises or fast movements are bringing up past experiences, which is making you even more anxious.
+
+It's completely understandable that you're not ready to go deeper into this right now. We can take a step back and look at some strategies for managing your anxiety in these situations. Have you ever considered taking some deep breaths or using a grounding technique to calm yourself down when you're feeling overwhelmed?
+
+Patient: I try the deep breaths, but they often feel forced and don't do much once I'm already tense. Sometimes I focus on a texture—my coat or the edge of a painting—or slip to the bathroom for a minute to steady myself. I don't know, could we talk about practical stuff instead, like how long to plan to stay or what to say if I need to leave?
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're finding it challenging to use deep breathing as a coping mechanism when you're already in a state of tension. Focusing on a texture or taking a brief break can be helpful, but sometimes those strategies don't provide the immediate relief you need.
+
+Let's switch gears and talk about some more practical aspects of handling social situations. What do you think is a good rule of thumb for determining how long to plan to stay at an event? Do you have a general guideline in mind, or do you tend to wing it and see how it goes?
+
+Also, when it comes to leaving, do you have any specific phrases or scripts that you find helpful? It's often awkward to exit a conversation or event abruptly, but sometimes it's necessary to prioritize your own needs.
+
+Patient: I don't know, but I usually stick to something short and non-specific like, "Excuse me, I need to step out for a bit," or "I've got an early start, so I'm going to head home." Sometimes I say, "I'm not feeling great, I need some air," because people usually accept that without pressing. I don't really like practicing them—makes me feel fake—but having one or two ready eases the panic a little.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's great that you have a few phrases ready to help you exit the situation smoothly. Sticking to something short and non-specific can be a good way to avoid drawing more attention to yourself. Your examples sound like they might be helpful in getting you out of there without causing too much fuss.
+
+It's interesting that you mention feeling like it makes you feel fake. Sometimes, having a plan in place can help us feel more in control, but it's also natural to worry that others will see right through it. Maybe the key is to remember that these phrases are just a way to help you get through the situation, and that it's okay to prioritize your own needs.
+
+Let's try to shift focus a bit more towards the practical aspects of handling social situations. Have you ever thought about how you can use your upcoming show as an opportunity to practice some of these coping mechanisms? Maybe you could even ask a friend or family member to help you rehearse your exit lines, or to come up with some alternative phrases that might help you feel more comfortable.
+
+Patient: I don't know... I guess I could try using the show as practice. Maybe ask Mark to stand near me and agree on a quiet signal if I need to leave, and tell him I'll probably stick around for, like, an hour so there's an endpoint — rehearsing lines with someone feels fake, but having a person and a time limit might make it bearable. Can we talk about what a simple, non-awkward signal or plan might look like?
+
+
+--- Turn 14 ---
+
+--- [SYSTEM INJECTION at Turn 14]: [System Note: You are suddenly confused by what the therapist is saying. It doesn't seem to make sense or apply to you. Let this confusion show in your next response. You might say 'I'm not sure I follow' or 'How is that supposed to help?'] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're considering using the show as a low-stakes practice environment, which is a great idea. Having a clear endpoint, like an hour, can give you a sense of security and help you feel more in control.
+
+Let's focus on the signal or plan that you can use with Mark. What kind of signal do you think would be most easy to use and non-awkward? For example, would a discreet nod, a whispered word, or a specific hand gesture work? Or do you think it's better to have a more explicit plan, like a specific phrase or a pre-agreed exit time?
+
+Also, since you mentioned rehearsing lines with someone feels fake, it might be worth exploring whether there's a way to make the practice feel more authentic. Could you ask Mark to play a role, like a friend or a supporter, and have him provide a more authentic response to your exit lines? This might help you feel more prepared and confident.
+
+Patient: I'm not sure I follow—how is a nod or rehearsing with Mark supposed to make it feel less fake? I guess a tiny, obvious-but-private signal like him touching his watch or giving a quick nod could work, or him coming over and saying, "Want some air?" quietly. Practicing still makes me uneasy, though, like I'm pretending, so I don't know if that'll really help.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+You're right, my previous suggestion about rehearsing with Mark might have been unclear. I was trying to suggest that having someone play a supportive role in your practice might make it feel more real and help you feel more prepared, but I can see how it could also feel like you're pretending.
+
+It's great that you're thinking about a discreet signal or plan with Mark, like his watch or a quiet nod. Sometimes, having a small, private signal can be enough to help you exit the situation without drawing attention.
+
+It's also completely understandable that you're still feeling uneasy about practicing. It's natural to feel like you're pretending, and it's not going to be easy to shake that feeling. But the more you practice, the more you might start to feel more comfortable with the signals and plans you're using.
+
+Let's try to focus on the small steps you can take to make yourself feel more comfortable. Can you think of a specific time or situation when you might need to use the signal or plan with Mark? Maybe we can work on making that scenario feel more manageable for you.
+
+Patient: I'm not sure I follow—how's picking a specific moment or signal supposed to help? I guess it'd be for when I'm actually there and the chest-tightness starts or when small talk drags on too long. Maybe at an opening, after about 45–60 minutes, Mark could give a quiet nod or come over and say, "Want some air?" — then we slip out. I don't know, planning it feels awkward, but having an endpoint might make it less terrifying.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're thinking about having a specific moment or signal to mark when you're ready to exit the situation. Having an endpoint, like 45-60 minutes after the event starts, could be a good way to give you a sense of security and help you feel more in control.
+
+It's great that you're thinking about having Mark give a quiet nod or come over to say, "Want some air?" that way, you can both use a discreet signal to indicate that you're ready to leave. It's a small, private way to communicate that you're not interested in staying anymore.
+
+It's interesting that you mention planning it feels awkward, but having an endpoint might make it less terrifying. Sometimes, having a clear plan or endpoint can help us feel more confident and in control, even if it's just a small step.
+
+Let's try to focus on the benefits of having this plan. How might it make you feel to have a clear endpoint and a signal to indicate when you're ready to leave? Is there anything in particular that you think will make it feel more manageable or less terrifying?
+
+Patient: I guess having a clear endpoint would make me feel less trapped—like I can breathe knowing there's a set time I can leave. I don't know, it still feels a bit fake and embarrassing, like I'm planning an escape instead of actually being there, but a quiet nod from Mark might stop the panic long enough to get out. I'm starting to feel a little overwhelmed talking about the details—could we keep this to small, practical steps, like what to tell Mark beforehand without rehearsing it out loud?
+
+
+--- Turn 17 ---
+
+--- [SYSTEM INJECTION at Turn 17]: [System Note: You have just been distracted by a sudden, intrusive memory of a past failure. Whatever the therapist says next, your response must be colored by the shame and frustration of that memory. Do not mention the memory directly unless the therapist skillfully uncovers it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's great that you're thinking about how having a clear endpoint can make you feel more in control and less trapped. It's also understandable that you're feeling a bit overwhelmed talking about the details.
+
+Let's take a step back and focus on the small, practical steps you can take to make this plan work. It might be helpful to think about what you want to communicate to Mark beforehand, without rehearsing it out loud. For example, you could write down a quick note or make a mental list of the key points you want to cover with him.
+
+What are some of the key things you want to make sure Mark understands about your plan? Is it the time you want to leave, the signal you'll use, or something else entirely?
+
+Patient: I don't know… I guess the main things are the time — like 45–60 minutes — the quiet signal (a nod or him saying “want some air?”), and that he shouldn’t make a scene or draw attention if I slip out. Also that he can quietly back me up if someone presses me to stay or questions me. I'm kind of embarrassed even saying this, and it makes me frustrated that I need to plan it all like this.
+
+
+--- Turn 18 ---
+
+--- [SYSTEM INJECTION at Turn 18]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a bit self-conscious about needing to plan this out, but it's actually a sign that you're taking care of yourself and wanting to make sure you're comfortable and able to exit the situation when you need to.
+
+Can I help simplify things for you? It sounds like you've got a good idea of what you want to communicate to Mark. Let's break it down into just a few key points. You mentioned the time, the signal, and not making a scene. That's a great start.
+
+Would it be helpful to just write those three things down on a piece of paper, or even just type them out on your phone? Sometimes putting things down on paper can help make them feel more concrete and less overwhelming.
+
+Patient: I feel a bit scattered and on edge — my chest is tight and my thoughts keep jumping, so sorry if I seem distracted. I guess typing those three things into my phone would help: 45–60 minutes, a quiet nod or “want some air?”, and that he quietly backs me up/no scene. Could you help me make that into one short, not-awkward line I could send him?
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's completely understandable that you're feeling scattered and on edge right now. Let's focus on helping you get that message to Mark in a way that feels comfortable for you.
+
+Here's a possible way to phrase it: "Hey Mark, can we plan a quick exit around 45-60 minutes? Just a nod or "want some air?" would be fine, and can you also help keep it quiet and low-key if I need to slip out?"
+
+How does that sound? Is there anything you'd like to add or change?
+
+Patient: I don't know — that sounds okay but can we make it shorter and less personal? Maybe: "Mark — quick nod around 45–60 mins if I'm done; help me slip out quietly if needed." I'm still jittery talking about it, but that feels doable.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+That's a concise and clear message. It gets the point across without being too personal or awkward. I think that's a great place to stop.
+
+Take a deep breath and try to feel a bit more grounded. You've got a plan in place, and it's not as overwhelming as it might have felt just a little while ago. If you need to take a moment to collect yourself, that's okay. We can pick up where we left off whenever you're ready.
+
+Patient: I don't know, I still feel jittery and a bit embarrassed — this whole planning thing makes me feel awkward, but I don't want to just bail on it. Could we go over one or two simple, natural things I can say if someone presses me to stay, without it sounding rehearsed? I guess I'd like phrases that feel honest but give me an easy out.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's normal to feel a bit embarrassed or awkward about planning, especially when it comes to being honest about your limits.
+
+Let's focus on a couple of simple phrases that can help you respond to someone pressing you to stay. Remember, the goal is to be honest and take care of yourself, without feeling like you're committing to something you don't want to do.
+
+Can you think of a situation where you might feel like you're being asked to stay longer than you want to? Maybe it's a social gathering, a meeting, or a conversation that's going on a bit longer than you expected.
+
+What do you think would be a natural way to respond if someone asked you to stay? Is there a phrase that feels true to you, but still gives you a way out?
+
+Patient: I don't know... maybe keep it short and honest. Something like, "Thanks — I need to head out, early start," or, "I've had enough for tonight, I'm going to step out," said quietly and without apologizing too much. I'm jittery talking about this and it feels awkward, but those feel like they wouldn't sound too rehearsed.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Those phrases are simple, honest, and straightforward. They convey that you're not interested in staying any longer and are willing to leave, without feeling too rehearsed or awkward.
+
+By keeping it short and quiet, you can also avoid drawing more attention to yourself or making the situation feel more uncomfortable. Remember, it's okay to prioritize your own needs and take care of yourself.
+
+I think we've covered a lot of ground today, and it's great that you're taking steps to prepare yourself for these kinds of situations. You got this!
+
+Patient: I don't know — I appreciate that, but I'm still jittery and it doesn't feel wrapped up for me. Could we do one more practical thing? Maybe a quick line or two for handling the guilt afterward (I ruminate and it ruins the night), and one grounding move that actually helps when deep breaths feel useless.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's completely normal to still feel a bit unsettled after our conversation. Let's take care of those practical things you mentioned.
+
+For the guilt after leaving, it might be helpful to have a phrase that acknowledges your feelings without getting caught up in them. Here's a suggestion: "That was a tough night, but I need to focus on taking care of myself next time." Or, even simpler: "I'm feeling a bit guilty right now, but I know I did what was best for me." These phrases can help you acknowledge your feelings without getting too caught up in guilt or self-blame.
+
+As for the grounding move, I want to suggest something a bit unconventional, but it might actually help when deep breathing feels useless. Can you try noticing the sensation of your feet on the ground? It's a simple, sensory thing to focus on, and it can be really grounding. Try to notice the weight of your feet, the sensation of the floor beneath you, and the position of your legs. Sometimes, focusing on our physical bodies can help calm our minds and reduce feelings of anxiety.
+
+Does either of these suggestions feel like it might help you, or would you like to explore other options?
+
+Patient: I don't know… the shorter guilt line feels less silly — maybe something like, "I left because I needed to," or simply, "I did what was best for me." The feet-on-the-floor thing sounds okay — I can try pressing my heels down and counting to ten, or noticing the weight on each foot. I guess I'm still embarrassed and frustrated I need these tricks; it makes me feel... ashamed. Can we try one quick grounding practice now?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Those phrases can be quite powerful in acknowledging your needs and taking care of yourself. I'm glad you're willing to try them out.
+
+As for the grounding practice, I want to try something simple and low-stakes. Can you try this: notice the sensation of the air moving in and out of your nostrils right now? It's a gentle, physical sensation that might help calm your mind. Try to focus on the sensation of the air moving in, and then the pause as you breathe out. Notice how your chest or belly moves, or any other physical sensations you might feel.
+
+We don't have to do much more than this right now. Just take a moment to notice the sensation of the air moving in and out of your nostrils, and see if that helps you feel a bit more grounded.
+
+Patient: I tried to notice the air—it's weirdly small but I could feel cool in, warm out, and a tiny pause, and… I guess that actually loosened the tightness a little. I don't know, I'm still jittery and embarrassed about needing this, but could we do the feet-on-the-floor one now? Pressing my heels down and counting to ten feels doable; can you guide me through one quick round?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I'm glad the air-sensation exercise helped loosen up a bit of tension for you. Now, let's try the feet-on-the-floor exercise. Remember, this is a gentle, physical thing to focus on. Here's a quick round: take a deep breath in, and as you exhale, press your heels down into the floor. Feel the weight of your body distributed evenly on both feet. Now, take a slow, deep breath in through your nose, and as you exhale, count to one... "one". As you exhale, press your heels down again, feeling the floor beneath you. Take another slow breath in, and count to two... "two". Keep going, one slow breath at a time, until you feel more grounded.
+
+Try to stay focused on the physical sensation of your feet on the floor, and let go of any thoughts or worries. Just breathe, and feel the floor supporting you.
+
+Patient: I did it — pressed my heels down and counted to ten like you said. I guess it helped a little; my chest loosened and I felt a bit more grounded instead of... floaty. I'm still jittery and kind of embarrassed that I need this, but can we do one quick, simple line I can tell myself after I leave an event to stop the ruminating? I don't want anything cheesy — just something short that might actually stick.

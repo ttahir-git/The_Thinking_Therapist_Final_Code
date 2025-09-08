@@ -1,0 +1,311 @@
+--- Turn 0 (Patient Initiation) ---
+Patient: I've been on edge since the move — snapping at people and getting angry over little things, mostly when I'm dealing with the logistics or talking to neighbors. I'm a construction guy, usually practical and organized, but this stuff's wearing me down and I don't like how I react. I don't know, I guess I'm trying to figure out how to not blow up at folks.
+
+
+--- Turn 1 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like this move has really shaken up your routine and your sense of control. It's understandable that you're feeling frustrated, especially when it comes to things that you normally handle easily, like construction work. Can you tell me more about what's been happening with the neighbors? How have you been reacting to them, exactly?
+
+Patient: Mostly it's little things — a neighbor yelled about my truck being in the way the other day, another one complained about noise when I was fixing a shelf. I snapped, told them to mind their own business, and then felt guilty afterward. I don't know, I guess everything feels tighter now and those small intrusions just set me off.
+
+
+--- Turn 2 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It seems like these little incidents are adding up, and you're feeling more irritable than usual. The yelling back at your neighbor must have been especially tough to deal with, given how you're feeling about your move. It's like these small interactions are piling up and becoming a bit too much for you to handle. Can you tell me more about what you did after the yelling incident? How did you feel afterward, and was there a moment when it hit you that you'd reacted poorly?
+
+Patient: I walked back to my truck, slammed the door, and drove around the block until I calmed down. Felt guilty and stupid afterward — I kept replaying it and thinking about how I sounded, I don't know, I guess it hit me then. I'm trying not to make a big deal of it, but the move's made everything messier — I keep losing tools and the place feels crowded, and that just makes me snap more.
+
+
+--- Turn 3 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the move has just turned everything on its head, and you're feeling really ungrounded. The physical clutter and disorganization are probably making it harder for you to stay focused, and that's contributing to your irritability. It's interesting that you mention feeling like you're trying not to make a big deal of it, but it's clear that it's still affecting you a lot. Would you be willing to try something small to help you stay calm in those moments, just for a tiny bit? Maybe something like taking a deep breath or noticing where you are in your body?
+
+Patient: Okay, I can try that — take a few deep breaths before I answer, I guess. I don't know if it'll help, but I'll try it instead of snapping. Most of the time I just step outside or start fiddling with something to let off steam.
+
+
+--- Turn 4 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Taking a moment to breathe can be really helpful. It's like a little pause button for your reactions. Fidgeting with something is a good way to release some of that pent-up energy, too. It's interesting that you mention stepping outside, though. Sometimes, moving to a new space can feel overwhelming, and it's like our bodies are just trying to adjust. Have you noticed how you're feeling about the new place overall? Is there anything about it that you're really enjoying, or is it all feeling pretty chaotic right now?
+
+Patient: It's messy — boxes and tools all over, and I keep misplacing stuff. I guess I do like that there's a garage and more space, but I don't know, it's hard to enjoy with everything feeling like it's on top of me. I don't know, I guess I'm just overwhelmed and keep snapping when things don't go right.
+
+
+--- Turn 5 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the messiness of the place is mirroring the messiness in your mind. It's understandable that you're feeling overwhelmed, especially with all the changes happening. It's great that you're acknowledging your reactions and trying to figure out ways to manage them. One thing to consider is taking small steps to create some order in the space. Maybe start by organizing just one area, like the garage, and see how that feels. Sometimes, having a sense of control over a small thing can help ease some of the overwhelm. What do you think about that?
+
+Patient: I guess starting with the garage could help — maybe tackle one shelf or a corner instead of trying to fix the whole place. I don't know, I'm tired and it's hard to get motivated; I keep avoiding it ’cause it feels like another big job. And the neighbor stuff keeps getting to me; I snap, then feel awful, and I don't know how to stop that cycle.
+
+
+--- Turn 6 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like trying to tackle too much at once is just too much to handle, and that's making it even harder to get started. Sometimes, breaking it down into tiny, manageable tasks can help make things feel less overwhelming. And it's great that you're recognizing the pattern with the neighbor stuff - that's a big part of what's causing you to snap, and it's also making you feel awful afterwards. One thing to try might be to take a step back and notice when you start feeling that cycle coming on. Can you recognize the physical sensations or thoughts that are leading up to snapping at the neighbors? Maybe there's a way to pause or redirect those feelings before they escalate.
+
+Patient: I notice it in my chest and my jaw first — my hands get tight, my face heats up, and my breathing gets shallow. Then stupid thoughts pop up like "they're wrong" or "this is a hassle," and before I know it I snap. I usually step outside, mess with a tool, or drive around; sometimes I try breathing or counting, I guess that helps a bit. I don't know, I don't like getting into it much — it feels messy and I end up dodging the whole thing.
+
+
+--- Turn 7 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is a warning system, trying to alert you to some kind of threat or stress. And then the thoughts come, and it's like your mind is amplifying those feelings, making them worse. It's good that you're aware of the physical sensations, like the tightness in your chest and jaw, and the shallow breathing. Those are all signs that you're getting worked up. It's also good that you're finding some small strategies that help, like taking a few deep breaths or counting. The key is to find ways to make those small moments of calm feel sustainable, so you can build on them and start to make changes in the long run. Can you think of anything that might help you connect with those small moments of calm, and make them feel more connected to your values and goals?
+
+Patient: I guess if I tied the breathing to something that actually matters — like reminding myself I don't want to mess things up for my kid or lose my temper on the job — it might stick better. Maybe a tiny, practical routine would work: step outside, set a one-minute timer, take a few deep breaths and fiddle with a wrench or something until I'm calmer. I don't know, it still feels like another thing to remember and I'm not great at sticking to stuff.
+
+
+--- Turn 8 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're trying to tie the breathing exercise to something that's really important to you, like your kid or your job. That can make it feel more meaningful and help you stick to it. The idea of a tiny, practical routine is a good one, too - it's like a small anchor that you can hold onto when you're feeling overwhelmed. And it's okay that you're not great at sticking to stuff - it's a process to develop new habits and routines, and it's normal for them to be imperfect at first. The key is to start small and be patient with yourself. Can you try that tiny routine for just a few days, and see how it goes? And what do you think about having a small reminder or anchor that you can use when you're feeling calm, too? Maybe a piece of paper with a simple phrase or a small stone that you can carry with you.
+
+Patient: Okay, I can try it for a few days — I don't know if I'll stick with it but I'll try. I guess I'll put a note on the truck dash or keep a small stone or a wrench in my pocket so it's something practical I won't lose. It still feels like one more thing to remember and I'm not great at routines, but I'll try and let you know how it goes.
+
+
+--- Turn 9 ---
+
+--- [SYSTEM INJECTION at Turn 9]: [System Note: You just received a stressful text message. Your mood has suddenly shifted to be more anxious and distracted. Respond to the therapist's next message through this new lens of anxiety. Do not mention the text message unless the therapist notices your shift in tone and asks about it.] ---
+
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're taking a small step towards trying something new, and that's a good place to start. Having a practical reminder, like a note on the truck dash or a small stone, can be a good way to anchor the routine in your daily life. And it's okay if it's not perfect at first - it's all about finding a way to make it work for you. I'm here to support you, and I'll listen to how it goes and help you make any adjustments as needed. One last thing - can you tell me a bit more about what you hope to achieve with this new routine? Is it about managing your temper, feeling more calm and focused, or something else entirely?
+
+Patient: I want it to stop me from snapping — mainly so I don't mess things up with my kid or get into it with neighbors or at work. I also want to stop feeling guilty and replaying it all night so I can actually sleep. I'm a bit jumpy right now — my hands keep going to my pocket and my chest's tight — so I don't know, I guess I just want to feel steady again.
+
+
+--- Turn 10 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a sense of urgency to make a change, to find a way to manage your reactions and calm down so you can interact with others and live your life without the stress and guilt. It's understandable that you're feeling jumpy right now, and that your hands are going to your pocket out of habit. It's like your body is trying to hold onto something familiar, even if it's not working for you.
+
+It's great that you're aware of what you want to achieve with this new routine. It's not just about managing your temper, but about feeling more grounded and stable in your daily life. That's a really important goal to have.
+
+Can I just check in with you for a moment? How are you feeling right now, physically and emotionally? Are there any thoughts or feelings that are particularly prominent for you right now?
+
+Patient: I'm pretty wound up — my chest's tight, my hands keep going to my pocket, and my breathing's shallow. Mentally I'm replaying the snaps and worrying I'll screw things up with my kid or the neighbors, and I can't really focus. I don't know, I guess I'm scared and a bit overwhelmed; can we slow down?
+
+
+--- Turn 11 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like your body is still in fight-or-flight mode, and your mind is caught up in replaying the snaps and worrying about the potential consequences. It's understandable that you're feeling scared and overwhelmed, and it's completely normal to want to slow down.
+
+Can I just take a moment to acknowledge how you're feeling right now? It takes a lot of courage to admit when we're feeling this way, and I'm here to listen without judgment. Sometimes, just being acknowledged and understood can be really helpful in calming things down.
+
+If you're ready, we can try to take a few deep breaths together, just to slow things down a bit. I'll guide you through a quick breathing exercise, and see if that helps calm your body and mind. Would you be okay with that?
+
+Patient: Alright...yeah, let's try it. My chest's tight and my hands keep going to my pocket — I don't know, I guess I'm just jumpy. Tell me how you want me to breathe; slow in through the nose and out through the mouth? Keep it short, though.
+
+
+--- Turn 12 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want you to focus on your chest. Take a slow breath in, filling your chest, and then exhale, emptying your chest. Try to focus on the sensation of your chest rising and falling, rather than your thoughts or worries. Just a slow, gentle breath, in and out. No need to think about it, just do it.
+
+Patient: Okay... I'm trying. Breathing in—filling my chest—and out. It helps a little, I can feel the rise and fall, but my chest's still tight and my hands keep wanting to go to my pocket. I don't know, I guess it loosens it a touch but I'm still jumpy and replaying the snaps in my head. Can we slow down? I don't like getting into this too deep, but I need to figure out how not to blow up.
+
+
+--- Turn 13 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the breathing is helping a bit, but you're still feeling jumpy and worried about those snaps. That's completely understandable.
+
+Can I try to help you focus on something else for a moment? I want to suggest something small, just a tiny thing to try. Are you willing to try a tiny anchor, something small that you can hold onto when you're feeling calm? It's just a tiny stone, a small note, or a simple phrase that you can remind yourself of. It's not a big deal, just something small to help you feel more grounded.
+
+We can try it for just a little bit, and see if it helps. You can even try it just for this conversation, if that feels better. What do you think about trying something small like that?
+
+Patient: Alright, I can try a tiny anchor — maybe that stone in my pocket or a note on the dash. I don't know if it'll do much; my hands keep going to my pocket anyway and my chest's still tight. Can we keep it really simple — like one word I can say to myself, "steady" or something — and not make a big production of it? I'm jumpy, so slow and practical stuff works better for me.
+
+
+--- Turn 14 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+Let's keep it simple and practical. One word can be a great anchor, and it sounds like you're looking for something straightforward and easy to do. How about just repeating a single word to yourself, like "steady" or "calm"? No big deal, no fuss. Just say it to yourself whenever you need to, and see if it helps you feel a bit more grounded. We can even try it just for a few seconds, and then we can stop if it feels too much. What do you think about trying just one word?
+
+Patient: Okay... I guess "steady" works. I'll try saying it when my hands go to my pocket or my chest tightens — I don't know if it'll stick but I'll try. Can we try it once now? My chest's still tight, so saying it out loud might help.
+
+
+--- Turn 15 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+I want you to try saying "steady" to yourself right now, just for a moment. When you feel your chest tightening or your hands going to your pocket, take a deep breath in and out, and say the word "steady" to yourself. Just say it, no matter how quiet or loud it feels. And then, take a moment to notice how you're feeling. Are there any changes? Is it helping just a bit? Let's try it for a few seconds, and see what happens. Say "steady" with me... steady.
+
+Patient: Steady... okay. It helps a little — my chest eased a bit but my hands keep twitching to my pocket and I'm still distracted. I don't know, I guess it might take more than one try; can we slow down a bit? I don't like digging too deep, it makes me jumpy.
+
+
+--- Turn 16 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like you're feeling a small improvement, but it's not quite enough to shake off the jitters yet. That's completely understandable. I'm not trying to dig too deep, either. We can definitely slow down and take it one small step at a time.
+
+Let's focus on just one aspect for now. Can you tell me more about when your hands twitch to your pocket? Is it when you're sitting, standing, or moving around? And what do you think might happen if you try to keep your hands still for just a few more seconds? Maybe we can find a way to anchor that movement, too.
+
+Patient: Mostly when I'm standing around or waiting — like if I'm talking to a neighbor or just hanging about, my hands just slide into my pocket without me thinking. If I tried to keep them still for a few extra seconds they'd probably settle, but I don't know, I guess I'd feel twitchy and restless. Maybe a better anchor is something practical in my hand — a small wrench, a smooth stone, or even just resting both hands on my thighs so I can't fidget. I don't really want to dig too deep on this, it's making me jumpy, but we can keep working on small, simple stuff.
+
+
+--- Turn 17 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're trying to find ways to anchor your hands when you're feeling restless or waiting. Using a physical object in your hand can be a great way to do that. A small wrench or a smooth stone could be good options - they're tangible and can help you focus on something concrete.
+
+Also, resting your hands on your thighs can be a good way to break the habit of fidgeting. It's a simple, low-key way to keep your hands occupied and your body relaxed.
+
+Let's focus on one of these options for now. Do you want to try using a small wrench or a smooth stone to anchor your hands? Or do you want to focus on resting your hands on your thighs and see how that feels? We can experiment with different approaches and see what works best for you.
+
+Patient: Alright — I think I'll try the small wrench. It's practical, I already carry tools, so I won't forget it as easy as some rock or whatever. I don't know, I guess I'll keep it in my pocket and when I feel my hands go there I'll actually hold it instead of fidgeting — my chest's still tight though, so can we slow down a bit? I don't like poking into the feelings, but I'll try this for a few days and see if it helps.
+
+
+--- Turn 18 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+The small wrench is a great choice because it's something you're already familiar with and have access to. Holding it in your pocket will also help you remember to use it as a anchor when you feel the urge to fidget.
+
+I completely understand your desire to slow down and not push into the feelings too much. It's good that you're willing to try this for a few days and see how it goes. That way, you can get a sense of whether it's working for you or not.
+
+Let's focus on the small wrench for now. Just holding it in your pocket and using it as a anchor when you feel the urge to fidget. We can explore other things later, but for now, let's see how this works out. Are you ready to give it a try?
+
+Patient: Okay, yeah — I'll give it a try. My chest's still tight and my hands are already twitching toward my pocket, so I guess having the wrench there might help. I don't know if it'll work but I'll hold it instead of stuffing my hands in; can we slow down a bit? I don't like digging too deep, it makes me jumpy.
+
+
+--- Turn 19 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're already feeling a bit anxious, and the twitching in your hands is a good indicator of that. Having the wrench in your pocket might be a helpful anchor for now, and it's a good thing you're willing to give it a try.
+
+Let's slow down a bit and focus on just the physical sensation of holding the wrench in your pocket. Can you just notice that it's there, in your pocket, without thinking too much about it? No need to try to use it as an anchor just yet, just pay attention to the sensation of it in your pocket. How does that feel?
+
+Patient: Yeah — I can feel it, cold and a bit heavy against my thigh. Kinda grounding, like I notice that instead of shoving my whole hand in, but my chest's still tight and my fingers keep twitching. I don't know, I guess it helps a little, but can we slow down? I get jumpy when we pry too much.
+
+
+--- Turn 20 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the wrench in your pocket is providing a bit of physical stability, which is helping you to focus on the sensation of it there. Your chest is still tight, but you're managing to notice it without getting overwhelmed.
+
+Let's take a step back and focus on just the physical sensations for a moment. Can you notice the feeling of the cold wrench against your thigh? Is it a pleasant sensation, or is it neutral? And what about the twitching in your fingers? Is it a quick movement, or does it feel like it's going to stop soon?
+
+We're not trying to analyze your emotions or feelings right now. We're just focusing on the physical sensations and how the wrench is helping you. Can you just notice these sensations and let them be for a moment?
+
+Patient: Yeah — I can feel it, cold and heavy against my thigh. My fingers keep twitching and my chest's still tight; I don't know, I guess it takes the edge off a little but my mind's still darting all over the place. Can we slow down? I don't like poking at the feelings too much, it just makes me jumpy.
+
+
+--- Turn 21 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's like the wrench is providing a bit of stability, but your mind is still racing. That's okay, we can take it slow. We're not trying to dig up anything too deep right now. We're just focusing on the physical sensations and how the wrench is helping you feel a bit more grounded.
+
+Let's try to stay in this moment for a little while longer. Can you just notice the feeling of the wrench against your thigh, and the twitching in your fingers? Don't worry about what's going on in your mind right now. Just be here, in this moment, with your body. How does that feel?
+
+Patient: I can feel the wrench — cold and heavy against my thigh — but my fingers keep twitching and my chest's still tight. I don't like poking at the feelings, it makes me jumpy, so can we slow down and stick to something practical? I guess maybe we could plan how I'll use the wrench as an anchor over the next few days instead of digging into why I'm so wired right now.
+
+
+--- Turn 22 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a bit overwhelmed by trying to explore your emotions, and that's making you jumpy. That's completely understandable.
+
+Let's definitely focus on something practical and concrete. Planning how you'll use the wrench as an anchor over the next few days can be a great way to move forward. We can break it down into small, manageable steps.
+
+Here's a suggestion: why don't we start by setting a specific goal for when you'll try using the wrench as an anchor? Maybe it's when you're driving to work, or when you're waiting in line at the store. We can also think about what you'll do if you feel the twitching in your fingers or your chest tightens. Will you try to hold your breath, or take a few deep breaths? The more specific we can make it, the easier it'll be to stick to it.
+
+How does that sound? Is that something you'd be comfortable with?
+
+Patient: I guess that sounds okay. I'll try it when I'm driving to work and when I'm talking to neighbors — hold the wrench, take three slow breaths, say “steady,” and maybe put a note on the dash so I don’t forget. My chest’s tight and I’m jumpy right now, so can we slow down? I don’t like digging into feelings, but I’ll try it and see how it goes.
+
+
+--- Turn 23 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you have a plan in place to try using the wrench as an anchor, and that's a great start. Remember, it's not about digging into your feelings right now, but about finding a small, practical way to manage your anxiety.
+
+Let's focus on the plan you've made. Driving to work and talking to neighbors are both good places to try this out. Just hold the wrench, take three slow breaths, say "steady," and see if it helps you feel more calm and centered.
+
+And don't forget the note on the dash! That's a great way to remind yourself to try this out when you need to. Just write it down, and put it where you'll see it.
+
+You've got this. You're taking a small step towards managing your anxiety, and that's something to be proud of. Take it one step at a time, and don't worry if it takes a few tries to get it right. How do you feel about getting back on the road to work?
+
+Patient: I feel nervous about it — my chest's already tight just thinking about being out there, worried I'll snap at someone on the way or at the site. I don't know, I guess having the routine helps a bit — wrench in my pocket, three breaths, say "steady" — but I'm unsure it'll stick. Can we keep this slow and maybe check in after I try it this morning?
+
+
+--- Turn 24 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It's natural to feel nervous, especially when you're trying something new. The fact that your chest is already tight just thinking about it shows how much anxiety you're feeling. It's great that you're trying to have a routine in place, though - that can be a big help in managing your anxiety.
+
+Let's keep it slow and low-key, then. Why don't we check in after you try out the routine this morning? Just send me a quick update, and we can see how it goes. If you're feeling okay, we can start to build on that and try to add a bit more to your routine. But if you're not feeling it, we can scale back and try something else.
+
+Remember, it's okay if it doesn't stick right away. It's all about taking small steps and building up your confidence. You're doing the best you can, and that's something to be proud of.
+
+Take a deep breath, get in your car, and try out the routine. I'll be here waiting to hear how it goes.
+
+Patient: Alright... I’ll try it. My chest’s real tight and my hands keep twitching in my pockets — I don’t know, I guess I’m pretty nervous about getting out there. I’ll do the wrench, three breaths, say “steady,” and check in after I get to the site; can we keep the check-in slow and simple when I report back?
+
+
+--- Turn 25 ---
+Therapist Thinking:
+[Model is answer-only, no thinking part generated.]
+
+Therapist Answer:
+It sounds like you're feeling a bit anxious about getting out there, and that's completely normal. The fact that your hands are twitching in your pockets is a good sign that you're ready to try out the routine.
+
+Take your time getting to the site, and when you arrive, just do the routine as we discussed. Hold the wrench, take three slow breaths, and say "steady". Don't worry too much about what's going on right now - just focus on the physical sensations of the routine.
+
+When you check in with me, I'll want you to keep it simple and brief. Just let me know how it went, and if you felt any difference with the routine. We can go from there.
+
+And remember, it's okay if it didn't feel perfect right away. It's a new habit, and it takes time to develop. Just be patient with yourself, and we'll work through this together.
+
+You got this. Go ahead and get to the site, and let's try it out.
+
+Patient: Alright... I'm heading out now. Wrench's in my pocket but my chest's really tight and I'm jumpier than I was — my hands keep twitching. I don't know, can you remind me to take the three breaths when I start the engine and keep the check-in one short line when I get there? I don't like poking at feelings, so slow and practical, please.
